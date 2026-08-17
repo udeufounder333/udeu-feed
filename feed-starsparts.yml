@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-17 21:00">
+<yml_catalog date="2026-08-17 22:38">
   <shop>
     <name>Udeu.kz</name>
     <company>Udeu.kz</company>
@@ -10,6 +10,8 @@
     </currencies>
     <categories>
       <category id="9716367">1-серия F52 (2017-2024)</category>
+      <category id="9716364">1-серия E81/E82/E87/E88 (2004-2014)</category>
+      <category id="9716365">1-серия F20/F21 (2011-2017)</category>
     </categories>
     <offers>
       <offer id="starsparts-146d52104390" available="true">
@@ -281,21 +283,33 @@ X6 M F86   (10/2013 — 05/2016)]]></description>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e647b038940e-0.jpg</picture>
         <description><![CDATA[Оригинальный светодиодный карманный фонарь БМВ. Оригинальный номер 63312410071]]></description>
       </offer>
-      <offer id="starsparts-92259cc01368" available="true">
-        <name>Масляный фильтр BMW MINI для моторов серии B32 B37, B38, B42, B47, B48, оригинал</name>
-        <categoryId>9716367</categoryId>
-        <price>20790</price>
+      <offer id="starsparts-4d3d052c6d1f" available="true">
+        <name>Топливный фильтр BMW  для дизельных а/м с мотором N47, N57, оригинал</name>
+        <categoryId>9716364</categoryId>
+        <price>46970</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-92259cc01368-0.jpg</picture>
-        <description><![CDATA[Оригинальный масляный фильтр BMW/MINI для бензиновых и дизельных моторов серии B32, B37, B38, B42, B47, B48.]]></description>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4d3d052c6d1f-0.jpg</picture>
+        <description><![CDATA[Топливный фильтр BMW  для дизельных а/м с мотором N47, N57, оригинал — BMW. Фильтра автомобильные.]]></description>
       </offer>
-      <offer id="starsparts-5ee42cf62916" available="true">
-        <name>Воздушный фильтр BMW 1, 2, X1, X2 серии, MINI F54/F55/F56/F57/F60 Countryman, оригинал</name>
-        <categoryId>9716367</categoryId>
-        <price>35000</price>
+      <offer id="starsparts-00e75f307c92" available="true">
+        <name>ТСУ на BMW SERIE 1 (E87) 2004- / БМВ 1 серии</name>
+        <categoryId>9716364</categoryId>
+        <price>66619</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5ee42cf62916-0.jpg</picture>
-        <description><![CDATA[Оригинальный воздушный фильтр для BMW 1, 2, X1, X2 серии, а также MINI F54/F55/F56/F57/F60 Countryman.]]></description>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-00e75f307c92-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-00e75f307c92-1.jpg</picture>
+        <description><![CDATA[ТСУ на BMW SERIE 1 (E87) 2004- / БМВ 1 серии — Aragon. Фаркопы для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-5080699158a4" available="true">
+        <name>Универсальное заднее крыло GT (настоящий карбон) для BMW M1/M2/M3/M5/M6</name>
+        <categoryId>9716364</categoryId>
+        <price>59393</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5080699158a4-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5080699158a4-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5080699158a4-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5080699158a4-3.jpg</picture>
+        <description><![CDATA[Универсальное заднее крыло GT (настоящий карбон) для BMW M1/M2/M3/M5/M6 — GZ HighFly LTD.. Спойлеры для авто.]]></description>
       </offer>
       <offer id="starsparts-cb132eb00d77" available="true">
         <name>Вешалка BMW на спинку сиденья, оригинал</name>
@@ -390,27 +404,154 @@ X6 M F86   (10/2013 — 05/2016)]]></description>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-606daf1f8d0c-0.jpg</picture>
         <description><![CDATA[Оригинальный органайзер на спинку сидений БМВ. Фиксируется на подголовнике.]]></description>
       </offer>
-      <offer id="starsparts-809ffc29a51e" available="true">
-        <name>Задние LED-фонари динамический поворотник для BMW 1 F52 (2016-2022), комплект, комплект, FT Carlight Carlight</name>
-        <categoryId>9716367</categoryId>
-        <price>355865</price>
+      <offer id="starsparts-7f8eceb9545b" available="true">
+        <name>Задние LED-фонари динамический поворотник для BMW 1 E81/E87 (2004-2011), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9716364</categoryId>
+        <price>282864</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-809ffc29a51e-0.jpg</picture>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-809ffc29a51e-1.jpg</picture>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-809ffc29a51e-2.jpg</picture>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-809ffc29a51e-3.jpg</picture>
-        <description><![CDATA[Задние светодиодные фонари с динамическим поворотником для BMW 1 серии F52 (2016-2022). Комплект 2 шт., бренд FT Carlight.]]></description>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7f8eceb9545b-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7f8eceb9545b-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7f8eceb9545b-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7f8eceb9545b-3.jpg</picture>
+        <description><![CDATA[Задние LED-фонари динамический поворотник для BMW 1 E81/E87 (2004-2011), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
       </offer>
-      <offer id="starsparts-e2b193a2e4e3" available="true">
-        <name>Выхлопная система с электроклапаном для BMW 1 серии F20 F40 F52 (нерж.)</name>
-        <categoryId>9716367</categoryId>
-        <price>815674</price>
+      <offer id="starsparts-0cd28b71a05c" available="true">
+        <name>Фары передние LED с ходовыми огнями для BMW 1 E87 (2004-2011), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9716364</categoryId>
+        <price>557537</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e2b193a2e4e3-0.jpg</picture>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e2b193a2e4e3-1.jpg</picture>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e2b193a2e4e3-2.jpg</picture>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e2b193a2e4e3-3.jpg</picture>
-        <description><![CDATA[Выхлопная система из нержавеющей стали с электронным клапаном для BMW 1 серии F20/F40/F52. Регулировка звука выхлопа с пульта/приложения.]]></description>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0cd28b71a05c-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0cd28b71a05c-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0cd28b71a05c-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0cd28b71a05c-3.jpg</picture>
+        <description><![CDATA[Фары передние LED с ходовыми огнями для BMW 1 E87 (2004-2011), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-170837f5c98e" available="true">
+        <name>Фары Full LED проектор ДХО для BMW 1 E87 (2004-2011), комплект, FT Carlight</name>
+        <categoryId>9716364</categoryId>
+        <price>510975</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-170837f5c98e-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-170837f5c98e-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-170837f5c98e-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-170837f5c98e-3.jpg</picture>
+        <description><![CDATA[Фары Full LED проектор ДХО для BMW 1 E87 (2004-2011), комплект, FT Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-99100eb0b01f" available="true">
+        <name>Накладки на боковые зеркала заднего вида из карбона для BMW E87/E81/E82/E88/E90/E91/E92/E93 Pre-LCI (2004-2009)</name>
+        <categoryId>9716364</categoryId>
+        <price>125979</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-99100eb0b01f-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-99100eb0b01f-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-99100eb0b01f-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-99100eb0b01f-3.jpg</picture>
+        <description><![CDATA[Накладки на боковые зеркала заднего вида из карбона для BMW E87/E81/E82/E88/E90/E91/E92/E93 Pre-LCI (2004-2009) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-25ab7386fba1" available="true">
+        <name>Накладки на зеркала заднего вида из карбона OEM Style для BMW M3 E92 / 1M E87 (2004-2013)</name>
+        <categoryId>9716364</categoryId>
+        <price>167979</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-25ab7386fba1-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-25ab7386fba1-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-25ab7386fba1-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-25ab7386fba1-3.jpg</picture>
+        <description><![CDATA[Накладки на зеркала заднего вида из карбона OEM Style для BMW M3 E92 / 1M E87 (2004-2013) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-0f8a845f78c8" available="true">
+        <name>Накладки на боковые зеркала заднего вида из карбона OEM Style для BMW E87/E81/E82/E88/E90/E91/E92/E93 LCI (2007-2013)</name>
+        <categoryId>9716364</categoryId>
+        <price>155379</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0f8a845f78c8-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0f8a845f78c8-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0f8a845f78c8-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0f8a845f78c8-3.jpg</picture>
+        <description><![CDATA[Накладки на боковые зеркала заднего вида из карбона OEM Style для BMW E87/E81/E82/E88/E90/E91/E92/E93 LCI (2007-2013) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-6044dca21863" available="true">
+        <name>Коврик в багажник BMW 1-5D 2004-2011, хэтчбек (полиуретан) / БМВ 1 серии</name>
+        <categoryId>9716364</categoryId>
+        <price>16212</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6044dca21863-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6044dca21863-1.jpg</picture>
+        <description><![CDATA[Коврик в багажник BMW 1-5D 2004-2011, хэтчбек (полиуретан) / БМВ 1 серии — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-2174848060e6" available="true">
+        <name>Коврики в салон BMW 1-3D 2004-2011, 4 шт. (полиуретан) / БМВ 1 серии</name>
+        <categoryId>9716364</categoryId>
+        <price>23632</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2174848060e6-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2174848060e6-1.jpg</picture>
+        <description><![CDATA[Коврики в салон BMW 1-3D 2004-2011, 4 шт. (полиуретан) / БМВ 1 серии — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-39ee9794cbc7" available="true">
+        <name>Коврики в салон BMW 1-5D 2004-2011, 4 шт. (полиуретан) / БМВ 1 серии</name>
+        <categoryId>9716364</categoryId>
+        <price>23632</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-39ee9794cbc7-0.jpg</picture>
+        <description><![CDATA[Коврики в салон BMW 1-5D 2004-2011, 4 шт. (полиуретан) / БМВ 1 серии — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-44d1e60901b8" available="true">
+        <name>Коврики в салон BMW 1-5D 2004-2011, 4 шт. (полиуретан, бежевые) / БМВ 1 серии</name>
+        <categoryId>9716364</categoryId>
+        <price>46025</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-44d1e60901b8-0.jpg</picture>
+        <description><![CDATA[Коврики в салон BMW 1-5D 2004-2011, 4 шт. (полиуретан, бежевые) / БМВ 1 серии — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-70aded9e8b26" available="true">
+        <name>Коврики в салон Klever Standard BMW 1 5D E87 АКПП 2004-2007, 2007-2011, хэтчбек, 4 шт. (текстиль) / БМВ 1 серии</name>
+        <categoryId>9716364</categoryId>
+        <price>43708</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-70aded9e8b26-0.jpg</picture>
+        <description><![CDATA[Коврики в салон Klever Standard BMW 1 5D E87 АКПП 2004-2007, 2007-2011, хэтчбек, 4 шт. (текстиль) / БМВ 1 серии — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-9b279d24de5c" available="true">
+        <name>Коврики в салон Klever Standard BMW 1 3D E81 АКПП 2004-2007, 2007-2011, хэтчбек, 4 шт. (текстиль) / БМВ 1 серии</name>
+        <categoryId>9716364</categoryId>
+        <price>43708</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9b279d24de5c-0.jpg</picture>
+        <description><![CDATA[Коврики в салон Klever Standard BMW 1 3D E81 АКПП 2004-2007, 2007-2011, хэтчбек, 4 шт. (текстиль) / БМВ 1 серии — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-298005a8a3ef" available="true">
+        <name>Коврики в салон Klever Premium BMW 1 5D E87 АКПП 2004-2007, 2007-2011, хэтчбек, 4 шт. (текстиль) / БМВ 1 серии</name>
+        <categoryId>9716364</categoryId>
+        <price>62986</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-298005a8a3ef-0.jpg</picture>
+        <description><![CDATA[Коврики в салон Klever Premium BMW 1 5D E87 АКПП 2004-2007, 2007-2011, хэтчбек, 4 шт. (текстиль) / БМВ 1 серии — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-d4787fbe5d2d" available="true">
+        <name>Коврики в салон Klever Econom BMW 1 3D E81 АКПП 2004-2007, 2007-2011, хэтчбек, 4 шт. (текстиль) / БМВ 1 серии</name>
+        <categoryId>9716364</categoryId>
+        <price>31976</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d4787fbe5d2d-0.jpg</picture>
+        <description><![CDATA[Коврики в салон Klever Econom BMW 1 3D E81 АКПП 2004-2007, 2007-2011, хэтчбек, 4 шт. (текстиль) / БМВ 1 серии — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-333764ea7cad" available="true">
+        <name>Коврики в салон Klever Econom BMW 1 5D E87 АКПП 2004-2007, 2007-2011, хэтчбек, 4 шт. (текстиль) / БМВ 1 серии</name>
+        <categoryId>9716364</categoryId>
+        <price>31976</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-333764ea7cad-0.jpg</picture>
+        <description><![CDATA[Коврики в салон Klever Econom BMW 1 5D E87 АКПП 2004-2007, 2007-2011, хэтчбек, 4 шт. (текстиль) / БМВ 1 серии — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-cfff897d5b71" available="true">
+        <name>Дефлекторы боковых окон BMW 1, 2004-2014, хэтчбек, 5дв, 4ч., темный / БМВ 1 серии</name>
+        <categoryId>9716364</categoryId>
+        <price>28000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cfff897d5b71-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cfff897d5b71-1.jpg</picture>
+        <description><![CDATA[Дефлекторы боковых окон BMW 1, 2004-2014, хэтчбек, 5дв, 4ч., темный / БМВ 1 серии — Rein. Дефлекторы для авто.]]></description>
       </offer>
       <offer id="starsparts-176627b2bd57" available="true">
         <name>Держатель для Ipad 2,3,4 в салон BMW</name>
@@ -504,6 +645,1043 @@ X6 M F86   (10/2013 — 05/2016)]]></description>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9c0f4fa6ebd2-0.jpg</picture>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9c0f4fa6ebd2-1.jpg</picture>
         <description><![CDATA[Оригинальные чехлы для хранения комплекта колес BMW M Performance.]]></description>
+      </offer>
+      <offer id="starsparts-36c59ed97980" available="true">
+        <name>Накладки на педали АКПП BMW в стиле G-серии</name>
+        <categoryId>9716365</categoryId>
+        <price>10500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-36c59ed97980-0.webp</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-36c59ed97980-1.webp</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-36c59ed97980-2.webp</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-36c59ed97980-3.webp</picture>
+        <description><![CDATA[Комплект накладок на педали в стиле G-серии. Подходит для большинства автомобилей БМВ с АКПП. Установка без сверления.]]></description>
+      </offer>
+      <offer id="starsparts-5baed7979d3b" available="true">
+        <name>Шильдик M на крыло BMW, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>29120</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5baed7979d3b-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5baed7979d3b-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5baed7979d3b-2.jpg</picture>
+        <description><![CDATA[Оригинальный шильдик M на крыло БМВ.
+Оригинал
+Цена за шт.]]></description>
+      </offer>
+      <offer id="starsparts-db675ab2c22c" available="true">
+        <name>Плафоны подсветки дверей с проекцией на землю BMW, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>80500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-db675ab2c22c-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-db675ab2c22c-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-db675ab2c22c-2.jpg</picture>
+        <description><![CDATA[Оригинальные плафоны с проекцией логотипа для БМВ.
+Комплект 2 плафона.
+Подходит для моделей:
+
+1' E81   (02/2006 — 12/2011)
+1' E87   (02/2003 — 02/2007)
+1' E87 LCI   (01/2006 — 06/2011)
+1' E88   (11/2006 — 10/2013)
+1' E82   (11/2006 — 10/2013)
+1' F20   (07/2010 — 02/2015)
+1' F20 LCI   (05/2014 — 05/2016)
+1' F21   (07/2010 — 02/2015)
+1' F21 LCI   (05/2014 — 05/2016)
+2' F22   (10/2012 — 05/2016)
+2' F87 M2   (11/2014 — 05/2016)
+2' F23   (03/2014 — 05/2016)
+2' F45 Active Tourer   (11/2013 — 05/2016)
+2' F46 Gran Tourer   (07/2014 — 05/2016)
+3' E90   (02/2004 — 09/2008)
+3' E90 LCI   (07/2007 — 12/2011)
+3' E91   (02/2004 — 08/2008)
+3' E91 LCI   (07/2007 — 05/2012)
+3' E92   (05/2005 — 02/2010)
+3' E92 LCI   (11/2008 — 06/2013)
+3' E93   (09/2005 — 02/2010)
+3' E93 LCI   (11/2008 — 10/2013)
+3' F30   (02/2011 — 07/2015)
+3' F30 LCI   (09/2014 — 05/2016)
+3' F80 M3   (04/2012 — 06/2015)
+3' F80 M3 LCI   (01/2015 — 05/2016)
+3' F31   (07/2011 — 07/2015)
+3' F31 LCI   (09/2014 — 05/2016)
+3' F34 GT   (07/2012 — 05/2016)
+3' F34 GT LCI   (09/2015 — 04/2016)
+4' F32   (11/2012 — 05/2016)
+4' F82 M4   (02/2013 — 05/2016)
+4' F33   (03/2013 — 05/2016)
+4' F83 M4   (06/2013 — 05/2016)
+4' F36   (07/2013 — 05/2016)
+5' E60   (12/2001 — 12/2009)
+5' E60 LCI   (10/2005 — 12/2009)
+5' E61   (10/2002 — 02/2007)
+5' E61 LCI   (11/2005 — 05/2010)
+5' F07 GT   (09/2008 — 06/2013)
+5' F07 GT LCI   (08/2012 — 05/2016)
+5' F10   (01/2009 — 05/2016)
+5' F10 LCI   (08/2012 — 05/2016)
+5' F11   (01/2009 — 06/2013)
+5' F11 LCI   (08/2012 — 05/2016)
+6' E63   (05/2002 — 07/2010)
+6' E63 LCI   (04/2006 — 07/2010)
+6' E64   (09/2002 — 07/2010)
+6' E64 LCI   (04/2006 — 07/2010)
+6' F06 GC   (05/2011 — 03/2015)
+6' F06 GC LCI   (05/2014 — 05/2016)
+6' F12   (10/2009 — 02/2015)
+6' F12 LCI   (05/2014 — 05/2016)
+6' F13   (03/2010 — 02/2015)
+6' F13 LCI   (05/2014 — 05/2016)
+7' E65   (02/2000 — 07/2008)
+7' E66   (06/2000 — 07/2008)
+7' E67   (10/2002 — 06/2008)
+7' F01   (06/2007 — 06/2012)
+7' F01 LCI   (05/2011 — 05/2015)
+7' F02   (07/2007 — 06/2012)
+7' F02 LCI   (05/2011 — 05/2015)
+7' F03   (04/2008 — 05/2012)
+7' F03 LCI   (01/2012 — 03/2015)
+7' F04 Hyb   (10/2008 — 06/2012)
+X1 F48   (11/2014 — 05/2016)
+X3 E83   (01/2003 — 07/2006)
+X3 E83 LCI   (02/2006 — 08/2010)
+X3 F25   (06/2009 — 05/2016)
+X4 F26   (05/2013 — 05/2016)
+X5 E70   (02/2006 — 06/2013)
+X5 E70 LCI   (04/2009 — 06/2013)
+X5 F15   (08/2012 — 05/2016)
+X5 M F85   (04/2013 — 05/2016)
+X6 E71   (01/2007 — 06/2014)
+X6 E72 Hyb   (10/2008 — 10/2011)
+X6 F16   (09/2013 — 05/2016)
+X6 M F86   (10/2013 — 05/2016)
+Z4 E85   (01/2002 — 08/2008)
+Z4 E86   (10/2005 — 08/2008)
+Z4 E89   (01/2008 — 05/2016)]]></description>
+      </offer>
+      <offer id="starsparts-c7b7357da444" available="true">
+        <name>Блок Drive Analyser BMW, синхронизация с IOS, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>195650</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7b7357da444-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7b7357da444-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7b7357da444-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7b7357da444-3.jpg</picture>
+        <description><![CDATA[Блок синхронизируется с системами вашего БМВ и выводит на экран смартфона основные данные и показатели по автомобилю.
+Блок устанавливается в диагностический разъем OBD.
+Комплект для синхронизации с IOS. 
+Применяемость:
+
+1' E82   (09/2010 — 06/2012)
+1' E82 eDrive   (07/2010 — 06/2012)
+1' F20   (07/2010 — 02/2015)
+1' F20 LCI   (05/2014 — 01/2016)
+1' F21   (07/2010 — 02/2015)
+1' F21 LCI   (05/2014 — 01/2016)
+2' F22   (10/2012 — 01/2016)
+2' F23   (03/2014 — 01/2016)
+2' F45 Active Tourer   (11/2013 — 01/2016)
+2' F46 Gran Tourer   (07/2014 — 01/2016)
+3' E90 LCI   (05/2008 — 12/2011)
+3' E91 LCI   (10/2010 — 05/2012)
+3' E92 LCI   (10/2009 — 06/2013)
+3' F30   (02/2011 — 07/2015)
+3' F80 M3   (04/2012 — 06/2015)
+3' F30 LCI   (09/2014 — 01/2016)
+3' F80 M3 LCI   (01/2015 — 01/2016)
+3' F31   (07/2011 — 07/2015)
+3' F31 LCI   (09/2014 — 01/2016)
+3' F34 GT   (07/2012 — 12/2015)
+4' F32   (11/2012 — 01/2016)
+4' F82 M4   (02/2013 — 01/2016)
+4' F33   (03/2013 — 01/2016)
+4' F83 M4   (06/2013 — 01/2016)
+4' F36   (07/2013 — 12/2015)
+5' F07 GT   (04/2011 — 06/2013)
+5' F07 GT LCI   (08/2012 — 12/2015)
+5' F10   (06/2010 — 12/2015)
+5' F10 LCI   (08/2012 — 01/2016)
+5' F11   (06/2010 — 06/2013)
+5' F11 LCI   (08/2012 — 12/2015)
+6' F06 GC   (05/2011 — 03/2015)
+6' F06 GC LCI   (05/2014 — 01/2016)
+6' F12   (11/2009 — 02/2015)
+6' F12 LCI   (05/2014 — 01/2016)
+6' F13   (03/2010 — 02/2015)
+6' F13 LCI   (05/2014 — 01/2016)
+7' F01 LCI   (05/2011 — 05/2015)
+7' F02 LCI   (05/2011 — 05/2015)
+7' F03 LCI   (01/2012 — 03/2015)
+7' G11   (10/2014 — 01/2016)
+7' G12   (10/2014 — 01/2016)
+X1 E84   (04/2009 — 06/2015)
+X1 F48   (11/2014 — 01/2016)
+X3 F25   (07/2009 — 01/2016)
+X4 F26   (05/2013 — 01/2016)
+X5 E70 LCI   (08/2011 — 06/2013)
+X5 F15   (08/2012 — 01/2016)
+X5 M F85   (04/2013 — 01/2016)
+X6 E71   (08/2011 — 06/2014)
+X6 F16   (09/2013 — 01/2016)
+X6 M F86   (10/2013 — 01/2016)
+Z4 E89   (01/2011 — 01/2016)]]></description>
+      </offer>
+      <offer id="starsparts-d993e9b48a8d" available="true">
+        <name>Блок Drive Analyser BMW, синхронизация с Android, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>195650</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d993e9b48a8d-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d993e9b48a8d-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d993e9b48a8d-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d993e9b48a8d-3.jpg</picture>
+        <description><![CDATA[Блок синхронизируется с системами вашего БМВ и выводит на экран смартфона основные данные и показатели по автомобилю.
+Блок устанавливается в диагностический  разъем OBD.
+Комплект для синхронизации с Android. 
+Применяемость:
+
+1' E82   (09/2010 — 06/2012)
+1' E82 eDrive   (07/2010 — 06/2012)
+1' F20   (07/2010 — 02/2015)
+1' F20 LCI   (05/2014 — 01/2016)
+1' F21   (07/2010 — 02/2015)
+1' F21 LCI   (05/2014 — 01/2016)
+2' F22   (10/2012 — 01/2016)
+2' F23   (03/2014 — 01/2016)
+2' F45 Active Tourer   (11/2013 — 01/2016)
+2' F46 Gran Tourer   (07/2014 — 01/2016)
+3' E90 LCI   (05/2008 — 12/2011)
+3' E91 LCI   (10/2010 — 05/2012)
+3' E92 LCI   (10/2009 — 06/2013)
+3' F30   (02/2011 — 07/2015)
+3' F80 M3   (04/2012 — 06/2015)
+3' F30 LCI   (09/2014 — 01/2016)
+3' F80 M3 LCI   (01/2015 — 01/2016)
+3' F31   (07/2011 — 07/2015)
+3' F31 LCI   (09/2014 — 01/2016)
+3' F34 GT   (07/2012 — 12/2015)
+4' F32   (11/2012 — 01/2016)
+4' F82 M4   (02/2013 — 01/2016)
+4' F33   (03/2013 — 01/2016)
+4' F83 M4   (06/2013 — 01/2016)
+4' F36   (07/2013 — 12/2015)
+5' F07 GT   (04/2011 — 06/2013)
+5' F07 GT LCI   (08/2012 — 12/2015)
+5' F10   (06/2010 — 12/2015)
+5' F10 LCI   (08/2012 — 01/2016)
+5' F11   (06/2010 — 06/2013)
+5' F11 LCI   (08/2012 — 12/2015)
+6' F06 GC   (05/2011 — 03/2015)
+6' F06 GC LCI   (05/2014 — 01/2016)
+6' F12   (11/2009 — 02/2015)
+6' F12 LCI   (05/2014 — 01/2016)
+6' F13   (03/2010 — 02/2015)
+6' F13 LCI   (05/2014 — 01/2016)
+7' F01 LCI   (05/2011 — 05/2015)
+7' F02 LCI   (05/2011 — 05/2015)
+7' F03 LCI   (01/2012 — 03/2015)
+7' G11   (10/2014 — 01/2016)
+7' G12   (10/2014 — 01/2016)
+X1 E84   (04/2009 — 06/2015)
+X1 F48   (11/2014 — 01/2016)
+X3 F25   (07/2009 — 01/2016)
+X4 F26   (05/2013 — 01/2016)
+X5 E70 LCI   (08/2011 — 06/2013)
+X5 F15   (08/2012 — 01/2016)
+X5 M F85   (04/2013 — 01/2016)
+X6 E71   (08/2011 — 06/2014)
+X6 F16   (09/2013 — 01/2016)
+X6 M F86   (10/2013 — 01/2016)
+Z4 E89   (01/2011 — 01/2016)]]></description>
+      </offer>
+      <offer id="starsparts-2309b6d2e935" available="true">
+        <name>Щетки стеклоочистителя передние BMW 1-series F20 F21 / 2-series F22 F23 F87, комплект, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>36628</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2309b6d2e935-0.jpg</picture>
+        <description><![CDATA[Щетки стеклоочистителя передние BMW 1-series F20 F21 / 2-series F22 F23 F87, комплект, оригинал — BMW. Щетки "дворники" автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-bcf1903783ea" available="true">
+        <name>Масляный фильтр BMW с двигателем серии B57, B58, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>20230</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-bcf1903783ea-0.jpg</picture>
+        <description><![CDATA[Масляный фильтр BMW с двигателем серии B57, B58, оригинал — BMW. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-e438ea081a57" available="true">
+        <name>Масляный фильтр BMW для бензиновых двигателей серии N20, N26, N55, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>14210</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e438ea081a57-0.jpg</picture>
+        <description><![CDATA[Масляный фильтр BMW для бензиновых двигателей серии N20, N26, N55, оригинал — BMW. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-f2d20e7c6823" available="true">
+        <name>Масляный фильтр BMW для дизельный двигателей N47, N57, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>28070</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f2d20e7c6823-0.jpg</picture>
+        <description><![CDATA[Масляный фильтр BMW для дизельный двигателей N47, N57, оригинал — BMW. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-2347cbf40eb6" available="true">
+        <name>Масляный фильтр BMW для моторов серии B37, B38, B46, B47, B48, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>18060</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2347cbf40eb6-0.jpg</picture>
+        <description><![CDATA[Масляный фильтр BMW для моторов серии B37, B38, B46, B47, B48, оригинал — BMW. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-6ad9671661ad" available="true">
+        <name>Топливный фильтр BMW 1. 2, 3, 4 серии Mini Countryman R60 / Paceman R61, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>48090</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6ad9671661ad-0.jpg</picture>
+        <description><![CDATA[Топливный фильтр BMW 1. 2, 3, 4 серии Mini Countryman R60 / Paceman R61, оригинал — BMW. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-5908c5469e97" available="true">
+        <name>Воздушный фильтр BMW F20, F21, F22, F23, F30, F31, F32, F33, F34, F35, F36, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>22960</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5908c5469e97-0.jpg</picture>
+        <description><![CDATA[Воздушный фильтр BMW F20, F21, F22, F23, F30, F31, F32, F33, F34, F35, F36, оригинал — BMW. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-2c802819d631" available="true">
+        <name>Воздушный фильтр BMW  1, 2, 3, 4 -серия, дизель, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>32760</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2c802819d631-0.jpg</picture>
+        <description><![CDATA[Воздушный фильтр BMW  1, 2, 3, 4 -серия, дизель, оригинал — BMW. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-8733729eee3a" available="true">
+        <name>Воздушный фильтр BMW 1, 2, 3, 4 -серия, бензин, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>39340</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8733729eee3a-0.jpg</picture>
+        <description><![CDATA[Воздушный фильтр BMW 1, 2, 3, 4 -серия, бензин, оригинал — BMW. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-3c87e523eaab" available="true">
+        <name>Салонный фильтр BMW 1, 2, 3, 4 - серии, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>30590</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3c87e523eaab-0.jpg</picture>
+        <description><![CDATA[Салонный фильтр BMW 1, 2, 3, 4 - серии, оригинал — BMW. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-80388799b2cc" available="true">
+        <name>Решетки радиатора Performance БМВ F20/F21 1-серия 2011-2015, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>86450</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-80388799b2cc-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-80388799b2cc-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-80388799b2cc-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-80388799b2cc-3.jpg</picture>
+        <description><![CDATA[Комплект оригинальных дорестайлинговых черных решеток радиатора M-performance для BMW F20 2011-2015.
+В комплекте 2 решетки.]]></description>
+      </offer>
+      <offer id="starsparts-58007df62925" available="true">
+        <name>Нижняя центральная решетка переднего бампера (гоночные грили) + рамки ПТФ для BMW 1 серии (F20/F21) 2015-2017</name>
+        <categoryId>9716365</categoryId>
+        <price>100400</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-58007df62925-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-58007df62925-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-58007df62925-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-58007df62925-3.jpg</picture>
+        <description><![CDATA[Нижняя центральная решетка переднего бампера (гоночные грили) + рамки ПТФ для BMW 1 серии (F20/F21) 2015-2017 — GZ HighFly LTD.. Тюнинг решетки радиатора авто.]]></description>
+      </offer>
+      <offer id="starsparts-5d5d57086afd" available="true">
+        <name>Решетка радиатора из карбона (глянцевый черный) для BMW 1 серии F20 LCI (2015-2020)</name>
+        <categoryId>9716365</categoryId>
+        <price>167979</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5d5d57086afd-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5d5d57086afd-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5d5d57086afd-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5d5d57086afd-3.jpg</picture>
+        <description><![CDATA[Решетка радиатора из карбона (глянцевый черный) для BMW 1 серии F20 LCI (2015-2020) — AX Carbon. Тюнинг решетки радиатора авто.]]></description>
+      </offer>
+      <offer id="starsparts-2bdc36b5c9a8" available="true">
+        <name>Задний спойлер на крышу для BMW 1 серии F20/F21 хэтчбек 2011-2020</name>
+        <categoryId>9716365</categoryId>
+        <price>8425</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2bdc36b5c9a8-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2bdc36b5c9a8-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2bdc36b5c9a8-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2bdc36b5c9a8-3.jpg</picture>
+        <description><![CDATA[Задний спойлер на крышу для BMW 1 серии F20/F21 хэтчбек 2011-2020 — GZ HighFly LTD.. Спойлеры для авто.]]></description>
+      </offer>
+      <offer id="starsparts-a5c24ed8d21b" available="true">
+        <name>Сетка напольная BMW, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>34580</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a5c24ed8d21b-0.jpg</picture>
+        <description><![CDATA[Сетка напольная горизонтальная для фиксации багажа в автомобилях БМВ.
+Подходит для моделей
+
+2' F45 Active Tourer   (11/2013 — 05/2016)
+3' E46   (05/1998 — 07/2005)
+3' E91   (02/2004 — 08/2008)
+3' E91 LCI   (07/2007 — 05/2012)
+3' F31   (07/2011 — 07/2015)
+3' F31 LCI   (09/2014 — 05/2016)
+3' F34 GT   (07/2012 — 06/2016)
+3' F34 GT LCI   (09/2015 — 04/2016)
+4' F82 M4   (02/2013 — 05/2016)
+5' E34   (11/1990 — 06/1996)
+5' E39   (05/1996 — 12/2003)
+5' E61   (10/2002 — 02/2007)
+5' E61 LCI   (11/2005 — 05/2010)
+5' F07 GT   (09/2008 — 06/2013)
+5' F07 GT LCI   (08/2012 — 05/2016)
+5' F11   (01/2009 — 06/2013)
+5' F11 LCI   (08/2012 — 05/2016)
+X1 F48   (11/2014 — 06/2016)
+X3 E83   (01/2003 — 07/2006)
+X3 E83 LCI   (02/2006 — 08/2010)
+X3 F25   (06/2009 — 06/2016)
+X4 F26   (05/2013 — 06/2016)
+X5 E53   (10/1998 — 09/2006)
+X5 E70   (02/2006 — 06/2013)
+X5 E70 LCI   (04/2009 — 06/2013)
+X5 F15   (08/2012 — 06/2016)
+X5 M F85   (04/2013 — 05/2016)
+X6 E71   (01/2007 — 06/2014)
+X6 F16   (09/2013 — 06/2016)
+X6 M F86   (10/2013 — 05/2016)]]></description>
+      </offer>
+      <offer id="starsparts-4b0e776efc37" available="true">
+        <name>Крепление велосипеда на поперечины BMW, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>68250</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4b0e776efc37-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4b0e776efc37-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4b0e776efc37-2.jpg</picture>
+        <description><![CDATA[Оригинальное крепление для перевозки велосипеда на крышу БМВ. Устанавливается на поперечины.]]></description>
+      </offer>
+      <offer id="starsparts-820a63c8de95" available="true">
+        <name>Органайзер на спинку сиденья BMW/MINI, черный, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>53690</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-820a63c8de95-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-820a63c8de95-1.jpg</picture>
+        <description><![CDATA[Оригинальный органайзер БМВ/Мини на спинку переднего сиденья.]]></description>
+      </offer>
+      <offer id="starsparts-311ea033be60" available="true">
+        <name>Лампа ближнего света ксеноновая D1S BOSСH</name>
+        <categoryId>9716365</categoryId>
+        <price>25900</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-311ea033be60-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-311ea033be60-1.jpg</picture>
+        <description><![CDATA[Лампа ближнего света ксеноновая Bosch. Лампа D1S. 4300К. 35W.]]></description>
+      </offer>
+      <offer id="starsparts-7038ccebe973" available="true">
+        <name>Фары BMW 1-series F20 2015-2018, LED</name>
+        <categoryId>9716365</categoryId>
+        <price>735000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7038ccebe973-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7038ccebe973-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7038ccebe973-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7038ccebe973-3.png</picture>
+        <description><![CDATA[Фары BMW 1-series F20 2015-2018, LED — GZ HighFly LTD.. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-833b3a667e97" available="true">
+        <name>Фары передние LED с ходовыми огнями для BMW 1 серии F20 (2012-2015), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9716365</categoryId>
+        <price>656957</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-833b3a667e97-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-833b3a667e97-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-833b3a667e97-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-833b3a667e97-3.jpg</picture>
+        <description><![CDATA[Фары передние LED с ходовыми огнями для BMW 1 серии F20 (2012-2015), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-b0a707b0ce3d" available="true">
+        <name>Задние LED-фонари динамический поворотник для BMW 1 F20/F21 (2015-2018), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9716365</categoryId>
+        <price>411246</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b0a707b0ce3d-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b0a707b0ce3d-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b0a707b0ce3d-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b0a707b0ce3d-3.jpg</picture>
+        <description><![CDATA[Задние LED-фонари динамический поворотник для BMW 1 F20/F21 (2015-2018), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-d59d20fb8a1b" available="true">
+        <name>Фары передние LED с ходовыми огнями для BMW 1 F20 (2015-2018), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9716365</categoryId>
+        <price>830325</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d59d20fb8a1b-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d59d20fb8a1b-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d59d20fb8a1b-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d59d20fb8a1b-3.jpg</picture>
+        <description><![CDATA[Фары передние LED с ходовыми огнями для BMW 1 F20 (2015-2018), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-e5c5b225c28f" available="true">
+        <name>Задние LED-фонари динамический указатель поворота для BMW 1 F20 (2015-2018), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9716365</categoryId>
+        <price>435473</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e5c5b225c28f-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e5c5b225c28f-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e5c5b225c28f-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e5c5b225c28f-3.jpg</picture>
+        <description><![CDATA[Задние LED-фонари динамический указатель поворота для BMW 1 F20 (2015-2018), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-ef7ac0990fb3" available="true">
+        <name>Рамки номерного знака с логотипом BMW, нержавейка, комплект, ТСС</name>
+        <categoryId>9716365</categoryId>
+        <price>40541</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ef7ac0990fb3-0.jpg</picture>
+        <description><![CDATA[Комплект из 2-х номерных рамок из нержавеющей стали для автомобилей BMW.]]></description>
+      </offer>
+      <offer id="starsparts-eee1649decaa" available="true">
+        <name>Выхлопная система Catback Valvetronic для BMW 220i 225i 230i F20 F22 F23 F44 2014-2024</name>
+        <categoryId>9716365</categoryId>
+        <price>777199</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-eee1649decaa-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-eee1649decaa-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-eee1649decaa-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-eee1649decaa-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback Valvetronic для BMW 220i 225i 230i F20 F22 F23 F44 2014-2024 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-0f0542fd9b9f" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW 116i 1.6T F20 N13 2010-2015</name>
+        <categoryId>9716365</categoryId>
+        <price>777199</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0f0542fd9b9f-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0f0542fd9b9f-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0f0542fd9b9f-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0f0542fd9b9f-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW 116i 1.6T F20 N13 2010-2015 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-5277054c3282" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW M140i F21 3.0T</name>
+        <categoryId>9716365</categoryId>
+        <price>891496</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5277054c3282-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5277054c3282-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5277054c3282-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5277054c3282-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW M140i F21 3.0T — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-e2b193a2e4e3" available="true">
+        <name>Выхлопная система с электроклапаном для BMW 1 серии F20 F40 F52 (нерж.)</name>
+        <categoryId>9716367</categoryId>
+        <price>815674</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e2b193a2e4e3-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e2b193a2e4e3-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e2b193a2e4e3-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e2b193a2e4e3-3.jpg</picture>
+        <description><![CDATA[Выхлопная система из нержавеющей стали с электронным клапаном для BMW 1 серии F20/F40/F52. Регулировка звука выхлопа с пульта/приложения.]]></description>
+      </offer>
+      <offer id="starsparts-5d576d728ea3" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW M135i F20 N55 3.0T 2013-2016</name>
+        <categoryId>9716365</categoryId>
+        <price>1051501</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5d576d728ea3-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5d576d728ea3-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5d576d728ea3-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5d576d728ea3-3.png</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW M135i F20 N55 3.0T 2013-2016 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-8182e6e7c542" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW 120i 125i 128i F20 B48 2.0T</name>
+        <categoryId>9716365</categoryId>
+        <price>777199</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8182e6e7c542-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8182e6e7c542-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8182e6e7c542-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8182e6e7c542-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW 120i 125i 128i F20 B48 2.0T — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-713802da5e04" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW 116i 118i F20 1.5T B38 2013-2016</name>
+        <categoryId>9716365</categoryId>
+        <price>777199</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-713802da5e04-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-713802da5e04-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-713802da5e04-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-713802da5e04-3.png</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW 116i 118i F20 1.5T B38 2013-2016 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-9aa43778285a" available="true">
+        <name>Выхлопная система Catback Valvetronic для BMW 120i 125i F20 F21 B48 N20 2.0T</name>
+        <categoryId>9716365</categoryId>
+        <price>891496</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9aa43778285a-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9aa43778285a-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9aa43778285a-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9aa43778285a-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback Valvetronic для BMW 120i 125i F20 F21 B48 N20 2.0T — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-5253c867d91b" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW M135i F20 N55 2.0T</name>
+        <categoryId>9716365</categoryId>
+        <price>1005784</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5253c867d91b-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5253c867d91b-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5253c867d91b-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5253c867d91b-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW M135i F20 N55 2.0T — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-09af6694cc63" available="true">
+        <name>Накладки на педали АКПП M Performance BMW, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>127400</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-09af6694cc63-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-09af6694cc63-1.jpg</picture>
+        <description><![CDATA[Оригинальные накладки M Performance  на педали АКПП BMW
+Нержавеющая сталь.
+В комплекте 2 накладки.
+Подходят на можели:
+
+1' F20   (07/2010 — 02/2015)
+1' F20 LCI   (05/2014 — 02/2017)
+1' F21   (07/2010 — 02/2015)
+1' F21 LCI   (05/2014 — 02/2017)
+2' F22   (10/2012 — 02/2017)
+2' F23   (03/2014 — 02/2017)
+3' F30   (02/2011 — 07/2015)
+3' F30 LCI   (09/2014 — 02/2017)
+3' F31   (07/2011 — 07/2015)
+3' F31 LCI   (09/2014 — 02/2017)
+3' F34 GT   (07/2012 — 06/2016)
+3' F34 GT LCI   (09/2015 — 02/2017)
+4' F32   (11/2012 — 02/2017)
+4' F32 LCI   (05/2016 — 11/2016)
+4' F33   (03/2013 — 02/2017)
+4' F33 LCI   (05/2016 — 12/2016)
+4' F36 Gran Coupé   (07/2013 — 02/2017)
+4' F36 Gran Coupé LCI   (05/2016 — 01/2017)
+5' F07 GT   (09/2008 — 06/2013)
+5' F07 GT LCI   (08/2012 — 02/2017)
+5' F10   (01/2009 — 06/2013)
+5' F10 LCI   (08/2012 — 10/2016)
+5' F11   (01/2009 — 06/2013)
+5' F11 LCI   (08/2012 — 02/2017)
+5' G30   (10/2015 — 02/2017)
+6' F06 Gran Coupé   (05/2011 — 03/2015)
+6' F06 Gran Coupé LCI   (05/2014 — 02/2017)
+6' F12   (10/2009 — 02/2015)
+6' F12 LCI   (05/2014 — 01/2017)
+6' F13   (03/2010 — 02/2015)
+7' F01   (06/2007 — 06/2012)
+7' F01 LCI   (05/2011 — 05/2015)
+7' F02   (07/2007 — 06/2012)
+7' F02 LCI   (05/2011 — 05/2015)
+7' F03   (04/2008 — 05/2012)
+7' F03 LCI   (01/2012 — 03/2015)
+7' F04 Hybrid   (10/2008 — 06/2012)
+7' G11   (10/2014 — 02/2017)
+7' G12   (10/2014 — 02/2017)
+X1 E84   (09/2008 — 06/2015)
+X3 F25   (06/2009 — 02/2017)
+X4 F26   (05/2013 — 02/2017)
+X5 F15   (08/2012 — 02/2017)
+X5 F85 X5 M   (04/2013 — 02/2017)
+X6 F16   (09/2013 — 02/2017)
+X6 F86 X6 M   (10/2013 — 02/2017)
+MS BMW Motorsport   ( — )]]></description>
+      </offer>
+      <offer id="starsparts-e27f8ed3046e" available="true">
+        <name>Накладки на педали МКПП M Performance BMW, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>76440</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e27f8ed3046e-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e27f8ed3046e-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e27f8ed3046e-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e27f8ed3046e-3.jpg</picture>
+        <description><![CDATA[Комплект оригинальных накладок на педали M Performance для БМВ 1,2,3,4,5,6 серий с Механической Коробкой Переключения Передач (МКПП).
+Материал нержавеющая сталь.
+Оригинальный номер 35002232276.
+Подходит для:
+
+1' F20   (07/2010 — 02/2015)
+1' F20 LCI   (05/2014 — 05/2016)
+1' F21   (07/2010 — 02/2015)
+1' F21 LCI   (05/2014 — 05/2016)
+2' F22   (10/2012 — 05/2016)
+2' F87 M2   (11/2014 — 05/2016)
+2' F23   (03/2014 — 05/2016)
+3' F30   (02/2011 — 07/2015)
+3' F30 LCI   (09/2014 — 05/2016)
+3' F80 M3   (04/2012 — 06/2015)
+3' F80 M3 LCI   (01/2015 — 05/2016)
+3' F31   (07/2011 — 07/2015)
+3' F31 LCI   (09/2014 — 05/2016)
+3' F34 GT   (07/2012 — 05/2016)
+4' F32   (11/2012 — 05/2016)
+4' F82 M4   (02/2013 — 05/2016)
+4' F33   (03/2013 — 05/2016)
+4' F83 M4   (06/2013 — 05/2016)
+4' F36   (07/2013 — 05/2016)
+5' F07 GT   (09/2008 — 06/2013)
+5' F07 GT LCI   (08/2012 — 05/2016)
+5' F10   (01/2009 — 05/2016)
+5' F10 LCI   (08/2012 — 05/2016)
+5' F11   (01/2009 — 06/2013)
+5' F11 LCI   (08/2012 — 05/2016)
+6' F06 GC   (10/2011 — 02/2015)
+6' F06 GC LCI   (09/2014 — 05/2016)
+6' F12   (10/2009 — 02/2015)
+6' F12 LCI   (05/2014 — 05/2016)
+6' F13   (03/2010 — 02/2015)
+6' F13 LCI   (05/2014 — 05/2016)
+i3 I01   (01/2013 — 05/2016)
+i8 I12   (02/2013 — 05/2016)
+X1 E84   (09/2008 — 06/2015)
+X3 F25   (06/2009 — 05/2016)
+X4 F26   (05/2013 — 05/2016)]]></description>
+      </offer>
+      <offer id="starsparts-1b3383d09afa" available="true">
+        <name>Рукоятка ручника Sport-Line BMW 1-series, 2-series, 3-series, 4-series, кожа, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>42770</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1b3383d09afa-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1b3383d09afa-1.jpg</picture>
+        <description><![CDATA[Рукоятка ручного тормоза Sport-Line БМВ 1-серии F20/F21, 2-серии F22/F23, 3-серии F30/F31/F34, 4-серии F31/33/36.
+Материа натуральная кожа.
+Цвет черный с красной вставкой.
+Оригинальный номер 34402240174.
+Подходит для:
+1' F20   (07/2010 — 02/2015)
+1' F20 LCI   (05/2014 — 05/2016)
+1' F21   (07/2010 — 02/2015)
+1' F21 LCI   (05/2014 — 05/2016)
+2' F22   (10/2012 — 05/2016)
+2' F23   (03/2014 — 05/2016)
+3' F30   (02/2011 — 07/2015)
+3' F30 LCI   (09/2014 — 05/2016)
+3' F31   (07/2011 — 07/2015)
+3' F31 LCI   (09/2014 — 05/2016)
+3' F34 GT   (07/2012 — 05/2016)
+3' F34 GT LCI   (09/2015 — 04/2016)
+4' F32   (11/2012 — 05/2016)
+4' F33   (03/2013 — 05/2016)
+4' F36   (07/2013 — 05/2016)]]></description>
+      </offer>
+      <offer id="starsparts-ff5a5067d45c" available="true">
+        <name>Плафон светодиодный освещения багажного отсека BMW, оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>24570</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ff5a5067d45c-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ff5a5067d45c-1.jpg</picture>
+        <description><![CDATA[Оригинальный светодиодный плафон освещения багажного отсека БМВ 1,2,3,4,5,7-серий.
+Установка вместо штатного. 
+ПОдходит для:
+
+1' E81   (02/2006 — 12/2011)
+1' E87   (02/2003 — 02/2007)
+1' E87 LCI   (01/2006 — 06/2011)
+1' E82   (11/2006 — 10/2013)
+1' F20   (07/2010 — 02/2015)
+1' F20 LCI   (05/2014 — 06/2016)
+1' F21   (07/2010 — 02/2015)
+1' F21 LCI   (05/2014 — 05/2016)
+2' F22   (10/2012 — 05/2016)
+3' E90   (02/2004 — 09/2008)
+3' E90 LCI   (07/2007 — 02/2012)
+3' E92   (05/2005 — 02/2010)
+3' E92 LCI   (11/2008 — 06/2013)
+3' E93   (09/2005 — 02/2010)
+3' E93 LCI   (11/2008 — 10/2013)
+3' F30   (02/2011 — 01/2016)
+3' F30 LCI   (09/2014 — 06/2016)
+3' F80 M3   (04/2012 — 06/2015)
+3' F35   (06/2011 — 08/2015)
+4' F32   (11/2012 — 05/2016)
+4' F82 M4   (02/2013 — 05/2016)
+4' F33   (03/2013 — 05/2016)
+4' F83 M4   (06/2013 — 05/2016)
+5' E60   (12/2001 — 12/2009)
+5' E60 LCI   (10/2005 — 09/2010)
+5' F10   (01/2009 — 05/2016)
+5' F10 LCI   (08/2012 — 06/2016)
+5' F18   (08/2009 — 08/2013)
+5' F18 LCI   (10/2012 — 05/2016)
+7' E65   (02/2000 — 07/2008)
+7' E66   (06/2000 — 07/2008)
+7' E67   (10/2002 — 06/2008)
+7' F01   (06/2007 — 06/2012)
+7' F01 LCI   (05/2011 — 05/2015)
+7' F02   (07/2007 — 06/2012)
+7' F02 LCI   (05/2011 — 05/2015)
+7' F03   (04/2008 — 05/2012)
+7' F03 LCI   (01/2012 — 03/2015)
+7' F04 Hyb   (10/2008 — 06/2012)
+7' G11   (10/2014 — 05/2016)
+7' G12   (10/2014 — 06/2016)
+X1 E84   (09/2008 — 12/2015)]]></description>
+      </offer>
+      <offer id="starsparts-a7425d537265" available="true">
+        <name>Накладка на руль BMW 1-series F20/3-series F30, матовый хром</name>
+        <categoryId>9716365</categoryId>
+        <price>36400</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a7425d537265-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a7425d537265-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a7425d537265-2.jpg</picture>
+        <description><![CDATA[Накладка на руль БМВ 1-серии F20/2-серии F30.
+Материал ABS пластик.
+Установка на двухсторонний 3М скотч.
+Установка только на такой руль, как на картинке.]]></description>
+      </offer>
+      <offer id="starsparts-b92bb68e8d20" available="true">
+        <name>Накладки кнопок стеклоподъемников BMW 1,3,4-series F20/F30/F31/F34/F36, матовый хром</name>
+        <categoryId>9716365</categoryId>
+        <price>26390</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b92bb68e8d20-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b92bb68e8d20-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b92bb68e8d20-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b92bb68e8d20-3.jpg</picture>
+        <description><![CDATA[Комплект накладок вокруг кнопок стеклоподъемников БМВ 1-серии F20, 3-серии F30/F31/F34, 4-серии F36 Gran Coupe.
+Комплект 5 накладок.
+Материал ABS пластик.
+Установка на двухсторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-4317a77e3427" available="true">
+        <name>Накладка на задний воздуховод BMW F20/F21/F22/F23/F30/F31/F34/F32/F36, матовый хром</name>
+        <categoryId>9716365</categoryId>
+        <price>22750</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4317a77e3427-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4317a77e3427-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4317a77e3427-2.jpg</picture>
+        <description><![CDATA[Накладка обрамления воздуховода задних пассажиров БМВ 1-серии F20/F21, 2-серии F22/F23, 3-серии F30/F31/F34, 4-серии F32/F36.
+Материал ABS пластик.
+Установка на двухсторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-2e5d536c520c" available="true">
+        <name>Карбоновая накладка M Performance для рулевого колеса BMW F30, F20, F20N, F21, F21N, F22, F22N, F23, F23N, F30N, F31, F31N, F32, F32N, F33, F33N, F34, F34N, F36, F36N, F39, F45, F46, F48, MOSP, F45N, F46N, F48N оригинал</name>
+        <categoryId>9716365</categoryId>
+        <price>244790</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2e5d536c520c-0.jpg</picture>
+        <description><![CDATA[Карбоновая накладка M Performance для рулевого колеса BMW F30, F20, F20N, F21, F21N, F22, F22N, F23, F23N, F30N, F31, F31N, F32, F32N, F33, F33N, F34, F34N, F36, F36N, F39, F45, F46, F48, MOSP, F45N, F46N, F48N оригинал — BMW. Накладки отделка для авто.]]></description>
+      </offer>
+      <offer id="starsparts-433db2ad810c" available="true">
+        <name>Накладки на зеркала заднего вида из карбона (глянец) для BMW F20/F22/F30/F32/F33/F34/F35/F36/E84/I3 (2012-2020)</name>
+        <categoryId>9716365</categoryId>
+        <price>138579</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-433db2ad810c-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-433db2ad810c-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-433db2ad810c-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-433db2ad810c-3.jpg</picture>
+        <description><![CDATA[Накладки на зеркала заднего вида из карбона (глянец) для BMW F20/F22/F30/F32/F33/F34/F35/F36/E84/I3 (2012-2020) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-7152918bf414" available="true">
+        <name>Накладки на зеркала заднего вида из карбона для BMW F20/F22/F30/F34/F35/F32/F33/F36/E84 LCI/I3 (2012-2020)</name>
+        <categoryId>9716365</categoryId>
+        <price>132279</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7152918bf414-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7152918bf414-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7152918bf414-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7152918bf414-3.jpg</picture>
+        <description><![CDATA[Накладки на зеркала заднего вида из карбона для BMW F20/F22/F30/F34/F35/F32/F33/F36/E84 LCI/I3 (2012-2020) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-5c935c39d3f8" available="true">
+        <name>Передняя губа (яркий черный, карбоновый узор) для BMW 1 серии F20 2015-2019</name>
+        <categoryId>9716365</categoryId>
+        <price>51872</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5c935c39d3f8-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5c935c39d3f8-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5c935c39d3f8-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5c935c39d3f8-3.jpg</picture>
+        <description><![CDATA[Передняя губа (яркий черный, карбоновый узор) для BMW 1 серии F20 2015-2019 — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-088954742050" available="true">
+        <name>Коврик в багажник BMW 1-er (f20), 2011 - 2015, хэтчбек (полиуретан) / БМВ 1 серии</name>
+        <categoryId>9716365</categoryId>
+        <price>16212</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-088954742050-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-088954742050-1.jpg</picture>
+        <description><![CDATA[Коврик в багажник BMW 1-er (f20), 2011 - 2015, хэтчбек (полиуретан) / БМВ 1 серии — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-717f60f65379" available="true">
+        <name>Коврики 3D в салон BMW 1-er (f20), 2011-, 4 шт. (полиуретан) / БМВ 1 серии</name>
+        <categoryId>9716365</categoryId>
+        <price>23632</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-717f60f65379-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-717f60f65379-1.jpg</picture>
+        <description><![CDATA[Коврики 3D в салон BMW 1-er (f20), 2011-, 4 шт. (полиуретан) / БМВ 1 серии — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-8bc2da2d7ed0" available="true">
+        <name>Поддон в багажник для BMW 1 в кузове F20/F21 HB, 
+	Серый, Norplast</name>
+        <categoryId>9716365</categoryId>
+        <price>14</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8bc2da2d7ed0-0.jpg</picture>
+        <description><![CDATA[Поддон в багажник для BMW 1 в кузове F20/F21 HB, 
+	Серый, Norplast — Norplast. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-0a6915986627" available="true">
+        <name>Комплект тормозной системы M Performance BMW 1,2,3,4-series, красный</name>
+        <categoryId>9716365</categoryId>
+        <price>2275000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0a6915986627-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0a6915986627-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0a6915986627-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0a6915986627-3.jpg</picture>
+        <description><![CDATA[Оригинальный комплект тормозной системы M Performance для БМВ 1-серии F20/21, 2-серии F22/F23, 3-серии F30/F31/F34/F35, 4-серии F32/F33/F36.
+Установка только на легкосплавные диски не меньше R18.
+В комплект входят тормозные колодки перед/зад, Датчики износа колодок перед/зад, Тормозные суппорта 4-х поршневые передние, Тормозные суппорта 2-х поршневые задние, Тормозные диски передние вентилируемые с перфорацией (370х30), Тормозные диски задние вентилируемые с перфорацией (345х24).
+Цвет тормозных суппортов красный с логотипом "М".
+Оригинальные номера 34112221445 + 34206797598 х2.
+Подходит для:
+
+1' F20   (07/2010 — 02/2015)
+1' F20 LCI   (05/2014 — 06/2016)
+1' F21   (07/2010 — 02/2015)
+1' F21 LCI   (05/2014 — 05/2016)
+2' F22   (10/2012 — 05/2016)
+2' F23   (03/2014 — 05/2016)
+3' F30   (02/2011 — 01/2016)
+3' F30 LCI   (09/2014 — 06/2016)
+3' F31   (07/2011 — 07/2015)
+3' F31 LCI   (09/2014 — 05/2016)
+3' F34 GT   (07/2012 — 06/2016)
+3' F34 GT LCI   (09/2015 — 04/2016)
+3' F35   (06/2011 — 08/2015)
+3' F35 LCI   (01/2015 — 05/2016)
+4' F32   (11/2012 — 05/2016)
+4' F33   (03/2013 — 05/2016)
+4' F36   (07/2013 — 05/2016)]]></description>
+      </offer>
+      <offer id="starsparts-c21ca65f0157" available="true">
+        <name>Комплект тормозной системы M Performance BMW 1,2,3,4-series, желтый</name>
+        <categoryId>9716365</categoryId>
+        <price>2240000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c21ca65f0157-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c21ca65f0157-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c21ca65f0157-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c21ca65f0157-3.jpg</picture>
+        <description><![CDATA[Оригинальный комплект тормозной системы M Performance для БМВ 1-серии F20/21, 2-серии F22/F23, 3-серии F30/F31/F34/F35, 4-серии F32/F33/F36.
+Установка только на легкосплавные диски не меньше R18.
+В комплект входят тормозные колодки перед/зад, Датчики износа колодок перед/зад, Тормозные суппорта 4-х поршневые передние, Тормозные суппорта 2-х поршневые задние, Тормозные диски передние вентилируемые с перфорацией (370х30), Тормозные диски задние вентилируемые с перфорацией (345х24).
+Цвет тормозных суппортов желтый с логотипом "М".
+Оригинальные номера 34112221446 + 34206797598 х2.
+Подходит для:
+
+1' F20   (07/2010 — 02/2015)
+1' F20 LCI   (05/2014 — 06/2016)
+1' F21   (07/2010 — 02/2015)
+1' F21 LCI   (05/2014 — 05/2016)
+2' F22   (10/2012 — 05/2016)
+2' F23   (03/2014 — 05/2016)
+3' F30   (02/2011 — 01/2016)
+3' F30 LCI   (09/2014 — 06/2016)
+3' F31   (07/2011 — 07/2015)
+3' F31 LCI   (09/2014 — 05/2016)
+3' F34 GT   (07/2012 — 06/2016)
+3' F34 GT LCI   (09/2015 — 04/2016)
+3' F35   (06/2011 — 08/2015)
+3' F35 LCI   (01/2015 — 05/2016)
+4' F32   (11/2012 — 05/2016)
+4' F33   (03/2013 — 05/2016)
+4' F36   (07/2013 — 05/2016)]]></description>
+      </offer>
+      <offer id="starsparts-864809750038" available="true">
+        <name>Комплект тормозной системы M Performance BMW 1,2,3,4-series, оранжевый</name>
+        <categoryId>9716365</categoryId>
+        <price>2240000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-864809750038-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-864809750038-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-864809750038-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-864809750038-3.jpg</picture>
+        <description><![CDATA[Оригинальный комплект тормозной системы M Performance для БМВ 1-серии F20/21, 2-серии F22/F23, 3-серии F30/F31/F34/F35, 4-серии F32/F33/F36.
+Установка только на легкосплавные диски не меньше R18.
+В комплект входят тормозные колодки перед/зад, Датчики износа колодок перед/зад, Тормозные суппорта 4-х поршневые передние, Тормозные суппорта 2-х поршневые задние, Тормозные диски передние вентилируемые с перфорацией (370х30), Тормозные диски задние вентилируемые с перфорацией (345х24).
+Цвет тормозных суппортов оранжевый с логотипом "М".
+Оригинальные номера 34112221447 + 34206797598 х2.
+1' F20   (07/2010 — 02/2015)Подходит для:
+
+1' F20 LCI   (05/2014 — 06/2016)
+1' F21   (07/2010 — 02/2015)
+1' F21 LCI   (05/2014 — 05/2016)
+2' F22   (10/2012 — 05/2016)
+2' F23   (03/2014 — 05/2016)
+3' F30   (02/2011 — 01/2016)
+3' F30 LCI   (09/2014 — 06/2016)
+3' F31   (07/2011 — 07/2015)
+3' F31 LCI   (09/2014 — 05/2016)
+3' F34 GT   (07/2012 — 06/2016)
+3' F34 GT LCI   (09/2015 — 04/2016)
+3' F35   (06/2011 — 08/2015)
+3' F35 LCI   (01/2015 — 05/2016)
+4' F32   (11/2012 — 05/2016)
+4' F33   (03/2013 — 05/2016)
+4' F36   (07/2013 — 05/2016)]]></description>
+      </offer>
+      <offer id="starsparts-92259cc01368" available="true">
+        <name>Масляный фильтр BMW MINI для моторов серии B32 B37, B38, B42, B47, B48, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>20790</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-92259cc01368-0.jpg</picture>
+        <description><![CDATA[Оригинальный масляный фильтр BMW/MINI для бензиновых и дизельных моторов серии B32, B37, B38, B42, B47, B48.]]></description>
+      </offer>
+      <offer id="starsparts-5ee42cf62916" available="true">
+        <name>Воздушный фильтр BMW 1, 2, X1, X2 серии, MINI F54/F55/F56/F57/F60 Countryman, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>35000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5ee42cf62916-0.jpg</picture>
+        <description><![CDATA[Оригинальный воздушный фильтр для BMW 1, 2, X1, X2 серии, а также MINI F54/F55/F56/F57/F60 Countryman.]]></description>
+      </offer>
+      <offer id="starsparts-809ffc29a51e" available="true">
+        <name>Задние LED-фонари динамический поворотник для BMW 1 F52 (2016-2022), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9716367</categoryId>
+        <price>355865</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-809ffc29a51e-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-809ffc29a51e-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-809ffc29a51e-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-809ffc29a51e-3.jpg</picture>
+        <description><![CDATA[Задние светодиодные фонари с динамическим поворотником для BMW 1 серии F52 (2016-2022). Комплект 2 шт., бренд FT Carlight.]]></description>
       </offer>
     </offers>
   </shop>
