@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-08-17 21:00">
+  <shop>
+    <name>Udeu.kz</name>
+    <company>Udeu.kz</company>
+    <url>https://satu.kz/</url>
+    <currencies>
+      <currency id="KZT" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="9716367">1-серия F52 (2017-2024)</category>
+    </categories>
+    <offers>
+      <offer id="starsparts-146d52104390" available="true">
+        <name>Эмблема М черный глянец, 9см*3см</name>
+        <categoryId>9716367</categoryId>
+        <price>4900</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-146d52104390-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-146d52104390-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-146d52104390-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-146d52104390-3.jpg</picture>
+        <description><![CDATA[Эмблема с логотипом M на кузов BMW. Цвет чёрный глянец, размер 9×3 см. Крепление на 2-стороннем скотче, установка без сверления.]]></description>
+      </offer>
+      <offer id="starsparts-ff417302cb3b" available="true">
+        <name>Базовый комплект освежителя воздуха в салоне BMW, сменные картриджи, Tonic</name>
+        <categoryId>9716367</categoryId>
+        <price>5600</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ff417302cb3b-0.jpg</picture>
+        <description><![CDATA[Комплект картриджей освежителя воздуха для базового освежителя БМВ.
+Аромат Tonic
+Цвет картриджа синий.
+Оригинальный номер 83122285675.]]></description>
+      </offer>
+      <offer id="starsparts-a7bc68af72f7" available="true">
+        <name>Базовый комплект освежителя воздуха в салоне BMW, Сменные Картриджи, Amber</name>
+        <categoryId>9716367</categoryId>
+        <price>5600</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a7bc68af72f7-0.jpg</picture>
+        <description><![CDATA[Комплект картриджей освежителя воздуха для базового освежителя БМВ.
+Аромат Amber.
+Цвет картриджа красный.
+Оригинальный номер 83122285676.]]></description>
+      </offer>
+      <offer id="starsparts-680f031e06f2" available="true">
+        <name>Наклейки M Performance BMW, надпись, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>48685</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-680f031e06f2-0.jpg</picture>
+        <description><![CDATA[Оригинальные наклейки M Performance на пороги БМВ. Комплект 2 наклейки.]]></description>
+      </offer>
+      <offer id="starsparts-cd91e5836d1b" available="true">
+        <name>Эмблемы на крылья &quot;М&quot;, черные, комплект 2шт, размер 5,5см*2см</name>
+        <categoryId>9716367</categoryId>
+        <price>22750</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cd91e5836d1b-0.png</picture>
+        <description><![CDATA[Комплект из 2-х эмблем с М-логотипом на крылья автомобилей BMW. Цвет черный глянец. Установка на 2-х сторонний 3м скотч.]]></description>
+      </offer>
+      <offer id="starsparts-04cac242c892" available="true">
+        <name>Эмблема на багажник Competition, реплика</name>
+        <categoryId>9716367</categoryId>
+        <price>4550</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-04cac242c892-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-04cac242c892-1.png</picture>
+        <description><![CDATA[Эмблема Competition на крышку багажника BMW, реплика. Крепление на 2-стороннем скотче.]]></description>
+      </offer>
+      <offer id="starsparts-c0ada9acd97a" available="true">
+        <name>Эмблемы на крылья &quot;М&quot;, черные, комплект 2шт, размер 4,5см*2см</name>
+        <categoryId>9716367</categoryId>
+        <price>22750</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c0ada9acd97a-0.png</picture>
+        <description><![CDATA[Комплект из 2-х эмблем с М-логотипом на крылья автомобилей BMW. Цвет черный глянец. Установка на 2-х сторонний 3м скотч.]]></description>
+      </offer>
+      <offer id="starsparts-6298ec551b4f" available="true">
+        <name>Держатель камеры Track Fix GoPro на передний бампер BMW, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>56420</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6298ec551b4f-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6298ec551b4f-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6298ec551b4f-2.jpg</picture>
+        <description><![CDATA[Оригинальный держатель камеры Track Fix GoPro фиксируется вместо буксировочного крюка в переднем бампере БМВ.
+Подходит на большинство моделей БМВ.
+
+1' F20   (07/2010 — 02/2015)
+1' F20 LCI   (05/2014 — 01/2016)
+1' F21   (07/2010 — 02/2015)
+1' F21 LCI   (05/2014 — 01/2016)
+2' F22   (10/2012 — 01/2016)
+2' F23   (03/2014 — 01/2016)
+2' F45 Active Tourer   (11/2013 — 01/2016)
+2' F46 Gran Tourer   (07/2014 — 01/2016)
+3' F30   (02/2011 — 07/2015)
+3' F80 M3   (04/2012 — 06/2015)
+3' F30 LCI   (09/2014 — 01/2016)
+3' F80 M3 LCI   (01/2015 — 01/2016)
+3' F31   (07/2011 — 07/2015)
+3' F31 LCI   (09/2014 — 01/2016)
+3' F34 GT   (07/2012 — 12/2015)
+4' F32   (11/2012 — 01/2016)
+4' F82 M4   (02/2013 — 01/2016)
+4' F33   (03/2013 — 01/2016)
+4' F83 M4   (06/2013 — 01/2016)
+4' F36   (07/2013 — 12/2015)
+5' F07 GT   (09/2008 — 06/2013)
+5' F07 GT LCI   (08/2012 — 12/2015)
+5' F10   (01/2009 — 12/2015)
+5' F10 LCI   (08/2012 — 01/2016)
+5' F11   (01/2009 — 06/2013)
+5' F11 LCI   (08/2012 — 12/2015)
+6' F06 GC   (05/2011 — 03/2015)
+6' F06 GC LCI   (05/2014 — 01/2016)
+6' F12   (10/2009 — 02/2015)
+6' F12 LCI   (05/2014 — 01/2016)
+6' F13   (03/2010 — 02/2015)
+6' F13 LCI   (05/2014 — 01/2016)
+7' F01   (06/2007 — 06/2012)
+7' F01 LCI   (05/2011 — 05/2015)
+7' F02   (07/2007 — 06/2012)
+7' F02 LCI   (05/2011 — 05/2015)
+7' F03   (04/2008 — 05/2012)
+7' F03 LCI   (01/2012 — 03/2015)
+7' F04 Hyb   (10/2008 — 06/2012)
+7' G11   (10/2014 — 01/2016)
+7' G12   (10/2014 — 01/2016)
+X1 E84   (09/2008 — 06/2015)
+X1 F48   (11/2014 — 01/2016)
+X3 F25   (06/2009 — 01/2016)
+X4 F26   (05/2013 — 01/2016)
+X5 F15   (08/2012 — 01/2016)
+X5 M F85   (04/2013 — 01/2016)
+X6 F16   (09/2013 — 01/2016)
+X6 M F86   (10/2013 — 01/2016)
+Z4 E89   (01/2008 — 01/2016)]]></description>
+      </offer>
+      <offer id="starsparts-94c104ac687d" available="true">
+        <name>Держатель камеры GoPro в салоне на подголовнике BMW, поворотный, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>90090</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-94c104ac687d-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-94c104ac687d-1.jpg</picture>
+        <description><![CDATA[Оригинальный поворотный держатель камеры GoPro фиксируется в базовое крепление на подголовник в салоне БМВ.
+Базовое крепление поставляется отдельно.
+Подходит на большинство моделей БМВ.
+
+1' F20   (07/2010 — 02/2015)
+1' F20 LCI   (05/2014 — 01/2016)
+1' F21   (07/2010 — 02/2015)
+1' F21 LCI   (05/2014 — 01/2016)
+2' F22   (10/2012 — 01/2016)
+2' F23   (03/2014 — 01/2016)
+2' F45 Active Tourer   (11/2013 — 01/2016)
+2' F46 Gran Tourer   (07/2014 — 01/2016)
+3' F30   (02/2011 — 07/2015)
+3' F80 M3   (04/2012 — 06/2015)
+3' F30 LCI   (09/2014 — 01/2016)
+3' F80 M3 LCI   (01/2015 — 01/2016)
+3' F31   (07/2011 — 07/2015)
+3' F31 LCI   (09/2014 — 01/2016)
+3' F34 GT   (07/2012 — 12/2015)
+4' F32   (11/2012 — 01/2016)
+4' F82 M4   (02/2013 — 01/2016)
+4' F33   (03/2013 — 01/2016)
+4' F83 M4   (06/2013 — 01/2016)
+4' F36   (07/2013 — 12/2015)
+5' F07 GT   (09/2008 — 06/2013)
+5' F07 GT LCI   (08/2012 — 12/2015)
+5' F10   (01/2009 — 12/2015)
+5' F10 LCI   (08/2012 — 01/2016)
+5' F11   (01/2009 — 06/2013)
+5' F11 LCI   (08/2012 — 12/2015)
+6' F06 GC   (05/2011 — 03/2015)
+6' F06 GC LCI   (05/2014 — 01/2016)
+6' F12   (10/2009 — 02/2015)
+6' F12 LCI   (05/2014 — 01/2016)
+6' F13   (03/2010 — 02/2015)
+6' F13 LCI   (05/2014 — 01/2016)
+7' F01   (06/2007 — 06/2012)
+7' F01 LCI   (05/2011 — 05/2015)
+7' F02   (07/2007 — 06/2012)
+7' F02 LCI   (05/2011 — 05/2015)
+7' F03   (04/2008 — 05/2012)
+7' F03 LCI   (01/2012 — 03/2015)
+7' F04 Hyb   (10/2008 — 06/2012)
+7' G11   (10/2014 — 01/2016)
+7' G12   (10/2014 — 01/2016)
+X1 E84   (09/2008 — 06/2015)
+X1 F48   (11/2014 — 01/2016)
+X3 F25   (06/2009 — 01/2016)
+X4 F26   (05/2013 — 01/2016)
+X5 F15   (08/2012 — 01/2016)
+X5 M F85   (04/2013 — 01/2016)
+X6 F16   (09/2013 — 01/2016)
+X6 M F86   (10/2013 — 01/2016)
+Z4 E89   (01/2008 — 01/2016)]]></description>
+      </offer>
+      <offer id="starsparts-06ec1dc3dd30" available="true">
+        <name>Видео регистратор BMW Advanced Car Eye 2.0, фронтальный + задний, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>2030000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-06ec1dc3dd30-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-06ec1dc3dd30-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-06ec1dc3dd30-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-06ec1dc3dd30-3.png</picture>
+        <description><![CDATA[Оригинальная система видеофиксации BMW.
+В комплекте передни и задний видео регистратор.
+Подходит для моделей:
+
+1' E81   (02/2006 — 12/2011)
+1' E87   (02/2003 — 02/2007)
+1' E87 LCI   (01/2006 — 06/2011)
+1' E82   (11/2006 — 10/2013)
+1' F20   (07/2010 — 02/2015)
+1' F20 LCI   (05/2014 — 06/2016)
+1' F21   (07/2010 — 02/2015)
+1' F21 LCI   (05/2014 — 05/2016)
+2' F22   (10/2012 — 05/2016)
+2' F45 Active Tourer   (11/2013 — 05/2016)
+2' F46 Gran Tourer   (07/2014 — 05/2016)
+3' E90   (02/2004 — 09/2008)
+3' E90 LCI   (07/2007 — 02/2012)
+3' E91   (02/2004 — 08/2008)
+3' E91 LCI   (07/2007 — 05/2012)
+3' E92   (05/2005 — 02/2010)
+3' E92 LCI   (11/2008 — 06/2013)
+3' F30   (02/2011 — 01/2016)
+3' F30 LCI   (09/2014 — 06/2016)
+3' F80 M3   (04/2012 — 06/2015)
+3' F80 M3 LCI   (01/2015 — 05/2016)
+3' F31   (07/2011 — 07/2015)
+3' F31 LCI   (09/2014 — 05/2016)
+3' F34 GT   (07/2012 — 06/2016)
+3' F34 GT LCI   (09/2015 — 04/2016)
+3' F35   (06/2011 — 08/2015)
+3' F35 LCI   (01/2015 — 05/2016)
+4' F32   (11/2012 — 05/2016)
+4' F82 M4   (02/2013 — 05/2016)
+4' F36   (07/2013 — 05/2016)
+5' F07 GT   (09/2008 — 06/2013)
+5' F07 GT LCI   (08/2012 — 05/2016)
+5' F10   (01/2009 — 05/2016)
+5' F10 LCI   (08/2012 — 06/2016)
+5' F11   (01/2009 — 06/2013)
+5' F11 LCI   (08/2012 — 05/2016)
+5' F18   (08/2009 — 08/2013)
+5' F18 LCI   (10/2012 — 05/2016)
+6' F06 GC   (05/2011 — 03/2015)
+6' F06 GC LCI   (05/2014 — 05/2016)
+6' F13   (03/2010 — 02/2015)
+6' F13 LCI   (05/2014 — 05/2016)
+7' F01   (06/2007 — 06/2012)
+7' F01 LCI   (05/2011 — 05/2015)
+7' F02   (07/2007 — 06/2012)
+7' F02 LCI   (05/2011 — 05/2015)
+7' G11   (10/2014 — 05/2016)
+7' G12   (10/2014 — 06/2016)
+X1 E84   (09/2008 — 12/2015)
+X1 F48   (11/2014 — 05/2016)
+X1 F49   (11/2014 — 05/2016)
+X3 F25   (06/2009 — 06/2016)
+X4 F26   (05/2013 — 06/2016)
+X5 F15   (08/2012 — 06/2016)
+X5 M F85   (04/2013 — 05/2016)
+X6 F16   (09/2013 — 06/2016)
+X6 M F86   (10/2013 — 05/2016)]]></description>
+      </offer>
+      <offer id="starsparts-e647b038940e" available="true">
+        <name>Фонарик светодиодный BMW, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>26390</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e647b038940e-0.jpg</picture>
+        <description><![CDATA[Оригинальный светодиодный карманный фонарь БМВ. Оригинальный номер 63312410071]]></description>
+      </offer>
+      <offer id="starsparts-92259cc01368" available="true">
+        <name>Масляный фильтр BMW MINI для моторов серии B32 B37, B38, B42, B47, B48, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>20790</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-92259cc01368-0.jpg</picture>
+        <description><![CDATA[Оригинальный масляный фильтр BMW/MINI для бензиновых и дизельных моторов серии B32, B37, B38, B42, B47, B48.]]></description>
+      </offer>
+      <offer id="starsparts-5ee42cf62916" available="true">
+        <name>Воздушный фильтр BMW 1, 2, X1, X2 серии, MINI F54/F55/F56/F57/F60 Countryman, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>35000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5ee42cf62916-0.jpg</picture>
+        <description><![CDATA[Оригинальный воздушный фильтр для BMW 1, 2, X1, X2 серии, а также MINI F54/F55/F56/F57/F60 Countryman.]]></description>
+      </offer>
+      <offer id="starsparts-cb132eb00d77" available="true">
+        <name>Вешалка BMW на спинку сиденья, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>86450</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cb132eb00d77-0.jpg</picture>
+        <description><![CDATA[Оригинальная вешалка в салон BMW на спинку сиденья
+Для установки потребуется оригинальное многофункциональное крепление на подголовник.]]></description>
+      </offer>
+      <offer id="starsparts-fb6eda6a04de" available="true">
+        <name>Держатель базовая опора на подголовник BMW, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>34125</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fb6eda6a04de-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fb6eda6a04de-1.jpg</picture>
+        <description><![CDATA[Оригинальное крепление для всех видов девайсов устанавливающихся на подголовник в салоне BMW.]]></description>
+      </offer>
+      <offer id="starsparts-97b02b369bde" available="true">
+        <name>Держатель крюк на подголовник BMW, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>24570</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-97b02b369bde-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-97b02b369bde-1.jpg</picture>
+        <description><![CDATA[Оригинальный крючек на подголовник БМВ.
+Устанавливается в базовое крепление подголовника.]]></description>
+      </offer>
+      <offer id="starsparts-c29d4b85c4eb" available="true">
+        <name>Жилет сигнальный BMW, 2 шт., оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>22750</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c29d4b85c4eb-0.jpg</picture>
+        <description><![CDATA[Оригинальный сигнальный жилет БМВ. Комплект 2 жилета.]]></description>
+      </offer>
+      <offer id="starsparts-ed836f65d6e7" available="true">
+        <name>Органайзер на спинку сиденья BMW, спорт красная, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>60060</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ed836f65d6e7-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ed836f65d6e7-1.jpg</picture>
+        <description><![CDATA[Оригинальный органайзер БМВ на спинку переднего сиденья.]]></description>
+      </offer>
+      <offer id="starsparts-c7a4ea50ce39" available="true">
+        <name>Органайзер на спинку сиденья BMW, спорт черный, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>119000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7a4ea50ce39-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7a4ea50ce39-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7a4ea50ce39-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7a4ea50ce39-3.jpg</picture>
+        <description><![CDATA[Оригинальный органайзер БМВ на спинку переднего сиденья.]]></description>
+      </offer>
+      <offer id="starsparts-ad7e51b89f37" available="true">
+        <name>Ящик органайзер BMW, складной, черный, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>36400</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ad7e51b89f37-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ad7e51b89f37-1.jpg</picture>
+        <description><![CDATA[Оригинальный складной ящик органайзер для перевозки мелких вещей в вашем BMW.
+В сложенном состоянии не занимает место.]]></description>
+      </offer>
+      <offer id="starsparts-165a5762db99" available="true">
+        <name>Ящик органайзер BMW, складной, красная окантовка, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>34580</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-165a5762db99-0.jpg</picture>
+        <description><![CDATA[Оригинальный складной ящик органайзер для перевозки мелких вещей в вашем BMW.
+В сложенном состоянии не занимает место.]]></description>
+      </offer>
+      <offer id="starsparts-53291a6138da" available="true">
+        <name>Органайзер на спинку сиденья BMW, urban, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>105000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-53291a6138da-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-53291a6138da-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-53291a6138da-2.jpg</picture>
+        <description><![CDATA[Оригинальный органайзер БМВ на спинку переднего сиденья.]]></description>
+      </offer>
+      <offer id="starsparts-606daf1f8d0c" available="true">
+        <name>Органайзер на спинку сидений BMW, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>91000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-606daf1f8d0c-0.jpg</picture>
+        <description><![CDATA[Оригинальный органайзер на спинку сидений БМВ. Фиксируется на подголовнике.]]></description>
+      </offer>
+      <offer id="starsparts-809ffc29a51e" available="true">
+        <name>Задние LED-фонари динамический поворотник для BMW 1 F52 (2016-2022), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9716367</categoryId>
+        <price>355865</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-809ffc29a51e-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-809ffc29a51e-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-809ffc29a51e-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-809ffc29a51e-3.jpg</picture>
+        <description><![CDATA[Задние светодиодные фонари с динамическим поворотником для BMW 1 серии F52 (2016-2022). Комплект 2 шт., бренд FT Carlight.]]></description>
+      </offer>
+      <offer id="starsparts-e2b193a2e4e3" available="true">
+        <name>Выхлопная система с электроклапаном для BMW 1 серии F20 F40 F52 (нерж.)</name>
+        <categoryId>9716367</categoryId>
+        <price>815674</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e2b193a2e4e3-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e2b193a2e4e3-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e2b193a2e4e3-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e2b193a2e4e3-3.jpg</picture>
+        <description><![CDATA[Выхлопная система из нержавеющей стали с электронным клапаном для BMW 1 серии F20/F40/F52. Регулировка звука выхлопа с пульта/приложения.]]></description>
+      </offer>
+      <offer id="starsparts-176627b2bd57" available="true">
+        <name>Держатель для Ipad 2,3,4 в салон BMW</name>
+        <categoryId>9716367</categoryId>
+        <price>89180</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-176627b2bd57-0.jpg</picture>
+        <description><![CDATA[Держатель для Ipad 2,3,4 в салон БМВ]]></description>
+      </offer>
+      <offer id="starsparts-de9ad2a34055" available="true">
+        <name>Базовый комплект освежителя воздуха в салоне BMW, серебристый</name>
+        <categoryId>9716367</categoryId>
+        <price>19600</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-de9ad2a34055-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-de9ad2a34055-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-de9ad2a34055-2.jpg</picture>
+        <description><![CDATA[Оригинальный освежитель воздуха в салоне автомобиля БМВ.
+Освежитель со сменными картриджами, которые приобретаются отдельно.
+Устанавливается на воздуховод.
+Оригинальный номер 83122285673.]]></description>
+      </offer>
+      <offer id="starsparts-a86cb01b1770" available="true">
+        <name>Базовый комплект освежителя воздуха в салоне BMW, Сменные Картриджи, Green Tea</name>
+        <categoryId>9716367</categoryId>
+        <price>5600</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a86cb01b1770-0.jpg</picture>
+        <description><![CDATA[Комплект картриджей освежителя воздуха для базового освежителя БМВ.
+Аромат Green Tea.
+Цвет картриджа зеленый.
+Оригинальный номер 83122285674.]]></description>
+      </offer>
+      <offer id="starsparts-d6edf79ea2da" available="true">
+        <name>Базовый комплект освежителя воздуха в салоне BMW, Сменные Картриджи, Flowers</name>
+        <categoryId>9716367</categoryId>
+        <price>6930</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d6edf79ea2da-0.jpg</picture>
+        <description><![CDATA[Комплект картриджей освежителя воздуха для базового освежителя БМВ.
+Аромат Flowers.
+Цвет картриджа фиолеовый.
+Оригинальный номер 83122285678.]]></description>
+      </offer>
+      <offer id="starsparts-6f375ee084ac" available="true">
+        <name>Базовый комплект освежителя воздуха в салоне BMW, Сменные Картриджи, Woods</name>
+        <categoryId>9716367</categoryId>
+        <price>11200</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6f375ee084ac-0.jpg</picture>
+        <description><![CDATA[Комплект картриджей освежителя воздуха для базового освежителя БМВ.
+Аромат Woods.
+Цвет картриджа желтый.
+Оригинальный номер 83122285677.]]></description>
+      </offer>
+      <offer id="starsparts-ac69aa0daf2c" available="true">
+        <name>Базовый комплект освежителя воздуха в салоне BMW, Сменные Картриджи, Raindrops</name>
+        <categoryId>9716367</categoryId>
+        <price>20300</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ac69aa0daf2c-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ac69aa0daf2c-1.jpg</picture>
+        <description><![CDATA[Комплект картриджей освежителя воздуха для базового освежителя БМВ.
+Аромат Raindrops .
+Цвет картриджа голубой.
+Оригинальный номер 83122285679 .]]></description>
+      </offer>
+      <offer id="starsparts-d66a69fd2367" available="true">
+        <name>Колпачки на ниппеля BMW, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>20300</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d66a69fd2367-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d66a69fd2367-1.png</picture>
+        <description><![CDATA[Оригинальный колпачки на ниппеля для БМВ. Комплект на 4 диска. Оригинальный номер 36122447401]]></description>
+      </offer>
+      <offer id="starsparts-f6974b2b7bae" available="true">
+        <name>Колпачки на ниппеля BMW M, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>20475</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f6974b2b7bae-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f6974b2b7bae-1.jpg</picture>
+        <description><![CDATA[Оригинальный колпачки на ниппеля для БМВ. Комплект на 4 диска. Оригинальный номер 36122447402]]></description>
+      </offer>
+      <offer id="starsparts-9c0f4fa6ebd2" available="true">
+        <name>Чехлы для колес BMW M Performance, оригинал</name>
+        <categoryId>9716367</categoryId>
+        <price>92400</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9c0f4fa6ebd2-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9c0f4fa6ebd2-1.jpg</picture>
+        <description><![CDATA[Оригинальные чехлы для хранения комплекта колес BMW M Performance.]]></description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
