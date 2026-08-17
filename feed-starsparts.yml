@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-17 23:33">
+<yml_catalog date="2026-08-17 23:35">
   <shop>
     <name>Udeu.kz</name>
     <company>Udeu.kz</company>
@@ -13,6 +13,7 @@
       <category id="9716364">1-серия E81/E82/E87/E88 (2004-2014)</category>
       <category id="9716365">1-серия F20/F21 (2011-2017)</category>
       <category id="9716375">3-серия G20, G21 (2018-2024)</category>
+      <category id="9716376">3-серия М3 G80 (2020-2024)</category>
     </categories>
     <offers>
       <offer id="starsparts-146d52104390" available="true">
@@ -2573,6 +2574,246 @@ X1 E84   (09/2008 — 12/2015)]]></description>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-131e02af88e9-1.jpg</picture>
         <description><![CDATA[Коврики 3D в салон подходят для BMW Series 3 G20, 2019- седан, 4шт. (полиуретан) / БМВ Тройка — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-2ce7a1ba37e7" available="true">
+        <name>Коврики 3D в салон подходят для BMW Series 3, 2018-, правый руль хетчбек, Австралия, 4шт. (полиуретан) / БМВ Тройка</name>
+        <categoryId>9716375</categoryId>
+        <price>24094</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2ce7a1ba37e7-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2ce7a1ba37e7-1.jpg</picture>
+        <description><![CDATA[Коврики 3D в салон подходят для BMW Series 3, 2018-, правый руль хетчбек, Австралия, 4шт. (полиуретан) / БМВ Тройка — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-93c03dc5de1e" available="true">
+        <name>Тормозная система M Performance BMW G20, G21, G22, G23 оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>3640000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-93c03dc5de1e-0.jpg</picture>
+        <description><![CDATA[Тормозная система M Performance BMW G20, G21, G22, G23 оригинал — BMW. Запчасти для тормозов автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-397c205b8fd3" available="true">
+        <name>Сетка багажного отделения напольная BMW, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>31850</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-397c205b8fd3-0.jpg</picture>
+        <description><![CDATA[Оригинальная напольная сетка багажного отделения для БМВ.]]></description>
+      </offer>
+      <offer id="starsparts-1cfa8ebb2bf8" available="true">
+        <name>Наклейки M Sport BMW G80 оригинал</name>
+        <categoryId>9716376</categoryId>
+        <price>263900</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1cfa8ebb2bf8-0.jpg</picture>
+        <description><![CDATA[Наклейки M Sport BMW G80 оригинал — BMW. Эмблемы и наклейки для авто.]]></description>
+      </offer>
+      <offer id="starsparts-6f532ae1de1f" available="true">
+        <name>Наклейки M Sport BMW G82 оригинал</name>
+        <categoryId>9716376</categoryId>
+        <price>263900</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6f532ae1de1f-0.jpg</picture>
+        <description><![CDATA[Наклейки M Sport BMW G82 оригинал — BMW. Эмблемы и наклейки для авто.]]></description>
+      </offer>
+      <offer id="starsparts-1c7cb29c1c33" available="true">
+        <name>Решетки радиатора из настоящего карбона для BMW G80 M3 / G82 G83 M4 (2021+) xDrive Competition</name>
+        <categoryId>9716376</categoryId>
+        <price>268548</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1c7cb29c1c33-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1c7cb29c1c33-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1c7cb29c1c33-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1c7cb29c1c33-3.jpg</picture>
+        <description><![CDATA[Решетки радиатора из настоящего карбона для BMW G80 M3 / G82 G83 M4 (2021+) xDrive Competition — AX Carbon. Тюнинг решетки радиатора авто.]]></description>
+      </offer>
+      <offer id="starsparts-7b84e2c2ff6d" available="true">
+        <name>Задний спойлер MP Style из настоящего карбона для BMW M3 Touring G81 (2020+)</name>
+        <categoryId>9716376</categoryId>
+        <price>244846</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7b84e2c2ff6d-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7b84e2c2ff6d-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7b84e2c2ff6d-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7b84e2c2ff6d-3.jpg</picture>
+        <description><![CDATA[Задний спойлер MP Style из настоящего карбона для BMW M3 Touring G81 (2020+) — AX Carbon. Спойлеры для авто.]]></description>
+      </offer>
+      <offer id="starsparts-76c43cbf415c" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW M3 G80 3.0T 2022-2024</name>
+        <categoryId>9716376</categoryId>
+        <price>1055578</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-76c43cbf415c-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-76c43cbf415c-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-76c43cbf415c-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-76c43cbf415c-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW M3 G80 3.0T 2022-2024 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-017216d0b1a1" available="true">
+        <name>Рулевое колесо M Performance BMW G80, G82, G83 оригинал</name>
+        <categoryId>9716376</categoryId>
+        <price>870870</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Рулевое колесо M Performance BMW G80, G82, G83 оригинал — BMW. Накладки отделка для авто.]]></description>
+      </offer>
+      <offer id="starsparts-cd469e062f8f" available="true">
+        <name>Карбоновая накладка переднего крыла BMW G80 оригинал</name>
+        <categoryId>9716376</categoryId>
+        <price>400400</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Карбоновая накладка переднего крыла BMW G80 оригинал — BMW. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-badd0ae71820" available="true">
+        <name>Карбоновая вставка порога BMW G80 оригинал</name>
+        <categoryId>9716376</categoryId>
+        <price>1057420</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-badd0ae71820-0.jpg</picture>
+        <description><![CDATA[Карбоновая вставка порога BMW G80 оригинал — BMW. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-771b136d5286" available="true">
+        <name>Карбоновый сплиттер M Performance BMW G80, G82, G83 оригинал</name>
+        <categoryId>9716376</categoryId>
+        <price>1992900</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-771b136d5286-0.jpg</picture>
+        <description><![CDATA[Карбоновый сплиттер M Performance BMW G80, G82, G83 оригинал — BMW. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-17e472cc7ad6" available="true">
+        <name>Канарды M Performance BMW G80, G82, G83 оригинал</name>
+        <categoryId>9716376</categoryId>
+        <price>275730</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-17e472cc7ad6-0.jpg</picture>
+        <description><![CDATA[Канарды M Performance BMW G80, G82, G83 оригинал — BMW. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-718cf3290a51" available="true">
+        <name>Карбоновый элерон BMW M3 G80, левый, оригинал</name>
+        <categoryId>9716376</categoryId>
+        <price>968240</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-718cf3290a51-0.jpg</picture>
+        <description><![CDATA[Карбоновый элерон BMW M3 G80, левый, оригинал — BMW. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-188c11409b33" available="true">
+        <name>Карбоновый элерон BMW M3 G80, правый, оригинал</name>
+        <categoryId>9716376</categoryId>
+        <price>840000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-188c11409b33-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-188c11409b33-1.png</picture>
+        <description><![CDATA[Карбоновый элерон BMW M3 G80, правый, оригинал — BMW. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-532b2f7474e1" available="true">
+        <name>Накладки на боковые вентиляционные решетки (крылья) из карбона OEM Style для BMW M3 G80 / M4 G82/G83 (2021+)</name>
+        <categoryId>9716376</categoryId>
+        <price>90279</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-532b2f7474e1-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-532b2f7474e1-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-532b2f7474e1-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-532b2f7474e1-3.jpg</picture>
+        <description><![CDATA[Накладки на боковые вентиляционные решетки (крылья) из карбона OEM Style для BMW M3 G80 / M4 G82/G83 (2021+) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-f53e4324aef1" available="true">
+        <name>Накладка на боковое крыло (вентиляционное отверстие) из карбона MP Style для BMW M3 G80 (2021+)</name>
+        <categoryId>9716376</categoryId>
+        <price>205611</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f53e4324aef1-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f53e4324aef1-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f53e4324aef1-3.jpg</picture>
+        <description><![CDATA[Накладка на боковое крыло (вентиляционное отверстие) из карбона MP Style для BMW M3 G80 (2021+) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-75a89170c2aa" available="true">
+        <name>Накладки-&quot;брови&quot; на передние фары из карбона OEM Style для BMW M3 G80 (2021+)</name>
+        <categoryId>9716376</categoryId>
+        <price>215348</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-75a89170c2aa-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-75a89170c2aa-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-75a89170c2aa-3.jpg</picture>
+        <description><![CDATA[Накладки-"брови" на передние фары из карбона OEM Style для BMW M3 G80 (2021+) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-c4e50251d71c" available="true">
+        <name>Кожух системы охлаждения из карбона OEM Style для BMW G80/G81/G82/G83 (2021+)</name>
+        <categoryId>9716376</categoryId>
+        <price>133812</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c4e50251d71c-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c4e50251d71c-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c4e50251d71c-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c4e50251d71c-3.jpg</picture>
+        <description><![CDATA[Кожух системы охлаждения из карбона OEM Style для BMW G80/G81/G82/G83 (2021+) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-4f547e5e6853" available="true">
+        <name>Накладки-&quot;брови&quot; на фары MP Style из карбона для BMW M3 G80 (2021+)</name>
+        <categoryId>9716376</categoryId>
+        <price>181706</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4f547e5e6853-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4f547e5e6853-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4f547e5e6853-3.jpg</picture>
+        <description><![CDATA[Накладки-"брови" на фары MP Style из карбона для BMW M3 G80 (2021+) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-d5790b083f06" available="true">
+        <name>Накладки на передние воздухозаборники GT4 Style из карбона для BMW M3/M4 G80/G81/G82/G83 (2021+)</name>
+        <categoryId>9716376</categoryId>
+        <price>205989</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d5790b083f06-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d5790b083f06-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d5790b083f06-3.jpg</picture>
+        <description><![CDATA[Накладки на передние воздухозаборники GT4 Style из карбона для BMW M3/M4 G80/G81/G82/G83 (2021+) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-d9468fed3113" available="true">
+        <name>Карбоновый диффузор BMW G80, G82, G83 оригинал</name>
+        <categoryId>9716376</categoryId>
+        <price>1552460</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Карбоновый диффузор BMW G80, G82, G83 оригинал — BMW. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-af9c2af7392f" available="true">
+        <name>Передняя губа M Performance (3 секции) для BMW M3 G80 2020-2025</name>
+        <categoryId>9716376</categoryId>
+        <price>60928</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-af9c2af7392f-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-af9c2af7392f-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-af9c2af7392f-3.jpg</picture>
+        <description><![CDATA[Передняя губа M Performance (3 секции) для BMW M3 G80 2020-2025 — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-9b9bed1fda0e" available="true">
+        <name>Воздушные ножи Black Warrior (4 шт.) для BMW M3 G80 2020-2025</name>
+        <categoryId>9716376</categoryId>
+        <price>28584</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9b9bed1fda0e-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9b9bed1fda0e-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9b9bed1fda0e-3.jpg</picture>
+        <description><![CDATA[Воздушные ножи Black Warrior (4 шт.) для BMW M3 G80 2020-2025 — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-683fb5d6ae77" available="true">
+        <name>Передняя губа CS для BMW M3 G80 2020-2025</name>
+        <categoryId>9716376</categoryId>
+        <price>57156</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-683fb5d6ae77-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-683fb5d6ae77-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-683fb5d6ae77-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-683fb5d6ae77-3.jpg</picture>
+        <description><![CDATA[Передняя губа CS для BMW M3 G80 2020-2025 — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-3da6abd54d30" available="true">
+        <name>Накладка на задний диффузор из карбона OEM Style для BMW G80/G81/G82/G83 (2021+)</name>
+        <categoryId>9716376</categoryId>
+        <price>212646</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3da6abd54d30-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3da6abd54d30-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3da6abd54d30-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3da6abd54d30-3.jpg</picture>
+        <description><![CDATA[Накладка на задний диффузор из карбона OEM Style для BMW G80/G81/G82/G83 (2021+) — AX Carbon. Кузовные детали и обвес.]]></description>
       </offer>
       <offer id="starsparts-92259cc01368" available="true">
         <name>Масляный фильтр BMW MINI для моторов серии B32 B37, B38, B42, B47, B48, оригинал</name>
