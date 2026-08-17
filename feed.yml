@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-17 12:50">
+<yml_catalog date="2026-08-17 13:40">
   <shop>
     <name>Udeu.kz</name>
     <company>Udeu.kz</company>
@@ -12,12 +12,13 @@
       <category id="9716011">W465</category>
       <category id="9716013">W463A</category>
       <category id="9716014">W463</category>
+      <category id="9716040">Новые товары (разобрать)</category>
     </categories>
     <offers>
       <offer id="kubaydesign-7c2ff627a9" available="true">
         <name>Безрамные окна W463A 2024+ для Mercedes-Benz G-Class W463 2002–2018</name>
         <categoryId>9716013</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-7c2ff627a9-0.jpg</picture>
         <description><![CDATA[Комплект для модернизации окон Mercedes G-Class W463 (2002–2018 годов) до безрамного исполнения в стиле актуальных моделей W463A 2024+. Преображает экстерьер вашего Гелендвагена, придавая ему современный облик G63, G800 или G900. В Udeu.kz — оригинальные решения для тюнинга с доставкой по Казахстану.]]></description>
@@ -26,7 +27,7 @@
       <offer id="kubaydesign-f49d0a07a3" available="true">
         <name>Лебёдка из нержавеющей стали для Mercedes-Benz G-Class W463</name>
         <categoryId>9716014</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-f49d0a07a3-0.jpg</picture>
         <description><![CDATA[Металлическая лебёдка из нержавеющей стали для Mercedes-Benz G-Class W463. Прочная конструкция обеспечивает надёжную работу в условиях бездорожья. Точная посадка и долговечность материала гарантируют уверенное использование в любых ситуациях. Закажите в Udeu.kz с доставкой по Астане и Казахстану.]]></description>
@@ -35,7 +36,7 @@
       <offer id="kubaydesign-2800ec55b7" available="true">
         <name>Карбоновый спойлер на крышу с LED-подсветкой для Mercedes-Benz G-Class W463A W464</name>
         <categoryId>9716013</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-2800ec55b7-0.jpg</picture>
         <description><![CDATA[Оригинальный карбоновый спойлер на переднюю часть крыши для Mercedes-Benz G-Class W463A (2018+) и W464. Изготовлен из 100% сухого карбона методом dry carbon, со встроенной заводской LED-подсветкой. Артикул A4638807303/008, точное соответствие заводским креплениям. В Udeu.kz — быстрая доставка по Астане и всему Казахстану, гарантия качества.]]></description>
@@ -44,7 +45,7 @@
       <offer id="kubaydesign-9424298878" available="true">
         <name>Красные кожаные коврики AMG для Mercedes-Benz G-Class W463A</name>
         <categoryId>9716013</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-9424298878-0.jpg</picture>
         <description><![CDATA[Набор из 7 ковриков ручной работы из глубокой красной автомобильной кожи с фирменной стёганой строчкой для G-Class W463A (2018+). Премиальная водостойкая кожа с усиленными накладками в зоне пяток обеспечивает полную защиту салона и придаёт интерьеру спортивный стиль AMG. В Udeu.kz вы получаете оригинальное качество с доставкой по Казахстану.]]></description>
@@ -53,7 +54,7 @@
       <offer id="kubaydesign-2041e4fef1" available="true">
         <name>Расширители задних арок из стеклопластика для Mercedes-Benz G-Class W463 6×6</name>
         <categoryId>9716014</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-2041e4fef1-0.png</picture>
         <description><![CDATA[Прочные широкие расширители арок из стеклопластика для Mercedes-Benz G-Class W463 6×6. Обеспечивают дополнительную защиту при оффроуд-езде и придают вашему G-Wagon брутальный, агрессивный внешний вид. Качественное исполнение и точная посадка гарантируют долговечность и эффектный результат.]]></description>
@@ -62,7 +63,7 @@
       <offer id="kubaydesign-1bd7441967" available="true">
         <name>Накладка на заднюю дверь AMG из стеклопластика для Mercedes-Benz G-Class W463</name>
         <categoryId>9716014</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-1bd7441967-0.jpg</picture>
         <description><![CDATA[Стильная накладка в стиле AMG на заднюю дверь из прочного стеклопластика для Mercedes-Benz G-Class W463. Придает внедорожнику более агрессивный спортивный вид и подчеркивает индивидуальность. Качественное изготовление и точная посадка гарантируют долговечность и эстетичный результат.]]></description>
@@ -71,7 +72,7 @@
       <offer id="kubaydesign-d2cd603d14" available="true">
         <name>Кольцо-накладка на запасное колесо из стеклопластика для Mercedes-Benz G-Class W463A W465</name>
         <categoryId>9716011</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-d2cd603d14-0.jpg</picture>
         <description><![CDATA[Внешнее кольцо на задний кронштейн запасного колеса для Mercedes G-Class W463A (2018–2024) и W465 (2025+). Изготовлено из прочного армированного стеклопластика с матовой грунтовкой под окраску в цвет кузова. Устанавливается на штатное место без доработок, точно повторяет заводские крепления. Придаёт задней части G-Class завершённый внешний вид — закажите в Udeu.kz с доставкой по Астане и Казахстану.]]></description>
@@ -80,7 +81,7 @@
       <offer id="kubaydesign-2a9afff3d7" available="true">
         <name>Комплект для переделки салона Mercedes G-Class W463 в стиль W465 (2001-2013)</name>
         <categoryId>9716011</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-2a9afff3d7-0.jpg</picture>
         <description><![CDATA[Апгрейд интерьера Mercedes G-Class W463 (2001-2013 г.в.) в современный стиль W465. Комплект включает панель приборов, декоративные накладки и элементы отделки салона с заводским качеством интеграции. Позволяет обновить внешний вид салона без замены всего автомобиля. В Udeu.kz — только оригинальные комплектующие с гарантией совместимости.]]></description>
@@ -89,7 +90,7 @@
       <offer id="kubaydesign-ec2b5853b3" available="true">
         <name>Передняя защита бампера (кенгурятник) для Mercedes-Benz G-Class W463</name>
         <categoryId>9716014</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-ec2b5853b3-0.jpg</picture>
         <description><![CDATA[Стильная и надёжная защита переднего бампера для Mercedes-Benz G-Class W463. Кенгурятник не только придаёт внедорожнику брутальный вид, но и защищает кузов от повреждений при езде по бездорожью и в городе. В Udeu.kz вы найдёте качественный тюнинг с гарантией и доставкой по Казахстану.]]></description>
@@ -98,7 +99,7 @@
       <offer id="kubaydesign-e3ee13d2ab" available="true">
         <name>Задние сиденья с центральной мультифункциональной панелью для Mercedes-Benz G-Class W463A/W465</name>
         <categoryId>9716011</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-e3ee13d2ab-0.jpg</picture>
         <description><![CDATA[Премиальные задние сиденья с центральной панелью для Mercedes-Benz G-Class W463A/W465. Выполнены из роскошных материалов с возможностью выбора цвета обивки и опциональными откидными столиками. Обеспечивают максимальный комфорт и элегантный вид салона вашего Гелендвагена. В Udeu.kz вы получаете оригинальное качество с доставкой по Казахстану.]]></description>
@@ -107,7 +108,7 @@
       <offer id="kubaydesign-50a36f0441" available="true">
         <name>Механическая складная крыша Landaulet в стиле Maybach для Mercedes-Benz G-Class W463</name>
         <categoryId>9716014</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-50a36f0441-0.jpg</picture>
         <description><![CDATA[Эксклюзивная механическая складная крыша в стиле Maybach Landaulet для четырёхдверного Mercedes-Benz G-Class W463. Превратите свой G-Класс в роскошный кабриолет с открытой задней частью салона. Премиальное решение для тех, кто ценит уникальность и комфорт — закажите в Udeu.kz с доставкой по Казахстану.]]></description>
@@ -116,7 +117,7 @@
       <offer id="kubaydesign-d6f8bd65c2" available="true">
         <name>Карбоновый руль с кожаными вставками для Mercedes-Benz G-Class W463A и S-Class W222</name>
         <categoryId>9716013</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-d6f8bd65c2-0.jpg</picture>
         <description><![CDATA[Спортивный руль со срезанным низом от Kubay Design, изготовленный вручную из глянцевого карбона и перфорированной кожи. Разработан для прямой замены штатного руля на Mercedes-Benz G-Class W463A и S-Class W222 без доработок. Сочетает стильный внешний вид и улучшенный хват благодаря кожаным боковым накладкам. В Udeu.kz вы получаете оригинальные тюнинг-решения с доставкой по Казахстану.]]></description>
@@ -125,7 +126,7 @@
       <offer id="kubaydesign-d9c211d7ac" available="true">
         <name>Автоматическая система задней двери для Mercedes-Benz G-Class W463A</name>
         <categoryId>9716013</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-d9c211d7ac-0.jpg</picture>
         <description><![CDATA[Электропривод задней двери для Mercedes-Benz G-Class W463A (2019+). Открывание и закрывание багажника одним нажатием кнопки на пульте. Комплект включает мощный привод, блок управления, проводку и крепёж для установки. В Udeu.kz — только оригинальное оборудование с гарантией качества и профессиональной поддержкой при монтаже.]]></description>
@@ -134,7 +135,7 @@
       <offer id="kubaydesign-3254b3600b" available="true">
         <name>Руль карбон и кожа для Mercedes G-Class W463, CLK W209, E W211, CLS W219</name>
         <categoryId>9716014</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-3254b3600b-0.jpg</picture>
         <description><![CDATA[Спортивный руль с карбоновыми вставками и кожаной отделкой на базе оригинала Mercedes. Прямая установка на G-Class W463, CLK W209, E-Class W211 и CLS W219 без переделок. Премиальное качество исполнения, поставляется без подушки безопасности. В Udeu.kz — быстрая доставка по Астане и всему Казахстану.]]></description>
@@ -143,7 +144,7 @@
       <offer id="kubaydesign-cc4c357b88" available="true">
         <name>Карбоновые насадки на выхлопные трубы с LED-подсветкой для Mercedes-Benz G-Class W463A/W463/W465</name>
         <categoryId>9716011</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-cc4c357b88-0.jpg</picture>
         <description><![CDATA[Эксклюзивные насадки на выхлопные трубы из нержавеющей стали с карбоновым покрытием и LED-подсветкой (красная или синяя) для Mercedes-Benz G-Class. Премиальный дизайн от Kubay Design подчеркнёт спортивный характер вашего Гелендвагена и добавит ему индивидуальности. В Udeu.kz — быстрая доставка по Астане и всему Казахстану, гарантия качества.]]></description>
@@ -152,7 +153,7 @@
       <offer id="kubaydesign-abfd0fe88f" available="true">
         <name>Карбоновые расширители арок для Mercedes-Benz G-Class W463 4×4 Squared</name>
         <categoryId>9716014</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-abfd0fe88f-0.jpg</picture>
         <description><![CDATA[Расширители колёсных арок из натурального карбона для Mercedes-Benz G-Class W463 в версии 4×4 Squared. Лёгкие, прочные, с глянцевым UV-покрытием и точной заводской посадкой. Придают Гелику агрессивный внедорожный облик и защищают кузов от грязи и камней. В Udeu.kz — оригинальное качество, быстрая доставка по Казахстану.]]></description>
@@ -161,7 +162,7 @@
       <offer id="kubaydesign-ba3bc9e6b1" available="true">
         <name>Переделка Mercedes-Benz G-Class W463A/W465 в формат 6×6</name>
         <categoryId>9716011</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-ba3bc9e6b1-0.jpg</picture>
         <description><![CDATA[Профессиональная конверсия вашего Mercedes-Benz G-Class W463A или W465 (с 2019 года) в шестиколёсный внедорожник формата 6×6. Включает удлинение рамы, установку третьей оси и кузов в стиле пикап с заводским качеством исполнения. Работы проводятся на вашем автомобиле в мастерской Kubay Design в Польше, срок выполнения — 4-5 месяцев. Получите мощный шестиколёсный Гелендваген для серьёзного оффроуда.]]></description>
@@ -170,7 +171,7 @@
       <offer id="kubaydesign-a33b815449" available="true">
         <name>Карбоновый обвес Basic PLUS для Mercedes-Benz G-Class W463</name>
         <categoryId>9716014</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-a33b815449-0.jpg</picture>
         <description><![CDATA[Стильный кузовной обвес из карбона для Mercedes-Benz G-Class W463. Придаёт внедорожнику спортивный характер и подчёркивает индивидуальность. Лёгкий, прочный материал обеспечивает отличный внешний вид без лишней нагрузки на кузов. В Udeu.kz вы получите оригинальное качество с гарантией и удобной доставкой по Казахстану.]]></description>
@@ -179,7 +180,7 @@
       <offer id="kubaydesign-e94dc2e55b" available="true">
         <name>Мультимедийный тачпад контроллер W465 для Mercedes-Benz G-Class W463A 2019–2024</name>
         <categoryId>9716011</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-e94dc2e55b-0.jpg</picture>
         <description><![CDATA[Сенсорный контроллер мультимедиа в стиле W465 для Mercedes G-Class W463A (2019–2024 года). Прямая интеграция со штатной системой без переделок. Доступен в трёх вариантах отделки: пластик, текстура дерева или натуральный карбон — выбирайте под интерьер вашего автомобиля. В Udeu.kz поможем с подбором и быстрой доставкой по Казахстану.]]></description>
@@ -188,7 +189,7 @@
       <offer id="kubaydesign-7ea8ec0b84" available="true">
         <name>Эмблемы 900 на крылья для Mercedes-Benz G-Class W463/W463A/W465 (Tiffany Blue)</name>
         <categoryId>9716011</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-7ea8ec0b84-0.jpg</picture>
         <description><![CDATA[Металлические эмблемы 900 с глянцевыми буквами цвета Tiffany Blue для установки на передние крылья Mercedes-Benz G-Class. Изготовлены из нержавеющей стали, крепятся на самоклеящуюся основу. В комплекте 2 шильдика — на левое и правое крыло. Стильный акцент для вашего Гелендвагена от Udeu.kz.]]></description>
@@ -197,7 +198,7 @@
       <offer id="kubaydesign-378497b461" available="true">
         <name>Накладки на пороги AMG Edition 55 с красной LED-подсветкой для Mercedes-Benz G63 W463A W464</name>
         <categoryId>9716013</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-378497b461-0.jpg</picture>
         <description><![CDATA[Комплект из 4 стальных накладок на пороги AMG Edition 55 с красной светодиодной подсветкой для Mercedes-Benz G63 AMG W463A и W464. Изготовлены из матовой нержавеющей стали с лазерной гравировкой логотипа AMG, включают проводку для подключения к штатной подсветке дверных проёмов. Защищают пороги от царапин и придают интерьеру спортивный характер.]]></description>
@@ -206,7 +207,7 @@
       <offer id="kubaydesign-57d9efbdfb" available="true">
         <name>Решётка радиатора карбон (3 детали) для Mercedes-Benz G-Class W463/W463A</name>
         <categoryId>9716013</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-57d9efbdfb-0.jpg</picture>
         <description><![CDATA[Трёхчастная передняя решётка из карбона для Mercedes-Benz G-Class W463 и W463A. Придаёт Гелендвагену агрессивный спортивный вид и подчёркивает статус владельца. В Udeu.kz вы получите оригинальное качество, быструю доставку по Казахстану и гарантию на все комплектующие.]]></description>
@@ -215,7 +216,7 @@
       <offer id="kubaydesign-9e3a8565c5" available="true">
         <name>Комплект XLP Off-Road для переделки Mercedes-Benz G-Class W463 в пикап</name>
         <categoryId>9716014</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-9e3a8565c5-0.jpg</picture>
         <description><![CDATA[Полный комплект для трансформации Mercedes G-Class W463 в пикап в стиле XLP Off-Road. Включает усиленные кузовные элементы, возможность установки современного экстерьера и профессиональную сборку от Kubay Design. Превратите свой Гелендваген в брутальный внедорожный пикап с улучшенной функциональностью и эксклюзивным дизайном. В Udeu.kz — комплексные решения для тюнинга премиальных внедорожников с доставкой по Казахстану.]]></description>
@@ -224,7 +225,7 @@
       <offer id="kubaydesign-dd5f9cab47" available="true">
         <name>Карбоновые крышки двигателя для Mercedes-Benz G-Class W463A AMG G63</name>
         <categoryId>9716013</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-dd5f9cab47-0.jpg</picture>
         <description><![CDATA[Набор декоративных накладок в моторный отсек из натурального карбона для G63 AMG W463A (2018+). Изготовлены из 100% углеволокна с защитным UV-покрытием, доступны в глянцевом и матовом исполнении. Термостойкий композитный комплект устанавливается напрямую поверх штатных элементов без модификаций. Эффектный способ придать подкапотному пространству вашего G-класса спортивный облик.]]></description>
@@ -233,7 +234,7 @@
       <offer id="kubaydesign-327f9a4c3f" available="true">
         <name>Карбоновый диффузор заднего бампера для Mercedes-Benz G63 AMG W463A</name>
         <categoryId>9716013</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-327f9a4c3f-0.jpg</picture>
         <description><![CDATA[Накладка-диффузор на задний бампер из натурального карбона для G63 AMG W463A (2018+). Изготовлена из 100% углеволокна с защитным глянцевым или матовым покрытием. Устанавливается напрямую в штатные каналы заднего бампера AMG, придавая задней части более агрессивный спортивный вид. В Udeu.kz вы получите оригинальные комплектующие с гарантией качества и доставкой по Казахстану.]]></description>
@@ -242,7 +243,7 @@
       <offer id="kubaydesign-01fdc53dc6" available="true">
         <name>Колесные проставки из алюминия 5×130 для Mercedes-Benz G-Class W463</name>
         <categoryId>9716014</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-01fdc53dc6-0.jpg</picture>
         <description><![CDATA[Алюминиевые проставки для дисков Mercedes-Benz G-Class W463 с разболтовкой 5×130 и размером 110×160 мм. Легкие, прочные и точно изготовленные адаптеры улучшают внешний вид автомобиля и повышают устойчивость на дороге. В Udeu.kz вы получите оригинальные комплектующие для вашего внедорожника с гарантией качества и доставкой по Казахстану.]]></description>
@@ -251,7 +252,7 @@
       <offer id="kubaydesign-179cffb1ee" available="true">
         <name>Карбоновая накладка на решётку радиатора Mercedes-Benz G-Class W465 2025+</name>
         <categoryId>9716011</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-179cffb1ee-0.jpg</picture>
         <description><![CDATA[Стильная накладка из углеродного волокна с глянцевым покрытием для передней решётки вашего Гелендвагена. Придаёт агрессивный спортивный вид, при этом остаётся лёгкой и прочной. Идеально подходит для Mercedes-Benz G-Class W465 2025 года и новее. Закажите в Udeu.kz с доставкой по Казахстану.]]></description>
@@ -260,7 +261,7 @@
       <offer id="kubaydesign-f4c29a4c29" available="true">
         <name>Карбоновые накладки на пороги Mercedes-Benz G-Class W463A W464</name>
         <categoryId>9716013</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-f4c29a4c29-0.jpg</picture>
         <description><![CDATA[Комплект из 4 накладок на углы штатных подножек из натурального карбона с глянцевым UV-защищённым покрытием. Устанавливаются поверх заводских торцевых заглушек порогов, придавая G-Class более спортивный вид и защищая кромки ступеней от сколов. Подходят на модели W463A и W464.]]></description>
@@ -269,7 +270,7 @@
       <offer id="kubaydesign-98673700ab" available="true">
         <name>Обновление салона Mercedes G-Class W463 (2001-2012) в стиль W463A</name>
         <categoryId>9716013</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-98673700ab-0.webp</picture>
         <description><![CDATA[Комплект для модернизации интерьера Mercedes G-Class W463 2001-2012 годов в современный стиль W463A 2019-2024. Доступны два варианта: консольный селектор с чехлами на сиденья или полная конверсия с подрулевым селектором и новыми сиденьями. В магазине Udeu.kz вы получаете качественный тюнинг с возможностью установки у проверенных партнеров.]]></description>
@@ -278,7 +279,7 @@
       <offer id="kubaydesign-ace8dcf57b" available="true">
         <name>Накладки на ручки дверей карбон для Mercedes-Benz G-Class W463A W464 2019+</name>
         <categoryId>9716013</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-ace8dcf57b-0.jpg</picture>
         <description><![CDATA[Комплект из 5 накладок на внутреннюю часть внешних дверных ручек из натурального серого карбона с глянцевым UV-защитным покрытием. Разработаны специально для G-Class W463A и W464 с 2019 года выпуска. Крепятся на прочную двустороннюю ленту в углубления ручек, защищая краску от царапин и придавая автомобилю спортивный вид. Автоклавная технология изготовления гарантирует долговечность и премиальное качество.]]></description>
@@ -287,7 +288,7 @@
       <offer id="kubaydesign-373c4d8139" available="true">
         <name>Накладки на пороги AMG с подсветкой для Mercedes-Benz G-Class W463 6×6</name>
         <categoryId>9716014</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-373c4d8139-0.jpg</picture>
         <description><![CDATA[Светящиеся накладки на внутренние пороги в стиле AMG для Mercedes-Benz G-Class W463 6×6. Защищают пороги от царапин и потёртостей, добавляют премиальный вид салону и подчёркивают спортивный характер вашего G-Wagon. Создают эффектную подсветку при открывании дверей и повышают статус интерьера.]]></description>
@@ -296,7 +297,7 @@
       <offer id="kubaydesign-4fdaadcc21" available="true">
         <name>Ручка на стойку для Mercedes-Benz G-Class W463A (2019-2025)</name>
         <categoryId>9716013</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-4fdaadcc21-0.jpg</picture>
         <description><![CDATA[Премиальная ручка-держатель на передней стойке для Mercedes G-Class W463A 2019-2025 годов. Точное повторение оригинала с возможностью выбора отделки под интерьер вашего автомобиля. Практичное и стильное решение для улучшения комфорта салона. В Udeu.kz — быстрая доставка по Астане и всему Казахстану.]]></description>
@@ -305,7 +306,7 @@
       <offer id="kubaydesign-b982db7714" available="true">
         <name>Руль карбоновый с кожей плоский низ для Mercedes G GL ML (W463 W166 X166)</name>
         <categoryId>9716014</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-b982db7714-0.jpg</picture>
         <description><![CDATA[Спортивный руль с карбоновым центром и кожаной отделкой, плоский низ. Разработан специально для Mercedes G-Class W463, GL/GLE W166 и ML X166. Устанавливается на штатное место без доработок, изготавливается под заказ на оригинальной базе. Поставляется без подушки безопасности — используйте штатную.]]></description>
@@ -314,7 +315,7 @@
       <offer id="kubaydesign-5b8981f9d8" available="true">
         <name>Кронштейны переднего бампера AMG из карбона для Mercedes-Benz G-Class W463 / W463 6×6</name>
         <categoryId>9716014</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-5b8981f9d8-0.jpg</picture>
         <description><![CDATA[Карбоновые кронштейны переднего бампера в стиле AMG для Mercedes-Benz G-Class W463, включая версию 6×6. Лёгкие, прочные и стильные — придают внешности характер и снижают вес. Премиальное качество исполнения для тех, кто ценит детали. Заказывайте в Udeu.kz с доставкой по Казахстану.]]></description>
@@ -323,7 +324,7 @@
       <offer id="kubaydesign-6f96231642" available="true">
         <name>Эмблема 700 BITURBO Metal Gray для Mercedes-Benz G-Class W463A W464</name>
         <categoryId>9716013</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-6f96231642-0.jpg</picture>
         <description><![CDATA[Стальной набор из 16 элементов с черными буквами на металлическом сером основании для крыльев G-Class W463A (2018+). Самоклеящиеся накладки в стиле BITURBO придают внешности автомобиля спортивный и эксклюзивный вид. Комплект включает элементы для левого и правого крыла, легко устанавливается без сверления.]]></description>
@@ -332,7 +333,7 @@
       <offer id="kubaydesign-9ed698e66c" available="true">
         <name>Полный обвес W465 с люкс-салоном для Mercedes-Benz G-Class W463 2001-2018</name>
         <categoryId>9716011</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-9ed698e66c-0.jpg</picture>
         <description><![CDATA[Комплексная трансформация вашего G-Class W463 в стиль W465 нового поколения. Включает премиальные внешние панели кузова и полный апгрейд салона в люкс-версию. Заводское качество посадки и безупречный внешний вид — превратите свой Гелендваген в актуальную модель без замены автомобиля. В Udeu.kz гарантируем оригинальное качество и профессиональную поддержку при установке.]]></description>
@@ -341,7 +342,7 @@
       <offer id="kubaydesign-7d9472bf8b" available="true">
         <name>Светящиеся эмблемы-ракеты для крыльев Mercedes-Benz G-Class W463A</name>
         <categoryId>9716013</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-7d9472bf8b-0.jpg</picture>
         <description><![CDATA[Набор из двух эмблем с красной LED-подсветкой для установки в воздуховоды передних крыльев G-Class W463A (2018+). Корпус из атмосферостойкого ABS-пластика, яркая красная подсветка и простое подключение через штатные разъёмы. Стильный акцент для вашего Гелендвагена от Udeu.kz — доставка по Астане и всему Казахстану.]]></description>
@@ -350,7 +351,7 @@
       <offer id="kubaydesign-91c56adfda" available="true">
         <name>Руль M Style из карбона и алькантары для Mercedes-Benz G-Class W463, GL X166, ML W166</name>
         <categoryId>9716014</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-91c56adfda-0.jpg</picture>
         <description><![CDATA[Спортивный руль в стиле M с плоским верхом и низом, отделкой из карбона и алькантары. Подходит для Mercedes-Benz G-Class W463, GL X166 и ML W166. Премиальный апгрейд от Kubay Design, который преобразит салон вашего автомобиля и добавит спортивного характера. Закажите в Udeu.kz с доставкой по Казахстану.]]></description>
@@ -359,7 +360,7 @@
       <offer id="kubaydesign-ea5e5df3f4" available="true">
         <name>Полная выхлопная система Akrapovic для Mercedes-Benz G63 AMG G500 W463A W464 2018–2022</name>
         <categoryId>9716013</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-ea5e5df3f4-0.jpg</picture>
         <description><![CDATA[Полностью из нержавеющей стали спортивная выхлопная система для Mercedes G-Class W463A (G63 AMG и G500 V8, 2018–2022 годы). В комплект входят коллекторы, средние трубы, настроенные глушители, двойные боковые насадки и крепёж. Улучшает звучание и производительность двигателя. Заказывайте в Udeu.kz с доставкой по Казахстану.]]></description>
@@ -368,7 +369,7 @@
       <offer id="kubaydesign-955c8e5666" available="true">
         <name>Карбоновые расширители арок Rocket 900 для Mercedes-Benz G-Class W463A</name>
         <categoryId>9716013</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-955c8e5666-0.jpg</picture>
         <description><![CDATA[Комплект карбоновых расширителей арок в стиле Rocket 900 для G-Class W463A (2018+). Изготовлены из настоящего углеволокна с UV-защитным глянцевым покрытием. В комплекте 4 элемента для передних и задних колёсных арок — готовое решение для widebody-тюнинга вашего Гелендвагена от Udeu.kz.]]></description>
@@ -377,7 +378,7 @@
       <offer id="kubaydesign-036e1a2a70" available="true">
         <name>Эмблема AMG из карбона на запаску Mercedes-Benz G-Class W463A W464</name>
         <categoryId>9716013</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-036e1a2a70-0.jpg</picture>
         <description><![CDATA[Оригинальная карбоновая эмблема AMG для крышки запасного колеса G-Class W463A и W464 от Kubay Design. Изготовлена из настоящего углеволокна с глянцевым UV-защитным покрытием серого оттенка. Крепится на клеевую основу непосредственно на AMG-стайл крышку запаски. В Udeu.kz вы получаете качественный тюнинг с гарантией подлинности материалов.]]></description>
@@ -386,7 +387,7 @@
       <offer id="kubaydesign-4a79d8a08c" available="true">
         <name>Светодиодные фонари для переднего спойлера крыши Mercedes-Benz G-Class W463 1979-2018</name>
         <categoryId>9716014</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-4a79d8a08c-0.jpg</picture>
         <description><![CDATA[Комплект LED-подсветки для переднего спойлера на крыше Mercedes-Benz G-Class W463. Подходит для моделей 1979-2018 годов выпуска. Придает внедорожнику стильный современный вид и улучшает освещенность в темное время суток. В Udeu.kz — оригинальные решения для тюнинга вашего Гелендвагена с доставкой по Казахстану.]]></description>
@@ -395,7 +396,7 @@
       <offer id="kubaydesign-eb77d66a83" available="true">
         <name>Накладка на воздухозаборник капота из карбона для Mercedes-Benz G-Class W463A</name>
         <categoryId>9716013</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-eb77d66a83-0.jpg</picture>
         <description><![CDATA[Карбоновая накладка на воздухозаборник капота для Mercedes-Benz G-Class W463A от Kubay Design. Изготовлена из 100% настоящего карбона с глянцевым UV-покрытием для защиты от выцветания. Обеспечивает идеальную посадку и придаёт автомобилю спортивный облик. Закажите в Udeu.kz с доставкой по Астане и Казахстану.]]></description>
@@ -404,7 +405,7 @@
       <offer id="kubaydesign-e5b5378895" available="true">
         <name>Передняя лебёдка для Mercedes-Benz G-Class W463A (G63 / G500)</name>
         <categoryId>9716013</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-e5b5378895-0.jpg</picture>
         <description><![CDATA[Мощная электрическая лебёдка для установки в передний бампер Mercedes-Benz G-Class W463A (G63 и G500). Обеспечивает высокое тяговое усилие для эвакуации и оффроуда. При заказе укажите тип бампера — G63 или G500. Быстрая доставка по Казахстану от Udeu.kz.]]></description>
@@ -413,7 +414,7 @@
       <offer id="kubaydesign-d01f47d9ae" available="true">
         <name>Спойлер на крышу из карбона со светодиодами для Mercedes-Benz G-Class W463A W464</name>
         <categoryId>9716013</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-d01f47d9ae-0.jpg</picture>
         <description><![CDATA[Аэродинамический козырёк на переднюю часть крыши из настоящего серого карбона с интегрированной LED-подсветкой. Изделие имеет глянцевое UV-защищённое покрытие и устанавливается над лобовым стеклом, улучшая внешний вид автомобиля и обеспечивая дополнительное освещение при оффроуд-поездках. Подходит для Mercedes-Benz G-Class W463A и W464.]]></description>
@@ -422,7 +423,7 @@
       <offer id="kubaydesign-3796315f40" available="true">
         <name>Система автоматической подкачки шин (CTIS) для Mercedes-Benz G-Class W463</name>
         <categoryId>9716014</categoryId>
-        <price>2</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-3796315f40-0.jpg</picture>
         <description><![CDATA[Интеллектуальная система контроля давления в шинах с автоматической подкачкой для Mercedes-Benz G-Class W463. Позволяет управлять давлением в режиме реального времени, улучшает проходимость и тяговые характеристики на бездорожье. Идеальное решение для серьёзного оффроуда — регулируйте давление прямо из салона без остановок.]]></description>
@@ -431,7 +432,7 @@
       <offer id="kubaydesign-e20a4326a5" available="true">
         <name>Карбоновая накладка на крышу с А-стойками для Mercedes-Benz G-Class W465 2024+</name>
         <categoryId>9716011</categoryId>
-        <price>3</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-e20a4326a5-0.jpg</picture>
         <description><![CDATA[Верхняя накладка на крышу из карбона с элементами А-стоек для Mercedes-Benz G-Class W465 (2024+). Глянцевое покрытие с UV-защитой придаёт Гелендвагену спортивный характер и подчёркивает статус. Точная посадка, прочная конструкция и премиальный внешний вид — идеальный апгрейд экстерьера. В Udeu.kz гарантируем оригинальное качество и быструю доставку по Казахстану.]]></description>
@@ -440,7 +441,7 @@
       <offer id="kubaydesign-3813b14a4a" available="true">
         <name>Кожаные сиденья с центральной консолью для Mercedes-Benz G-Class W463A W465</name>
         <categoryId>9716011</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-3813b14a4a-0.jpg</picture>
         <description><![CDATA[Полная переделка салона в четырёхместную executive-конфигурацию для G-Class W463A (2018–2024) и W465 (2025+). Вместо штатных сидений устанавливаются четыре индивидуальных спортивных кресла и центральная консоль во всю длину салона, обтянутые премиальной автомобильной кожей. Решение от Kubay Design превращает G-Class в люксовый четырёхместный интерьер с максимальным комфортом для каждого пассажира.]]></description>
@@ -449,7 +450,7 @@
       <offer id="kubaydesign-76a131955a" available="true">
         <name>Широкий боди-кит GV12 для Mercedes-Benz G-Class W463A G63 AMG</name>
         <categoryId>9716013</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-76a131955a-0.webp</picture>
         <description><![CDATA[Полный комплект широкого обвеса для Mercedes-Benz G-Class W463A G63 AMG 2019 года и новее от Kubay Design. В комплект входят расширители арок, бамперы из полиуретана, карбоновые воздухозаборники на капот, спойлер на крышу, LED-накладки, шильдики и четыре выхлопных насадки. Превратите стандартный G63 в агрессивный широкий суперкар с уникальным стилем. Заказывайте в Udeu.kz с доставкой по Казахстану.]]></description>
@@ -458,460 +459,461 @@
       <offer id="kubaydesign-9883bf9b15" available="true">
         <name>Передняя защита днища хром для Mercedes-Benz G-Class W463 6×6</name>
         <categoryId>9716014</categoryId>
-        <price>1</price>
+        <price>0</price>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-9883bf9b15-0.jpg</picture>
         <description><![CDATA[Усиленная стальная защита днища с хромированным покрытием для Mercedes-Benz G-Class W463 6×6. Сочетает надежную защиту подвески и агрегатов с премиальным внешним видом. Идеальное решение для владельцев G-Wagon, которые ценят функциональность и стиль. В наличии в Udeu.kz с доставкой по Казахстану.]]></description>
         <keywords>Mercedes-Benz G-Class, W463, защита днища, 6x6, хром, G-Wagon, экстерьер</keywords>
       </offer>
-      <offer id="kubaydesign-a837c1ffce" available="true">
-        <name>Накладки на спинки сидений из карбона для Mercedes-Benz G-Class W465 2025+</name>
-        <categoryId>9716011</categoryId>
+      <offer id="kubaydesign-a3e7cc8b39" available="true">
+        <name>Пневмоподушка задняя правая (Sport) для BMW X5 E53 1999-2006</name>
+        <categoryId>9716040</categoryId>
+        <price>3</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-a3e7cc8b39-0.jpg</picture>
+        <description><![CDATA[Задняя правая пневмоподушка для BMW X5 E53 (1999-2006 годов выпуска), спортивная версия. Заменяет оригинальную деталь с артикулом 37126750356. Изготовлена из качественных материалов, обеспечивает точную посадку, восстанавливает дорожный просвет и комфорт подвески. В Udeu.kz вы найдете проверенные запчасти с гарантией качества.]]></description>
+        <keywords>BMW X5 E53, пневмоподушка, пневмоподвеска, задняя подвеска, air spring, запчасти БМВ</keywords>
+      </offer>
+      <offer id="kubaydesign-93976ef2f4" available="true">
+        <name>Карбоновые накладки на фары для Mercedes-Benz G-Class W463A W464</name>
+        <categoryId>9716013</categoryId>
         <price>2</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-a837c1ffce-0.jpg</picture>
-        <description><![CDATA[Карбоновые накладки на спинки передних сидений для Mercedes-Benz G-Class W465 с 2025 года. Легкие, с UV-защитой, идеально вписываются в заводской интерьер и придают салону спортивный характер. В Udeu.kz — быстрая доставка по Астане и всему Казахстану, гарантия качества.]]></description>
-        <keywords>карбон, G-Class, W465, Mercedes-Benz, накладки сидений, интерьер, тюнинг салона, 2025</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-93976ef2f4-0.jpg</picture>
+        <description><![CDATA[Двухэлементный комплект накладок на передние фары из натурального серого карбона для G-Class W463A и W464. Материал изготовлен по технологии автоклавного отверждения с глянцевым UV-защитным покрытием. Накладки заменяют стандартные окрашенные ободки фар, придавая передней части автомобиля более агрессивный спортивный вид. Точная посадка гарантирует простую установку без зазоров.]]></description>
+        <keywords>карбон, накладки на фары, G-Class, W463A, W464, Mercedes-Benz, экстерьер, тюнинг</keywords>
       </offer>
-      <offer id="kubaydesign-3bcef72ef1" available="true">
-        <name>Накладка на запасное колесо AMG для Mercedes-Benz G-Class W463</name>
-        <categoryId>9716014</categoryId>
-        <price>2</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-3bcef72ef1-0.jpg</picture>
-        <description><![CDATA[Стильная накладка из стеклопластика в стиле AMG для заднего запасного колеса Mercedes-Benz G-Class W463. Придаёт внедорожнику более агрессивный и спортивный вид, подчёркивая индивидуальность вашего G-Wagon. В Udeu.kz — быстрая доставка по Казахстану и гарантия качества тюнинга.]]></description>
-        <keywords>Mercedes-Benz, G-Class, W463, AMG, накладка на запаску, стеклопластик, тюнинг экстерьера</keywords>
-      </offer>
-      <offer id="kubaydesign-284d06f237" available="true">
-        <name>Карбоновая накладка на запаску AMG для Mercedes-Benz G-Class W463A / W465</name>
-        <categoryId>9716011</categoryId>
+      <offer id="kubaydesign-255b70216a" available="true">
+        <name>Задний диффузор RS7 с насадками выхлопа для Audi A7 2012–2015</name>
+        <categoryId>9716040</categoryId>
         <price>1</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-284d06f237-0.jpg</picture>
-        <description><![CDATA[Центральная накладка на запасное колесо из настоящего карбона с рельефным логотипом AMG. Подходит для G-Class W463A (2018–2024) и W465 (2025+). Изготовлена по технологии автоклавного отверждения из препрега — глянцевое серое плетение, прямая установка внутрь штатного кольца запаски. Udeu.kz поставляет оригинальные решения для стайлинга вашего Гелендвагена с гарантией качества.]]></description>
-        <keywords>карбон, запаска, AMG, G-Class, W463A, W465, Mercedes-Benz, экстерьер</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-255b70216a-0.jpg</picture>
+        <description><![CDATA[Спортивный задний диффузор в стиле RS7 для Audi A7 2012–2015 годов. Изготовлен из прочного ABS-пластика, точно повторяет OEM-крепления для простой установки. Придаёт задней части автомобиля агрессивный вид и завершённость, включает декоративные насадки выхлопной системы. Закажите в Udeu.kz с доставкой по Казахстану.]]></description>
+        <keywords>Audi A7, диффузор RS7, обвес Audi, задний диффузор, насадки выхлопа, тюнинг Audi, ABS пластик, A7 2012-2015</keywords>
       </offer>
-      <offer id="kubaydesign-ebd7c94a0f" available="true">
-        <name>Комплект для конверсии в AMG G63 4×4² для Mercedes-Benz G-Class W463A</name>
+      <offer id="kubaydesign-549c6d7518" available="true">
+        <name>Средний мост для Mercedes-Benz W463A 6×6 G-Class</name>
         <categoryId>9716013</categoryId>
         <price>3</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-ebd7c94a0f-0.jpg</picture>
-        <description><![CDATA[Полный набор для трансформации стандартного G-Class W463A в версию 4×4² от Kubay Design. В комплект входят усиленные портальные мосты с 8-лучевым креплением, карбоновые расширители арок, LED-спойлер на крышу, экспедиционный багажник с лестницей, кузовная защита и кованые диски R22 с внедорожной резиной. Превратите свой Гелендваген в настоящий офф-роуд монстр с сохранением заводского качества. Заказывайте в Udeu.kz — официальная поставка с гарантией.]]></description>
-        <keywords>Mercedes G-Class W463A, AMG G63 4x4 squared, портальные мосты, widebody обвес, карбоновые расширители арок, тюнинг Гелендваген, офф-роуд комплект</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-549c6d7518-0.webp</picture>
+        <description><![CDATA[Оригинальный усиленный средний мост для Mercedes-Benz W463A 6×6. Изготовлен из высокопрочной стали с интегрированным дифференциалом для равномерного распределения крутящего момента между передней и задней осями. Ключевой компонент для конверсий G-класса в шестиколёсную версию и восстановления заводских 6×6. В наличии в Udeu.kz с доставкой по Казахстану.]]></description>
+        <keywords>средний мост, Mercedes-Benz W463A, G-Class 6x6, мост 6х6, конверсия G-Class, оригинальные запчасти Mercedes</keywords>
       </offer>
-      <offer id="kubaydesign-9c0c8a0ed2" available="true">
-        <name>Обвес G63 для Mercedes-Benz G-Class W465</name>
-        <categoryId>9716011</categoryId>
-        <price>1</price>
+      <offer id="kubaydesign-9670886155" available="true">
+        <name>Решётки радиатора M6 глянцевые чёрные для BMW 6 Series F12/F13 2011–2018</name>
+        <categoryId>9716040</categoryId>
+        <price>3</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-9c0c8a0ed2-0.webp</picture>
-        <description><![CDATA[Премиальный кузовной обвес в стилистике G63 для Mercedes-Benz G-Class W465. Агрессивный дизайн и современные детали преобразят внешний вид вашего внедорожника. В Udeu.kz вы получите качественный тюнинг с гарантией подлинности и профессиональную консультацию по установке.]]></description>
-        <keywords>Mercedes-Benz, G-Class, W465, обвес, G63, body kit, тюнинг, экстерьер</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-9670886155-0.jpg</picture>
+        <description><![CDATA[Глянцевые чёрные решётки радиатора в стиле M6 для BMW 6 серии F12/F13 (2011–2018 годы выпуска). Изготовлены из прочного ABS-пластика с глубоким блеском, придают агрессивный спортивный вид. Прямая замена штатных решёток без доработок. В Udeu.kz вы получите оригинальное качество и быструю доставку по Казахстану.]]></description>
+        <keywords>BMW 6 Series, F12, F13, решётки радиатора, M6, тюнинг BMW, ноздри BMW, чёрные решётки</keywords>
       </offer>
-      <offer id="kubaydesign-8467518449" available="true">
-        <name>Обвес 4×4 AMG Style для Mercedes-Benz G-Class W463</name>
-        <categoryId>9716014</categoryId>
+      <offer id="kubaydesign-7eee3e200a" available="true">
+        <name>Футуристическая сенсорная центральная консоль для Mercedes V-Class W447</name>
+        <categoryId>9716040</categoryId>
         <price>2</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-8467518449-0.jpg</picture>
-        <description><![CDATA[Широкий кузовной комплект в стиле AMG 4×4² для Mercedes-Benz G-Class W463. Включает усиленные компоненты с заводским качеством посадки, поставляется под окраску. Придаёт вашему G-классу агрессивный внедорожный облик премиум-уровня. Закажите в Udeu.kz с доставкой по Казахстану.]]></description>
-        <keywords>Mercedes-Benz, G-Class, W463, обвес, AMG Style, 4x4, widebody, тюнинг</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-7eee3e200a-0.jpg</picture>
+        <description><![CDATA[Высокотехнологичный модуль центральной консоли с цифровым сенсорным экраном и встроенной LED-подсветкой для Mercedes-Benz V-Class и Vito W447. Комплектуется приподнятым дисплеем, интегрированными дефлекторами климат-контроля, отсеком для хранения и обшивкой из кожи на выбор (черная, бежевая, коньячная, Tiffany Blue). Превратите салон вашего Mercedes в футуристический интерьер премиум-класса с Udeu.kz.]]></description>
+        <keywords>Mercedes V-Class, W447, центральная консоль, тюнинг салона, сенсорный экран, Vito W447, LED подсветка, кожаная отделка</keywords>
       </offer>
-      <offer id="kubaydesign-69ffb18fcf" available="true">
-        <name>Карбоновый руль AMG Pack для Mercedes-Benz W463 W166 X166</name>
-        <categoryId>9716014</categoryId>
-        <price>2</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-69ffb18fcf-0.jpg</picture>
-        <description><![CDATA[Спортивный руль с карбоновой отделкой в стиле AMG для Mercedes-Benz G-Class W463, ML W166 и GL X166. Восстановленное оригинальное изделие с использованием натурального карбона и премиальной отделки. В Udeu.kz вы получите качественный тюнинг с быстрой доставкой по Казахстану и гарантией подлинности.]]></description>
-        <keywords>карбоновый руль, AMG, Mercedes-Benz, W463, G-Class, ML W166, GL X166, тюнинг салона</keywords>
-      </offer>
-      <offer id="kubaydesign-5379c31cae" available="true">
-        <name>Защита заднего бампера из нержавеющей стали с патрубками для Mercedes-Benz G-Class W463</name>
-        <categoryId>9716014</categoryId>
+      <offer id="kubaydesign-3d2f324900" available="true">
+        <name>Боковые пороги M3 Style для BMW 3 Series F30 2011–2018</name>
+        <categoryId>9716040</categoryId>
         <price>1</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-5379c31cae-0.jpg</picture>
-        <description><![CDATA[Стильная и надежная защита заднего бампера из нержавеющей стали для Mercedes-Benz G-Class W463. Конструкция включает интегрированные патрубки, которые придают внедорожнику брутальный вид и защищают бампер от повреждений. Идеальное решение для владельцев Гелендвагена, которые ценят сочетание функциональности и эстетики.]]></description>
-        <keywords>Mercedes-Benz, G-Class, W463, защита бампера, нержавеющая сталь, обвес, тюнинг, экстерьер</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-3d2f324900-0.jpg</picture>
+        <description><![CDATA[Спортивные боковые пороги в стиле M3 для BMW 3 Series F30 (2011–2018 годов выпуска). Изготовлены из прочного ABS-пластика, повторяют OEM-профиль и обеспечивают идеальное прилегание к кузову. Придают автомобилю агрессивный спортивный вид и подчёркивают динамичный характер баварского седана. В Udeu.kz вы получаете качественный тюнинг с гарантией точной посадки.]]></description>
+        <keywords>BMW 3 Series, F30, боковые пороги, M3 Style, тюнинг, обвес, ABS, 2011-2018</keywords>
       </offer>
-      <offer id="kubaydesign-7a3b9a6ba1" available="true">
-        <name>Потолок «Звёздное небо» с эффектом падающих звёзд для Mercedes-Benz G-Class W463A</name>
-        <categoryId>9716013</categoryId>
-        <price>1</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-7a3b9a6ba1-0.jpg</picture>
-        <description><![CDATA[Эксклюзивный потолок с оптоволоконной подсветкой и динамичной анимацией падающих звёзд для G-Class W463A (2018+). Изготавливается на заказ в Польше: полная замена штатного потолка, установка LED-оптоволокна, эффект звездопада, опционально — перетяжка алькантарой или кожей Nappa. Заказывайте в Udeu.kz — доставка по Казахстану.]]></description>
-        <keywords>Mercedes G-Class, W463A, звёздное небо, потолок, starlight, оптоволокно, тюнинг салона, Гелендваген</keywords>
-      </offer>
-      <offer id="kubaydesign-c48a5a1454" available="true">
-        <name>Комплект XLP Off-Road для Mercedes-Benz G-Class W463A W464 — полная конверсия в пикап</name>
-        <categoryId>9716013</categoryId>
-        <price>2</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-c48a5a1454-0.jpg</picture>
-        <description><![CDATA[Полный комплект для переоборудования Mercedes-Benz G-Class W463A (2018+) в экстремальный оффроуд-пикап от Kubay Design. Включает удлинённую раму с кузовом пикап, портальные мосты для увеличения клиренса, карбоновый widebody-обвес, 22-дюймовые внедорожные диски и кастомизацию салона. Инженерный проект полного цикла из Польши — превратите свой Гелендваген в настоящую машину для покорения бездорожья.]]></description>
-        <keywords>Mercedes-Benz G-Class, W463A, W464, комплект конверсии, пикап, портальные мосты, widebody, оффроуд</keywords>
-      </offer>
-      <offer id="kubaydesign-bff7828e96" available="true">
-        <name>Светодиодная эмблема Rocket для крыльев Mercedes-Benz G-Class W463A</name>
+      <offer id="kubaydesign-788417d269" available="true">
+        <name>Накладки на зеркала из карбона для Mercedes-Benz G-Class W463A W464</name>
         <categoryId>9716013</categoryId>
         <price>3</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-bff7828e96-0.webp</picture>
-        <description><![CDATA[Эффектная LED-эмблема в виде ракеты с белой подсветкой для установки на крылья Mercedes-Benz G-Class W463A. Изготовлена из прочного ABS-пластика, обеспечивает идеальную посадку и придаёт вашему Гелендвагену индивидуальный характер. В Udeu.kz вы получите оригинальный тюнинг с быстрой доставкой по Казахстану.]]></description>
-        <keywords>Mercedes-Benz G-Class, W463A, LED эмблема, тюнинг Гелендваген, эмблема на крыло, светодиодная эмблема, Rocket emblem, аксессуары G-Class</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-788417d269-0.jpg</picture>
+        <description><![CDATA[Комплект из двух карбоновых накладок на боковые зеркала для G-Class W463A (2018–2024 гг.). Изготовлены из натурального карбона с защитным UV-покрытием, доступны в глянцевом или матовом исполнении. Лёгкие, прочные и устанавливаются поверх штатных корпусов зеркал без доработок. В Udeu.kz вы получите оригинальное качество с гарантией подлинности материалов.]]></description>
+        <keywords>карбон, накладки на зеркала, Mercedes G-Class, W463A, W464, тюнинг экстерьера, carbon fiber</keywords>
       </offer>
-      <offer id="kubaydesign-8f0315de8c" available="true">
-        <name>Руль карбоновый с кожей для Mercedes-Benz E-Class, G-Class, GL, ML (W463/X166/W166)</name>
-        <categoryId>9716014</categoryId>
+      <offer id="kubaydesign-b3a35363bc" available="true">
+        <name>Глянцевая черная решетка радиатора для BMW X5 G05 2018–2024</name>
+        <categoryId>9716040</categoryId>
         <price>1</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-8f0315de8c-0.jpg</picture>
-        <description><![CDATA[Оригинальный руль с карбоновыми вставками и кожаной отделкой для Mercedes-Benz E-Class, G-Class, GL и ML серий (кузова W166, X166, W463). Прямая установка без доработок, премиальное качество исполнения. Поставляется без подушки безопасности. Закажите в Udeu.kz с доставкой по Казахстану.]]></description>
-        <keywords>руль карбон, Mercedes G-Class, W463, W166, X166, тюнинг салона, карбоновый руль, ML GL E-Class</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-b3a35363bc-0.jpg</picture>
+        <description><![CDATA[Передняя решетка радиатора в стиле M для BMW X5 G05 (2018–2024 года выпуска) из прочного ABS-пластика с глянцевым черным покрытием. Идеальная посадка по заводским креплениям, премиальное качество исполнения. В Udeu.kz вы найдете оригинальные запчасти с быстрой доставкой по Казахстану.]]></description>
+        <keywords>BMW X5, G05, решетка радиатора, M-style, тюнинг BMW, черная решетка, обвес BMW</keywords>
       </offer>
-      <offer id="kubaydesign-04edbfe40e" available="true">
-        <name>Карбоновые панели салона с LED-подсветкой AMG для Mercedes-Benz G-Class W463A</name>
-        <categoryId>9716013</categoryId>
-        <price>1</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-04edbfe40e-0.webp</picture>
-        <description><![CDATA[Полный комплект карбоновых накладок салона с интегрированной LED-подсветкой логотипов AMG для G-Class W463A (2018+). Изготовлены из настоящего карбона с глянцевым серым плетением, устанавливаются вместо заводских панелей приборной панели и дверей. Придают салону спортивный премиальный вид с эффектной подсветкой.]]></description>
-        <keywords>Mercedes G-Class, W463A, карбон, AMG, интерьер, LED подсветка, панели салона, тюнинг салона</keywords>
-      </offer>
-      <offer id="kubaydesign-1c421f7ffe" available="true">
-        <name>Защита картера задняя из нержавеющей стали для Mercedes-Benz G-Class W463A</name>
-        <categoryId>9716013</categoryId>
-        <price>1</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-1c421f7ffe-0.jpg</picture>
-        <description><![CDATA[Стальная защита заднего редуктора для Mercedes-Benz G-Class W463A (2018+). Изготовлена из нержавеющей стали, устойчивой к коррозии. Надёжно защищает узлы задней подвески и трансмиссии от ударов при езде по бездорожью. В комплекте крепёж для установки.]]></description>
-        <keywords>Mercedes-Benz G-Class, W463A, защита картера, skid plate, нержавеющая сталь, оффроуд, защита днища, Гелендваген</keywords>
-      </offer>
-      <offer id="kubaydesign-ac83a39b15" available="true">
-        <name>Карбоновые накладки в салон для Mercedes-Benz G-Class W465 2024+</name>
-        <categoryId>9716011</categoryId>
-        <price>1</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-ac83a39b15-0.jpg</picture>
-        <description><![CDATA[Комплект карбоновых накладок для интерьера Mercedes-Benz G-Class W465 2024 года и новее. Лёгкий глянцевый карбон с точной посадкой по оригинальным креплениям придаёт салону спортивный и премиальный вид. В Udeu.kz вы получаете качественный тюнинг с гарантией подлинности материалов и удобной доставкой по Казахстану.]]></description>
-        <keywords>карбон, накладки салона, Mercedes-Benz, G-Class, W465, интерьер, тюнинг салона</keywords>
-      </offer>
-      <offer id="kubaydesign-4d3a9cc95e" available="true">
-        <name>Накладка на передний бампер AMG для Mercedes-Benz G-Class W463</name>
+      <offer id="kubaydesign-0eac8cfedc" available="true">
+        <name>Карбоновые накладки на пороги для Mercedes-Benz G-Class W463 / W463 6×6</name>
         <categoryId>9716014</categoryId>
         <price>2</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-4d3a9cc95e-0.jpg</picture>
-        <description><![CDATA[Верхняя накладка на передний бампер в стиле AMG для Mercedes-Benz G-Class W463. Изготовлена из стеклопластика, придаёт автомобилю более агрессивный и спортивный вид. Точная посадка по заводским креплениям обеспечивает простую установку без доработок.]]></description>
-        <keywords>Mercedes-Benz, G-Class, W463, AMG, накладка на бампер, обвес, стеклопластик, тюнинг</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-0eac8cfedc-0.jpg</picture>
+        <description><![CDATA[Карбоновые накладки на нижнюю часть порогов придают G-Class W463 и W463 6×6 спортивный и агрессивный вид. Изготовлены из высококачественного карбона, защищают пороги от царапин и сколов при посадке. Простая установка, точное повторение заводских форм. Закажите с доставкой по Казахстану в Udeu.kz.]]></description>
+        <keywords>Mercedes-Benz G-Class, W463, W463 6×6, карбоновые накладки, пороги, тюнинг, экстерьер</keywords>
       </offer>
-      <offer id="kubaydesign-4c37ef9242" available="true">
-        <name>Задняя верхняя металлическая дуга для пикапа Mercedes-Benz G-Class W463 6×6</name>
-        <categoryId>9716014</categoryId>
-        <price>2</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-4c37ef9242-0.jpg</picture>
-        <description><![CDATA[Усиленная стальная дуга для кузова пикап Mercedes-Benz G-Class W463 6×6. Повышает жёсткость конструкции, защищает кузов и придаёт автомобилю брутальный внедорожный стиль. В Udeu.kz вы получите оригинальное качество, быструю доставку по Казахстану и гарантию на все компоненты.]]></description>
-        <keywords>Mercedes-Benz, G-Class, W463, 6x6, пикап, дуга, защита кузова, оффроуд</keywords>
-      </offer>
-      <offer id="kubaydesign-72ac2d2219" available="true">
-        <name>Руль карбоновый с алькантарой для Mercedes G-Class W463, GL/ML W166/X166</name>
-        <categoryId>9716014</categoryId>
-        <price>3</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-72ac2d2219-0.jpg</picture>
-        <description><![CDATA[Спортивный руль с карбоновым покрытием и вставками из алькантары, плоским верхом и низом. Центральная часть выполнена в piano black, в комплекте карбоновые накладки на лепестки переключения. Изготовлен на оригинальной базе OEM, прямая установка без доработок. Подходит для Mercedes G-Class W463, GL-Class W166 и ML-Class X166. Поставляется без подушки безопасности, изготавливается под заказ.]]></description>
-        <keywords>руль карбон, алькантара, Mercedes G-Class, W463, W166, X166, тюнинг салона, спортивный руль</keywords>
-      </offer>
-      <offer id="kubaydesign-87df3211b0" available="true">
-        <name>Накладки на фары из карбона для Mercedes-Benz G-Class W465 2024+</name>
-        <categoryId>9716011</categoryId>
+      <offer id="kubaydesign-f4d151691a" available="true">
+        <name>Решётка радиатора RS5 хром для Audi A5 2012-2015</name>
+        <categoryId>9716040</categoryId>
         <price>1</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-87df3211b0-0.jpg</picture>
-        <description><![CDATA[Карбоновые накладки на фары для Mercedes-Benz G-Class W465 2024+ года. Изготовлены из настоящего сухого карбона с глянцевым UV-покрытием — легкие, прочные и добавляют спортивный характер вашему G-Wagon. Udeu.kz доставит оригинальный тюнинг для вашего Гелендвагена с гарантией качества.]]></description>
-        <keywords>карбоновые накладки на фары, Mercedes-Benz G-Class W465, тюнинг G-Wagon, карбон, экстерьер W465, фары Гелендваген, аксессуары G-Class</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-f4d151691a-0.jpg</picture>
+        <description><![CDATA[Хромированная решётка радиатора в стиле RS5 для переднего бампера Audi A5 2012-2015 годов выпуска. Придаёт автомобилю спортивный и агрессивный вид, качественное исполнение с хромированным покрытием. Прямая замена штатной решётки, точная посадка по креплениям.]]></description>
+        <keywords>Audi A5, RS5, решётка радиатора, хром, тюнинг, передний бампер, 2012-2015</keywords>
       </offer>
-      <offer id="kubaydesign-bd4f5e914a" available="true">
-        <name>Светодиодные поворотники в стойку D для Mercedes-Benz G-Class W463/W463A/W465 2013-2025</name>
-        <categoryId>9716011</categoryId>
+      <offer id="kubaydesign-23731d6862" available="true">
+        <name>Обвес в стиле X3M F97 LCI для BMW X3 G01/G08 LCI 2022-2024</name>
+        <categoryId>9716040</categoryId>
         <price>1</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-bd4f5e914a-0.jpg</picture>
-        <description><![CDATA[Комплект светодиодных поворотников с динамичным бегущим эффектом для установки в задние стойки Mercedes-Benz G-Class. Подходит для моделей W463, W463A и W465 с 2013 по 2025 год. Простая установка по принципу plug-and-play без переделок, качественные линзы от Kubay Design — прозрачные или тонированные. В Udeu.kz вы получаете оригинальное качество, быструю доставку по Казахстану и гарантию на продукцию.]]></description>
-        <keywords>Mercedes-Benz G-Class, W463, W463A, W465, LED поворотники, светодиодные поворотники, тюнинг экстерьера, Kubay Design</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-23731d6862-0.jpg</picture>
+        <description><![CDATA[Полный комплект кузовных панелей, превращающий стандартный BMW X3 G01 или G08 рестайлинг в спортивную версию X3M F97 LCI. Установка без повреждения кузова благодаря точной заводской подгонке деталей 1:1. Итоговая комплектация подбирается под конкретную спецификацию автомобиля. Подходит для моделей 2022-2024 годов выпуска.]]></description>
+        <keywords>BMW X3, X3M, обвес, кузовной тюнинг, G01, G08, F97, body kit</keywords>
       </offer>
-      <offer id="kubaydesign-485c9dd7e5" available="true">
-        <name>Руль AMG карбон с алькантарой для Mercedes-Benz G-Class W463 / GL X166 / ML W166</name>
-        <categoryId>9716014</categoryId>
-        <price>3</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-485c9dd7e5-0.jpg</picture>
-        <description><![CDATA[Спортивный руль в стиле AMG с карбоновыми вставками и отделкой из алькантары для Mercedes-Benz G-Class W463, GL X166 и ML W166. Плоское днище для улучшенной эргономики и спортивного характера управления. Изготовлен вручную, придаёт салону премиальный вид и усиливает ощущение контроля над автомобилем.]]></description>
-        <keywords>руль AMG, карбон, алькантара, G-Class W463, GL X166, ML W166, тюнинг салона, Mercedes-Benz</keywords>
-      </offer>
-      <offer id="kubaydesign-e2d9de7470" available="true">
-        <name>Накладки на динамики с LED-подсветкой для Mercedes-Benz G-Class W463A W464</name>
-        <categoryId>9716013</categoryId>
-        <price>3</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-e2d9de7470-0.webp</picture>
-        <description><![CDATA[Декоративные накладки на динамики с RGB-подсветкой и отделкой под карбон для салона Mercedes-Benz G-Class W463A и W464. Создают эффектную атмосферную подсветку в интерьере, подчеркивают премиальный характер салона. Простая установка, качественные материалы. В Udeu.kz вы найдете оригинальные решения для тюнинга вашего G-класса с доставкой по Казахстану.]]></description>
-        <keywords>Mercedes-Benz G-Class, W463A, W464, накладки на динамики, LED подсветка, ambient lighting, карбон, тюнинг салона</keywords>
-      </offer>
-      <offer id="kubaydesign-89b45f7ff3" available="true">
-        <name>Руль AMG Style карбон и алькантара для Mercedes G-Class W463, GL/ML W166/X166</name>
-        <categoryId>9716014</categoryId>
-        <price>2</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-89b45f7ff3-0.jpg</picture>
-        <description><![CDATA[Спортивный руль в стиле AMG с плоским низом, отделка из карбона и алькантары. Прямая замена штатного руля для Mercedes G-Class W463, GL и ML-Class W166/X166. Устанавливается на место оригинального, подходит для тех, кто хочет добавить салону спортивного характера и улучшить хват. В комплекте без подушки безопасности.]]></description>
-        <keywords>руль AMG, карбон алькантара, G-Class W463, W166, ML-Class, GL-Class, тюнинг салона</keywords>
-      </offer>
-      <offer id="kubaydesign-d457d996d2" available="true">
-        <name>Перетяжка салона в оранжевую кожу для Mercedes-Benz G-Class W463A</name>
-        <categoryId>9716013</categoryId>
-        <price>2</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-d457d996d2-0.jpg</picture>
-        <description><![CDATA[Индивидуальная перетяжка салона Mercedes G-Class W463A (2018+) премиальной кожей оранжевого цвета в стиле Hermes. Включает полную обтяжку передних и задних сидений, дверных карт, панели приборов, центральной консоли и потолка. Работы выполняются в Польше с возможностью доставки автомобиля или отдельных элементов. Udeu.kz обеспечит качественную установку и оформление заказа.]]></description>
-        <keywords>Mercedes G-Class, W463A, перетяжка салона, оранжевая кожа, тюнинг интерьера, Gелендваген, эксклюзивный салон, Kubay Design</keywords>
-      </offer>
-      <offer id="kubaydesign-5644b90858" available="true">
-        <name>Накладка на порог багажника карбон с LED-подсветкой M для Mercedes-Benz G-Class W463</name>
-        <categoryId>9716014</categoryId>
-        <price>2</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-5644b90858-0.jpg</picture>
-        <description><![CDATA[Карбоновая накладка на порог задней двери багажника с LED-подсветкой логотипа M для Mercedes-Benz G-Class W463. Защищает порог от царапин и потертостей при погрузке, придает салону премиальный спортивный вид. Простая установка, яркая подсветка при открытии двери. В Udeu.kz — оригинальные аксессуары для вашего Гелендвагена с доставкой по Казахстану.]]></description>
-        <keywords>Mercedes-Benz G-Class, W463, накладка на порог, карбон, LED подсветка, защита порога, тюнинг Гелендваген, аксессуары салона</keywords>
-      </offer>
-      <offer id="kubaydesign-80b6d61281" available="true">
-        <name>Металлические шильдики BITURBO 850 для Mercedes-Benz G-Class W463/W463A</name>
-        <categoryId>9716013</categoryId>
-        <price>2</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-80b6d61281-0.jpg</picture>
-        <description><![CDATA[Стильные боковые эмблемы в стиле BITURBO 850 от Kubay Design для Mercedes G-Class W463 и W463A. Комплект из двух элементов из нержавеющей стали с красной подложкой и черными цифрами. Крепятся на крылья с помощью самоклеящейся основы — просто, быстро и без сверления. В Udeu.kz вы получите оригинальное качество с доставкой по Астане и всему Казахстану.]]></description>
-        <keywords>Mercedes G-Class, W463, W463A, шильдики, эмблемы, BITURBO, Гелендваген, тюнинг</keywords>
-      </offer>
-      <offer id="kubaydesign-6dee7b4ef8" available="true">
-        <name>Карбоновые накладки на кнопки дверных панелей Mercedes G-Class W463</name>
-        <categoryId>9716014</categoryId>
-        <price>1</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-6dee7b4ef8-0.jpg</picture>
-        <description><![CDATA[Стильные накладки из карбона на кнопки дверных панелей для Mercedes-Benz G-Class W463. Защищают оригинальные элементы от царапин и потёртостей, придают салону спортивный и премиальный вид. Простая установка без сверления, точное повторение формы заводских кнопок. В Udeu.kz — быстрая доставка по Астане и всему Казахстану.]]></description>
-        <keywords>Mercedes G-Class, W463, карбоновые накладки, интерьер, кнопки дверей, тюнинг салона, Гелендваген</keywords>
-      </offer>
-      <offer id="kubaydesign-4e789db038" available="true">
-        <name>Задний бампер с диффузором из стеклопластика для Mercedes-Benz G-Class W463 4×4²</name>
-        <categoryId>9716014</categoryId>
-        <price>3</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-4e789db038-0.jpg</picture>
-        <description><![CDATA[Задний бампер из прочного стеклопластика с диффузором в стиле OEM для Mercedes-Benz G-Class W463 4×4². Точная посадка, поставляется неокрашенным под покраску в цвет автомобиля. Придаст вашему Гелендвагену агрессивный внедорожный характер и завершённый тюнинг-образ. В Udeu.kz — быстрая доставка по Казахстану и гарантия качества.]]></description>
-        <keywords>Mercedes-Benz G-Class, W463, 4x4², задний бампер, диффузор, стеклопластик, тюнинг G-Class, обвес</keywords>
-      </offer>
-      <offer id="kubaydesign-1031efcc3f" available="true">
-        <name>Vredestein Ultrac Vorti 355/25 R24 110Y — летние шины для Mercedes-Benz G-Class W463A W464</name>
-        <categoryId>9716013</categoryId>
-        <price>1</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-1031efcc3f-0.jpg</picture>
-        <description><![CDATA[Комплект из двух сверхшироких летних шин Vredestein Ultrac Vorti размером 355/25 R24 с индексом скорости Y (до 300 км/ч). Разработаны специально для установки на заднюю ось Mercedes-Benz G-Class W463A и W464 с 24-дюймовыми дисками и widebody-обвесами. В магазине Udeu.kz вы получаете оригинальные шины европейского бренда с гарантией качества и быстрой доставкой по Казахстану.]]></description>
-        <keywords>Vredestein, летние шины, G-Class W463A, W464, шины R24, widebody, тюнинг G-Class, сверхширокие шины</keywords>
-      </offer>
-      <offer id="kubaydesign-686ca4354c" available="true">
-        <name>Карбоновая накладка на блок регулировки сидений Mercedes-Benz G-Class W465 2025+</name>
-        <categoryId>9716011</categoryId>
-        <price>1</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-686ca4354c-0.jpg</picture>
-        <description><![CDATA[Премиальная накладка из сухого карбона для обрамления кнопок регулировки сидений Mercedes-Benz G-Class W465 (2025+). Лёгкий углепластик с глянцевым UV-защитным покрытием добавляет спортивный стиль салону и легко устанавливается на штатное место. В Udeu.kz — оригинальное качество, быстрая доставка по Казахстану и гарантия подлинности материалов.]]></description>
-        <keywords>карбон, G-Class, W465, Mercedes-Benz, накладка салона, регулировка сидений, тюнинг интерьера, 2025</keywords>
-      </offer>
-      <offer id="kubaydesign-4f868252ad" available="true">
-        <name>Электрические выдвижные пороги для Mercedes-Benz G-Class W463 (2 двери)</name>
-        <categoryId>9716014</categoryId>
-        <price>1</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-4f868252ad-0.jpg</picture>
-        <description><![CDATA[Электрические выдвижные пороги для двухдверного Mercedes-Benz G-Class W463. Автоматически выдвигаются при открытии дверей, обеспечивая удобную посадку и стильный внешний вид. Прочная конструкция выдерживает нагрузки и защищает пороги от повреждений. В Udeu.kz — оригинальное качество, быстрая доставка по Казахстану и гарантия.]]></description>
-        <keywords>Mercedes-Benz G-Class, W463, электрические пороги, выдвижные пороги, G-Wagon, 2 двери, тюнинг G-Class</keywords>
-      </offer>
-      <offer id="kubaydesign-2df33a55dc" available="true">
-        <name>Спортивный руль AMG с карбоном и чёрной полосой для Mercedes-Benz W205 W213 W463</name>
-        <categoryId>9716014</categoryId>
-        <price>3</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-2df33a55dc-0.jpg</picture>
-        <description><![CDATA[Карбоновый руль AMG с плоским низом и контрастной чёрной полосой — оригинальная деталь с восстановлением заводского качества. Подходит для Mercedes-Benz W205, W213 и W463, придаёт салону спортивный характер и улучшает управляемость. В Udeu.kz доставим быстро по Казахстану с гарантией подлинности.]]></description>
-        <keywords>руль AMG, карбоновый руль, Mercedes W205, Mercedes W213, Mercedes W463, G-класс, спортивный руль, тюнинг салона</keywords>
-      </offer>
-      <offer id="kubaydesign-02d01c3584" available="true">
-        <name>Кожаные коврики AMG синие для Mercedes-Benz G-Class W463A</name>
-        <categoryId>9716013</categoryId>
-        <price>2</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-02d01c3584-0.jpg</picture>
-        <description><![CDATA[Комплект из 7 ковриков ручной работы из премиальной автомобильной кожи насыщенного синего цвета со стёганой прошивкой в стиле AMG. Точная посадка для G-Class W463A (2018+), водостойкий материал с усиленными накладками под пятку. Полная защита передних и задних зон для ног с эффектным спортивным дизайном интерьера.]]></description>
-        <keywords>Mercedes-Benz G-Class, W463A, коврики кожаные, AMG, интерьер салона, тюнинг G-Class, Kubay Design</keywords>
-      </offer>
-      <offer id="kubaydesign-0fc92a236a" available="true">
-        <name>Комплект защиты днища для Mercedes G-Class W463A W465 2019–2025</name>
+      <offer id="kubaydesign-d1dc51a1c0" available="true">
+        <name>Складной столик на заднее сиденье для Mercedes-Benz G-Class W463 W463A W465</name>
         <categoryId>9716011</categoryId>
         <price>3</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-0fc92a236a-0.jpg</picture>
-        <description><![CDATA[Полный комплект алюминиевой защиты днища для Mercedes G-Class W463A/W465 (2019–2025 годов). Многосекционная конструкция закрывает всё днище автомобиля, усиленные панели выдерживают серьёзные нагрузки при оффроуде. В комплекте весь крепёж, установка точно по заводским отверстиям без сверления. Закажите в Udeu.kz с доставкой по Казахстану — защитите свой Гелендваген от повреждений на бездорожье.]]></description>
-        <keywords>Mercedes G-Class, W463A, W465, защита днища, skid plate, алюминиевая защита, оффроуд, Гелендваген</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-d1dc51a1c0-0.jpg</picture>
+        <description><![CDATA[Премиальный складной столик для задних пассажиров Mercedes G-Class W463/W463A/W465. Удобная поверхность для ноутбука, планшета или еды в дороге. Трансформирует задний ряд в комфортное рабочее или обеденное пространство. Качественное исполнение и простая установка от Udeu.kz.]]></description>
+        <keywords>Mercedes G-Class, W463, W463A, W465, столик заднее сиденье, складной стол, interior, аксессуары салона</keywords>
       </offer>
-      <offer id="kubaydesign-c038acf0ef" available="true">
-        <name>Защита переднего бампера из нержавеющей стали для Mercedes-Benz G-Class W463 2000-2017</name>
-        <categoryId>9716014</categoryId>
-        <price>3</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-c038acf0ef-0.jpg</picture>
-        <description><![CDATA[Передняя защитная пластина из нержавеющей стали для Mercedes-Benz G-Class W463. Надежно защищает бампер и элементы подвески от повреждений на бездорожье и в городских условиях. Идеально подходит для моделей 2000-2017 годов выпуска. В Udeu.kz вы получите качественный тюнинг с гарантией подлинности и быстрой доставкой по Казахстану.]]></description>
-        <keywords>Mercedes-Benz, G-Class, W463, защита бампера, skid plate, нержавеющая сталь, оффроуд, тюнинг</keywords>
-      </offer>
-      <offer id="kubaydesign-e1decd0ea1" available="true">
-        <name>Карбоновые молдинги на двери для Mercedes-Benz G-Class W463</name>
-        <categoryId>9716014</categoryId>
-        <price>2</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-e1decd0ea1-0.jpg</picture>
-        <description><![CDATA[Стильные боковые молдинги из настоящего карбона для Mercedes-Benz G-Class W463. Придают внедорожнику спортивный и премиальный вид, защищают двери от мелких повреждений. В Udeu.kz вы получите оригинальные комплектующие с гарантией качества и быструю доставку по Казахстану.]]></description>
-        <keywords>Mercedes-Benz G-Class, W463, карбоновые молдинги, тюнинг G-Class, боковые накладки, карбон, молдинги дверей</keywords>
-      </offer>
-      <offer id="kubaydesign-d4cc892091" available="true">
-        <name>Карбоновый руль с алькантарой Flat-Bottom для Mercedes-Benz G-Class GL-Class ML-Class (W166 X166 W463)</name>
-        <categoryId>9716014</categoryId>
+      <offer id="kubaydesign-1ff7d50f99" available="true">
+        <name>Хромированные подножки для Mercedes-Benz G-Class W463A 2018+</name>
+        <categoryId>9716013</categoryId>
         <price>1</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-d4cc892091-0.jpg</picture>
-        <description><![CDATA[Спортивный руль с плоским днищем в карбоне и алькантаре для Mercedes E-Class, G-Class, GL-Class и ML-Class (W166, X166, W463). Прямая замена штатного руля OEM-качества с премиальной отделкой. Поставляется без подушки безопасности. В Udeu.kz — быстрая доставка по Казахстану и гарантия подлинности.]]></description>
-        <keywords>руль карбон, алькантара, Mercedes G-Class, W463, W166, X166, flat bottom, тюнинг салона</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-1ff7d50f99-0.jpg</picture>
+        <description><![CDATA[Боковые подножки с зеркальной хромированной отделкой для G-Class W463A (2018+). Изготовлены из нержавеющей стали высокого качества с противоскользящими резиновыми вставками. Заменяют или дополняют штатные подножки, облегчают посадку и придают автомобилю премиальный вид. В наличии в Udeu.kz с доставкой по Казахстану.]]></description>
+        <keywords>Mercedes-Benz, G-Class, W463A, подножки, пороги, хром, тюнинг, экстерьер</keywords>
       </offer>
-      <offer id="kubaydesign-1b89bc1bff" available="true">
-        <name>Карбоновый сплиттер переднего бампера для Mercedes-Benz G-Class AMG W463A</name>
-        <categoryId>9716013</categoryId>
-        <price>3</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-1b89bc1bff-0.jpg</picture>
-        <description><![CDATA[Двухсекционный диффузор переднего бампера из натурального карбона для G-Class W463A AMG от Kubay Design. Изготовлен из настоящего углеволокна с глянцевым UV-защитным покрытием. Устанавливается непосредственно в штатные каналы AMG-бампера без сверления, улучшая аэродинамику и придавая передней части агрессивный спортивный вид.]]></description>
-        <keywords>карбон, сплиттер, диффузор, Mercedes G-Class, W463A, AMG, обвес, передний бампер</keywords>
-      </offer>
-      <offer id="kubaydesign-457af9d71b" available="true">
-        <name>Крышка запасного колеса из стеклопластика для Mercedes-Benz G-Class W463A W465</name>
-        <categoryId>9716011</categoryId>
+      <offer id="kubaydesign-fe32c023c0" available="true">
+        <name>VIP многофункциональные задние сиденья для Mercedes-Benz G-Class W464 2019–2024</name>
+        <categoryId>9716040</categoryId>
         <price>1</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-457af9d71b-0.jpg</picture>
-        <description><![CDATA[Центральная накладка на крышку запасного колеса из армированного стекловолокном пластика для G-Class W463A (2018–2024) и W465 (2025+). Выполнена из высокоплотного композита с гладкой грунтованной поверхностью под покраску в любой цвет. Позволяет установить различные варианты эмблем и шильдиков. В Udeu.kz вы получите оригинальное качество Kubay Design с доставкой по Казахстану.]]></description>
-        <keywords>Mercedes G-Class, W463A, W465, крышка запаски, стеклопластик, тюнинг Гелендваген, экстерьер</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-fe32c023c0-0.webp</picture>
+        <description><![CDATA[Премиальный апгрейд задних сидений для Mercedes-Benz G-Class W464 (2019–2024 г.в.) с электрорегулировкой, вентиляцией, подогревом и функцией VIP-лаунжа. Превратите второй ряд в комфортабельную зону отдыха бизнес-класса. Устанавливается вместо штатных сидений, полностью совместим с моделями W464.]]></description>
+        <keywords>Mercedes G-Class, W464, задние сиденья, VIP салон, электрорегулировка, вентиляция сидений, тюнинг интерьера, G-Class 2019-2024</keywords>
       </offer>
-      <offer id="kubaydesign-24d809062c" available="true">
-        <name>Спойлер на крышу из карбона с шильдиками для Mercedes-Benz G-Class W463A</name>
-        <categoryId>9716013</categoryId>
+      <offer id="kubaydesign-dbb3933152" available="true">
+        <name>Обвес E63 AMG Style для Mercedes-Benz E-Class W213 2016–2018</name>
+        <categoryId>9716040</categoryId>
+        <price>1</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-dbb3933152-0.webp</picture>
+        <description><![CDATA[Спортивный обвес в стиле E63 AMG для Mercedes-Benz E-Class W213 (2016–2018 годов выпуска). Агрессивный дизайн, вдохновлённый AMG, превратит ваш седан в настоящий спорткар. Качественный пластик, точная посадка, яркий внешний вид — всё для тех, кто ценит стиль и динамику.]]></description>
+        <keywords>Mercedes-Benz, E-Class, W213, обвес, AMG, E63, body kit, тюнинг</keywords>
+      </offer>
+      <offer id="kubaydesign-e7599a3d3f" available="true">
+        <name>Обвес AMG Style для Mercedes-Benz GLE Coupe X292 (2015-2019)</name>
+        <categoryId>9716040</categoryId>
+        <price>3</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-e7599a3d3f-0.jpg</picture>
+        <description><![CDATA[Полный кузовной обвес в стиле AMG для Mercedes-Benz GLE Coupe X292 2015-2019 годов выпуска. В комплект входят передний бампер, решётка радиатора, задняя губа с диффузором и насадки выхлопной системы. Устанавливается на штатные крепления без доработок. Udeu.kz предлагает оригинальное качество и проверенную совместимость для вашего автомобиля.]]></description>
+        <keywords>Mercedes-Benz, GLE Coupe, X292, обвес AMG, body kit, тюнинг, GLE-Class</keywords>
+      </offer>
+      <offer id="kubaydesign-02c62f3893" available="true">
+        <name>Обвес в стиле AMG для Mercedes-Benz V-Class W447 2016–2020</name>
+        <categoryId>9716040</categoryId>
+        <price>3</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-02c62f3893-0.jpg</picture>
+        <description><![CDATA[Полный комплект спортивного обвеса в стиле AMG для Mercedes-Benz V-Class и Vito W447 (2016–2020). Включает передний бампер, решётку Panamericana, LED-ходовые огни, задний диффузор и насадки на выхлопную систему. Изготовлен из высококачественного автомобильного пластика и композитных материалов. Превратите минивэн в настоящий спортивный автомобиль с обвесом от Udeu.kz.]]></description>
+        <keywords>Mercedes V-Class, обвес AMG, W447, тюнинг Mercedes, Panamericana, обвес Vito, аэродинамический обвес, обвес минивэна</keywords>
+      </offer>
+      <offer id="kubaydesign-8cf5c976ad" available="true">
+        <name>Боковые пороги для BMW X4 F26 2014–2018</name>
+        <categoryId>9716040</categoryId>
         <price>2</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-24d809062c-0.webp</picture>
-        <description><![CDATA[Карбоновый спойлер на заднюю часть крыши для Mercedes G-Class W463A (с 2018 года) от Kubay Design. Изготовлен из настоящего 100% карбона с глянцевым УФ-защитным покрытием. В комплекте верхнее антикрыло и 2 декоративных эмблемы-шильдика. Придаёт Гелендвагену более агрессивный спортивный вид и подчёркивает премиальный статус автомобиля.]]></description>
-        <keywords>G-Class, W463A, карбоновый спойлер, спойлер на крышу, Гелендваген, тюнинг Mercedes, карбон, Kubay Design</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-8cf5c976ad-0.jpg</picture>
+        <description><![CDATA[Боковые пороги для BMW X4 F26 (2014–2018) облегчают посадку и высадку из автомобиля, а также придают кузову спортивный и агрессивный вид. Изделие изготовлено из прочных материалов и точно повторяет линии кузова. Заказывайте в Udeu.kz с доставкой по Казахстану.]]></description>
+        <keywords>BMW X4, F26, боковые пороги, подножки, тюнинг BMW, аксессуары X4, обвес</keywords>
       </offer>
-      <offer id="kubaydesign-de222b9981" available="true">
+      <offer id="kubaydesign-77967a7c09" available="true">
+        <name>Обвес Lexus Style Facelift для Toyota 4Runner</name>
+        <categoryId>9716040</categoryId>
+        <price>2</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-77967a7c09-0.webp</picture>
+        <description><![CDATA[Стильный рестайлинговый обвес в духе Lexus для Toyota 4Runner. Придаёт внедорожнику премиальный облик с узнаваемой решёткой радиатора и современными линиями. Качественное исполнение и точная посадка гарантируют безупречный внешний вид. Закажите в Udeu.kz с доставкой по Казахстану.]]></description>
+        <keywords>Toyota 4Runner, обвес, Lexus Style, рестайлинг, тюнинг кузова, внедорожник, facelift</keywords>
+      </offer>
+      <offer id="kubaydesign-05716e2b35" available="true">
+        <name>Обвес F95 X5M Style для BMW X5 G05 2019-2023</name>
+        <categoryId>9716040</categoryId>
+        <price>3</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-05716e2b35-0.jpg</picture>
+        <description><![CDATA[Полный комплект обвеса в стиле X5M для BMW X5 G05. Включает передний и задний бамперы в М-стиле, расширители арок, спойлер, решётку и фирменную подсветку заднего бампера. Преображает внешность вашего X5, придавая ему агрессивный спортивный характер топовой М-версии. В наличии на Udeu.kz с доставкой по Казахстану.]]></description>
+        <keywords>BMW X5, G05, обвес X5M, бампер BMW, тюнинг X5, F95 стиль, расширители арок, спойлер X5</keywords>
+      </offer>
+      <offer id="kubaydesign-7c8a1ceacb" available="true">
+        <name>Обвес E63 Performance Narrow Body Kit для Mercedes W213</name>
+        <categoryId>9716040</categoryId>
+        <price>3</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-7c8a1ceacb-0.jpg</picture>
+        <description><![CDATA[Комплект обвеса в стиле E63 для Mercedes E-Class W213 (2021–2023). Включает передний бампер, решётку радиатора, задний бампер, боковые пороги, задний спойлер и насадки на выхлопную систему. Полноценная спортивная трансформация вашего E-Class в духе AMG — закажите в Udeu.kz с доставкой по Казахстану.]]></description>
+        <keywords>Mercedes W213, E-Class, обвес E63, body kit, AMG, тюнинг Mercedes, боди кит</keywords>
+      </offer>
+      <offer id="kubaydesign-bd73b19030" available="true">
         <name>Накладки на подлокотники дверей из карбона для Mercedes-Benz G-Class W463A</name>
         <categoryId>9716013</categoryId>
+        <price>1</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-bd73b19030-0.jpg</picture>
+        <description><![CDATA[Комплект из 4 накладок на дверные подлокотники из натурального карбона для G-Class W463A (2018+). Изготовлены из 100% настоящего карбона с глянцевым UV-стойким лаковым покрытием. Устанавливаются на штатные панели подлокотников с помощью клеевой основы. В Udeu.kz вы получите качественный тюнинг салона с быстрой доставкой по Казахстану.]]></description>
+        <keywords>карбон, G-Class, W463A, подлокотники, салон, Mercedes-Benz, тюнинг интерьера</keywords>
+      </offer>
+      <offer id="kubaydesign-13645079f3" available="true">
+        <name>Обвес W223 Maybach 1:1 New Type для Mercedes-Benz S-Class W221 2006-2013</name>
+        <categoryId>9716040</categoryId>
+        <price>1</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-13645079f3-0.jpg</picture>
+        <description><![CDATA[Полный комплект обвеса в стиле W223 S450 для Mercedes-Benz S-Class W221 (2006-2013 годов). Современный люксовый дизайн, вдохновлённый Maybach, полностью преображает экстерьер вашего автомобиля. Придаёт S-классу актуальный премиальный вид последних поколений Mercedes.]]></description>
+        <keywords>Mercedes-Benz S-Class W221, обвес Maybach, W223, тюнинг Mercedes, body kit S-Class, обвес W221</keywords>
+      </offer>
+      <offer id="kubaydesign-ce3def1e48" available="true">
+        <name>Карбоновый руль с алькантарой для BMW E60 E61 E63 — спортивный дизайн</name>
+        <categoryId>9716040</categoryId>
         <price>3</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-de222b9981-0.jpg</picture>
-        <description><![CDATA[Комплект из 4 накладок на подлокотники дверей из натурального карбона серого цвета для G-Class W463A. Изготовлены по технологии автоклавной полимеризации с глянцевым UV-защищенным покрытием. Устанавливаются поверх штатных подлокотников, придают салону премиальный вид и защищают заводскую кожу от износа. В Udeu.kz вы получите оригинальное качество и быструю доставку по Астане и Казахстану.]]></description>
-        <keywords>карбон, G-Class, W463A, Mercedes-Benz, подлокотники, накладки, салон, интерьер</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-ce3def1e48-0.jpg</picture>
+        <description><![CDATA[Спортивный руль с карбоновыми вставками и отделкой из алькантары для BMW 5 и 6 серии (E60, E61, E63). Отличается укороченной нижней частью, красной меткой на 12 часов, центральной вставкой Piano Black и красными лепестками переключения передач. Восстановленный OEM-руль, который преобразит интерьер и добавит драйва каждой поездке — закажите в Udeu.kz с доставкой по Астане и Казахстану.]]></description>
+        <keywords>руль BMW, E60, E61, E63, карбон, алькантара, спортивный руль, 5 серия BMW</keywords>
       </offer>
-      <offer id="kubaydesign-a6e3fedd2a" available="true">
-        <name>Эмблема 800 Style для Mercedes-Benz G-Class W463/W463A</name>
-        <categoryId>9716013</categoryId>
-        <price>1</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-a6e3fedd2a-0.jpg</picture>
-        <description><![CDATA[Металлический шильдик в стиле 800 от Kubay Design из нержавеющей стали с хромированной отделкой. Подходит для установки на заднюю дверь или крыло Mercedes G-Class W463 и W463A. Крепится на самоклеящуюся основу — легкий монтаж без сверления. В Udeu.kz всегда оригинальные аксессуары с гарантией качества.]]></description>
-        <keywords>Mercedes G-Class, W463, W463A, эмблема, шильдик 800, Kubay Design, тюнинг G-Class, badge</keywords>
-      </offer>
-      <offer id="kubaydesign-6df1e430c4" available="true">
-        <name>Система Keyless Go с 5 дверными ручками для Mercedes-Benz G-Class W465 2025+</name>
-        <categoryId>9716011</categoryId>
-        <price>1</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-6df1e430c4-0.jpg</picture>
-        <description><![CDATA[Полный комплект бесключевого доступа для Mercedes-Benz G-Class W465 от 2025 года выпуска. Включает 5 дверных ручек с интегрированной системой Keyless Go — открывайте и запускайте автомобиль без использования ключа. Современное решение для комфорта и стильное обновление экстерьера вашего Гелендвагена. В Udeu.kz — оригинальное качество и профессиональная установка по желанию.]]></description>
-        <keywords>Mercedes-Benz G-Class, W465, Keyless Go, дверные ручки, бесключевой доступ, Гелендваген, тюнинг экстерьера</keywords>
-      </offer>
-      <offer id="kubaydesign-b3eb52b92e" available="true">
-        <name>Карбоновые накладки на дверные панели Mercedes-Benz G-Class W463A/W464</name>
-        <categoryId>9716013</categoryId>
+      <offer id="kubaydesign-de9cc70e7c" available="true">
+        <name>Боковые подножки OEM-Style для BMW X6 G06 2019+</name>
+        <categoryId>9716040</categoryId>
         <price>2</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-b3eb52b92e-0.jpg</picture>
-        <description><![CDATA[Накладки из настоящего карбона для салона Mercedes-Benz G-Class W463A и W464. Придают интерьеру спортивный характер и премиальный вид. Точная подгонка под оригинальные дверные панели, быстрая установка. В Udeu.kz — оригинальные материалы и гарантия качества.]]></description>
-        <keywords>карбон, Mercedes G-Class, W463A, W464, накладки салона, тюнинг интерьера, Гелендваген, дверные панели</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-de9cc70e7c-0.jpg</picture>
+        <description><![CDATA[Стильные боковые подножки для BMW X6 G06 с 2019 года выпуска в заводском дизайне. Изготовлены из ABS-пластика с усиленным алюминиевым каркасом, устанавливаются без доработок и заметно упрощают посадку в автомобиль. В Udeu.kz вы найдёте качественный тюнинг с гарантией прямой установки.]]></description>
+        <keywords>BMW X6, G06, подножки, боковые пороги, OEM, 2019, аксессуары BMW</keywords>
       </offer>
-      <offer id="kubaydesign-06dfaa39bc" available="true">
-        <name>Карбоновые вставки для Mercedes-Benz G-Class W463A (2018+)</name>
-        <categoryId>9716013</categoryId>
+      <offer id="kubaydesign-566eb90cb7" available="true">
+        <name>Решётка радиатора RSQ5-style с хромированной рамкой для Audi Q5 8R 2008–2012</name>
+        <categoryId>9716040</categoryId>
         <price>1</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-06dfaa39bc-0.webp</picture>
-        <description><![CDATA[Комплект из 8 карбоновых элементов для внешнего тюнинга Mercedes G-Class W463A от Kubay Design. Изготовлены из настоящего 100% карбона с глянцевым UV-защитным покрытием. Включает акцентные накладки для расширенных арок и вентиляционных решёток — подчеркнут спортивный характер вашего внедорожника.]]></description>
-        <keywords>Mercedes G-Class, W463A, карбон, карбоновые вставки, тюнинг экстерьера, Kubay Design, обвес, акцентные элементы</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-566eb90cb7-0.jpg</picture>
+        <description><![CDATA[Спортивная решётка радиатора в стиле RSQ5 для Audi Q5 8R (2008–2012 г.в.). Хромированная рама с чёрной сотовой сеткой из прочного ABS-пластика точно встаёт на штатное место. Придаёт автомобилю агрессивный вид и подчёркивает индивидуальность. В комплекте без эмблемы Audi.]]></description>
+        <keywords>Audi Q5, решётка радиатора, RSQ5, тюнинг Audi, 2008-2012</keywords>
       </offer>
-      <offer id="kubaydesign-fcde28e89c" available="true">
-        <name>VIP Captain Seats — задние сиденья с центральной консолью для Mercedes-Benz G-Class W463A</name>
-        <categoryId>9716013</categoryId>
+      <offer id="kubaydesign-dad0ffe920" available="true">
+        <name>Эмблема XDrive 35i для BMW</name>
+        <categoryId>9716040</categoryId>
+        <price>2</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-dad0ffe920-0.jpg</picture>
+        <description><![CDATA[Хромированная эмблема XDrive 35i в стиле оригинального BMW. Устанавливается на клейкую основу, идеально подходит для моделей X5 и других BMW с системой полного привода. Качественное исполнение с заводским уровнем отделки придаст вашему автомобилю завершённый вид.]]></description>
+        <keywords>BMW, XDrive 35i, эмблема, шильдик, X5, тюнинг, хром, значок</keywords>
+      </offer>
+      <offer id="kubaydesign-fb31d0e9a7" available="true">
+        <name>Карбоновые накладки салона для BMW X5 F15 2013–2018</name>
+        <categoryId>9716040</categoryId>
         <price>3</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-fcde28e89c-0.jpg</picture>
-        <description><![CDATA[Превратите второй ряд вашего Гелендвагена в бизнес-класс с premium-сиденьями Kubay Design для Mercedes-Benz G-Class W463A (2018+). В комплекте: два спортивных кресла с боковой поддержкой, удлинённая центральная консоль, откидные столики, карбоновые акценты и широкий выбор цветовых решений. Заказывайте в Udeu.kz — доставка по Казахстану, гарантия качества.]]></description>
-        <keywords>Mercedes-Benz G-Class, W463A, VIP сиденья, салон Гелендваген, Kubay Design, тюнинг интерьера, Captain Seats, центральная консоль</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-fb31d0e9a7-0.jpg</picture>
+        <description><![CDATA[Карбоновые вставки в салон для BMW X5 F15 (2013–2018 годы выпуска) из натурального карбона с глянцевым UV-стойким покрытием. Точное соответствие заводским креплениям, простая установка без модификаций. Придают интерьеру спортивный премиальный вид и подчёркивают статус автомобиля.]]></description>
+        <keywords>BMW X5, F15, карбоновые накладки, салон, интерьер, карбон, тюнинг салона, 2013-2018</keywords>
       </offer>
-      <offer id="kubaydesign-a32424a5ca" available="true">
-        <name>Полный обвес G63 AMG для Mercedes-Benz G-Class W465 2024+</name>
-        <categoryId>9716011</categoryId>
+      <offer id="kubaydesign-25935b2fe0" available="true">
+        <name>Карбоновый спойлер на крышку багажника BMW 4 Series F32</name>
+        <categoryId>9716040</categoryId>
+        <price>1</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-25935b2fe0-0.jpg</picture>
+        <description><![CDATA[Задний спойлер из карбона для BMW 4 Series F32 — стильное дополнение к экстерьеру вашего автомобиля. Изготовлен из высококачественного углеволокна, придаёт спортивный облик и подчёркивает динамичный характер четвёрки. В Udeu.kz — оригинальные запчасти с гарантией качества и быстрой доставкой по Астане и Казахстану.]]></description>
+        <keywords>BMW 4 Series, F32, карбоновый спойлер, задний спойлер, тюнинг BMW, обвес, углеволокно</keywords>
+      </offer>
+      <offer id="kubaydesign-91310d94eb" available="true">
+        <name>Решетка радиатора S4 S-Line черная глянцевая для Audi A4 2015–2019</name>
+        <categoryId>9716040</categoryId>
+        <price>3</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-91310d94eb-0.jpg</picture>
+        <description><![CDATA[Передняя решетка радиатора в стиле S4 S-Line с полностью черным глянцевым покрытием для Audi A4 2015–2019 годов выпуска. Спортивный апгрейд внешности вашего автомобиля с заводским качеством посадки. Придает агрессивный характер и современный вид передней части, легко устанавливается на штатные места крепления.]]></description>
+        <keywords>Audi A4, решетка радиатора, S-Line, S4, тюнинг Audi, черная решетка, обвес A4, 2015-2019</keywords>
+      </offer>
+      <offer id="kubaydesign-9664fb6c5b" available="true">
+        <name>Карбоновый диффузор заднего бампера для Mercedes-Benz E-Class W212 2013–2016</name>
+        <categoryId>9716040</categoryId>
         <price>2</price>
         <currencyId>KZT</currencyId>
-        <description><![CDATA[Комплект внешнего обвеса в стиле G63 AMG для Mercedes-Benz G-Class W465 от 2024 года выпуска от Kubay Design. Включает все элементы для полной трансформации экстерьера в AMG-стилистику. Изготовлен из премиальных материалов с точной посадкой. В Udeu.kz вы получите оригинальное качество с доставкой по Казахстану.]]></description>
-        <keywords>Mercedes-Benz G-Class, W465, G63 AMG, обвес, body kit, Kubay Design, тюнинг Gелендваген, экстерьер</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-9664fb6c5b-0.jpg</picture>
+        <description><![CDATA[Задний диффузор из натурального карбона для Mercedes-Benz E-Class W212 рестайлинг (2013–2016 годы выпуска). Глянцевое покрытие серого оттенка с УФ-защитой, идеальная заводская посадка. Придаёт автомобилю спортивный вид и подчёркивает индивидуальность. В наличии на Udeu.kz с доставкой по Казахстану.]]></description>
+        <keywords>Mercedes-Benz, E-Class, W212, карбоновый диффузор, задний диффузор, обвес, тюнинг Mercedes</keywords>
       </offer>
-      <offer id="kubaydesign-17650c5289" available="true">
-        <name>Обшивки дверей салона без кожаных вставок для Mercedes-Benz G-Class W463 1979-2001</name>
+      <offer id="kubaydesign-02d5ed527f" available="true">
+        <name>Обвес M Sport в стиле G11/G12 LCI для BMW 7 Series F01/F02 (2009-2015)</name>
+        <categoryId>9716040</categoryId>
+        <price>1</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-02d5ed527f-0.jpg</picture>
+        <description><![CDATA[Полный комплект для рестайлинга BMW 7 Series F01/F02 в стиль M Sport от G11/G12 LCI 2022 года. Кардинально меняет внешний вид автомобиля без резки кузова — все элементы устанавливаются на штатные крепления. В Udeu.kz вы получите оригинальное качество, быструю доставку по Казахстану и профессиональную консультацию по установке.]]></description>
+        <keywords>BMW 7 Series, F01, F02, обвес M Sport, рестайлинг, body kit, G11, бампер BMW</keywords>
+      </offer>
+      <offer id="kubaydesign-6a407845b5" available="true">
+        <name>Решётка радиатора Diamond для Mercedes-Benz C-Class W205 (Classic)</name>
+        <categoryId>9716040</categoryId>
+        <price>2</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-6a407845b5-0.jpg</picture>
+        <description><![CDATA[Передняя решётка радиатора в стиле Diamond из прочного ABS-пластика для Mercedes-Benz C-Class W205 в классической версии. Устанавливается вместо штатной решётки без доработок, точное совпадение с креплениями OEM. Придаёт автомобилю современный премиальный вид и подчёркивает индивидуальность. Закажите в Udeu.kz с доставкой по Казахстану.]]></description>
+        <keywords>решетка радиатора, Mercedes-Benz, C-Class, W205, Diamond, тюнинг, ABS, передняя решетка</keywords>
+      </offer>
+      <offer id="kubaydesign-0574326a5c" available="true">
+        <name>Накладки на спинки сидений с откидными столиками, беспроводной зарядкой и LED-подсветкой для Mercedes-Benz G-Class W463A</name>
+        <categoryId>9716013</categoryId>
+        <price>1</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-0574326a5c-0.jpg</picture>
+        <description><![CDATA[Комплект из двух премиальных накладок на передние спинки сидений для Mercedes-Benz G-Class W463A (2018+). Каждая панель оснащена откидным столиком, встроенной беспроводной зарядкой для смартфонов и ambient LED-подсветкой. Изготовлены из качественного композитного материала с глянцевыми акцентами, устанавливаются вместо штатных накладок без доработок. В Udeu.kz вы получите оригинальный тюнинг с гарантией качества и доставкой по Казахстану.]]></description>
+        <keywords>Mercedes-Benz G-Class, W463A, накладки на сидения, беспроводная зарядка, LED-подсветка, откидные столики, тюнинг салона, интерьер Гелендваген</keywords>
+      </offer>
+      <offer id="kubaydesign-5ceff5994b" available="true">
+        <name>Руль карбоновый с кожей и LED-панелью для BMW F80/F82/F83/F85/F86 M-серии</name>
+        <categoryId>9716040</categoryId>
+        <price>2</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-5ceff5994b-0.jpg</picture>
+        <description><![CDATA[Спортивный руль с отделкой из карбона и натуральной кожи, оснащенный LED-панелью. Разработан специально для BMW M-серии: M2, M3, M4, X5M, X6M (поколения F80, F81, F82, F83, F85, F86). Придает салону гоночный характер и улучшает обратную связь при управлении. В Udeu.kz — оригинальное качество и быстрая доставка по Казахстану.]]></description>
+        <keywords>руль BMW, карбоновый руль, BMW M3, BMW M4, F80, F82, тюнинг салона, LED панель</keywords>
+      </offer>
+      <offer id="kubaydesign-528d1d5440" available="true">
+        <name>Карбоновый руль с красной меткой нулевого положения для Audi S5</name>
+        <categoryId>9716040</categoryId>
+        <price>2</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-528d1d5440-0.jpg</picture>
+        <description><![CDATA[Спортивный руль из натурального карбона с плоским нижним ободом и красной меткой нулевого положения для Audi S5. Изготовлен на базе оригинального руля с использованием премиальных материалов. Придаст салону спортивный характер и улучшит обратную связь при вождении. Доставка по Казахстану и за рубеж.]]></description>
+        <keywords>Audi S5, карбоновый руль, спортивный руль, тюнинг салона, карбон, плоский руль, рестайлинг салона</keywords>
+      </offer>
+      <offer id="kubaydesign-89b83dc25c" available="true">
+        <name>Решётка радиатора RS5 Grey для Audi A5 F5 2016–2019</name>
+        <categoryId>9716040</categoryId>
+        <price>3</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-89b83dc25c-0.jpg</picture>
+        <description><![CDATA[Передняя решётка радиатора в стиле RS5 с серым покрытием для Audi A5 F5 (2016–2019 годов выпуска). Премиальное качество отделки, точная посадка как у оригинала. Поставляется без колец Audi. Преобразите внешний вид вашего автомобиля с Udeu.kz — у нас только проверенные решения для тюнинга.]]></description>
+        <keywords>Audi A5, решётка радиатора, RS5, тюнинг Audi, F5, 2016-2019, обвес</keywords>
+      </offer>
+      <offer id="kubaydesign-dd65021e7c" available="true">
+        <name>Комплект обвеса AMG E63 2023 Narrow Body для Mercedes E-Class W213 2016–2023</name>
+        <categoryId>9716040</categoryId>
+        <price>1</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-dd65021e7c-0.webp</picture>
+        <description><![CDATA[Полный комплект для преобразования Mercedes E-Class W213 2016–2023 в стиль AMG E63 2023. В набор входят передний бампер E63, решётка радиатора, задний бампер, боковые пороги, задняя губа и насадки на выхлопную систему. Narrow-body обвес придаёт вашему E-Class агрессивный спортивный вид флагманской модели AMG. Закажите полный комплект тюнинга в Udeu.kz с доставкой по Казахстану.]]></description>
+        <keywords>Mercedes E-Class W213, обвес AMG E63, body kit Mercedes, тюнинг E-Class, AMG обвес, бампер E63, Mercedes тюнинг, обвес W213</keywords>
+      </offer>
+      <offer id="kubaydesign-aa7172f02f" available="true">
+        <name>Широкий обвес G900 Maybach Style для Mercedes-Benz G-Class W464 2019+</name>
+        <categoryId>9716040</categoryId>
+        <price>2</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-aa7172f02f-0.webp</picture>
+        <description><![CDATA[Полный комплект широкого обвеса в стиле G900 Maybach для Mercedes-Benz G-Class W464 2019 года и новее. Включает все элементы для внешнего преобразования кузова, превращая ваш G-Class в эксклюзивный автомобиль премиум-класса. Закажите в Udeu.kz с доставкой по Казахстану — качественный тюнинг для вашего Mercedes.]]></description>
+        <keywords>Mercedes G-Class, W464, обвес, Maybach, широкий обвес, G900, тюнинг Mercedes, боди-кит</keywords>
+      </offer>
+      <offer id="kubaydesign-487c8a40fd" available="true">
+        <name>Диски R18 для Mercedes-Benz W463 6×6</name>
         <categoryId>9716014</categoryId>
-        <price>3</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-17650c5289-0.jpg</picture>
-        <description><![CDATA[Внутренние панели дверей для Mercedes-Benz G-Class W463 (G-Wagon) выпуска 1979-2001 годов. Комплект без кожаных вставок, подходит для восстановления или обновления интерьера вашего Гелендвагена. В Udeu.kz вы найдете качественные детали для тюнинга и ремонта премиальных внедорожников с доставкой по Астане и Казахстану.]]></description>
-        <keywords>Mercedes-Benz, G-Class, W463, G-Wagon, обшивка дверей, панели салона, интерьер, тюнинг салона</keywords>
-      </offer>
-      <offer id="kubaydesign-08d735fbcc" available="true">
-        <name>Защита заднего бампера из нержавеющей стали для Mercedes-Benz G-Class W463</name>
-        <categoryId>9716014</categoryId>
-        <price>3</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-08d735fbcc-0.jpg</picture>
-        <description><![CDATA[Задняя защитная пластина из нержавеющей стали для Mercedes-Benz G-Class W463. Надёжно защищает задний бампер от повреждений при движении по бездорожью и в городских условиях. Изготовлена из качественной нержавейки, устойчивой к коррозии. В Udeu.kz — быстрая доставка по Астане и всему Казахстану.]]></description>
-        <keywords>Mercedes-Benz, G-Class, W463, защита бампера, нержавеющая сталь, skid plate, тюнинг</keywords>
-      </offer>
-      <offer id="kubaydesign-86bc9c4a64" available="true">
-        <name>Светодиодные эмблемы на крылья Rocket Style карбон для Mercedes-Benz G-Class W463A</name>
-        <categoryId>9716013</categoryId>
         <price>2</price>
         <currencyId>KZT</currencyId>
-        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-86bc9c4a64-0.jpg</picture>
-        <description><![CDATA[Комплект из двух светодиодных эмблем на крылья в стиле Rocket для G-Class W463A (2018+). Корпуса выполнены из окрашенного карбона с синей LED-подсветкой, красными декоративными пластинами и проводкой в комплекте. Придают Гелику агрессивный спортивный вид и выделяют автомобиль в потоке.]]></description>
-        <keywords>Mercedes-Benz G-Class, W463A, эмблемы на крылья, LED подсветка, карбон, тюнинг Гелик, Rocket Style</keywords>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-487c8a40fd-0.jpg</picture>
+        <description><![CDATA[Усиленные диски R18 для Mercedes-Benz W463 6×6 в чёрно-красном исполнении. Созданы для экстремального оффроуда: прочная конструкция выдерживает жёсткие условия эксплуатации, а агрессивный дизайн подчёркивает характер шестиколёсного Гелендвагена. В Udeu.kz — оригинальные диски с гарантией качества.]]></description>
+        <keywords>диски R18, Mercedes-Benz W463, Гелендваген 6×6, оффроуд диски, усиленные диски, тюнинг G-Class</keywords>
+      </offer>
+      <offer id="kubaydesign-bc1cd8ddf1" available="true">
+        <name>Боковые пороги в стиле M3 для BMW 3 Series E46 1997–2006</name>
+        <categoryId>9716040</categoryId>
+        <price>3</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-bc1cd8ddf1-0.jpg</picture>
+        <description><![CDATA[Спортивные боковые пороги в стиле M3 для BMW 3 Series E46 (1997–2006 годов выпуска). Обеспечивают точную посадку на штатные места, изготовлены из прочных материалов и придают автомобилю агрессивный динамичный вид. Отличное решение для тех, кто хочет добавить своей «трёшке» спортивного характера без серьёзных переделок.]]></description>
+        <keywords>BMW, 3 Series, E46, пороги, M3, обвес, тюнинг, боковые накладки</keywords>
+      </offer>
+      <offer id="kubaydesign-dc2df6bd51" available="true">
+        <name>Руль с плоским дном из карбона и алькантары для Chevrolet Corvette C6</name>
+        <categoryId>9716040</categoryId>
+        <price>2</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-dc2df6bd51-0.jpg</picture>
+        <description><![CDATA[Спортивный руль с плоским дном для Chevrolet Corvette C6, изготовленный из карбона и алькантары. Восстановленный по OEM-стандартам с использованием премиальных материалов. Придаёт салону спортивный характер и улучшает хват при активной езде. Доставка по всему Казахстану от Udeu.kz.]]></description>
+        <keywords>Chevrolet Corvette C6, руль карбон, плоский руль, алькантара, тюнинг салона, спортивный руль</keywords>
+      </offer>
+      <offer id="kubaydesign-17742f29dc" available="true">
+        <name>Руль карбон и кожа для Range Rover Sport</name>
+        <categoryId>9716040</categoryId>
+        <price>1</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-17742f29dc-0.jpg</picture>
+        <description><![CDATA[Спортивный руль с отделкой из карбона и натуральной кожи для Range Rover Sport. Эргономичный дизайн и премиальные материалы создают комфорт управления и подчёркивают индивидуальность салона. OEM-качество с восстановлением заводских деталей. Доставка по Казахстану и за рубеж от Udeu.kz.]]></description>
+        <keywords>Range Rover Sport, руль карбон, кожаный руль, тюнинг салона, Land Rover, Sport L494, карбоновый руль</keywords>
+      </offer>
+      <offer id="kubaydesign-83916a15cd" available="true">
+        <name>Передний бампер в стиле RS5 QUATTRO для Audi A5 2016–2019</name>
+        <categoryId>9716040</categoryId>
+        <price>2</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-83916a15cd-0.jpg</picture>
+        <description><![CDATA[Передний бампер в стиле RS5 с нижним элементом QUATTRO придаёт Audi A5 (2016–2019) агрессивный спортивный облик. Изготовлен из качественного ABS-пластика, поставляется неокрашенным — вы сможете подобрать идеальное совпадение с цветом вашего автомобиля. Заказывайте в Udeu.kz с доставкой по Астане и Казахстану.]]></description>
+        <keywords>Audi A5, RS5, передний бампер, QUATTRO, обвес, тюнинг, ABS, 2016-2019</keywords>
+      </offer>
+      <offer id="kubaydesign-f1f02179fb" available="true">
+        <name>Обвес Maybach Type B для Mercedes-Benz GL/GLS X166 (2013-2020)</name>
+        <categoryId>9716040</categoryId>
+        <price>1</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-f1f02179fb-0.jpg</picture>
+        <description><![CDATA[Полный комплект внешнего тюнинга для Mercedes-Benz GL-Class X166 (2013-2014) и GLS-Class X166 (2015-2020) в стиле Maybach. Превратите свой автомобиль в роскошный Maybach — вдохновлён дизайном GLS X167 Maybach 2024 года. Качественные материалы, премиальный внешний вид и точная посадка. Закажите с доставкой по Казахстану в Udeu.kz.]]></description>
+        <keywords>Mercedes-Benz GL, Mercedes-Benz GLS, X166, Maybach, обвес, тюнинг, body kit, GL-Class</keywords>
+      </offer>
+      <offer id="kubaydesign-c9eaff5669" available="true">
+        <name>Задний диффузор в стиле RS6 с насадками глушителя для Audi A6 2012-2015</name>
+        <categoryId>9716040</categoryId>
+        <price>2</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-c9eaff5669-0.jpg</picture>
+        <description><![CDATA[Спортивный задний диффузор в стиле RS6 для Audi A6 (2012-2015) — чёрная отделка, заводское качество установки, в комплекте с насадками на выхлопную систему. Превратит обычную «шестёрку» в агрессивный спорткар. В Udeu.kz подберём совместимый вариант и доставим по Астане.]]></description>
+        <keywords>Audi A6, диффузор задний, RS6, обвес, насадки выхлоп, тюнинг Audi, 2012-2015</keywords>
+      </offer>
+      <offer id="kubaydesign-46b7bc3ac4" available="true">
+        <name>Насадки на выхлопные трубы AMG Style для Mercedes E-Class W212 2009–2016</name>
+        <categoryId>9716040</categoryId>
+        <price>3</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-46b7bc3ac4-0.webp</picture>
+        <description><![CDATA[Спортивные насадки на выхлопные трубы в стиле AMG для Mercedes-Benz E-Class W212 (2009–2016 г.в.). Прямоугольная форма с чёрным покрытием из нержавеющей стали придаёт автомобилю агрессивный характер и премиальный вид. Простая установка, долговечность материалов. Закажите на Udeu.kz с доставкой по Казахстану.]]></description>
+        <keywords>Mercedes E-Class W212, насадки на выхлоп, AMG Style, выхлопная система, тюнинг Mercedes, чёрные насадки, E-Class 2009-2016</keywords>
+      </offer>
+      <offer id="kubaydesign-90599d2d48" available="true">
+        <name>Обвес AMG 53 LCI 2025 для Mercedes-Benz GLE W167 (2020-2023)</name>
+        <categoryId>9716040</categoryId>
+        <price>3</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-90599d2d48-0.jpg</picture>
+        <description><![CDATA[Конверсионный комплект в стиле AMG 53 LCI 2025 для Mercedes-Benz GLE W167. Базовая версия включает бамперы, решётку радиатора, диффузор, расширители арок и насадки на выхлопную систему. Полная комплектация дополнительно оснащается светодиодными фарами и задними фонарями нового поколения. Придаст вашему GLE агрессивный спортивный облик последней модели AMG.]]></description>
+        <keywords>Mercedes-Benz GLE, W167, AMG обвес, тюнинг GLE, body kit, обвес 2025, AMG 53</keywords>
+      </offer>
+      <offer id="kubaydesign-5ef904d25b" available="true">
+        <name>Обвес Maybach Type A для Mercedes-Benz GL/GLS X166 2013-2020</name>
+        <categoryId>9716040</categoryId>
+        <price>2</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images/kubaydesign-5ef904d25b-0.jpg</picture>
+        <description><![CDATA[Премиальный обвес в стиле Maybach для Mercedes-Benz GL-Class X166 (2013-2014) и GLS-Class X166 (2015-2020). Преобразит внешний вид вашего автомобиля, добавив элегантности и статусности, вдохновлённые дизайном GLS X167 Maybach 2024 года. Доступен к заказу в Udeu.kz с доставкой по Казахстану.]]></description>
+        <keywords>Mercedes-Benz GL, Mercedes-Benz GLS, X166, обвес Maybach, тюнинг Mercedes, кузовной обвес, GL-Class, GLS-Class</keywords>
       </offer>
     </offers>
   </shop>
