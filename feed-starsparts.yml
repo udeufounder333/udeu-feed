@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-17 22:38">
+<yml_catalog date="2026-08-17 23:33">
   <shop>
     <name>Udeu.kz</name>
     <company>Udeu.kz</company>
@@ -12,6 +12,7 @@
       <category id="9716367">1-серия F52 (2017-2024)</category>
       <category id="9716364">1-серия E81/E82/E87/E88 (2004-2014)</category>
       <category id="9716365">1-серия F20/F21 (2011-2017)</category>
+      <category id="9716375">3-серия G20, G21 (2018-2024)</category>
     </categories>
     <offers>
       <offer id="starsparts-146d52104390" available="true">
@@ -1655,6 +1656,923 @@ X1 E84   (09/2008 — 12/2015)]]></description>
 4' F32   (11/2012 — 05/2016)
 4' F33   (03/2013 — 05/2016)
 4' F36   (07/2013 — 05/2016)]]></description>
+      </offer>
+      <offer id="starsparts-f5caad4b0816" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW 320i 325i G20 G2 2019-2024</name>
+        <categoryId>9716375</categoryId>
+        <price>777199</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f5caad4b0816-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f5caad4b0816-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f5caad4b0816-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f5caad4b0816-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW 320i 325i G20 G2 2019-2024 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-764bd4d33448" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW M340i G20 3.0T 2020-2025</name>
+        <categoryId>9716375</categoryId>
+        <price>1120081</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-764bd4d33448-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-764bd4d33448-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-764bd4d33448-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW M340i G20 3.0T 2020-2025 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-879224583eff" available="true">
+        <name>Выхлопная система Catback Valvetronic для BMW M340i G20 M440i G22 G23 G26 3.0T</name>
+        <categoryId>9716375</categoryId>
+        <price>1120081</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-879224583eff-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-879224583eff-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-879224583eff-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback Valvetronic для BMW M340i G20 M440i G22 G23 G26 3.0T — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-762dbcf5fa8f" available="true">
+        <name>Даунпайп без катализатора для BMW G20 G22 G23 G26 B48</name>
+        <categoryId>9716375</categoryId>
+        <price>455788</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-762dbcf5fa8f-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-762dbcf5fa8f-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-762dbcf5fa8f-3.jpg</picture>
+        <description><![CDATA[Даунпайп без катализатора для BMW G20 G22 G23 G26 B48 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-0b4f4eaeb542" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW 330e G20 B48 2.0T Hybrid 2019-2024</name>
+        <categoryId>9716375</categoryId>
+        <price>1005784</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0b4f4eaeb542-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0b4f4eaeb542-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0b4f4eaeb542-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0b4f4eaeb542-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW 330e G20 B48 2.0T Hybrid 2019-2024 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-56714396405d" available="true">
+        <name>Выхлопная система Catback Valvetronic для BMW M340i G20 B58 3.0T 2019-2025</name>
+        <categoryId>9716375</categoryId>
+        <price>1120081</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-56714396405d-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-56714396405d-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-56714396405d-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-56714396405d-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback Valvetronic для BMW M340i G20 B58 3.0T 2019-2025 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-823e651904ee" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW 330e G20 B48 Hybrid 2023</name>
+        <categoryId>9716375</categoryId>
+        <price>1055578</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-823e651904ee-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-823e651904ee-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-823e651904ee-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW 330e G20 B48 Hybrid 2023 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-cff1792ec804" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW M340i G20 M440i G22 G23 G26</name>
+        <categoryId>9716375</categoryId>
+        <price>1120081</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cff1792ec804-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cff1792ec804-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cff1792ec804-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW M340i G20 M440i G22 G23 G26 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-30356325714c" available="true">
+        <name>Выхлопная система Catback Valvetronic для BMW M340i G20 M440i G22 G23 G26</name>
+        <categoryId>9716375</categoryId>
+        <price>1295482</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-30356325714c-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-30356325714c-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-30356325714c-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-30356325714c-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback Valvetronic для BMW M340i G20 M440i G22 G23 G26 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-353eb71cae2c" available="true">
+        <name>Индивидуальная выхлопная система Catback для BMW M340i G20 M440i G22 G23 G26 B58 3.0T</name>
+        <categoryId>9716375</categoryId>
+        <price>548614</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-353eb71cae2c-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-353eb71cae2c-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-353eb71cae2c-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-353eb71cae2c-3.png</picture>
+        <description><![CDATA[Индивидуальная выхлопная система Catback для BMW M340i G20 M440i G22 G23 G26 B58 3.0T — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-decbd40a1bf7" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW M340i G20 M440i G22 G23 G26</name>
+        <categoryId>9716375</categoryId>
+        <price>1120081</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-decbd40a1bf7-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-decbd40a1bf7-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW M340i G20 M440i G22 G23 G26 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-8988d5804717" available="true">
+        <name>Выхлопная система Catback с электроклапаном для BMW M340i G20 3.0T 2019-2025 (титан)</name>
+        <categoryId>9716375</categoryId>
+        <price>1920134</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8988d5804717-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8988d5804717-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для BMW M340i G20 3.0T 2019-2025 (титан) — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-152b10d643a1" available="true">
+        <name>Даунпайп с катализатором для BMW M340i M440i G20 G22 G23 B58 2020-2024</name>
+        <categoryId>9716375</categoryId>
+        <price>434316</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-152b10d643a1-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-152b10d643a1-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-152b10d643a1-3.jpg</picture>
+        <description><![CDATA[Даунпайп с катализатором для BMW M340i M440i G20 G22 G23 B58 2020-2024 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-10a6e037f1be" available="true">
+        <name>Даунпайп с катализатором 200 ячеек для BMW 330e G20 Hybrid 2020-2024</name>
+        <categoryId>9716375</categoryId>
+        <price>662901</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-10a6e037f1be-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-10a6e037f1be-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-10a6e037f1be-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-10a6e037f1be-3.png</picture>
+        <description><![CDATA[Даунпайп с катализатором 200 ячеек для BMW 330e G20 Hybrid 2020-2024 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-09e3728aeef3" available="true">
+        <name>Карбоновая накладка порога MP BMW G20, G21, G80, G26, G26E оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>139230</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-09e3728aeef3-0.jpg</picture>
+        <description><![CDATA[Карбоновая накладка порога MP BMW G20, G21, G80, G26, G26E оригинал — BMW. Накладки порогов для авто.]]></description>
+      </offer>
+      <offer id="starsparts-54602b722638" available="true">
+        <name>Накладки микрофона в салон BMW 5-серии G30 G31, 3-серии G20, матовый хром</name>
+        <categoryId>9716375</categoryId>
+        <price>14560</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-54602b722638-1.jpg</picture>
+        <description><![CDATA[Накладки  микрофона в салоне БМВ 5-серии G30 G31, 3-серии G20. Материал ABS пластик. Комплект 2шт. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-920e4561cc91" available="true">
+        <name>Накладки обрамления салонных речек дверей BMW 3-series G20, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>40950</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-920e4561cc91-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-920e4561cc91-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-920e4561cc91-2.jpg</picture>
+        <description><![CDATA[Накладки под внутренние ручки отрывания дверей для БМВ 3-серии G20. Комплект 4 накладки. Установка на двухсторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-5dfe8c8859a3" available="true">
+        <name>Обрамления кнопок климата BMW 3-series G20, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>17290</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5dfe8c8859a3-0.jpg</picture>
+        <description><![CDATA[Накладка вокруг кнопок климата БМВ 3-серии G20. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-b338072e288d" available="true">
+        <name>Накладки обрамления кнопок стеклоподъемников BMW 3-series G20, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>33124</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b338072e288d-1.jpg</picture>
+        <description><![CDATA[Накладки вокруг кнопок стеклоподъемника БМВ 3-серии G20. Комплект 4шт. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-535cb9e177bc" available="true">
+        <name>Накладки обрамления дефлекторов торпеды BMW 3-series G20, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>11830</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-535cb9e177bc-0.jpg</picture>
+        <description><![CDATA[Накладки вокруг дефлекторов торпеды БМВ 3-серии G20. Комплект 2шт. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-cad1ed7ea292" available="true">
+        <name>Накладка на заднюю часть центрального подлокотника BMW 3-series G20, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>30758</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cad1ed7ea292-0.jpg</picture>
+        <description><![CDATA[Накладка на центарльный подлокотник БМВ 3-серии G20. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-ebba9ec5e31a" available="true">
+        <name>Накладки обрамления боковых воздуховодов торпеды BMW 3-series G20, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>21294</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ebba9ec5e31a-0.jpg</picture>
+        <description><![CDATA[Накладки вокруг боковых воздуховодов торпеды БМВ 3-серии G20. Комплект 2шт. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-808c1f028ba4" available="true">
+        <name>Накладка отделка центральной консоли BMW 3-series G20, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>44954</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-808c1f028ba4-0.jpg</picture>
+        <description><![CDATA[Накладка на центральную консоль БМВ 3-серии G20. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-07989c92218f" available="true">
+        <name>Накладка обрамление кнопок фар BMW 3-series G20, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>14560</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-07989c92218f-0.jpg</picture>
+        <description><![CDATA[Накладка вокруг кнопок фар БМВ 3-серии G20. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-84a23dd1596a" available="true">
+        <name>Накладки на М-руль BMW 3-series G20, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>23660</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-84a23dd1596a-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-84a23dd1596a-1.jpg</picture>
+        <description><![CDATA[Комплект накладок по бокам центральной спицы руля БМВ 3-серии G20. Комплект 2шт. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-4a021497f707" available="true">
+        <name>Крышка рулевого колеса кожа/карбон BMW G20, G21, G22, G23, G28, G80, G82, G83, G26 оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>414050</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4a021497f707-0.jpg</picture>
+        <description><![CDATA[Крышка рулевого колеса кожа/карбон BMW G20, G21, G22, G23, G28, G80, G82, G83, G26 оригинал — BMW. Накладки отделка для авто.]]></description>
+      </offer>
+      <offer id="starsparts-ce0cd9322cf9" available="true">
+        <name>Накладки салона карбон-алькантара MP BMW G20, G21, G28 оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>968240</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Накладки салона карбон-алькантара MP BMW G20, G21, G28 оригинал — BMW. Накладки отделка для авто.]]></description>
+      </offer>
+      <offer id="starsparts-ebb26664111a" available="true">
+        <name>Корпуса зеркал M Performance BMW 3-series G20, карбон, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>475930</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Оригинальные корпуса зеркал для БМВ 3-серии G20. Материал карбон. Комплект 2 корпуса. Установка вместо штатных.]]></description>
+      </offer>
+      <offer id="starsparts-d6924b4335fe" available="true">
+        <name>Накладка на крышку багажника BMW 3-series G20, хром</name>
+        <categoryId>9716375</categoryId>
+        <price>53690</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d6924b4335fe-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d6924b4335fe-2.jpg</picture>
+        <description><![CDATA[Накладка на багажник для БМВ 3-серии G20.]]></description>
+      </offer>
+      <offer id="starsparts-a93c01561cf8" available="true">
+        <name>Накладки на боковые зеркала BMW 3-series G20, матовый хром</name>
+        <categoryId>9716375</categoryId>
+        <price>40950</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a93c01561cf8-0.jpg</picture>
+        <description><![CDATA[Накладки на боковые зеркала БМВ 3-серии G20. Комплект 2шт. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-4c33d610c6b6" available="true">
+        <name>Накладка на порог багажника и задний бампер BMW 3-series G20, комплект, нержавейка</name>
+        <categoryId>9716375</categoryId>
+        <price>59150</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4c33d610c6b6-0.jpg</picture>
+        <description><![CDATA[Комплект накладкок на порог багажника и верх бампера БМВ 3-серии G20. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-f03a98347624" available="true">
+        <name>Накладки на и под ручки дверей BMW 3-series G20, под карбон, комплект</name>
+        <categoryId>9716375</categoryId>
+        <price>49686</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Комплект накладок наручки и под ручки дверей БМВ 3-серии G20. Комплект 8 частей. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-c8e668f3e286" available="true">
+        <name>Накладки на боковые зеркала BMW 3-series G20, хром</name>
+        <categoryId>9716375</categoryId>
+        <price>40950</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c8e668f3e286-0.jpg</picture>
+        <description><![CDATA[Накладки на боковые зеркала БМВ 3-серии G20. Комплект 2шт. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-d18cc959e2cc" available="true">
+        <name>Накладки обрамления задних птф BMW 3-series G20, хром</name>
+        <categoryId>9716375</categoryId>
+        <price>22750</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d18cc959e2cc-0.jpg</picture>
+        <description><![CDATA[Накладки на задние птф БМВ 3-серии G20. Комплект 2шт. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-827054574648" available="true">
+        <name>Накладка на крышку багажника BMW 3-series G20, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>56420</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-827054574648-1.jpg</picture>
+        <description><![CDATA[Накладка на багажник для БМВ 3-серии G20. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-e9992df67189" available="true">
+        <name>Накладка на порог багажника BMW 3-series G20, нержавейка</name>
+        <categoryId>9716375</categoryId>
+        <price>35490</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Накладка защитная на порог багажника БМВ 3-серии G20. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-e858d2c82b3b" available="true">
+        <name>Накалдка на верхнюю часть заднего бампера BMW 3-series G20, нержавейка</name>
+        <categoryId>9716375</categoryId>
+        <price>35490</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e858d2c82b3b-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e858d2c82b3b-1.jpg</picture>
+        <description><![CDATA[Накладка защитная на задний бампер БМВ 3-серии G20. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-6bf9b7303f9a" available="true">
+        <name>Накладки на боковые зеркала BMW 3-series G20, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>40950</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6bf9b7303f9a-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6bf9b7303f9a-1.jpg</picture>
+        <description><![CDATA[Накладки на боковые зеркала БМВ 3-серии G20. Комплект 2шт. Установка на 2-х сторонний 3М скотч.]]></description>
+      </offer>
+      <offer id="starsparts-a207653c76f4" available="true">
+        <name>Молдинги вокруг окон BMW 3-series G20, ALU MATT, комплект, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>395850</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a207653c76f4-0.jpg</picture>
+        <description><![CDATA[51337465165
+
+
+51337465166
+
+
+51337465145
+
+
+51337465146
+
+
+51437465155
+
+
+51437465156
+
+
+51337465167
+
+
+51337465168
+
+
+51337465147
+
+
+51337465148
+
+
+51137497365 * 10шт]]></description>
+      </offer>
+      <offer id="starsparts-2baef4d9f217" available="true">
+        <name>Молдинги вокруг окон BMW 3-series G20, Shadow-Line, комплект, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>689500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2baef4d9f217-0.jpg</picture>
+        <description><![CDATA[51337465169
+
+
+51337465170
+
+
+51337465149
+
+
+51337465150
+
+
+51437465157
+
+
+51437465158
+
+
+51337465171
+
+
+51337465172
+
+
+51337465151
+
+
+51337465152
+
+
+51137497365 * 10шт]]></description>
+      </offer>
+      <offer id="starsparts-74aec6894123" available="true">
+        <name>Молдинги вокруг окон BMW 3-series G20, CHROM, комплект, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>395850</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-74aec6894123-0.jpg</picture>
+        <description><![CDATA[51337407407
+
+
+51337407408
+
+
+51337407413
+
+
+51337407414
+
+
+51137449355
+
+
+51137449356
+
+
+51357407409
+
+
+51357407410
+
+
+51357407417
+
+
+51357407418
+
+
+51137497365 * 10шт]]></description>
+      </offer>
+      <offer id="starsparts-4e31395bc58f" available="true">
+        <name>Сплиттер M Performance пластик BMW G20 оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>568750</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Сплиттер M Performance пластик BMW G20 оригинал — BMW. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-fd54e6d77979" available="true">
+        <name>Накладка заднего бампера M Performance (MPA) BMW G20, G21 оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>491400</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fd54e6d77979-0.jpg</picture>
+        <description><![CDATA[Накладка заднего бампера M Performance (MPA) BMW G20, G21 оригинал — BMW. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-8cfef3999fd6" available="true">
+        <name>Сплиттер M Performance карбон BMW G20 оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>459550</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Сплиттер M Performance карбон BMW G20 оригинал — BMW. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-8b516e1e46e6" available="true">
+        <name>Накладка заднего бампера M Performance (M-sport) BMW G20, G21 оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>491400</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Накладка заднего бампера M Performance (M-sport) BMW G20, G21 оригинал — BMW. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-eb646c8906e9" available="true">
+        <name>Накладка порогов M Performance BMW G20, G21 оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>220220</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Накладка порогов M Performance BMW G20, G21 оригинал — BMW. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-a3bea0f9c564" available="true">
+        <name>Крышка антенны BMW M Pefrormance, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>63000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a3bea0f9c564-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a3bea0f9c564-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a3bea0f9c564-2.png</picture>
+        <description><![CDATA[Крышка антенны BMW M Pefrormance, оригинал — BMW. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-3d4b7b150b04" available="true">
+        <name>Юбка переднего бампера BMW 3-series G20 M-Sport, черный</name>
+        <categoryId>9716375</categoryId>
+        <price>40600</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3d4b7b150b04-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3d4b7b150b04-2.png</picture>
+        <description><![CDATA[Юбка переднего бампера BMW 3-series G20 M-Sport, черный — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-153ba0191e98" available="true">
+        <name>Юбка переднего бампера BMW 3-series G20 M-Sport, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>47600</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-153ba0191e98-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-153ba0191e98-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-153ba0191e98-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-153ba0191e98-3.png</picture>
+        <description><![CDATA[Юбка переднего бампера BMW 3-series G20 M-Sport, под карбон — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-96e2f9e04264" available="true">
+        <name>Накладки заднего бампера BMW 3-series G20 M-Sport, черный</name>
+        <categoryId>9716375</categoryId>
+        <price>26250</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-96e2f9e04264-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-96e2f9e04264-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-96e2f9e04264-2.png</picture>
+        <description><![CDATA[Накладки заднего бампера BMW 3-series G20 M-Sport, черный — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-90338f752278" available="true">
+        <name>Накладки заднего бампера BMW 3-series G20 M-Sport, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>26250</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-90338f752278-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-90338f752278-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-90338f752278-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-90338f752278-3.png</picture>
+        <description><![CDATA[Накладки заднего бампера BMW 3-series G20 M-Sport, под карбон — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-66ce964389e9" available="true">
+        <name>Спойлер BMW 3-series G20, в стиле M3, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>45500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-66ce964389e9-0.png</picture>
+        <description><![CDATA[Спойлер BMW 3-series G20, в стиле M3, под карбон — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-b558eee965db" available="true">
+        <name>Накладки заднего бампера BMW 3-series G20 M-Sport, стиль 2, черный</name>
+        <categoryId>9716375</categoryId>
+        <price>27300</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b558eee965db-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b558eee965db-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b558eee965db-3.png</picture>
+        <description><![CDATA[Накладки заднего бампера BMW 3-series G20 M-Sport, стиль 2, черный — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-4627b9b64e5e" available="true">
+        <name>Накладки заднего бампера BMW 3-series G20 M-Sport, стиль 2, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>27300</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4627b9b64e5e-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4627b9b64e5e-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4627b9b64e5e-2.png</picture>
+        <description><![CDATA[Накладки заднего бампера BMW 3-series G20 M-Sport, стиль 2, под карбон — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-8325bee2edee" available="true">
+        <name>Накладки переднего бампера BMW 3-series G20 M-Sport, черный</name>
+        <categoryId>9716375</categoryId>
+        <price>29400</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8325bee2edee-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8325bee2edee-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8325bee2edee-2.png</picture>
+        <description><![CDATA[Накладки переднего бампера BMW 3-series G20 M-Sport, черный — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-abb1b235c0a0" available="true">
+        <name>Накладки переднего бампера BMW 3-series G20 M-Sport, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>29400</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-abb1b235c0a0-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-abb1b235c0a0-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-abb1b235c0a0-2.png</picture>
+        <description><![CDATA[Накладки переднего бампера BMW 3-series G20 M-Sport, под карбон — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-817040572472" available="true">
+        <name>Реснички на фары BMW 3-series G20, черный</name>
+        <categoryId>9716375</categoryId>
+        <price>17500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-817040572472-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-817040572472-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-817040572472-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-817040572472-3.png</picture>
+        <description><![CDATA[Реснички на фары BMW 3-series G20, черный — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-4ca0eb3410ec" available="true">
+        <name>Реснички на фары BMW 3-series G20, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>17500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4ca0eb3410ec-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4ca0eb3410ec-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4ca0eb3410ec-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4ca0eb3410ec-3.png</picture>
+        <description><![CDATA[Реснички на фары BMW 3-series G20, под карбон — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-8e88805fe744" available="true">
+        <name>Юбка переднего бампера BMW 3-series G20, черный</name>
+        <categoryId>9716375</categoryId>
+        <price>33600</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8e88805fe744-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8e88805fe744-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8e88805fe744-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8e88805fe744-3.png</picture>
+        <description><![CDATA[Юбка переднего бампера BMW 3-series G20, черный — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-1a968d919878" available="true">
+        <name>Юбка переднего бампера BMW 3-series G20, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>40600</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1a968d919878-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1a968d919878-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1a968d919878-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1a968d919878-3.png</picture>
+        <description><![CDATA[Юбка переднего бампера BMW 3-series G20, под карбон — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-061e4b23d080" available="true">
+        <name>Накладки переднего бампера BMW 3-series G20 2023-, M-Sport, черный</name>
+        <categoryId>9716375</categoryId>
+        <price>31500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-061e4b23d080-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-061e4b23d080-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-061e4b23d080-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-061e4b23d080-3.png</picture>
+        <description><![CDATA[Накладки переднего бампера BMW 3-series G20 2023-, M-Sport, черный — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-f92316f8ac28" available="true">
+        <name>Накладки переднего бампера BMW 3-series G20 2023-, M-Sport, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>33600</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f92316f8ac28-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f92316f8ac28-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f92316f8ac28-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f92316f8ac28-3.png</picture>
+        <description><![CDATA[Накладки переднего бампера BMW 3-series G20 2023-, M-Sport, под карбон — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-cd59970e6eb7" available="true">
+        <name>Юбка переднего бампера BMW 3-series G20 2023-, M-Sport, черный</name>
+        <categoryId>9716375</categoryId>
+        <price>51100</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cd59970e6eb7-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cd59970e6eb7-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cd59970e6eb7-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cd59970e6eb7-3.png</picture>
+        <description><![CDATA[Юбка переднего бампера BMW 3-series G20 2023-, M-Sport, черный — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-ea3e7d624b67" available="true">
+        <name>Юбка переднего бампера BMW 3-series G20 2023-, M-Sport, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>57400</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ea3e7d624b67-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ea3e7d624b67-1.png</picture>
+        <description><![CDATA[Юбка переднего бампера BMW 3-series G20 2023-, M-Sport, под карбон — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-23a70a1e08e7" available="true">
+        <name>Накладки переднего бампера BMW 3-series G20 2023-, M-Sport, стиль 2, черный</name>
+        <categoryId>9716375</categoryId>
+        <price>42700</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-23a70a1e08e7-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-23a70a1e08e7-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-23a70a1e08e7-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-23a70a1e08e7-3.png</picture>
+        <description><![CDATA[Накладки переднего бампера BMW 3-series G20 2023-, M-Sport, стиль 2, черный — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-1959c92e4066" available="true">
+        <name>Накладки переднего бампера BMW 3-series G20 2023-, M-Sport, стиль 2, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>46900</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1959c92e4066-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1959c92e4066-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1959c92e4066-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1959c92e4066-3.png</picture>
+        <description><![CDATA[Накладки переднего бампера BMW 3-series G20 2023-, M-Sport, стиль 2, под карбон — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-58dbeddaa42f" available="true">
+        <name>Элероны заднего бампера BMW 3-series G20 2023-, M-Sport, черный</name>
+        <categoryId>9716375</categoryId>
+        <price>34650</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-58dbeddaa42f-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-58dbeddaa42f-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-58dbeddaa42f-3.png</picture>
+        <description><![CDATA[Элероны заднего бампера BMW 3-series G20 2023-, M-Sport, черный — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-d19e5ca9df54" available="true">
+        <name>Элероны заднего бампера BMW 3-series G20 2023-, M-Sport, под карбон</name>
+        <categoryId>9716375</categoryId>
+        <price>34650</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d19e5ca9df54-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d19e5ca9df54-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d19e5ca9df54-2.png</picture>
+        <description><![CDATA[Элероны заднего бампера BMW 3-series G20 2023-, M-Sport, под карбон — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-d25eccafd737" available="true">
+        <name>Накладки-&quot;брови&quot; на передние фары MP Matte Style из карбона для BMW G20/G22/G80/G82 (2020+)</name>
+        <categoryId>9716375</categoryId>
+        <price>82341</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d25eccafd737-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d25eccafd737-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d25eccafd737-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d25eccafd737-3.jpg</picture>
+        <description><![CDATA[Накладки-"брови" на передние фары MP Matte Style из карбона для BMW G20/G22/G80/G82 (2020+) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-b0ab5374ce30" available="true">
+        <name>Накладка на антенну из карбона Sticky Style для BMW G21 LCI / G81 / G82 LCI / G05 LCI / F95 LCI / G06 LCI / F96 LCI / G07 LCI / G09 (2024+)</name>
+        <categoryId>9716375</categoryId>
+        <price>48279</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b0ab5374ce30-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b0ab5374ce30-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b0ab5374ce30-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b0ab5374ce30-3.jpg</picture>
+        <description><![CDATA[Накладка на антенну из карбона Sticky Style для BMW G21 LCI / G81 / G82 LCI / G05 LCI / F95 LCI / G06 LCI / F96 LCI / G07 LCI / G09 (2024+) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-969f3586a33e" available="true">
+        <name>Накладка на антенну из карбона Sticky Style для BMW G21 LCI / G81 / G82 LCI / G05 LCI / F95 LCI / G06 LCI / F96 LCI (2024+)</name>
+        <categoryId>9716375</categoryId>
+        <price>52059</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-969f3586a33e-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-969f3586a33e-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-969f3586a33e-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-969f3586a33e-3.jpg</picture>
+        <description><![CDATA[Накладка на антенну из карбона Sticky Style для BMW G21 LCI / G81 / G82 LCI / G05 LCI / F95 LCI / G06 LCI / F96 LCI (2024+) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-d4b3d2d71ffc" available="true">
+        <name>Юбка переднего бампера M Performance BMW 3-series G20, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>454090</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d4b3d2d71ffc-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d4b3d2d71ffc-1.jpg</picture>
+        <description><![CDATA[Оригинальная юбка M Performance переднего бампера БМВ 3-серии G20. Комплект юбка бампера, заклепки, саморезы. Устанавливается на  обвес M Technic. Цвет черный.]]></description>
+      </offer>
+      <offer id="starsparts-542da379556d" available="true">
+        <name>Элероны юбки бампера M Performance BMW 3-series G20, к-кт., карбон, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>535080</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-542da379556d-0.jpg</picture>
+        <description><![CDATA[Элероны передней юбки бампера M Performance BMW 3-серии G20. Материал карбон. Устанавливаются только на юбку бампера (51192455832). Комплект 2 накладки и заклепки.]]></description>
+      </offer>
+      <offer id="starsparts-168eb8cb7a8e" available="true">
+        <name>Диффузор пластик M Performance (M-sport) BMW G20, G21 оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>338520</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Диффузор пластик M Performance (M-sport) BMW G20, G21 оригинал — BMW. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-4f95f36ea065" available="true">
+        <name>Диффузор карбон M Performance (M-sport) BMW G20, G21 оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>1058330</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4f95f36ea065-0.jpg</picture>
+        <description><![CDATA[Диффузор карбон M Performance (M-sport) BMW G20, G21 оригинал — BMW. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-cf74403f4b43" available="true">
+        <name>Диффузор карбон MP (MPA) BMW G20, G21 оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>1118390</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cf74403f4b43-0.jpg</picture>
+        <description><![CDATA[Диффузор карбон MP (MPA) BMW G20, G21 оригинал — BMW. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-892bbc172624" available="true">
+        <name>Задний диффузор-сплиттер в стиле Top Model Competition для BMW 3 G20 2023-2026</name>
+        <categoryId>9716375</categoryId>
+        <price>100186</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-892bbc172624-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-892bbc172624-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-892bbc172624-3.jpg</picture>
+        <description><![CDATA[Задний диффузор-сплиттер в стиле Top Model Competition для BMW 3 G20 2023-2026 — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-ab50dfaa70e3" available="true">
+        <name>Задняя губа-диффузор CMST Competition со светодиодом для BMW 3 G20 2019-2022</name>
+        <categoryId>9716375</categoryId>
+        <price>71388</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ab50dfaa70e3-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ab50dfaa70e3-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ab50dfaa70e3-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ab50dfaa70e3-3.jpg</picture>
+        <description><![CDATA[Задняя губа-диффузор CMST Competition со светодиодом для BMW 3 G20 2019-2022 — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-c52286d43b01" available="true">
+        <name>Передняя губа M Performance (3 секции) для BMW 3 серии G20/G28 2020</name>
+        <categoryId>9716375</categoryId>
+        <price>29976</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c52286d43b01-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c52286d43b01-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c52286d43b01-3.jpg</picture>
+        <description><![CDATA[Передняя губа M Performance (3 секции) для BMW 3 серии G20/G28 2020 — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-dfa5f0ec21be" available="true">
+        <name>Передний диффузор-сплиттер из карбона для BMW 3 серии G20/G21 LCI M Sport (2023+)</name>
+        <categoryId>9716375</categoryId>
+        <price>230846</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-dfa5f0ec21be-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-dfa5f0ec21be-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-dfa5f0ec21be-3.jpg</picture>
+        <description><![CDATA[Передний диффузор-сплиттер из карбона для BMW 3 серии G20/G21 LCI M Sport (2023+) — AX Carbon. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-38c43adbb8ab" available="true">
+        <name>Задний диффузор MP Style из карбона для BMW 3 серии G20/G21 LCI (2023+)</name>
+        <categoryId>9716375</categoryId>
+        <price>267148</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-38c43adbb8ab-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-38c43adbb8ab-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-38c43adbb8ab-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-38c43adbb8ab-3.jpg</picture>
+        <description><![CDATA[Задний диффузор MP Style из карбона для BMW 3 серии G20/G21 LCI (2023+) — AX Carbon. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-432a8506add2" available="true">
+        <name>Накладка на задний бампер MP Style из карбона для BMW 3 серии G28 LCI (2023+)</name>
+        <categoryId>9716375</categoryId>
+        <price>267148</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-432a8506add2-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-432a8506add2-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-432a8506add2-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-432a8506add2-3.jpg</picture>
+        <description><![CDATA[Накладка на задний бампер MP Style из карбона для BMW 3 серии G28 LCI (2023+) — AX Carbon. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-38a4139037d7" available="true">
+        <name>Коврики салона M Performance BMW 3-series G20, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>134680</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Оригинальные коврики M Performance для БМВ 3-серии G20. Комплект 4 коврика. Материал велюр. Цвет черный.]]></description>
+      </offer>
+      <offer id="starsparts-197c99947529" available="true">
+        <name>Коврики салона BMW 3-series G20, передние, резина, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>52325</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-197c99947529-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-197c99947529-1.jpg</picture>
+        <description><![CDATA[Оригинальные всепогодные коврики салона для БМВ 3-серии G20. Установка на передний ряд. Комплект 2 коврика. Материал резина.]]></description>
+      </offer>
+      <offer id="starsparts-50010ddbc247" available="true">
+        <name>Коврики салона BMW 3-series G20, задние, резина, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>37765</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-50010ddbc247-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-50010ddbc247-1.jpg</picture>
+        <description><![CDATA[Оригинальные всепогодные коврики салона для БМВ 3-серии G20. Установка на задний ряд. Комплект 2 коврика. Материал резина.]]></description>
+      </offer>
+      <offer id="starsparts-1b3f3f7dd537" available="true">
+        <name>Коврики салона BMW 3-series G20, высокий борт, передние, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>109200</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1b3f3f7dd537-0.jpg</picture>
+        <description><![CDATA[Оригинальные всепогодные коврики салона с высоким бортиком для БМВ 3-серии G20. Установка на передний ряд. Комплект 2 коврика.]]></description>
+      </offer>
+      <offer id="starsparts-25b77fcd3164" available="true">
+        <name>Коврики салона BMW 3-series G20, высокий борт, задние, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>86450</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-25b77fcd3164-0.jpg</picture>
+        <description><![CDATA[Оригинальные всепогодные коврики салона с высоким бортиком для БМВ 3-серии G20. Установка на задний ряд. Комплект 2 коврика.]]></description>
+      </offer>
+      <offer id="starsparts-f6052bb12951" available="true">
+        <name>Коврик в багажник BMW 3-series G20, оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>100100</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f6052bb12951-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f6052bb12951-1.jpg</picture>
+        <description><![CDATA[Оригинальный коврик в багажник БМВ 3-серии G20. Цвет черный.]]></description>
+      </offer>
+      <offer id="starsparts-f1ab6cf6a74a" available="true">
+        <name>Ковры салона M Performance BMW G20, G21, G80 оригинал</name>
+        <categoryId>9716375</categoryId>
+        <price>236600</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f1ab6cf6a74a-0.jpg</picture>
+        <description><![CDATA[Ковры салона M Performance BMW G20, G21, G80 оригинал — BMW. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-131e02af88e9" available="true">
+        <name>Коврики 3D в салон подходят для BMW Series 3 G20, 2019- седан, 4шт. (полиуретан) / БМВ Тройка</name>
+        <categoryId>9716375</categoryId>
+        <price>24213</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-131e02af88e9-1.jpg</picture>
+        <description><![CDATA[Коврики 3D в салон подходят для BMW Series 3 G20, 2019- седан, 4шт. (полиуретан) / БМВ Тройка — Autofamily. Коврики автомобильные.]]></description>
       </offer>
       <offer id="starsparts-92259cc01368" available="true">
         <name>Масляный фильтр BMW MINI для моторов серии B32 B37, B38, B42, B47, B48, оригинал</name>
