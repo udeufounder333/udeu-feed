@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-18 00:27">
+<yml_catalog date="2026-08-18 00:32">
   <shop>
     <name>Udeu.kz</name>
     <company>Udeu.kz</company>
@@ -41,6 +41,8 @@
       <category id="9716403">X3 E83 (2003-2010)</category>
       <category id="9716404">X3 F25 (2010-2017)</category>
       <category id="9716405">X3 G01 (2018-2021)</category>
+      <category id="9716406">X3 G01 LCI рестайлинг (2022-2024)</category>
+      <category id="9716407">X3 G45 (2025-н.в.)</category>
     </categories>
     <offers>
       <offer id="starsparts-146d52104390" available="true">
@@ -10857,6 +10859,662 @@ Airbag в комплект не входит.]]></description>
         <price>42000</price>
         <currencyId>KZT</currencyId>
         <description><![CDATA[Жабра в крыло BMW X3 G01 / X4 G02, левая, черный глянец, оригинал — BMW. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-6880112331e1" available="true">
+        <name>Накладки на зеркала заднего вида из карбона для BMW G01/G02/G05/G06/G07/G08 (2019+)</name>
+        <categoryId>9716405</categoryId>
+        <price>142779</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6880112331e1-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6880112331e1-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6880112331e1-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6880112331e1-3.jpg</picture>
+        <description><![CDATA[Накладки на зеркала заднего вида из карбона для BMW G01/G02/G05/G06/G07/G08 (2019+) — AX Carbon. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-15546e46feae" available="true">
+        <name>Накладка переднего бампера BMW X3 G01, хром, реплика</name>
+        <categoryId>9716405</categoryId>
+        <price>107380</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-15546e46feae-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-15546e46feae-2.png</picture>
+        <description><![CDATA[Накладка переднего бампера BMW X3 G01, хром, реплика — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-c11d5932891a" available="true">
+        <name>Накладка заднего бампера BMW X3 G01, хром, реплика</name>
+        <categoryId>9716405</categoryId>
+        <price>73710</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c11d5932891a-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c11d5932891a-2.png</picture>
+        <description><![CDATA[Накладка заднего бампера BMW X3 G01, хром, реплика — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-8b99bca02517" available="true">
+        <name>Накладка заднего бампера BMW X3 G01, черный</name>
+        <categoryId>9716405</categoryId>
+        <price>147420</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8b99bca02517-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8b99bca02517-2.png</picture>
+        <description><![CDATA[Накладка заднего бампера BMW X3 G01, черный — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-6a005cc05e7d" available="true">
+        <name>Передний бампер X3M BMW X3 G01, реплика</name>
+        <categoryId>9716405</categoryId>
+        <price>409500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6a005cc05e7d-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6a005cc05e7d-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6a005cc05e7d-2.jpg</picture>
+        <description><![CDATA[Передний бампер X3M BMW X3 G01, реплика — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-13bf6e23f137" available="true">
+        <name>Диффузор переднего бампера BMW X3 G01 / X4 G02 2018-2021, черный</name>
+        <categoryId>9716405</categoryId>
+        <price>87500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-13bf6e23f137-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-13bf6e23f137-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-13bf6e23f137-2.png</picture>
+        <description><![CDATA[Диффузор переднего бампера BMW X3 G01 / X4 G02 2018-2021, черный — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-02e8d472611c" available="true">
+        <name>Диффузор переднего бампера BMW X3 G01 / X4 G02 2018-2021, под карбон</name>
+        <categoryId>9716405</categoryId>
+        <price>87500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-02e8d472611c-1.png</picture>
+        <description><![CDATA[Диффузор переднего бампера BMW X3 G01 / X4 G02 2018-2021, под карбон — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-a468015d646d" available="true">
+        <name>Коврики салона BMW X3 G01, передние, резина, оригинал</name>
+        <categoryId>9716405</categoryId>
+        <price>51870</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a468015d646d-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a468015d646d-1.jpg</picture>
+        <description><![CDATA[Оригинальные коврики салона для БМВ Х3 G01.
+Комплект два передних коврика.
+Материал резина.
+Оригинальный номер 51472450511]]></description>
+      </offer>
+      <offer id="starsparts-11d0d7d01b5d" available="true">
+        <name>Коврики салона BMW X3 G01, задние, резина, оригинал</name>
+        <categoryId>9716405</categoryId>
+        <price>42770</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Оригинальные коврики салона для БМВ Х3 G01.
+Комплект два задних коврика.
+Материал резина.
+Оригинальный номер 51472450512]]></description>
+      </offer>
+      <offer id="starsparts-345cda4799eb" available="true">
+        <name>Коврики салона BMW X3 G01, передние, высокий борт, резина, оригинал</name>
+        <categoryId>9716405</categoryId>
+        <price>100100</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-345cda4799eb-0.jpg</picture>
+        <description><![CDATA[Оригинальные коврики салона для БМВ Х3 G01.
+Комплект два передних коврика.
+Материал резина.
+Оригинальный номер 51472450514]]></description>
+      </offer>
+      <offer id="starsparts-1d863e229940" available="true">
+        <name>Коврики салона BMW X3 G01, задние, высокий борт, резина, оригинал</name>
+        <categoryId>9716405</categoryId>
+        <price>72800</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1d863e229940-0.jpg</picture>
+        <description><![CDATA[Оригинальные коврики салона для БМВ Х3 G01.
+Комплект два задних коврика.
+Материал резина.
+Оригинальный номер 51472450515]]></description>
+      </offer>
+      <offer id="starsparts-13aa1e41efd2" available="true">
+        <name>Коврики салона BMW X3 G01, велюр, ANTHRAZIT, оригинал</name>
+        <categoryId>9716405</categoryId>
+        <price>154700</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Оригинальные коврики салона для БМВ Х3 G01.
+Комплект на два ряда сидений.
+Материал велюр.
+Цвет ANTHRAZIT.
+Оригинальный номер 51477491450]]></description>
+      </offer>
+      <offer id="starsparts-d8cb0570840c" available="true">
+        <name>Коврик багажника BMW X3 G01, резина, оригинал</name>
+        <categoryId>9716405</categoryId>
+        <price>136500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d8cb0570840c-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d8cb0570840c-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d8cb0570840c-2.jpg</picture>
+        <description><![CDATA[Оригинальные коврик в багажник для БМВ Х3 G01.
+Материал резина.
+Оригинальный номер 51472450516]]></description>
+      </offer>
+      <offer id="starsparts-68fb9719cbdf" available="true">
+        <name>Коврики салона M Performance BMW X3 G01 / X4 G02</name>
+        <categoryId>9716405</categoryId>
+        <price>236600</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-68fb9719cbdf-0.png</picture>
+        <description><![CDATA[Коврики салона M Performance BMW X3 G01 / X4 G02 — BMW. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-d7a5188cb1f9" available="true">
+        <name>Ковры салона M Performance BMW G01, G02, G01N, G02N оригинал</name>
+        <categoryId>9716405</categoryId>
+        <price>301700</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d7a5188cb1f9-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d7a5188cb1f9-1.png</picture>
+        <description><![CDATA[Ковры салона M Performance BMW G01, G02, G01N, G02N оригинал — BMW. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-535e679b3913" available="true">
+        <name>Коврик в багажник BMW X3 G01, 2017-, 1 шт. (полиуретан) / БМВ Х3</name>
+        <categoryId>9716405</categoryId>
+        <price>18109</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-535e679b3913-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-535e679b3913-1.jpg</picture>
+        <description><![CDATA[Коврик в багажник BMW X3 G01, 2017-, 1 шт. (полиуретан) / БМВ Х3 — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-6410539dd128" available="true">
+        <name>Коврики 3D в салон BMW X3, 2017-, (G01), SUV, (Европа), 4 шт. (полиуретан) / БМВ Х3</name>
+        <categoryId>9716405</categoryId>
+        <price>26278</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6410539dd128-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6410539dd128-1.jpg</picture>
+        <description><![CDATA[Коврики 3D в салон BMW X3, 2017-, (G01), SUV, (Европа), 4 шт. (полиуретан) / БМВ Х3 — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-371d6c971c69" available="true">
+        <name>Коврики в салон Klever Econom BMW X3 G01 4WD, 2017-2021, 2021-, кроссовер, 4 шт. (текстиль) / БМВ Х3</name>
+        <categoryId>9716405</categoryId>
+        <price>30471</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-371d6c971c69-0.jpg</picture>
+        <description><![CDATA[Коврики в салон Klever Econom BMW X3 G01 4WD, 2017-2021, 2021-, кроссовер, 4 шт. (текстиль) / БМВ Х3 — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-74e65dab05d5" available="true">
+        <name>Коврики 3D в салон BMW X3, 2017-, (G01), SUV, (Европа), 4 шт., (Повышенная устойчивость, непревзойденный стиль) / БМВ Х3</name>
+        <categoryId>9716405</categoryId>
+        <price>62454</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Коврики 3D в салон BMW X3, 2017-, (G01), SUV, (Европа), 4 шт., (Повышенная устойчивость, непревзойденный стиль) / БМВ Х3 — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-d5c77fc519aa" available="true">
+        <name>Коврики KVEST 3D в салон BMW X3, 2018- кроссовер, 4шт. (полиуретан, черный, черный) / БМВ Х3</name>
+        <categoryId>9716405</categoryId>
+        <price>47012</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Коврики KVEST 3D в салон BMW X3, 2018- кроссовер, 4шт. (полиуретан, черный, черный) / БМВ Х3 — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-e15b3a89897e" available="true">
+        <name>Коврики 3D в салон подходят для BMW X3 (G01), 2017-2021, правый руль кроссовер, Австралия, 4шт. (полиуретан) / БМВ Х3</name>
+        <categoryId>9716405</categoryId>
+        <price>23107</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e15b3a89897e-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e15b3a89897e-1.jpg</picture>
+        <description><![CDATA[Коврики 3D в салон подходят для BMW X3 (G01), 2017-2021, правый руль кроссовер, Австралия, 4шт. (полиуретан) / БМВ Х3 — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-d769641721f8" available="true">
+        <name>Защита КПП и РК для BMW X3 G01, X4 G02, алюминий, Rival</name>
+        <categoryId>9716405</categoryId>
+        <price>126788</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d769641721f8-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d769641721f8-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d769641721f8-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d769641721f8-3.jpg</picture>
+        <description><![CDATA[Защита КПП и раздаточной коробки для БМВ Х3 G01 / Х4 G02. Крепеж в комплекте]]></description>
+      </offer>
+      <offer id="starsparts-271e3583a133" available="true">
+        <name>Защита картера двигателя BMW X3 G01, X4 G02, алюминий, Rival</name>
+        <categoryId>9716405</categoryId>
+        <price>168105</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-271e3583a133-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-271e3583a133-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-271e3583a133-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-271e3583a133-3.jpg</picture>
+        <description><![CDATA[Защита картера для БМВ Х3 G01 / Х4 G02. Крепеж в комплекте.  Подходит для авто с моторами 20i; 20d; 30d; 30i; M40i / 20d; 30i; 30d]]></description>
+      </offer>
+      <offer id="starsparts-c1e018228bf2" available="true">
+        <name>Брызговики BMW X3 G01, передние, оригинал</name>
+        <categoryId>9716405</categoryId>
+        <price>38220</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c1e018228bf2-0.jpg</picture>
+        <description><![CDATA[Оригинальные передние брызговики для БМВ Х3 G01.
+Комплект два передних брызговика и крепеж.
+Не походят на M-пакет и на М обвес.
+Простая установка.
+Оригинальный номер 82162410525]]></description>
+      </offer>
+      <offer id="starsparts-5fbe6a59f216" available="true">
+        <name>Брызговики BMW X3 G01, задние, оригинал</name>
+        <categoryId>9716405</categoryId>
+        <price>38220</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5fbe6a59f216-0.jpg</picture>
+        <description><![CDATA[Оригинальные задние брызговики для БМВ Х3 G01.
+Комплект два передних брызговика и крепеж.
+Не походят на M-пакет и на М обвес.
+Простая установка.
+Оригинальный номер 82162410526]]></description>
+      </offer>
+      <offer id="starsparts-e67273aa2716" available="true">
+        <name>Насадки BMW X3 G01, X4 G02, в стиле M40I</name>
+        <categoryId>9716405</categoryId>
+        <price>218400</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e67273aa2716-1.jpg</picture>
+        <description><![CDATA[Насадки BMW X3 G01, X4 G02, в стиле M40I — GZ HighFly LTD..]]></description>
+      </offer>
+      <offer id="starsparts-a60ac8beb4a8" available="true">
+        <name>Насадки BMW X3 G01, X4 G02, в стиле M40I, хром</name>
+        <categoryId>9716405</categoryId>
+        <price>209300</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a60ac8beb4a8-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a60ac8beb4a8-1.jpg</picture>
+        <description><![CDATA[Насадки BMW X3 G01, X4 G02, в стиле M40I, хром — GZ HighFly LTD..]]></description>
+      </offer>
+      <offer id="starsparts-5927a8cc7549" available="true">
+        <name>Насадки BMW X3 G01, X4 G02, черные, 90мм, оригинал</name>
+        <categoryId>9716405</categoryId>
+        <price>92820</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5927a8cc7549-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5927a8cc7549-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5927a8cc7549-2.png</picture>
+        <description><![CDATA[Комплект из 2-х насадок черного цвета. Установка вместо штатных. номре насадки 18308691859]]></description>
+      </offer>
+      <offer id="starsparts-5cbb74e77ddc" available="true">
+        <name>Защитное стекло на приборную панель BMW X3 G01 / X4 G02, рестайлинг, без выреза под датчик</name>
+        <categoryId>9716406</categoryId>
+        <price>13650</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5cbb74e77ddc-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5cbb74e77ddc-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5cbb74e77ddc-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5cbb74e77ddc-3.png</picture>
+        <description><![CDATA[Защитное стекло на приборную панель BMW X3 G01 / X4 G02, рестайлинг, без выреза под датчик — GZ HighFly LTD.. Защитные стекла и пленки для авто.]]></description>
+      </offer>
+      <offer id="starsparts-b76f9b33356b" available="true">
+        <name>Защитное стекло на приборную панель BMW X3 G01 / X4 G02, рестайлинг, с вырезом под датчик</name>
+        <categoryId>9716406</categoryId>
+        <price>13650</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b76f9b33356b-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b76f9b33356b-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b76f9b33356b-3.png</picture>
+        <description><![CDATA[Защитное стекло на приборную панель BMW X3 G01 / X4 G02, рестайлинг, с вырезом под датчик — GZ HighFly LTD.. Защитные стекла и пленки для авто.]]></description>
+      </offer>
+      <offer id="starsparts-a7c0042a2d3f" available="true">
+        <name>Защитное стекло на экран мультимедиа BMW X3 G01 / X4 G02 2021-, рестайлинг</name>
+        <categoryId>9716406</categoryId>
+        <price>13650</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a7c0042a2d3f-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a7c0042a2d3f-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a7c0042a2d3f-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a7c0042a2d3f-3.png</picture>
+        <description><![CDATA[Защитное стекло на экран мультимедиа BMW X3 G01 / X4 G02 2021-, рестайлинг — GZ HighFly LTD.. Защитные стекла и пленки для авто.]]></description>
+      </offer>
+      <offer id="starsparts-1d24183a18f7" available="true">
+        <name>Решетка радиатора BMW X3 G01 / X4 G02, diamond, черная</name>
+        <categoryId>9716406</categoryId>
+        <price>109200</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1d24183a18f7-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1d24183a18f7-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1d24183a18f7-3.png</picture>
+        <description><![CDATA[Решетка радиатора BMW X3 G01 / X4 G02, diamond, черная — GZ HighFly LTD.. Тюнинг решетки радиатора авто.]]></description>
+      </offer>
+      <offer id="starsparts-90872f587f4d" available="true">
+        <name>Решетка радиатора BMW X3 G01 / X4 G02, двойные ламели, черная</name>
+        <categoryId>9716406</categoryId>
+        <price>109200</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-90872f587f4d-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-90872f587f4d-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-90872f587f4d-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-90872f587f4d-3.png</picture>
+        <description><![CDATA[Решетка радиатора BMW X3 G01 / X4 G02, двойные ламели, черная — GZ HighFly LTD.. Тюнинг решетки радиатора авто.]]></description>
+      </offer>
+      <offer id="starsparts-1816ae80d366" available="true">
+        <name>Решетка радиатора BMW X3 G01 / X4 G02, реплика, черная</name>
+        <categoryId>9716406</categoryId>
+        <price>109200</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1816ae80d366-1.png</picture>
+        <description><![CDATA[Решетка радиатора BMW X3 G01 / X4 G02, реплика, черная — GZ HighFly LTD.. Тюнинг решетки радиатора авто.]]></description>
+      </offer>
+      <offer id="starsparts-8121c2ed7312" available="true">
+        <name>Решетка радиатора M Performance BMW X3 G01 / X4 G02, карбон</name>
+        <categoryId>9716406</categoryId>
+        <price>638820</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8121c2ed7312-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8121c2ed7312-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8121c2ed7312-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8121c2ed7312-3.png</picture>
+        <description><![CDATA[Решетка радиатора M Performance BMW X3 G01 / X4 G02, карбон — BMW. Тюнинг решетки радиатора авто.]]></description>
+      </offer>
+      <offer id="starsparts-0b163feb3cac" available="true">
+        <name>Накладки на решетку радиатора BMW X3 G01 2022-, X4 G02 2022-, рестайлинг, триколор</name>
+        <categoryId>9716406</categoryId>
+        <price>22750</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0b163feb3cac-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0b163feb3cac-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0b163feb3cac-3.png</picture>
+        <description><![CDATA[Накладки на решетку радиатора BMW X3 G01 2022-, X4 G02 2022-, рестайлинг, триколор — GZ HighFly LTD.. Накладки и молдинги для авто, Тюнинг решетки радиатора авто.]]></description>
+      </offer>
+      <offer id="starsparts-9b9e4d1ae5f7" available="true">
+        <name>Решетки радиатора из карбона (одинарные) для BMW X3 G01 LCI / X4 G02 LCI (2022+)</name>
+        <categoryId>9716406</categoryId>
+        <price>209811</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9b9e4d1ae5f7-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9b9e4d1ae5f7-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9b9e4d1ae5f7-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9b9e4d1ae5f7-3.jpg</picture>
+        <description><![CDATA[Решетки радиатора из карбона (одинарные) для BMW X3 G01 LCI / X4 G02 LCI (2022+) — AX Carbon. Тюнинг решетки радиатора авто.]]></description>
+      </offer>
+      <offer id="starsparts-f4416fb841e6" available="true">
+        <name>Накладки насадок глушителя BMW X3 G01 / X4 G02, черный</name>
+        <categoryId>9716406</categoryId>
+        <price>34580</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f4416fb841e6-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f4416fb841e6-1.png</picture>
+        <description><![CDATA[Накладки насадок глушителя BMW X3 G01 / X4 G02, черный — GZ HighFly LTD.. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-0c43ecd97810" available="true">
+        <name>Накладки насадок глушителя BMW X3 G01 / X4 G02, раздвоенный, черный</name>
+        <categoryId>9716406</categoryId>
+        <price>34580</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0c43ecd97810-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0c43ecd97810-1.png</picture>
+        <description><![CDATA[Накладки насадок глушителя BMW X3 G01 / X4 G02, раздвоенный, черный — GZ HighFly LTD.. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-6743b338e5c7" available="true">
+        <name>Накладки насадок глушителя BMW X3 G01 / X4 G02, раздвоенный, хром</name>
+        <categoryId>9716406</categoryId>
+        <price>34580</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6743b338e5c7-1.png</picture>
+        <description><![CDATA[Накладки насадок глушителя BMW X3 G01 / X4 G02, раздвоенный, хром — GZ HighFly LTD.. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-243985b128dc" available="true">
+        <name>Юбки переднего бампера BMW X3 G01 / X4 G02, под карбон</name>
+        <categoryId>9716406</categoryId>
+        <price>100100</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-243985b128dc-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-243985b128dc-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-243985b128dc-2.png</picture>
+        <description><![CDATA[Юбки переднего бампера BMW X3 G01 / X4 G02, под карбон — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-3d35e5f95707" available="true">
+        <name>Юбки переднего бампера BMW X3 G01 / X4 G02, черный</name>
+        <categoryId>9716406</categoryId>
+        <price>55300</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3d35e5f95707-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3d35e5f95707-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3d35e5f95707-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3d35e5f95707-3.png</picture>
+        <description><![CDATA[Юбки переднего бампера BMW X3 G01 / X4 G02, черный — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-822c2fe76a0e" available="true">
+        <name>Брызговики BMW X3 G45/G48L, к-кт</name>
+        <categoryId>9716407</categoryId>
+        <price>20300</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-822c2fe76a0e-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-822c2fe76a0e-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-822c2fe76a0e-2.png</picture>
+        <description><![CDATA[Брызговики BMW X3 G45/G48L, к-кт — GZ HighFly LTD.. Брызговики для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-c2594889a778" available="true">
+        <name>Наклейки M Performance на двери BMW X3 G45, оригинал</name>
+        <categoryId>9716407</categoryId>
+        <price>132300</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c2594889a778-1.png</picture>
+        <description><![CDATA[Наклейки M Performance на двери BMW X3 G45, оригинал — BMW. Эмблемы и наклейки для авто.]]></description>
+      </offer>
+      <offer id="starsparts-4eb3233e242c" available="true">
+        <name>Накладка на решётку радиатора Триколор BMW X3 G45 2025-</name>
+        <categoryId>9716407</categoryId>
+        <price>15946</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4eb3233e242c-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4eb3233e242c-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4eb3233e242c-3.jpg</picture>
+        <description><![CDATA[Накладка на решётку радиатора Триколор BMW X3 G45 2025- — GZ HighFly LTD.. Тюнинг решетки радиатора авто.]]></description>
+      </offer>
+      <offer id="starsparts-cae3099a6e24" available="true">
+        <name>Накладки на решетку триколор BMW X3 G45 G48, комплект</name>
+        <categoryId>9716407</categoryId>
+        <price>10500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cae3099a6e24-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cae3099a6e24-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cae3099a6e24-3.jpg</picture>
+        <description><![CDATA[Накладки на решетку триколор BMW X3 G45 G48, комплект — GZ HighFly LTD.. Накладки и молдинги для авто, Тюнинг решетки радиатора авто.]]></description>
+      </offer>
+      <offer id="starsparts-6e13bdd48886" available="true">
+        <name>Спойлер на крышку багажника BMW X3 G45, верхний, черный, стиль 1</name>
+        <categoryId>9716407</categoryId>
+        <price>45500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6e13bdd48886-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6e13bdd48886-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6e13bdd48886-2.png</picture>
+        <description><![CDATA[Спойлер на крышку багажника BMW X3 G45, верхний, черный, стиль 1 — GZ HighFly LTD.. Спойлеры для авто.]]></description>
+      </offer>
+      <offer id="starsparts-9350e290e9f5" available="true">
+        <name>Спойлер на крышку багажника BMW X3 G45, верхний, под карбон, стиль 1</name>
+        <categoryId>9716407</categoryId>
+        <price>52500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9350e290e9f5-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9350e290e9f5-1.png</picture>
+        <description><![CDATA[Спойлер на крышку багажника BMW X3 G45, верхний, под карбон, стиль 1 — GZ HighFly LTD.. Спойлеры для авто.]]></description>
+      </offer>
+      <offer id="starsparts-abebc195f3c8" available="true">
+        <name>Спойлер под стекло BMW X3 G45, черный, стиль 1</name>
+        <categoryId>9716407</categoryId>
+        <price>45500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-abebc195f3c8-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-abebc195f3c8-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-abebc195f3c8-2.png</picture>
+        <description><![CDATA[Спойлер под стекло BMW X3 G45, черный, стиль 1 — GZ HighFly LTD.. Спойлеры для авто.]]></description>
+      </offer>
+      <offer id="starsparts-c8d84a629def" available="true">
+        <name>Спойлер под стекло BMW X3 G45, под карбон, стиль 1</name>
+        <categoryId>9716407</categoryId>
+        <price>52500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c8d84a629def-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c8d84a629def-1.png</picture>
+        <description><![CDATA[Спойлер под стекло BMW X3 G45, под карбон, стиль 1 — GZ HighFly LTD.. Спойлеры для авто.]]></description>
+      </offer>
+      <offer id="starsparts-b3d98f850b8e" available="true">
+        <name>Спойлер на крышку багажника BMW X3 G45, верхний, черный, стиль 2</name>
+        <categoryId>9716407</categoryId>
+        <price>84000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b3d98f850b8e-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b3d98f850b8e-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b3d98f850b8e-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b3d98f850b8e-3.png</picture>
+        <description><![CDATA[Спойлер на крышку багажника BMW X3 G45, верхний, черный, стиль 2 — GZ HighFly LTD.. Спойлеры для авто.]]></description>
+      </offer>
+      <offer id="starsparts-04eab1718271" available="true">
+        <name>Спойлер на крышку багажника BMW X3 G45, верхний, под карбон, стиль 2</name>
+        <categoryId>9716407</categoryId>
+        <price>91000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-04eab1718271-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-04eab1718271-1.png</picture>
+        <description><![CDATA[Спойлер на крышку багажника BMW X3 G45, верхний, под карбон, стиль 2 — GZ HighFly LTD.. Спойлеры для авто.]]></description>
+      </offer>
+      <offer id="starsparts-764ada69b0e5" available="true">
+        <name>Поперечины на рейлинги BMW X3 G45 / X3L G48, оригинал</name>
+        <categoryId>9716407</categoryId>
+        <price>314300</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-764ada69b0e5-1.webp</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-764ada69b0e5-2.webp</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-764ada69b0e5-3.webp</picture>
+        <description><![CDATA[Поперечины на рейлинги BMW X3 G45 / X3L G48, оригинал — BMW. Рейлинги и поперечины для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-f6bc641163e7" available="true">
+        <name>Органайзер в подлокотник BMW X3 G45 / X3L G48 2025-</name>
+        <categoryId>9716407</categoryId>
+        <price>6692</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f6bc641163e7-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f6bc641163e7-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f6bc641163e7-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f6bc641163e7-3.png</picture>
+        <description><![CDATA[Органайзер в подлокотник BMW X3 G45 / X3L G48 2025- — GZ HighFly LTD.. Органайзеры для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-dfdf36e03254" available="true">
+        <name>Органайзер в подлокотник BMW X3 G45 2025-, в крышку подлокотника</name>
+        <categoryId>9716407</categoryId>
+        <price>10766</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-dfdf36e03254-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-dfdf36e03254-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-dfdf36e03254-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-dfdf36e03254-3.jpg</picture>
+        <description><![CDATA[Органайзер в подлокотник BMW X3 G45 2025-, в крышку подлокотника — GZ HighFly LTD.. Органайзеры для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-40f3fd0b3608" available="true">
+        <name>Органайзер на торпеду за экраном BMW X3 G45 2025-</name>
+        <categoryId>9716407</categoryId>
+        <price>8246</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-40f3fd0b3608-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-40f3fd0b3608-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-40f3fd0b3608-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-40f3fd0b3608-3.jpg</picture>
+        <description><![CDATA[Органайзер на торпеду за экраном BMW X3 G45 2025- — GZ HighFly LTD.. Органайзеры для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-6b371c1febc8" available="true">
+        <name>Накидка органайзер на подлокотник из мягкой искусственной кожи BMW X3 G45 2025-</name>
+        <categoryId>9716407</categoryId>
+        <price>37226</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6b371c1febc8-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6b371c1febc8-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6b371c1febc8-3.jpg</picture>
+        <description><![CDATA[Накидка органайзер на подлокотник из мягкой искусственной кожи BMW X3 G45 2025- — GZ HighFly LTD.. Органайзеры для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-9d0acd9ff418" available="true">
+        <name>Органайзер на спинку сиденьявторого ряда BMW X3 G45 2025-</name>
+        <categoryId>9716407</categoryId>
+        <price>103922</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9d0acd9ff418-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9d0acd9ff418-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9d0acd9ff418-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9d0acd9ff418-3.jpg</picture>
+        <description><![CDATA[Органайзер на спинку сиденьявторого ряда BMW X3 G45 2025- — GZ HighFly LTD.. Органайзеры для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-c18b1c74d776" available="true">
+        <name>Вместительный ящик-органайзер для багажника с несколькими отделениями BMW X3 G45 2025-</name>
+        <categoryId>9716407</categoryId>
+        <price>93534</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c18b1c74d776-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c18b1c74d776-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c18b1c74d776-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c18b1c74d776-3.jpg</picture>
+        <description><![CDATA[Вместительный ящик-органайзер для багажника с несколькими отделениями BMW X3 G45 2025- — GZ HighFly LTD.. Органайзеры для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-9ee036778614" available="true">
+        <name>Боковая сумка-органайзер для багажника, крепится на сетку BMW X3 G45 2025-</name>
+        <categoryId>9716407</categoryId>
+        <price>118426</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9ee036778614-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9ee036778614-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9ee036778614-3.jpg</picture>
+        <description><![CDATA[Боковая сумка-органайзер для багажника, крепится на сетку BMW X3 G45 2025- — GZ HighFly LTD.. Органайзеры для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-58918c8d51c2" available="true">
+        <name>Многофункциональный органайзер для багажника с карманами BMW X3 G45 2025-</name>
+        <categoryId>9716407</categoryId>
+        <price>57946</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-58918c8d51c2-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-58918c8d51c2-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-58918c8d51c2-3.jpg</picture>
+        <description><![CDATA[Многофункциональный органайзер для багажника с карманами BMW X3 G45 2025- — GZ HighFly LTD.. Органайзеры для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-1438b836bfce" available="true">
+        <name>Органайзер в дверную карту с карманами для бутылок и мелочей BMW X3 G45 2025-</name>
+        <categoryId>9716407</categoryId>
+        <price>20706</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1438b836bfce-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1438b836bfce-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1438b836bfce-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1438b836bfce-3.jpg</picture>
+        <description><![CDATA[Органайзер в дверную карту с карманами для бутылок и мелочей BMW X3 G45 2025- — GZ HighFly LTD.. Органайзеры для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-7c3cbb113c1f" available="true">
+        <name>Накладки на выхлопную трубу из нержавеющей стали OEM Style для BMW X3 G45/G48 (2025+)</name>
+        <categoryId>9716407</categoryId>
+        <price>283206</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7c3cbb113c1f-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7c3cbb113c1f-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7c3cbb113c1f-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7c3cbb113c1f-3.jpg</picture>
+        <description><![CDATA[Накладки на выхлопную трубу из нержавеющей стали OEM Style для BMW X3 G45/G48 (2025+) — AX Carbon. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-b675c2782637" available="true">
+        <name>Накладки обрамления кнопок регулировки сидений BMW X3 G45 2025-</name>
+        <categoryId>9716407</categoryId>
+        <price>20286</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b675c2782637-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b675c2782637-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b675c2782637-3.jpg</picture>
+        <description><![CDATA[Накладки обрамления кнопок регулировки сидений BMW X3 G45 2025- — GZ HighFly LTD.. Накладки отделка для авто.]]></description>
+      </offer>
+      <offer id="starsparts-c0b4b9ea3411" available="true">
+        <name>Накладки на боковины центральной консоли BMW X3 G45 2025-, под карбон</name>
+        <categoryId>9716407</categoryId>
+        <price>27580</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c0b4b9ea3411-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c0b4b9ea3411-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c0b4b9ea3411-3.jpg</picture>
+        <description><![CDATA[Накладки на боковины центральной консоли BMW X3 G45 2025-, под карбон — GZ HighFly LTD.. Накладки отделка для авто.]]></description>
+      </offer>
+      <offer id="starsparts-d5350128ccd8" available="true">
+        <name>Накладка обрамления логотипа на рулевом колесе BMW X3 G45 2025-</name>
+        <categoryId>9716407</categoryId>
+        <price>16646</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d5350128ccd8-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d5350128ccd8-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d5350128ccd8-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d5350128ccd8-3.jpg</picture>
+        <description><![CDATA[Накладка обрамления логотипа на рулевом колесе BMW X3 G45 2025- — GZ HighFly LTD.. Накладки отделка для авто.]]></description>
       </offer>
       <offer id="starsparts-92259cc01368" available="true">
         <name>Масляный фильтр BMW MINI для моторов серии B32 B37, B38, B42, B47, B48, оригинал</name>
