@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-18 01:19">
+<yml_catalog date="2026-08-18 05:40">
   <shop>
     <name>Udeu.kz</name>
     <company>Udeu.kz</company>
@@ -63,6 +63,10 @@
       <category id="9716429">Z4 E85, E86 (2002-2009)</category>
       <category id="9716430">Z4 E89 (2009-2017)</category>
       <category id="9716431">Z4 G29 (2018-н.в.)</category>
+      <category id="9716512">A1 (8X) 2010-2018</category>
+      <category id="9715956">A3 (8V) 2013-2020</category>
+      <category id="9715960">A3 (8V) sedan 2013-2020</category>
+      <category id="9715961">A4 (B9) 2015-н.в.</category>
     </categories>
     <offers>
       <offer id="starsparts-146d52104390" available="true">
@@ -19383,6 +19387,1041 @@ All]]></description>
         <currencyId>KZT</currencyId>
         <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-75fb5d4e35cd-0.webp</picture>
         <description><![CDATA[Обвес для BMW G29 Z4, карбон — GZ HighFly LTD.. Кузовные детали и обвес.]]></description>
+      </offer>
+      <offer id="starsparts-893d9ae1bd36" available="true">
+        <name>Съемник декоративных колпачков на колесных болтах Skoda, VW, Audi</name>
+        <categoryId>9716512</categoryId>
+        <price>865</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-893d9ae1bd36-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-893d9ae1bd36-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-893d9ae1bd36-2.png</picture>
+        <description><![CDATA[Оригинальный съемник колпачков колесных болтов Skoda]]></description>
+      </offer>
+      <offer id="starsparts-09700ae5aab0" available="true">
+        <name>Наклейка Gekon на кузов Audi, большой, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>33670</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-09700ae5aab0-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-09700ae5aab0-1.jpg</picture>
+        <description><![CDATA[Оригинальная наклейка "гекон" на кузов Audi. Размер большой.]]></description>
+      </offer>
+      <offer id="starsparts-be27d3f6ac5c" available="true">
+        <name>Наклейка Gekon на кузов Audi, малый, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>24570</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Оригинальная наклейка "гекон" на кузов Audi. Размер малый.]]></description>
+      </offer>
+      <offer id="starsparts-c82bfa177b75" available="true">
+        <name>Наклейка декоративная Quattro на кузов Audi, цвет черный brilliant, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>33670</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c82bfa177b75-0.jpg</picture>
+        <description><![CDATA[Оригинальная наклейка Quattro на кузов Audi.
+Цвет черный brilliant.
+В комплекте 2 наклейки.]]></description>
+      </offer>
+      <offer id="starsparts-f9be97df43f0" available="true">
+        <name>Наклейка декоративная Quattro на кузов Audi, цвет серебристый металлик, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>27300</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f9be97df43f0-0.jpg</picture>
+        <description><![CDATA[Оригинальная наклейка  Quattro на кузов Audi. Цвет серебристый металлик.]]></description>
+      </offer>
+      <offer id="starsparts-ad389874d6bc" available="true">
+        <name>Наклейка Гекон Audi, серебристый, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>26390</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ad389874d6bc-0.jpg</picture>
+        <description><![CDATA[Оригинальная наклейка Гекон для Ауди. Цвет серебристый. Размер 15 см * 20 см.]]></description>
+      </offer>
+      <offer id="starsparts-674fdca6cd44" available="true">
+        <name>Наклейка Гекон Audi, черный, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>26390</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-674fdca6cd44-0.jpg</picture>
+        <description><![CDATA[Оригинальная наклейка Гекон для Ауди. Цвет черный. Размер 15 см * 20 см.]]></description>
+      </offer>
+      <offer id="starsparts-553b2872aa08" available="true">
+        <name>Наклейка Гекон Audi, маленькая, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>26390</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-553b2872aa08-0.jpg</picture>
+        <description><![CDATA[Оригинальная наклейка Гекон для Ауди. Размер 15 см * 20 см.]]></description>
+      </offer>
+      <offer id="starsparts-6a3b2264f51e" available="true">
+        <name>Наклейка Гекон Audi, большая, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>35672</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6a3b2264f51e-0.jpg</picture>
+        <description><![CDATA[Наклейка Гекон Audi, большая, оригинал — Audi. Эмблемы и наклейки для авто.]]></description>
+      </offer>
+      <offer id="starsparts-57eb96b6f691" available="true">
+        <name>Наклейка эмблема Audi, черный, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>31850</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-57eb96b6f691-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-57eb96b6f691-1.jpg</picture>
+        <description><![CDATA[Оригинальные наклейки эмблемы Ауди. Комплект 2 наклейки. Цвет черный.]]></description>
+      </offer>
+      <offer id="starsparts-cca01f023512" available="true">
+        <name>Наклейка эмблема Audi, белый, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>31850</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Оригинальные наклейки эмблемы Ауди. Комплект 2 наклейки. Цвет белый.]]></description>
+      </offer>
+      <offer id="starsparts-3bdb14113155" available="true">
+        <name>Наклейка Audi, серебристая, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>49403</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Наклейка Audi, серебристая, оригинал — Audi. Эмблемы и наклейки для авто.]]></description>
+      </offer>
+      <offer id="starsparts-300f20f39f5e" available="true">
+        <name>Наклейка Audi, черный оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>61475</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Наклейка Audi, черный оригинал — Audi. Эмблемы и наклейки для авто.]]></description>
+      </offer>
+      <offer id="starsparts-290c51e6733a" available="true">
+        <name>Плафоны светодиодные с проекцией Quattro в передние двери Audi, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>90090</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-290c51e6733a-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-290c51e6733a-1.jpg</picture>
+        <description><![CDATA[Оригинальные диодные плафоны проекторы для  Ауди.
+Проецируется надпись Quattro.
+Возможна установка как в передние, таки в задние двери.
+Комплект на 2 двери.]]></description>
+      </offer>
+      <offer id="starsparts-d05c24699687" available="true">
+        <name>Плафоны светодиодные с проекцией кольца Audi в передние двери Audi, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>95550</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d05c24699687-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d05c24699687-1.jpg</picture>
+        <description><![CDATA[Оригинальные диодные плафоны проекторы для  Ауди.
+Проецируется надпись кольца Audi.
+Возможна установка как в передние, таки в задние двери.
+Комплект на 2 двери.]]></description>
+      </offer>
+      <offer id="starsparts-0c580762eaef" available="true">
+        <name>Флэш-карта в формке ключа Audi, 8GB, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>25935</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0c580762eaef-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0c580762eaef-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0c580762eaef-2.jpg</picture>
+        <description><![CDATA[Оригинальная флэшка в виде ключа зажигания Ауди.
+Обьем памяти 8GB.
+Разъем отщелкивается аналогично ключу.]]></description>
+      </offer>
+      <offer id="starsparts-865d91817ae5" available="true">
+        <name>Подсветка дверей Audi Q5 2015-, &quot;кольца ауди&quot;, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>147000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-865d91817ae5-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-865d91817ae5-2.jpg</picture>
+        <description><![CDATA[Оригинальная подсветка дверей Ауди Q5 2015-.
+Светодиодная подсветка порогов дверей с логотипом "Кольца Audi" устанавливается в карты дверей вместо штатных плафонов подсветки порогов.
+Комплект 2 плафона.]]></description>
+      </offer>
+      <offer id="starsparts-04aabcf256a4" available="true">
+        <name>Манометр Audi, электронный, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>26390</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-04aabcf256a4-1.jpg</picture>
+        <description><![CDATA[Манометр Audi, электронный, оригинал — Audi. Электроника для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-29e2246db717" available="true">
+        <name>Заглушка на фаркоп с логотипом Audi (нерж.сталь), Audi, ТСС</name>
+        <categoryId>9716512</categoryId>
+        <price>10010</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Заглушка на фаркоп с логотипом Audi (нерж.сталь), Audi, ТСС — ТСС. Фаркопы для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-75a9adc85d73" available="true">
+        <name>Сумка холодильник для автомобилей Audi, объем 12л, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>154245</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-75a9adc85d73-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-75a9adc85d73-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-75a9adc85d73-2.jpg</picture>
+        <description><![CDATA[Оригинальная сумка холодильник для автомобилей Ауди предназначена для краткосрочного хранения охлажденных и замороженных продуктов.
+Легко моется.
+Объем 12л.
+Питание 12вольт.]]></description>
+      </offer>
+      <offer id="starsparts-3b703fa70691" available="true">
+        <name>Холодильник термоэлектрический Audi, 20 L, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>245000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3b703fa70691-0.jpg</picture>
+        <description><![CDATA[Оригинальный термоэлектрический холодильник Audi для перевозки охлажденных или теплых напитков и продуктов. Вместительность не менее 20 литров. Электропитание обеспечивается 12-вольтным соединением в автомобиле. охлаждение до макс. 18°C ниже температуры окружающей среды и нагревается до макс. 60°С.  Цвет: черный. Полезная емкость 20 литров, с возможностью расширения до макс. 24 литров. Вес нетто: примерно 3 кг. Длина кабеля питания: около 1,5 м. Электропитание: 12 вольт. Комплект поставки: холодильник, включая 12-вольтное соединение, ремешок для переноски, руководство по эксплуатации.]]></description>
+      </offer>
+      <offer id="starsparts-963f59f2dfca" available="true">
+        <name>Вешалка на подголовник Audi</name>
+        <categoryId>9716512</categoryId>
+        <price>26390</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-963f59f2dfca-0.jpg</picture>
+        <description><![CDATA[Оригинальная вешалка на подголовник Ауди.
+Не подходит для авто с электро регулировкой подголовников.]]></description>
+      </offer>
+      <offer id="starsparts-c7266e79537c" available="true">
+        <name>Сумка для перевозки лыж и сноубордов в салон Audi, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>90090</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7266e79537c-0.jpg</picture>
+        <description><![CDATA[Оригинальный сумка для транспортировки лыж и сноубордов в салоне Ауди.
+Вмещает в себя 4 пары лыж или 3 сноуборда.
+Изготовлена из водонепроницаемого материала.
+Удобные ручки значительно облегчают переноск]]></description>
+      </offer>
+      <offer id="starsparts-ff2fb8afe56d" available="true">
+        <name>Сумка для поперечин Audi, универсальная, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>43680</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ff2fb8afe56d-0.png</picture>
+        <description><![CDATA[Сумка для поперечин Audi, универсальная, оригинал — Audi. Рейлинги и поперечины для автомобиля, Системы креплений для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-1da335104682" available="true">
+        <name>Крепления для багажа Audi, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>22750</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1da335104682-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1da335104682-1.jpg</picture>
+        <description><![CDATA[Крепления для багажа Audi, оригинал — Audi. Системы креплений для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-987b5a130d15" available="true">
+        <name>Багажник на крышу Audi A6, на поперечины, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>218400</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-987b5a130d15-0.jpg</picture>
+        <description><![CDATA[Багажник на крышу Ауди А6 (С7) 2011-.
+Материал покрытый порошком и аэродинамически формованный алюминиевый профиль.
+Устанавливается на поперечные рейлинги.
+Оригинальный номер 4L0071205 666.]]></description>
+      </offer>
+      <offer id="starsparts-a644e047de7c" available="true">
+        <name>Пепельница для автомобилей Audi, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>26390</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Оригинальная пепельница с корпусом в форме вставки в подстаканник центральной консоли.
+Для любых автомобилей Ауди.
+Цвет черный.
+Оригинальный номер 420087017.]]></description>
+      </offer>
+      <offer id="starsparts-ee606b4f4200" available="true">
+        <name>Ящик вещевой в салон Audi, объем 12л, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>50050</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ee606b4f4200-0.jpg</picture>
+        <description><![CDATA[Оригинальный вещевой бокс на заднее сиденье Ауди.
+Крепится ремнем безопасности.
+Объем 12л.]]></description>
+      </offer>
+      <offer id="starsparts-d10dc8971f37" available="true">
+        <name>Ящик вещевой в салон Audi, объем 27л, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>86450</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d10dc8971f37-0.jpg</picture>
+        <description><![CDATA[Оригинальный вещевой бокс на заднее сиденье Ауди.
+Крепится ремнем безопасности.
+Внутри ящика отделения и кармашки.
+Объем 27л.]]></description>
+      </offer>
+      <offer id="starsparts-c7571f52b3a8" available="true">
+        <name>Сумка карман на спинку сидения Audi, объем 12л, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>71890</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7571f52b3a8-0.jpg</picture>
+        <description><![CDATA[Оригинальная сумка на спинку сидения в салон Ауди.
+Поможет сохранить чистоту и порядок в салоне авто.
+Различные отделения помогают в хранении мелких вещей.]]></description>
+      </offer>
+      <offer id="starsparts-a9d69c83b793" available="true">
+        <name>Сумка бокс под документы в салон Audi, объем 14л, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>65520</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a9d69c83b793-0.jpg</picture>
+        <description><![CDATA[Оригинальный бокс на заднее сиденье Ауди для хранения канцелярии, документов и ноутбуков до 15".
+Крепится ремнем безопасности.
+Объем 14л.]]></description>
+      </offer>
+      <offer id="starsparts-10a1703e063e" available="true">
+        <name>Сумка для мусора в салон Ауди, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>35490</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-10a1703e063e-1.jpg</picture>
+        <description><![CDATA[Оригинальный сумка карман для мусора Ауди.
+Крепится на спинку переднего сидения.
+Легко чистится, может дополнительно снабжаться пакетом для мусора 5л.
+Незаменима при длительных поездках и большом количестве пассажиров.]]></description>
+      </offer>
+      <offer id="starsparts-cba6d086b5ef" available="true">
+        <name>Очечник потолочный Audi, бежевый</name>
+        <categoryId>9716512</categoryId>
+        <price>16380</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Очечник потолочный для Ауди Q7 2016 2017.
+Устанавливается вместо потолочной ручки.
+Цвет бежевый]]></description>
+      </offer>
+      <offer id="starsparts-76ebd01c3426" available="true">
+        <name>Очечник потолочный Audi, серый</name>
+        <categoryId>9716512</categoryId>
+        <price>16380</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-76ebd01c3426-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-76ebd01c3426-1.png</picture>
+        <description><![CDATA[Очечечник потолочный для Ауди Q7 2016 2017.
+Устанавливается вместо потолочной ручки.
+Цвет серый.]]></description>
+      </offer>
+      <offer id="starsparts-b174a05b63d5" available="true">
+        <name>Органайзер в багажник Audi с логотипом S-Line, реплика</name>
+        <categoryId>9716512</categoryId>
+        <price>26390</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b174a05b63d5-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b174a05b63d5-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b174a05b63d5-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b174a05b63d5-3.jpg</picture>
+        <description><![CDATA[Складной органайзер в багажное отделение Ауди.]]></description>
+      </offer>
+      <offer id="starsparts-6bf2a54e3cba" available="true">
+        <name>Очечник потолочный Audi, черный</name>
+        <categoryId>9716512</categoryId>
+        <price>16380</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6bf2a54e3cba-0.png</picture>
+        <description><![CDATA[Очечник потолочный Audi, черный — GZ HighFly LTD.. Органайзеры для автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-255cef807167" available="true">
+        <name>Фонари диодные рестайлинг Audi A1, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>368550</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-255cef807167-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-255cef807167-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-255cef807167-2.jpg</picture>
+        <description><![CDATA[Оригинальные задние рестайлинговые фонари от версии 2015 года для Ауди А1 2011-.
+Комплект 2 фонаря.]]></description>
+      </offer>
+      <offer id="starsparts-fbf3ee65654a" available="true">
+        <name>Площадка под левую ногу в салон Audi A1</name>
+        <categoryId>9716512</categoryId>
+        <price>26600</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fbf3ee65654a-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fbf3ee65654a-2.jpg</picture>
+        <description><![CDATA[Оригинальная площадка для левой ноги в салон Audi A1]]></description>
+      </offer>
+      <offer id="starsparts-b804dd5c506b" available="true">
+        <name>Заглушка прикуривателя Audi, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>18655</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b804dd5c506b-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b804dd5c506b-1.jpg</picture>
+        <description><![CDATA[Оригинальная заглушка в гнездо прикуривателя автомобилей Ауди.]]></description>
+      </offer>
+      <offer id="starsparts-56e8e099ecde" available="true">
+        <name>Коврик защитный  для багажника Audi, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>47320</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Защитный коврик на кромку багажника Ауди.
+Комплект защитный коврик и чехол из полиэстера с молнией и ремнем.
+Оригинальный номер 8X0061190.]]></description>
+      </offer>
+      <offer id="starsparts-5026163572ad" available="true">
+        <name>Защита картера и КПП (алюминий) 4мм, Audi A1 (8X) 2010-2016 , ТСС</name>
+        <categoryId>9716512</categoryId>
+        <price>91000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5026163572ad-0.jpg</picture>
+        <description><![CDATA[Защита картера и КПП (алюминий) 4мм, Audi A1 (8X) 2010-2016 , ТСС — ТСС. Защиты картера.]]></description>
+      </offer>
+      <offer id="starsparts-22ce4567d090" available="true">
+        <name>Крышка маслозаливной горловины в стиле Audi R8, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>63000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-22ce4567d090-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-22ce4567d090-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-22ce4567d090-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-22ce4567d090-3.jpg</picture>
+        <description><![CDATA[Оригинальная крышка маслозаливной горловины от Ауди R8.
+Подходит на большинство моторов Ауди.
+Перед покупкой сверяйте внешний вид с вашей штатной крышкой.]]></description>
+      </offer>
+      <offer id="starsparts-62ebc4657c2a" available="true">
+        <name>Крышка лючка бензобака Audi, отделка под алюминий, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>154700</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Крышка лючка бензобака Audi, отделка под алюминий, оригинал — Audi. Дооснащение автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-e91a57aa88bd" available="true">
+        <name>Секретки на колеса Audi, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>51870</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e91a57aa88bd-0.jpg</picture>
+        <description><![CDATA[Оригинальные болты секретки Ауди для защиты от кражи колес.]]></description>
+      </offer>
+      <offer id="starsparts-84058ff22721" available="true">
+        <name>Бокс багажный на крышу Audi, объем 300л, цвет platinumgrau, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>538720</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-84058ff22721-0.jpg</picture>
+        <description><![CDATA[Оригинальный багажный бокс на крышу Ауди.
+Позволяет перевозить до 6 пар лыж или 4 сноуборда длиной до 175см.
+Размеры: длина: 1902 мм, ширина 630 мм, высота: 376 мм.
+Масса снаряженного бокса примерно 14 кг.
+Максимальная нагрузка 60кг.
+Открывается с обеих сторон.
+Запирается на ключ.
+Цвет платиново-серый.]]></description>
+      </offer>
+      <offer id="starsparts-c7a5129aa936" available="true">
+        <name>Бокс багажный на крышу Audi, объем 300л, цвет черный brillant, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>363090</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Оригинальный багажный бокс на крышу Ауди.
+Позволяет перевозить до 6 пар лыж или 4 сноуборда длиной до 175см.
+Размеры: длина: 1902 мм, ширина 630 мм, высота: 376 мм.
+Масса снаряженного бокса примерно 14 кг.
+Максимальная нагрузка 60кг.
+Открывается с обеих сторон. Запирается на ключ.
+Цвет черный brillant.]]></description>
+      </offer>
+      <offer id="starsparts-851176090a33" available="true">
+        <name>Бокс багажный на крышу Audi, объем 360л, цвет platinumgrau, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>334880</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-851176090a33-0.jpg</picture>
+        <description><![CDATA[Оригинальный багажный бокс на крышу Ауди.
+Позволяет перевозить до 7 пар лыж или 5 сноуборда длиной до 155см.
+Размеры: длина: 1756 мм, ширина 826 мм, высота: 376 мм.
+Масса снаряженного бокса примерно 16 кг.
+Максимальная нагрузка 75кг.
+Открывается с обеих сторон.
+Запирается на ключ.
+Цвет платиново-серый.]]></description>
+      </offer>
+      <offer id="starsparts-7ce74a6c22de" available="true">
+        <name>Бокс багажный на крышу Audi, объем 360л, цвет черный brillant, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>395850</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7ce74a6c22de-0.jpg</picture>
+        <description><![CDATA[Оригинальный багажный бокс на крышу Ауди.
+Позволяет перевозить до 7 пар лыж или 5 сноуборда длиной до 155см.
+Размеры: длина: 1756 мм, ширина 826 мм, высота: 376 мм.
+Масса снаряженного бокса примерно 16 кг.
+Максимальная нагрузка 75кг.
+Открывается с обеих сторон.
+Запирается на ключ.
+Цвет черный brillant.]]></description>
+      </offer>
+      <offer id="starsparts-6a920223ac2f" available="true">
+        <name>Бокс багажный на крышу Audi, объем 405л, цвет platinumgrau, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>535990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6a920223ac2f-0.jpg</picture>
+        <description><![CDATA[Оригинальный багажный бокс на крышу Ауди.
+Позволяет перевозить до 7 пар лыж или 5 сноуборда длиной до 190см.
+Размеры: длина: 2050 мм, ширина 800 мм, высота: 380 мм.
+Масса снаряженного бокса примерно 19 кг.
+Максимальная нагрузка 75кг.
+Открывается с обеих сторон.
+Запирается на ключ.
+Цвет платиново-серый.]]></description>
+      </offer>
+      <offer id="starsparts-bcda512cfb13" available="true">
+        <name>Бокс багажный на крышу Audi, объем 405л, черный brillant, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>568750</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Оригинальный багажный бокс на крышу Ауди.
+Позволяет перевозить до 7 пар лыж или 5 сноуборда длиной до 190см.
+Размеры: длина: 2050 мм, ширина 800 мм, высота: 380 мм.
+Масса снаряженного бокса примерно 19 кг.
+Максимальная нагрузка 75кг.
+Открывается с обеих сторон.
+Запирается на ключ.
+Цвет  черный brillant]]></description>
+      </offer>
+      <offer id="starsparts-f15f1188064a" available="true">
+        <name>Бокс багажный на крышу Audi, объем 450л, цвет platinumgrau, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>301210</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f15f1188064a-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f15f1188064a-1.jpeg</picture>
+        <description><![CDATA[Оригинальный багажный бокс на крышу Ауди.
+У автомобилей Audi A3, A3 Sportback, A4 Avant, A4 Allroad quattro, A6 Allroad quattro, TT Coupe, Q5 и A7 Sportback крышка багажника может открываться с ограничением. 
+Максимальная нагрузка 50кг.
+Открывается с обеих сторон.
+Запирается на ключ.
+Цвет платиново-серый.]]></description>
+      </offer>
+      <offer id="starsparts-aaa2b359f7af" available="true">
+        <name>Ароматизатор гекон в салон Audi, аромат цветочный, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>11375</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Оригинальный ароматизатор в салон Ауди в форме гекона. Аромат цветочный. Устанавливается на ламели дефлекторов обдува.]]></description>
+      </offer>
+      <offer id="starsparts-c8be27601eb1" available="true">
+        <name>Ароматизатор гекон в салон Audi, аромат сосна / апельсин, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>8736</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Оригинальный ароматизатор в салон Ауди в форме гекона.
+Аромат сосна / апельсин.
+ Устанавливается на ламели дефлекторов обдува.]]></description>
+      </offer>
+      <offer id="starsparts-9a894e53f823" available="true">
+        <name>Колпачки на ниппель Audi, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>22750</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9a894e53f823-0.png</picture>
+        <description><![CDATA[Оригинальные колпачки на ниппеля с логотипом Ауди.
+Комплект 4 шт.]]></description>
+      </offer>
+      <offer id="starsparts-e0699a9cbeb0" available="true">
+        <name>Чехлы для колес R18 Audi, комплект, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>26390</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Оригинальный комплект чехлов для хранения и перевозки колес R18 Ауди.
+Легко снимаются с помощью застежек, удобная ручка для переноски.
+Комплект 4шт.]]></description>
+      </offer>
+      <offer id="starsparts-3ba66ff85f56" available="true">
+        <name>Чехлы для колес R19 Audi, комплект, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>30030</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3ba66ff85f56-0.jpg</picture>
+        <description><![CDATA[Оригинальный комплект чехлов для хранения и перевозки колес R19 Ауди.
+Легко снимаются с помощью застежек, удобная ручка для переноски.
+Комплект 4шт.]]></description>
+      </offer>
+      <offer id="starsparts-66cb2c88ec1b" available="true">
+        <name>Цепи для колес R18 R19 Audi, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>250250</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-66cb2c88ec1b-0.jpg</picture>
+        <description><![CDATA[Оригинальные колесные цепи Ауди Q7 (4М) 2015- для колес R18 255/60, R19 255/55.
+Комплект на одну ось.
+Незаменимы зимой в горах.]]></description>
+      </offer>
+      <offer id="starsparts-8a623e88ff11" available="true">
+        <name>Колпачки на ниппеля ABT, комплект, оригинал</name>
+        <categoryId>9716512</categoryId>
+        <price>41300</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8a623e88ff11-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8a623e88ff11-1.jpg</picture>
+        <description><![CDATA[Комплект оригинальных колпачков на ниппель с логотипом ABT.
+Комплект 4 шт.]]></description>
+      </offer>
+      <offer id="starsparts-db6e5b55972c" available="true">
+        <name>Эмблема Quattro в стиле RS для решетки радиатора Audi A3 A4 A5 A6 RS3 RS4 RS5 RS6</name>
+        <categoryId>9715956</categoryId>
+        <price>13300</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-db6e5b55972c-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-db6e5b55972c-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-db6e5b55972c-3.jpg</picture>
+        <description><![CDATA[Надпись Quattro в нижнюю часть решетки радиатора Ауди A3 A4 A5 A6 RS3 RS4 RS5 RS6.Устанавливает на винты через ламели решетки.]]></description>
+      </offer>
+      <offer id="starsparts-328641f318aa" available="true">
+        <name>Фильтр масляный VAG, 2.0 бензин, оригинал</name>
+        <categoryId>9715956</categoryId>
+        <price>11760</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-328641f318aa-0.jpg</picture>
+        <description><![CDATA[Фильтр масляный VAG, 2.0 бензин, оригинал — VAG. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-cf4bc1852874" available="true">
+        <name>Задний спойлер PSM Style из настоящего карбона для Audi A3 Sedan 8Y (2021+)</name>
+        <categoryId>9715956</categoryId>
+        <price>116529</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cf4bc1852874-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cf4bc1852874-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cf4bc1852874-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cf4bc1852874-3.jpg</picture>
+        <description><![CDATA[Задний спойлер PSM Style из настоящего карбона для Audi A3 Sedan 8Y (2021+) — AX Carbon. Спойлеры для авто.]]></description>
+      </offer>
+      <offer id="starsparts-4fd62d16736e" available="true">
+        <name>Задние LED-фонари динамический поворотник для Audi A3 Sportback (2013-2020), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9715956</categoryId>
+        <price>373060</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4fd62d16736e-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4fd62d16736e-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4fd62d16736e-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4fd62d16736e-3.jpg</picture>
+        <description><![CDATA[Задние LED-фонари динамический поворотник для Audi A3 Sportback (2013-2020), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-12767cc5bde5" available="true">
+        <name>Фары передние LED с ходовыми огнями для Audi A3 (2013-2020), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9715956</categoryId>
+        <price>532865</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-12767cc5bde5-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-12767cc5bde5-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-12767cc5bde5-3.jpg</picture>
+        <description><![CDATA[Фары передние LED с ходовыми огнями для Audi A3 (2013-2020), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-339c6be6b203" available="true">
+        <name>Задние LED-фонари динамический сигнал поворота для Audi A3 (2013-2019), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9715956</categoryId>
+        <price>299161</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-339c6be6b203-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-339c6be6b203-3.jpg</picture>
+        <description><![CDATA[Задние LED-фонари динамический сигнал поворота для Audi A3 (2013-2019), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-0d22c8e7046a" available="true">
+        <name>Фары передние LED с ходовыми огнями для Audi A3/S3/RS3 (2017-2020), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9715956</categoryId>
+        <price>632170</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0d22c8e7046a-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0d22c8e7046a-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0d22c8e7046a-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0d22c8e7046a-3.jpg</picture>
+        <description><![CDATA[Фары передние LED с ходовыми огнями для Audi A3/S3/RS3 (2017-2020), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-c75058fdd04c" available="true">
+        <name>Фары передние LED с ходовыми огнями для Audi A3 (2013-2016), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9715956</categoryId>
+        <price>501847</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c75058fdd04c-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c75058fdd04c-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c75058fdd04c-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c75058fdd04c-3.jpg</picture>
+        <description><![CDATA[Фары передние LED с ходовыми огнями для Audi A3 (2013-2016), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-a23299d7a8a8" available="true">
+        <name>Фары Full LED проектор ДХО для Audi A3 RS3 (2021-2024), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9715956</categoryId>
+        <price>647838</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a23299d7a8a8-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a23299d7a8a8-3.jpg</picture>
+        <description><![CDATA[Фары Full LED проектор ДХО для Audi A3 RS3 (2021-2024), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-b237c60a5d95" available="true">
+        <name>Диффузор заднего бампера Audi A3 (8V) 2012 под двойной глушитель</name>
+        <categoryId>9715956</categoryId>
+        <price>95900</price>
+        <currencyId>KZT</currencyId>
+        <description><![CDATA[Оригинальная нижняя накладка заднего бампера под одинарный глушитель, для Ауди А3 2012 хэтчбэк]]></description>
+      </offer>
+      <offer id="starsparts-c7315c1821bf" available="true">
+        <name>Диффузор заднего бампера Audi A3 (8V) 2012 под одинарный глушитель</name>
+        <categoryId>9715956</categoryId>
+        <price>94500</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7315c1821bf-0.jpg</picture>
+        <description><![CDATA[Накладка заднего бампера под одинарный глушитель, для Ауди А3 2012 хэтчбэк
+Оригинал]]></description>
+      </offer>
+      <offer id="starsparts-7bf25411e221" available="true">
+        <name>Выхлопная система с электронным клапаном для Audi S3 (модифицированная)</name>
+        <categoryId>9715956</categoryId>
+        <price>695722</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7bf25411e221-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7bf25411e221-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7bf25411e221-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7bf25411e221-3.jpg</picture>
+        <description><![CDATA[Выхлопная система с электронным клапаном для Audi S3 (модифицированная) — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-fbbcdf6abef5" available="true">
+        <name>Выхлопная система Catback с электроклапаном для Audi S3 2.0T (титан)</name>
+        <categoryId>9715956</categoryId>
+        <price>1462954</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fbbcdf6abef5-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fbbcdf6abef5-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fbbcdf6abef5-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fbbcdf6abef5-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для Audi S3 2.0T (титан) — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-47670c11c38a" available="true">
+        <name>Выхлопная система Catback с электроклапаном для Seat Cupra Ateca, Audi S3, Golf 7R 7.5R</name>
+        <categoryId>9715956</categoryId>
+        <price>777199</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-47670c11c38a-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-47670c11c38a-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-47670c11c38a-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-47670c11c38a-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для Seat Cupra Ateca, Audi S3, Golf 7R 7.5R — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-a5849bd91c83" available="true">
+        <name>Выхлопная система Valvetronic для Audi A3 2.0T Quattro (совместимость с S3)</name>
+        <categoryId>9715956</categoryId>
+        <price>685765</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a5849bd91c83-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a5849bd91c83-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a5849bd91c83-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a5849bd91c83-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Valvetronic для Audi A3 2.0T Quattro (совместимость с S3) — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-cf65305e4217" available="true">
+        <name>Выхлопная система Catback с электроклапаном для Audi A3 2.0T Quattro</name>
+        <categoryId>9715956</categoryId>
+        <price>662901</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cf65305e4217-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cf65305e4217-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cf65305e4217-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cf65305e4217-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для Audi A3 2.0T Quattro — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-6d9eb94b5deb" available="true">
+        <name>Выхлопная система Catback Valvetronic для Audi S3 2.0T</name>
+        <categoryId>9715956</categoryId>
+        <price>777199</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6d9eb94b5deb-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6d9eb94b5deb-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6d9eb94b5deb-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6d9eb94b5deb-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback Valvetronic для Audi S3 2.0T — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-72c95694f8fa" available="true">
+        <name>Выхлопная система Borla S-Type Cat-Back для Audi A3 8V Quattro (2014-2019)</name>
+        <categoryId>9715956</categoryId>
+        <price>1768900</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-72c95694f8fa-0.jpg</picture>
+        <description><![CDATA[Выхлопная система Borla S-Type Cat-Back для Audi A3 8V Quattro (2014-2019) — Borla. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-26d185828b7c" available="true">
+        <name>Выхлопная система Borla S-Type Cat-Back для Audi S3 8V (2015-2020)</name>
+        <categoryId>9715956</categoryId>
+        <price>2790200</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-26d185828b7c-0.jpg</picture>
+        <description><![CDATA[Выхлопная система Borla S-Type Cat-Back для Audi S3 8V (2015-2020) — Borla. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-6e473ceb6f0f" available="true">
+        <name>Защита картера и КПП (алюминий) 4мм, Audi A3 2012-2016 (кроме 2L), ТСС</name>
+        <categoryId>9715956</categoryId>
+        <price>116207</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6e473ceb6f0f-0.jpg</picture>
+        <description><![CDATA[Защита картера и КПП (алюминий) 4мм, Audi A3 2012-2016 (кроме 2L), ТСС — ТСС. Защиты картера.]]></description>
+      </offer>
+      <offer id="starsparts-3bb140f92fc3" available="true">
+        <name>Фонари Audi A3 (8V) 2013-2020, LED</name>
+        <categoryId>9715960</categoryId>
+        <price>518000</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3bb140f92fc3-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3bb140f92fc3-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3bb140f92fc3-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3bb140f92fc3-3.png</picture>
+        <description><![CDATA[Фонари Audi A3 (8V) 2013-2020, LED — GZ HighFly LTD.. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-95e919b662ac" available="true">
+        <name>Молдинги дверей Audi A3 Sedan 2013-, в цвет, Dawn Enterprises</name>
+        <categoryId>9715960</categoryId>
+        <price>151200</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-95e919b662ac-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-95e919b662ac-1.jpg</picture>
+        <description><![CDATA[Молдинги на двери Ауди А3 Седан 2013-.
+Материал ABS пластик.
+Комплект 4шт.
+Установка на 2х сторонний 3М скотч.
+Окрашены в цвет кузова.]]></description>
+      </offer>
+      <offer id="starsparts-e119ca11bc5e" available="true">
+        <name>Подкрылок с шумоизоляцией подходит для AUDI A3, 2016- (задний левый) / Ауди А3</name>
+        <categoryId>9715960</categoryId>
+        <price>4060</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e119ca11bc5e-0.jpg</picture>
+        <description><![CDATA[Подкрылок с шумоизоляцией подходит для AUDI A3, 2016- (задний левый) / Ауди А3 — TOTEM. Локера и подкрылки для авто.]]></description>
+      </offer>
+      <offer id="starsparts-c03dde903b90" available="true">
+        <name>Бампер передний S-line Audi A3 Sedan 2013-, оригинал</name>
+        <categoryId>9715960</categoryId>
+        <price>761670</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c03dde903b90-0.jpg</picture>
+        <description><![CDATA[Оригинальный передний бампер S-line для Ауди А3 Седан 2013-.
+В комплекте обшивка бампера, нижний спойлер бампера, боковые решетки, комплект крепежа, передние локера.
+При заказе уточняйте комплектацию своего авто.
+Поставляется неокрашенным.]]></description>
+      </offer>
+      <offer id="starsparts-df9880e56597" available="true">
+        <name>Брызговики передние на Ауди а3 седан, оригинал</name>
+        <categoryId>9715960</categoryId>
+        <price>25480</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-df9880e56597-0.jpg</picture>
+        <description><![CDATA[Оригинальные передние брызговики audi a3 седан. Не подходят к машинам с обвесом s-line, Sport Style  или S3. Комплект 2шт.]]></description>
+      </offer>
+      <offer id="starsparts-7e5d9c0be241" available="true">
+        <name>Брызговики задние на Ауди а3 седан, оригинал</name>
+        <categoryId>9715960</categoryId>
+        <price>35490</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7e5d9c0be241-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7e5d9c0be241-1.png</picture>
+        <description><![CDATA[Оригинальные задние брызговики audi a3 седан. Не подходят к машинам Ауди а3 с обвесом s-line, Sport Style или S3. Комплект 2шт.]]></description>
+      </offer>
+      <offer id="starsparts-05cb3086348e" available="true">
+        <name>Брызговики передние на Ауди а3 седан, для а/м с антигравийной защитой приводов, оригинал</name>
+        <categoryId>9715960</categoryId>
+        <price>29120</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-05cb3086348e-0.jpg</picture>
+        <description><![CDATA[Оригинальные передние брызговики audi a3 седан для а/м с антигравийной защитой приводов. Не подходят к машинам Ауди а3 с обвесом s-line, Sport Style или S3. Комплект 2шт.]]></description>
+      </offer>
+      <offer id="starsparts-3843be0cd397" available="true">
+        <name>Шильдик ABT на решетку радиатора Audi Q7 (4M) 2015-, Q3 2015-, A4 (B9) 2015- S-line, TT (8S) 2015-, хром, оригинал</name>
+        <categoryId>9715961</categoryId>
+        <price>49700</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3843be0cd397-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3843be0cd397-2.jpg</picture>
+        <description><![CDATA[Оригинальная эмблема ABT на решетку радиатора Ауди Q7 (4M) 2015-, Q3 2015-, A4 (B9) 2015- S-line, TT (8S) 2015-.
+Цвет зеркальный хром.
+Подходит для моделей:
+- Audi TT_8S00 (coupé; MY 2015) - Audi TT_8S00 (Roadster; MY 2015) - Audi TTS_8S00 (coupé; MY 2015) - Audi TTS_8S00 (Roadster; MY 2015) - Audi Q3_8U05 (SUV, MY 2015)- Audi Q7_4M00 (SUV, MY 2016) - Audi A4_8W00 (Lim. and Avant, MY 2016; for vehicles with S-Line exterior package)- Audi S4_8W00 (Lim. u. Avant, My 2016)]]></description>
+      </offer>
+      <offer id="starsparts-7dc715041ac5" available="true">
+        <name>Шильдик ABT на решетку радиатора Audi Q7 (4M) 2015-, Q3 2015-, A4 (B9) 2015- S-line, TT (8S) 2015-, черный матовый, оригинал</name>
+        <categoryId>9715961</categoryId>
+        <price>49700</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7dc715041ac5-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7dc715041ac5-1.jpg</picture>
+        <description><![CDATA[Оригинальная эмблема ABT на решетку радиатора Ауди Q7 (4M) 2015-, Q3 2015-, A4 (B9) 2015- S-line, TT (8S) 2015-.
+Цвет черный матовый.
+Подходит для моделей:
+- Audi TT_8S00 (coupé; MY 2015) - Audi TT_8S00 (Roadster; MY 2015) - Audi TTS_8S00 (coupé; MY 2015) - Audi TTS_8S00 (Roadster; MY 2015) - Audi Q3_8U05 (SUV, MY 2015)- Audi Q7_4M00 (SUV, MY 2016) - Audi A4_8W00 (Lim. and Avant, MY 2016; for vehicles with S-Line exterior package)- Audi S4_8W00 (Lim. u. Avant, My 2016)]]></description>
+      </offer>
+      <offer id="starsparts-1b9feb99fac5" available="true">
+        <name>Шильдик ABT на решетку радиатора Audi Q7 (4M) 2015-, Q3 2015-, A4 (B9) 2015- S-line, TT (8S) 2015-, черный хром, оригинал</name>
+        <categoryId>9715961</categoryId>
+        <price>49700</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1b9feb99fac5-0.jpg</picture>
+        <description><![CDATA[Оригинальная эмблема ABT на решетку радиатора Ауди Q7 (4M) 2015-, Q3 2015-, A4 (B9) 2015- S-line, TT (8S) 2015-.
+Цвет  черный хром.
+Подходит для моделей:
+- Audi TT_8S00 (coupé; MY 2015) - Audi TT_8S00 (Roadster; MY 2015) - Audi TTS_8S00 (coupé; MY 2015) - Audi TTS_8S00 (Roadster; MY 2015) - Audi Q3_8U05 (SUV, MY 2015)- Audi Q7_4M00 (SUV, MY 2016) - Audi A4_8W00 (Lim. and Avant, MY 2016; for vehicles with S-Line exterior package)- Audi S4_8W00 (Lim. u. Avant, My 2016)]]></description>
+      </offer>
+      <offer id="starsparts-f734e1990fc7" available="true">
+        <name>Фильтр масляный VAG, 2.9 / 3.0 / 4.0 бензин, оригинал</name>
+        <categoryId>9715961</categoryId>
+        <price>17210</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f734e1990fc7-0.png</picture>
+        <description><![CDATA[Фильтр масляный VAG, 2.9 / 3.0 / 4.0 бензин, оригинал — VAG. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-99da5802cd91" available="true">
+        <name>Фильтр масляный VAG, 2.0 дизель, оригинал</name>
+        <categoryId>9715961</categoryId>
+        <price>15278</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-99da5802cd91-0.jpg</picture>
+        <description><![CDATA[Фильтр масляный VAG, 2.0 дизель, оригинал — VAG. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-21857a9ab2bc" available="true">
+        <name>Фильтр масляный VAG, 3.0 дизель, оригинал</name>
+        <categoryId>9715961</categoryId>
+        <price>16800</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-21857a9ab2bc-0.jpg</picture>
+        <description><![CDATA[Фильтр масляный VAG, 3.0 дизель, оригинал — VAG. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-37af5aaaafd0" available="true">
+        <name>Фильтр салона Audi, антиаллергенный, оригинал</name>
+        <categoryId>9715961</categoryId>
+        <price>39113</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-37af5aaaafd0-0.jpg</picture>
+        <description><![CDATA[Фильтр салона Audi, антиаллергенный, оригинал — Audi. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-19ad445e6171" available="true">
+        <name>фильтр воздушный VAG, оригинал</name>
+        <categoryId>9715961</categoryId>
+        <price>26563</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-19ad445e6171-1.png</picture>
+        <description><![CDATA[фильтр воздушный VAG, оригинал — VAG. Фильтра автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-40be71a13f50" available="true">
+        <name>Крышка ступицы Audi, динамический, оригинал</name>
+        <categoryId>9715961</categoryId>
+        <price>123105</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-40be71a13f50-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-40be71a13f50-2.png</picture>
+        <description><![CDATA[Крышка ступицы Audi, динамический, оригинал — Audi. Ступичные колпаки.]]></description>
+      </offer>
+      <offer id="starsparts-adb28d30eec7" available="true">
+        <name>Органайзер складной в багажник Audi, оригинал</name>
+        <categoryId>9715961</categoryId>
+        <price>59150</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-adb28d30eec7-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-adb28d30eec7-1.jpg</picture>
+        <description><![CDATA[Оригинальный бокс органайзер в багажник Ауди.]]></description>
+      </offer>
+      <offer id="starsparts-106bd2f1d257" available="true">
+        <name>Фары передние LED с ходовыми огнями для Audi A4 B9 (2017-2019), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9715961</categoryId>
+        <price>538400</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-106bd2f1d257-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-106bd2f1d257-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-106bd2f1d257-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-106bd2f1d257-3.jpg</picture>
+        <description><![CDATA[Фары передние LED с ходовыми огнями для Audi A4 B9 (2017-2019), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-57dab43b5cc6" available="true">
+        <name>Задние LED-фонари динамический плавный свет сквозные для Audi A4L (2020-2022), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9715961</categoryId>
+        <price>155130</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-57dab43b5cc6-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-57dab43b5cc6-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-57dab43b5cc6-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-57dab43b5cc6-3.jpg</picture>
+        <description><![CDATA[Задние LED-фонари динамический плавный свет сквозные для Audi A4L (2020-2022), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-c1b3bb86778b" available="true">
+        <name>Фары Full LED проектор ДХО для Audi A4L A4 (2017-2020), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9715961</categoryId>
+        <price>912445</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c1b3bb86778b-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c1b3bb86778b-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c1b3bb86778b-3.jpg</picture>
+        <description><![CDATA[Фары Full LED проектор ДХО для Audi A4L A4 (2017-2020), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-a7ecfc456706" available="true">
+        <name>Фары передние LED с ходовыми огнями для Audi A4 A4L (2020-2024), комплект, комплект, FT Carlight Carlight</name>
+        <categoryId>9715961</categoryId>
+        <price>666086</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a7ecfc456706-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a7ecfc456706-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a7ecfc456706-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a7ecfc456706-3.jpg</picture>
+        <description><![CDATA[Фары передние LED с ходовыми огнями для Audi A4 A4L (2020-2024), комплект, комплект, FT Carlight Carlight — FT Carlight. Оптика и электрика автомобиля.]]></description>
+      </offer>
+      <offer id="starsparts-b9ce0ffb5659" available="true">
+        <name>Выхлопная система Catback Valvetronic для Audi A4 A5 B9 B9.5 2.0T 2017-2025</name>
+        <categoryId>9715961</categoryId>
+        <price>1142935</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b9ce0ffb5659-0.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b9ce0ffb5659-1.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b9ce0ffb5659-2.png</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b9ce0ffb5659-3.png</picture>
+        <description><![CDATA[Выхлопная система Catback Valvetronic для Audi A4 A5 B9 B9.5 2.0T 2017-2025 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-751b5d669456" available="true">
+        <name>Выхлопная система Catback Valvetronic для Audi A4 A5 B9 B9.5 2.0T Quattro 2022-2024</name>
+        <categoryId>9715961</categoryId>
+        <price>320029</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-751b5d669456-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-751b5d669456-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-751b5d669456-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-751b5d669456-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback Valvetronic для Audi A4 A5 B9 B9.5 2.0T Quattro 2022-2024 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-9f710e56093f" available="true">
+        <name>Выхлопная система Catback с электроклапаном для Audi S4 3.0T 2018-2025</name>
+        <categoryId>9715961</categoryId>
+        <price>1062928</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9f710e56093f-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9f710e56093f-3.jpg</picture>
+        <description><![CDATA[Выхлопная система Catback с электроклапаном для Audi S4 3.0T 2018-2025 — GFC Automotive. Насадки и выхлоп для авто.]]></description>
+      </offer>
+      <offer id="starsparts-c64cb4aef9be" available="true">
+        <name>Накладки на окна (черные) для Audi A4 2009-2025</name>
+        <categoryId>9715961</categoryId>
+        <price>45565</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c64cb4aef9be-1.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c64cb4aef9be-2.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c64cb4aef9be-3.jpg</picture>
+        <description><![CDATA[Накладки на окна (черные) для Audi A4 2009-2025 — GZ HighFly LTD.. Накладки и молдинги для авто.]]></description>
+      </offer>
+      <offer id="starsparts-eb89866d3f97" available="true">
+        <name>Коврик в багажник AUDI A4, 2016-, седан, (Европа), 1 шт. (полиуретан) / Ауди А4</name>
+        <categoryId>9715961</categoryId>
+        <price>16793</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-eb89866d3f97-0.jpg</picture>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-eb89866d3f97-1.jpg</picture>
+        <description><![CDATA[Коврик в багажник AUDI A4, 2016-, седан, (Европа), 1 шт. (полиуретан) / Ауди А4 — Autofamily. Коврики автомобильные.]]></description>
+      </offer>
+      <offer id="starsparts-cdbf58659062" available="true">
+        <name>Коврики 3D в салон AUDI A4, 2016-, седан/Avant/Allroad, 4 шт. (полиуретан) / Ауди А4</name>
+        <categoryId>9715961</categoryId>
+        <price>24759</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cdbf58659062-1.jpg</picture>
+        <description><![CDATA[Коврики 3D в салон AUDI A4, 2016-, седан/Avant/Allroad, 4 шт. (полиуретан) / Ауди А4 — Autofamily. Коврики автомобильные.]]></description>
       </offer>
       <offer id="starsparts-92259cc01368" available="true">
         <name>Масляный фильтр BMW MINI для моторов серии B32 B37, B38, B42, B47, B48, оригинал</name>
