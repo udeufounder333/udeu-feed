@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-18 10:53:27">
+<yml_catalog date="2026-08-18 17:19:32">
   <shop>
     <name>Udeu.kz - stars-parts.ru BMW</name>
     <categories>
@@ -1957,7 +1957,7 @@ X1 E84   (09/2008 — 12/2015)</description>
           <categoryId>9716375</categoryId>
           <price>475930</price>
           <description>Оригинальные корпуса зеркал для БМВ 3-серии G20. Материал карбон. Комплект 2 корпуса. Установка вместо штатных.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ebb26664111a-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/korpusa-zerkal-m-performance-bmw-3series-g20-karbon-original</param>
         </offer>
         <offer id="starsparts-d6924b4335fe" available="true">
@@ -1990,7 +1990,7 @@ X1 E84   (09/2008 — 12/2015)</description>
           <categoryId>9716375</categoryId>
           <price>49686</price>
           <description>Комплект накладок наручки и под ручки дверей БМВ 3-серии G20. Комплект 8 частей. Установка на 2-х сторонний 3М скотч.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f03a98347624-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladki-na-i-pod-ruchki-dverej-bmw-3series-g20-pod-karbon-komplekt</param>
         </offer>
         <offer id="starsparts-c8e668f3e286" available="true">
@@ -2022,7 +2022,7 @@ X1 E84   (09/2008 — 12/2015)</description>
           <categoryId>9716375</categoryId>
           <price>35490</price>
           <description>Накладка защитная на порог багажника БМВ 3-серии G20. Установка на 2-х сторонний 3М скотч.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e9992df67189-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladka-na-porog-bagazhnika-bmw-3series-g20-nerzhavejka</param>
         </offer>
         <offer id="starsparts-e858d2c82b3b" available="true">
@@ -2178,7 +2178,7 @@ X1 E84   (09/2008 — 12/2015)</description>
           <categoryId>9716375</categoryId>
           <price>459550</price>
           <description>Сплиттер M Performance карбон BMW G20 оригинал — BMW. Накладки и молдинги для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8cfef3999fd6-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/splitter-m-performance-karbon-bmw-g20-original</param>
         </offer>
         <offer id="starsparts-8b516e1e46e6" available="true">
@@ -2194,7 +2194,7 @@ X1 E84   (09/2008 — 12/2015)</description>
           <categoryId>9716375</categoryId>
           <price>220220</price>
           <description>Накладка порогов M Performance BMW G20, G21 оригинал — BMW. Накладки и молдинги для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-eb646c8906e9-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladka-porogov-m-performance-bmw-g20-g21-original</param>
         </offer>
         <offer id="starsparts-a3bea0f9c564" available="true">
@@ -2707,7 +2707,7 @@ X1 E84   (09/2008 — 12/2015)</description>
           <categoryId>9716376</categoryId>
           <price>870870</price>
           <description>Рулевое колесо M Performance BMW G80, G82, G83 оригинал — BMW. Накладки отделка для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-017216d0b1a1-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/rulevoe-koleso-m-performance-bmw-g80-g82-g83-original</param>
         </offer>
         <offer id="starsparts-cd469e062f8f" available="true">
@@ -2715,7 +2715,7 @@ X1 E84   (09/2008 — 12/2015)</description>
           <categoryId>9716376</categoryId>
           <price>400400</price>
           <description>Карбоновая накладка переднего крыла BMW G80 оригинал — BMW. Накладки и молдинги для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cd469e062f8f-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/karbonovaya-nakladka-perednego-kryla-bmw-g80-original</param>
         </offer>
         <offer id="starsparts-badd0ae71820" available="true">
@@ -2826,7 +2826,7 @@ X1 E84   (09/2008 — 12/2015)</description>
           <categoryId>9716376</categoryId>
           <price>1552460</price>
           <description>Карбоновый диффузор BMW G80, G82, G83 оригинал — BMW. Кузовные детали и обвес.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d9468fed3113-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/karbonovyj-diffuzor-bmw-g80-g82-g83-original</param>
         </offer>
         <offer id="starsparts-af9c2af7392f" available="true">
@@ -3076,7 +3076,7 @@ X1 E84   (09/2008 — 12/2015)</description>
           <categoryId>9716377</categoryId>
           <price>445900</price>
           <description>Чехол на автомобиль M Performance BMW F82, F82N, F83, F83N оригинал — BMW. Чехлы кузова для автомобиля.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-23cbccf5cc56-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/chehol-na-avtomobil-m-performance-bmw-f82-f82n-f83-f83n-original</param>
         </offer>
         <offer id="starsparts-7c8f00357f59" available="true">
@@ -3165,7 +3165,7 @@ X1 E84   (09/2008 — 12/2015)</description>
           <description>Оригинальные поперечины на крышу БМВ 2-серии F32/F87, 3-серии F32/F36/F82.
 В комплекте 2 поперечины с замками и ключами.
 Оригинальный номер 82712361815.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a1f6ca570b56-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/poperechiny-na-kryshu-bmw-2series-f22f87-3series-f32f36f82-original</param>
         </offer>
         <offer id="starsparts-4921d1a0818a" available="true">
@@ -3511,7 +3511,7 @@ X1 E84   (09/2008 — 12/2015)</description>
 Комплект 2 задних коврика.
 Цвет чёрный с красной окантовкой.
 Оригинальный номер 51472348159.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0721e5de8353-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-zadnie-rezinovye-dlya-bmw-4series-f32f82-m4-sports-line-original</param>
         </offer>
         <offer id="starsparts-8d06a2d36f2f" available="true">
@@ -3571,7 +3571,7 @@ X1 E84   (09/2008 — 12/2015)</description>
 Комплект 2 передних коврика.
 Цвет чёрный.
 Оригинальный номер 51472348155.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2a82575f885e-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-perednie-rezinovye-dlya-bmw-4series-f32f82-m4-f3383-m4-f36-chernye-zadnij-privod-original</param>
         </offer>
         <offer id="starsparts-30d432eab389" available="true">
@@ -3620,7 +3620,7 @@ X1 E84   (09/2008 — 12/2015)</description>
 Комплект 2 передних коврика.
 Цвет чёрный с бежевой окантовкой.
 Оригинальный номер 51472348215.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4b60f1639acf-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-perednie-velyurovye-dlya-bmw-4series-f32-f33-f36-modern-line-awd-original</param>
         </offer>
         <offer id="starsparts-51a58812844b" available="true">
@@ -3644,7 +3644,7 @@ X1 E84   (09/2008 — 12/2015)</description>
 Комплект 2 передних коврика.
 Цвет чёрный с красной окантовкой.
 Оригинальный номер 51472348204.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6f741ad54585-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-perednie-velyurovye-dlya-bmw-4series-f32f82-m4-f3383-m4-f36-sports-line-original</param>
         </offer>
         <offer id="starsparts-eba76595e708" available="true">
@@ -3975,7 +3975,7 @@ X1 E84   (09/2008 — 12/2015)</description>
           <categoryId>9716378</categoryId>
           <price>106470</price>
           <description>Канарды M Performance BMW G22, G23 оригинал — BMW. Накладки и молдинги для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-bb654d077d5e-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kanardy-m-performance-bmw-g22-g23-original</param>
         </offer>
         <offer id="starsparts-967775f2a4d5" available="true">
@@ -4154,7 +4154,7 @@ X1 E84   (09/2008 — 12/2015)</description>
           <categoryId>9716381</categoryId>
           <price>72800</price>
           <description>Оригинальные наклейки M-Performance BMW для модели F10 с порогами М-стиль</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a8a411661343-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/plenka-naklejka-na-porog-bmw-f10-performance</param>
         </offer>
         <offer id="starsparts-aad2fa6651ff" available="true">
@@ -4254,7 +4254,7 @@ X1 E84   (09/2008 — 12/2015)</description>
 LED основной модуль света.
 Модуль в пространстве для ног.
 Центральный модуль.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4de579b9b88b-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/fary-svetodiodnye-facelift-bmw-f10-original</param>
         </offer>
         <offer id="starsparts-1489edc0dde6" available="true">
@@ -4516,7 +4516,7 @@ LED основной модуль света.
           <price>445900</price>
           <description>Оригинальная выхлопная система БМВ F10 5-series от версии 550i.
 В комплекте левый + правый глушитель с хромированными прямоугольными насадками, подвесные резинки и правый кронштейн.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0cf0173acda1-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/vyhlop-bmw-f10-ot-versii-550i-hrom-nasadki-original</param>
         </offer>
         <offer id="starsparts-0e682c5be1c0" available="true">
@@ -4871,7 +4871,7 @@ LED основной модуль света.
 Комплект 4 части.
 Материал полированная нержавеющая сталь.
 На обратной стороне клейкая 3М основа для простой и быстрой установки.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-66cac459807a-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladki-na-stojki-dverej-bmw-5series-f10-nerzhavejka-komplekt-4-chasti-qaa</param>
         </offer>
         <offer id="starsparts-02b26e4acebd" available="true">
@@ -4941,7 +4941,7 @@ LED основной модуль света.
           <categoryId>9716381</categoryId>
           <price>43708</price>
           <description>Коврики в салон Klever Standard BMW 5 GT F07 АКПП 2009-2013, 2013-2017, хэтчбек, 4 шт. (текстиль) / БМВ — Autofamily. Коврики автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ba9d7f26060a-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-v-salon-klever-standard-bmw-5-gt-f07-akpp-20092013-20132017-hetchbek-4-sht-tekstil-bmv</param>
         </offer>
         <offer id="starsparts-e1d1344ba51b" available="true">
@@ -5085,7 +5085,7 @@ LED основной модуль света.
           <description>Оригинальные боковые полосы на пороги БМВ 5-серии G30 G31.
 В комплекте 2 наклейки.
 Не подходят для а/м в M-Sport обвесе.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-be6bba83c281-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/naklejka-dekorativnaya-polosa-na-porog-bmw-5serii-g30-g31-original</param>
         </offer>
         <offer id="starsparts-9cc84efb3ffb" available="true">
@@ -5093,7 +5093,7 @@ LED основной модуль света.
           <categoryId>9716382</categoryId>
           <price>137410</price>
           <description>Наклейки на боковые пороги M Performance BMW G30, G31, F90, G30N, G31N оригинал — BMW. Эмблемы и наклейки для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9cc84efb3ffb-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/naklejki-na-bokovye-porogi-m-performance-bmw-g30-g31-f90-g30n-g31n-original</param>
         </offer>
         <offer id="starsparts-2b862872e84d" available="true">
@@ -5109,7 +5109,7 @@ LED основной модуль света.
           <categoryId>9716382</categoryId>
           <price>48160</price>
           <description>Воздушный фильтр BMW 5, 6, 7, 8, X3, X4, X5, X6. X7 серии, дизель, оригинал — BMW. Фильтра автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5817a75c3044-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/vozdushnyj-filtr-bmw-x5-g05x6-g06-original</param>
         </offer>
         <offer id="starsparts-b1bcdf9c58f7" available="true">
@@ -5342,7 +5342,7 @@ LED основной модуль света.
           <categoryId>9716382</categoryId>
           <price>315770</price>
           <description>Задний спойлер M Performance черного матового цвета BMW G30, G30N оригинал — BMW. Спойлеры для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-96418db80998-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/zadnij-spojler-m-performance-chernogo-matovogo-cveta-bmw-g30-g30n-original</param>
         </offer>
         <offer id="starsparts-870c80ebb53c" available="true">
@@ -5587,7 +5587,7 @@ LED основной модуль света.
           <categoryId>9716382</categoryId>
           <price>915460</price>
           <description>Комплект насадок на выхлопную трубу BMW G30, G31, G30N, G31N, 18302449938, оригинал — BMW. Насадки и выхлоп для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5398230abd25-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/komplekt-nasadok-na-vyhlopnuyu-trubu-bmw-g30-g31-g30-n-g31-n-18302449938-original</param>
         </offer>
         <offer id="starsparts-055f1f2a05e0" available="true">
@@ -5603,7 +5603,7 @@ LED основной модуль света.
           <categoryId>9716382</categoryId>
           <price>1410500</price>
           <description>Система глушителей M Performance BMW G30, G31, G32, G30N, G31N оригинал — BMW. Насадки и выхлоп для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b826e2eb2a90-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/sistema-glushitelej-m-performance-bmw-g30-g31-g32-g30-n-g31-n-original</param>
         </offer>
         <offer id="starsparts-054b7f5d4709" available="true">
@@ -5870,7 +5870,7 @@ LED основной модуль света.
           <categoryId>9716382</categoryId>
           <price>25480</price>
           <description>Накладка на центральную консоль BMW 5-серии G30, золотой — GZ HighFly LTD.. Накладки отделка для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5c142833bd6e-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladka-na-centralnuyu-konsol-bmw-5serii-g30-zolotoj</param>
         </offer>
         <offer id="starsparts-0b5dd3cd326a" available="true">
@@ -5934,7 +5934,7 @@ LED основной модуль света.
           <categoryId>9716382</categoryId>
           <price>13650</price>
           <description>Накладки на джойстик управления мультимедийной системой BMW 5-серии G30, красный — GZ HighFly LTD.. Накладки отделка для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-982e7377498b-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladki-na-dzhojstik-upravleniya-multimedijnoj-sistemoj-bmw-5serii-g30-krasnyj</param>
         </offer>
         <offer id="starsparts-4c183b453efc" available="true">
@@ -5942,7 +5942,7 @@ LED основной модуль света.
           <categoryId>9716382</categoryId>
           <price>13650</price>
           <description>Накладки на джойстик управления мультимедийной системой BMW 5-серии G30, синий — GZ HighFly LTD.. Накладки отделка для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4c183b453efc-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladki-na-dzhojstik-upravleniya-multimedijnoj-sistemoj-bmw-5serii-g30-sinij</param>
         </offer>
         <offer id="starsparts-6723cc8cff07" available="true">
@@ -6106,7 +6106,7 @@ LED основной модуль света.
 Установка вместо штатных.
 Материал карбон.
 Оригинальный номер 51162365821 + 51162365822.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-19f5d19a0fdb-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladki-na-zerkala-m-performance-bmw-5-seriya-g30-7-seriya-g11g12-karbon-original</param>
         </offer>
         <offer id="starsparts-c11de5b5893e" available="true">
@@ -6399,7 +6399,7 @@ LED основной модуль света.
           <categoryId>9716382</categoryId>
           <price>505960</price>
           <description>Карбоновая накладка переднего бампера BMW G30N, G31N оригинал — BMW. Накладки и молдинги для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-84909bb877cc-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/karbonovaya-nakladka-perednego-bampera-bmw-g30n-g31n-original</param>
         </offer>
         <offer id="starsparts-37c3e72cd951" available="true">
@@ -6521,7 +6521,7 @@ LED основной модуль света.
           <categoryId>9716382</categoryId>
           <price>108290</price>
           <description>Оригинальные передние резиновые коврики БМВ 5-серии G30 G31.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7b82a5cefa9d-0.png</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-rezinovye-bmw-5serii-g30-g31-perednie-nizkij-bort-original</param>
         </offer>
         <offer id="starsparts-a1e007e53714" available="true">
@@ -6547,7 +6547,7 @@ LED основной модуль света.
           <price>86450</price>
           <description>Комплект оригинальных велюровых ковриков БМВ 5-серии G30 G31.
 Комплект 4 коврика.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0793ac14bb8a-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-velyurovye-bmw-5serii-g30-g31-komplekt-cvet-chernyj-original</param>
         </offer>
         <offer id="starsparts-a137f0e8d220" available="true">
@@ -6631,7 +6631,7 @@ LED основной модуль света.
           <categoryId>9716382</categoryId>
           <price>30030</price>
           <description>Коврики в карманы и отсеки салона BMW 5-серии G30, красная надпись — GZ HighFly LTD.. Коврики автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d4f898194e31-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-v-karmany-i-otseki-salona-bmw-5serii-g30-krasnaya-nadpis</param>
         </offer>
         <offer id="starsparts-3d16c3beae4c" available="true">
@@ -6697,7 +6697,7 @@ LED основной модуль света.
           <categoryId>9716382</categoryId>
           <price>4204200</price>
           <description>Тормозная система M Performance BMW G30, G31, G32, G11, G11N, G12, G12N, G32N, G30N, G31N оригинал — BMW. Запчасти для тормозов автомобиля.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-593bf36cacbc-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/tormoznaya-sistema-m-performance-bmw-g30-g31-g32-g11-g11n-g12-g12n-g32n-g30n-g31n-original</param>
         </offer>
         <offer id="starsparts-1226fef6ed90" available="true">
@@ -7047,7 +7047,7 @@ LED основной модуль света.
           <categoryId>9716384</categoryId>
           <price>665000</price>
           <description>Накладка бокового порога M Performance BMW 5-серия G60, справа, оригинал — BMW. Накладки и молдинги для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-94103cea51e0-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladka-bokovogo-poroga-m-performance-bmw-5seriya-g60-sprava-original</param>
         </offer>
         <offer id="starsparts-7b55a61967a5" available="true">
@@ -7055,7 +7055,7 @@ LED основной модуль света.
           <categoryId>9716384</categoryId>
           <price>665000</price>
           <description>Накладка зеркала M Performance  BMW 5-серия G60, левая, оригинал — BMW. Накладки и молдинги для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7b55a61967a5-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladka-zerkala-m-performance-bmw-5seriya-g60-levaya-original</param>
         </offer>
         <offer id="starsparts-a607b6cd106f" available="true">
@@ -7063,7 +7063,7 @@ LED основной модуль света.
           <categoryId>9716384</categoryId>
           <price>665000</price>
           <description>Накладка зеркала M Performance  BMW 5-серия G60, правая, оригинал — BMW. Накладки и молдинги для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a607b6cd106f-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladka-zerkala-m-performance-bmw-5seriya-g60-pravaya-original</param>
         </offer>
         <offer id="starsparts-3ea133552277" available="true">
@@ -7071,7 +7071,7 @@ LED основной модуль света.
           <categoryId>9716384</categoryId>
           <price>1691690</price>
           <description>Карбоновый диффузор M Performance  BMW 5-серия G60, 3 части, оригинал — BMW. Накладки и молдинги для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3ea133552277-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/karbonovyj-diffuzor-m-performance-bmw-5seriya-g60-3-chasti-original</param>
         </offer>
         <offer id="starsparts-9969542b2f55" available="true">
@@ -7171,7 +7171,7 @@ LED основной модуль света.
           <categoryId>9716384</categoryId>
           <price>65100</price>
           <description>Задние ножные коврики  BMW 5-серия G60 , оригинал — BMW. Коврики автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7cb7b0600b00-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/zadnie-nozhnye-kovriki-bmw-5seriya-g60-original</param>
         </offer>
         <offer id="starsparts-a15999f0f2e7" available="true">
@@ -7505,7 +7505,7 @@ LED основной модуль света.
           <price>2802800</price>
           <description>Комплект дооснащения оригинальными передними светодиодными фарами без ункции адаптивного освещения для БМВ F12/F13/F06 6-серии.
 В комплекте: 2 фары, комплект дооснащения проводами для светодиодных фар.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6391222b8b96-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/fary-perednie-svetodiodnye-bmw-6series-f12f13f06-komplekt-doosnasheniya-original</param>
         </offer>
         <offer id="starsparts-6fd9175c1d58" available="true">
@@ -7580,7 +7580,7 @@ LED основной модуль света.
           <price>109200</price>
           <description>Оригинальные накладки на пороги с логотипом М для БМВ F13 6-серии.
 Комплект на 2 порога.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-56598bf075de-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladki-na-porogi-mstyle-bmw-6series-f13-original</param>
         </offer>
         <offer id="starsparts-368946eb341d" available="true">
@@ -7614,7 +7614,7 @@ LED основной модуль света.
 6' F12 LCI   (05/2014 — 01/2016)
 6' F13   (03/2010 — 02/2015)
 6' F13 LCI   (05/2014 — 01/2016)</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3299cecdc43b-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-m-performance-bmw-6series-f12f13-perednie-original</param>
         </offer>
         <offer id="starsparts-e33a79bf509a" available="true">
@@ -7708,7 +7708,7 @@ LED основной модуль света.
           <categoryId>9716388</categoryId>
           <price>150150</price>
           <description>Боковые наклейки BMW M Performance черного цвета Frozen Black BMW G32, G32N оригинал — BMW. Эмблемы и наклейки для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e92b547992c0-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/bokovye-naklejki-bmw-m-performance-chernogo-cveta-frozen-black-bmw-g32-g32n-original</param>
         </offer>
         <offer id="starsparts-d676c3fba2f2" available="true">
@@ -7927,7 +7927,7 @@ LED основной модуль света.
           <categoryId>9716390</categoryId>
           <price>66514</price>
           <description>Коврики в салон BMW 7 Sedan, 2008-2015, 4 шт. (полиуретан, бежевые) / БМВ 7 серии — Autofamily. Коврики автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-04fee9ba90fd-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-v-salon-bmw-7-sedan-20082015-4-sht-poliuretan-bezhevye-bmv-7-serii</param>
         </offer>
         <offer id="starsparts-3002aa728916" available="true">
@@ -7951,7 +7951,7 @@ LED основной модуль света.
           <categoryId>9716390</categoryId>
           <price>31976</price>
           <description>Коврики в салон Klever Econom BMW 7L F01/F02 АКПП 2008-2012, 2012-2015, седан, 4 шт. (текстиль) / БМВ 7 серии — Autofamily. Коврики автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b0e329dcf0e2-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-v-salon-klever-econom-bmw-7l-f01f02-akpp-20082012-20122015-sedan-4-sht-tekstil-bmv-7-serii</param>
         </offer>
         <offer id="starsparts-fc7ee78b9460" available="true">
@@ -8009,7 +8009,7 @@ LED основной модуль света.
           <categoryId>9716391</categoryId>
           <price>871416</price>
           <description>Стекло лобовое BMW 7-series G11 / G12, оригинал — BMW. Стекла для автомобиля.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-40709bc7a991-0.png</picture>
           <param name="partner_url">https://stars-parts.ru/product/eff34321-68e2-41ce-b925-731aa74242f7</param>
         </offer>
         <offer id="starsparts-3be71f9bb9d9" available="true">
@@ -8305,7 +8305,7 @@ LED основной модуль света.
 Комплект 2 задних коврика.
 Цвет черный.
 Не подходят на комплектации Executive Lounge и Executive Lounge Seating.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-27f54d60b187-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-salona-zadnie-bmw-7series-g11-rezina-chernye-original</param>
         </offer>
         <offer id="starsparts-2fc303f3662f" available="true">
@@ -8351,7 +8351,7 @@ LED основной модуль света.
 Материал велюр.
 Подходит только на G12 Long.
 Оригинальный номер 51477427837.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-70e0cd9db65d-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-salona-bmw-7series-g12-velyur-canberrabeige-original</param>
         </offer>
         <offer id="starsparts-5bbcecbfaa98" available="true">
@@ -8394,7 +8394,7 @@ LED основной модуль света.
           <categoryId>9716393</categoryId>
           <price>34300</price>
           <description>Брызговики BMW 7-серия G70, стандарт — GZ HighFly LTD.. Брызговики для автомобиля.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-bdf4b863e2ca-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/bryzgoviki-bmw-7-seriya-g70-standart</param>
         </offer>
         <offer id="starsparts-c3c3ba4357fb" available="true">
@@ -8537,7 +8537,7 @@ LED основной модуль света.
           <categoryId>9716394</categoryId>
           <price>191100</price>
           <description>Ковры M Performance BMW F91, F92, G14, G15 оригинал — BMW. Коврики автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4da7841a8783-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovry-m-performance-bmw-f91-f92-g14-g15-original</param>
         </offer>
         <offer id="starsparts-448a8a969f1c" available="true">
@@ -8556,7 +8556,7 @@ LED основной модуль света.
           <categoryId>9716395</categoryId>
           <price>445900</price>
           <description>Чехол на автомобиль M Performance BMW F91, F92 оригинал — BMW. Чехлы кузова для автомобиля.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7f91062484ea-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/chehol-na-avtomobil-m-performance-bmw-f91-f92-original</param>
         </offer>
         <offer id="starsparts-176426f620a3" available="true">
@@ -8564,7 +8564,7 @@ LED основной модуль света.
           <categoryId>9716395</categoryId>
           <price>445900</price>
           <description>Чехол на автомобиль M Performance BMW F93 оригинал — BMW. Чехлы кузова для автомобиля.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-176426f620a3-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/chehol-na-avtomobil-m-performance-bmw-f93-original</param>
         </offer>
         <offer id="starsparts-e957909a10ae" available="true">
@@ -8583,7 +8583,7 @@ LED основной модуль света.
           <categoryId>9716395</categoryId>
           <price>935480</price>
           <description>Карбоновый спойлер BMW F91, F92 оригинал — BMW. Спойлеры для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2336c4f94ef8-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/karbonovyj-spojler-bmw-f91-f92-original</param>
         </offer>
         <offer id="starsparts-e7ea72cc16a1" available="true">
@@ -9532,7 +9532,7 @@ BMW X3 F25 2011 2012BMW X1 E84 2010 2011 2012 2013 BMW X5 E70 X6 E71 2008 - 2012
           <categoryId>9716402</categoryId>
           <price>131950</price>
           <description>Боковые наклейки BMW M Performance черного цвета Frozen Black BMW F39 оригинал — BMW. Эмблемы и наклейки для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-552af144940f-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/bokovye-naklejki-bmw-m-performance-chernogo-cveta-frozen-black-bmw-f39-original</param>
         </offer>
         <offer id="starsparts-e57bf3658cee" available="true">
@@ -9554,7 +9554,7 @@ BMW X3 F25 2011 2012BMW X1 E84 2010 2011 2012 2013 BMW X5 E70 X6 E71 2008 - 2012
 Комплект 2 поперечины.
 Установка на рейлинги.
 Оригинальный номер 82712444243</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-70f35126ed32-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/bagazhnik-na-kryshu-bmw-x2-f39-na-rejlingi-poperechiny-original</param>
         </offer>
         <offer id="starsparts-4fd3d516daac" available="true">
@@ -9667,7 +9667,7 @@ BMW X3 F25 2011 2012BMW X1 E84 2010 2011 2012 2013 BMW X5 E70 X6 E71 2008 - 2012
           <categoryId>9716403</categoryId>
           <price>145537</price>
           <description>ТСУ на а/м BMW X3 (E83) SUV 2003-2010 / БМВ Х3 — Oris. Фаркопы для автомобиля.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4fe6da54a18a-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/tsu-na-am-bmw-x3-e83-suv-20032010-bmv-h3</param>
         </offer>
         <offer id="starsparts-a8779dd4f0c5" available="true">
@@ -9868,7 +9868,7 @@ BMW X3 F25 2011 2012BMW X1 E84 2010 2011 2012 2013 BMW X5 E70 X6 E71 2008 - 2012
           <price>113750</price>
           <description>Оригинальные накладки на пороги в салон с подсветкой для БМВ X3 F25, X4 F26.
 В комплекте 2 накладки на пороги передних дверей.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d2526d4a2ea6-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladki-na-porogi-s-podsvetkoj-bmw-x3-f25-x4-f26-original</param>
         </offer>
         <offer id="starsparts-b2e97a894e6d" available="true">
@@ -10028,7 +10028,7 @@ BMW X3 F25 2011 2012BMW X1 E84 2010 2011 2012 2013 BMW X5 E70 X6 E71 2008 - 2012
 Выполнен из упругого полимерного материала.
 Геометрия точно повторяет изгибы салона.
 Максимальная защита от грязи и царапин.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f30b22dfd2ee-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovrik-v-bagazhnik-bmw-x3-f25-x4-f26-chernyj-weathertech</param>
         </offer>
         <offer id="starsparts-645c0d3571b1" available="true">
@@ -10146,7 +10146,7 @@ BMW X3 F25 2011 2012BMW X1 E84 2010 2011 2012 2013 BMW X5 E70 X6 E71 2008 - 2012
           <categoryId>9716404</categoryId>
           <price>54600</price>
           <description>Оригинальные задние брызговики для БМВ Х3 F25. Комплект 2 задних брызговика и крепеж. Не подходят на М-Пакет и на М- обвес. Оригинальный номер 82162156540</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-724fa948c551-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/bryzgoviki-bmw-x3-f25-zadnie-original</param>
         </offer>
         <offer id="starsparts-18c6eaf43cdb" available="true">
@@ -10228,7 +10228,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716405</categoryId>
           <price>62790</price>
           <description>Глянцевая черная наклейка BMW M Performance для передней части автомобиля BMW G01, G02, G08, G08E оригинал — BMW. Эмблемы и наклейки для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-bd5a372bcfe2-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/glyancevaya-chernaya-naklejka-bmw-m-performance-dlya-perednej-chasti-avtomobilya-bmw-g01-g02-g08-g08e-original</param>
         </offer>
         <offer id="starsparts-924eb8135881" available="true">
@@ -10244,7 +10244,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716405</categoryId>
           <price>53690</price>
           <description>Эмблема черн. M40I BMW G01 оригинал — BMW. Эмблемы и наклейки для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9bb59847cedc-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/emblema-chern-m40i-bmw-g01-original</param>
         </offer>
         <offer id="starsparts-e29634643ae0" available="true">
@@ -10720,7 +10720,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716405</categoryId>
           <price>870870</price>
           <description>Рулевое колесо M Performance BMW G01, G02 оригинал — BMW. Накладки отделка для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1edd2bc41cc3-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/rulevoe-koleso-m-performance-bmw-g01-g02-original</param>
         </offer>
         <offer id="starsparts-ac28d8d198e0" available="true">
@@ -10971,7 +10971,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716405</categoryId>
           <price>42000</price>
           <description>Жабра в крыло BMW X3 G01 / X4 G02, левая, черный глянец, оригинал — BMW. Накладки и молдинги для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cfb3426333a0-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/zhabra-v-krylo-bmw-x3-g01-x4-g02-levaya-chernyj-glyanec-original</param>
         </offer>
         <offer id="starsparts-6880112331e1" available="true">
@@ -11165,7 +11165,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716405</categoryId>
           <price>47012</price>
           <description>Коврики KVEST 3D в салон BMW X3, 2018- кроссовер, 4шт. (полиуретан, черный, черный) / БМВ Х3 — Autofamily. Коврики автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d5c77fc519aa-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-kvest-3d-v-salon-bmw-x3-2018-krossover-4sht-poliuretan-chernyj-chernyj-bmv-h3</param>
         </offer>
         <offer id="starsparts-e15b3a89897e" available="true">
@@ -12586,7 +12586,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716410</categoryId>
           <price>13720</price>
           <description>Полиуретановый коврик в багажное отделение БМВ Х4 F26. Цвет черный.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-bbc5d29ef009-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovrik-v-bagazhnik-bmw-x4-f26-poliuretan-chernyj-norplast</param>
         </offer>
         <offer id="starsparts-45f60e32fc96" available="true">
@@ -12652,7 +12652,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716410</categoryId>
           <price>52500</price>
           <description>Брызговики перед + зад для БМВ Х4 F26. В комплекте 4 брызговика. Только для а/м в M-Sport пакете. Без боковых порогов ступенек.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c6f1290c0cbf-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/bryzgoviki-bmw-x4-f26-msport-komplekt</param>
         </offer>
         <offer id="starsparts-f3473bdd2eae" available="true">
@@ -12677,7 +12677,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716411</categoryId>
           <price>53690</price>
           <description>Эмблема черн. M40D BMW G02 оригинал — BMW. Эмблемы и наклейки для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-289bb4aff17a-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/emblema-chern-m40d-bmw-g02-original</param>
         </offer>
         <offer id="starsparts-a0369df7df25" available="true">
@@ -13363,7 +13363,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716414</categoryId>
           <price>62986</price>
           <description>Коврики в салон Klever Premium BMW X5 2006-2010, 2010-2013, внедорожник , 5 шт. (текстиль) / БМВ Х5 — Autofamily. Коврики автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e2e6d4c12830-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-v-salon-klever-premium-bmw-x5-20062010-20102013-vnedorozhnik-5-sht-tekstil-bmv-h5</param>
         </offer>
         <offer id="starsparts-57037628e8f0" available="true">
@@ -13371,7 +13371,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716414</categoryId>
           <price>31976</price>
           <description>Коврики в салон Klever Econom BMW X5 2006-2010, 2010-2013, внедорожник , 4 шт. (текстиль) / БМВ Х5 — Autofamily. Коврики автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-57037628e8f0-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-v-salon-klever-econom-bmw-x5-20062010-20102013-vnedorozhnik-4-sht-tekstil-bmv-h5</param>
         </offer>
         <offer id="starsparts-f88f38031872" available="true">
@@ -13455,7 +13455,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716415</categoryId>
           <price>92400</price>
           <description>Салонный фильтр BMW X5M F85/X6M F86, оригинал — BMW. Фильтра автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-011b162849ab-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/salonnyj-filtr-bmw-x5m-f85x6m-f86-original</param>
         </offer>
         <offer id="starsparts-0618408d6549" available="true">
@@ -13507,7 +13507,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716415</categoryId>
           <price>210000</price>
           <description>Блок управления электрическим фаркопом BMW, оригинал — BMW. Фаркопы для автомобиля.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-01deab0a1d49-0.png</picture>
           <param name="partner_url">https://stars-parts.ru/product/blok-upravleniya-elektricheskim-farkopom-bmw-original</param>
         </offer>
         <offer id="starsparts-c7510562dff9" available="true">
@@ -13534,7 +13534,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716415</categoryId>
           <price>131950</price>
           <description>Оригинальные решетки радиатора Pure Experience для BMW F15 X5Покрытие - хром / титан</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-afe94490ce78-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/reshetki-radiatora-nozdri-bmv-x5-f15-pure-experience</param>
         </offer>
         <offer id="starsparts-b0146882e3e7" available="true">
@@ -14513,7 +14513,7 @@ Airbag в комплект не входит.</description>
           <description>Накладка на задний бампер BMW F15 X5.
 Материал нержавеющая сталь.
 Установка на 2-х сторонний 3М скотч.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5e51a9763d5c-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladka-na-zadnij-bamper-bmv-h5-f15-nerzhavejka</param>
         </offer>
         <offer id="starsparts-be7ffdce8756" available="true">
@@ -14536,7 +14536,7 @@ Airbag в комплект не входит.</description>
           <description>Хромированная накладка на задний бампер для BMW X5 F15.
 Материал - хромированный ABS пластик.
 Установка на 2-х сторонний 3М скотч.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-beb51899710e-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/hrom-nakladka-na-zadnij-bamper-bmv-x5-f15-nizhnyaya</param>
         </offer>
         <offer id="starsparts-9d8bb5297b10" available="true">
@@ -14926,7 +14926,7 @@ Airbag в комплект не входит.</description>
           <price>144690</price>
           <description>WetherTech Полиуретановый коврик в багажник BMW X5 F15
 Серый, для а/м без 3-го ряда сидений</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1bb78c0076dd-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovrik-v-bagazhnik-bmv-x5-f15-weathertech-ceryj-dlya-am-bez-3go-ryada-sidenij</param>
         </offer>
         <offer id="starsparts-5e770bd79855" available="true">
@@ -14935,7 +14935,7 @@ Airbag в комплект не входит.</description>
           <price>131950</price>
           <description>WetherTech Полиуретановый коврик в багажник BMW X5 F15
 Серый, для а/м с 3-м рядом сидений</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5e770bd79855-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovrik-v-bagazhnik-bmv-x5-f15-weathertech-seryj-dlya-am-s-3m-ryadom-sidenij</param>
         </offer>
         <offer id="starsparts-429a5070a6c3" available="true">
@@ -14944,7 +14944,7 @@ Airbag в комплект не входит.</description>
           <price>131950</price>
           <description>WetherTech Полиуретановый коврик в багажник BMW X5 F15
 Черный, для а/м с 3-м рядом сидений</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-429a5070a6c3-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovrik-v-bagazhnik-bmv-x5-f15-weathertech-chernyj-dlya-am-s-3m-ryadom-sidenij</param>
         </offer>
         <offer id="starsparts-44c048437733" available="true">
@@ -15177,7 +15177,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716415</categoryId>
           <price>27300</price>
           <description>Комплект из 4-х брызговиков БМВ X5 F15. Установка на штатные крепления.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b6a4caab7eca-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/bryzgoviki-bmw-x5-f15-pered-zad-komplekt-replika</param>
         </offer>
         <offer id="starsparts-b6cd95153065" available="true">
@@ -15369,7 +15369,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716416</categoryId>
           <price>151970</price>
           <description>Наклейки на боковые пороги M Performance цвета Frozen Black BMW G05 оригинал — BMW. Эмблемы и наклейки для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a3ca7d1606da-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/naklejki-na-bokovye-porogi-m-performance-cveta-frozen-black-bmw-g05-original</param>
         </offer>
         <offer id="starsparts-708606655ccd" available="true">
@@ -15586,7 +15586,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716416</categoryId>
           <price>346255</price>
           <description>Оригинальные расширители арок М-пакет для БМВ Х5 G05. Комплект 4 расширителя. Расширители поставляются в грунте под покраску.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-dd4aaebde3ea-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/rasshiriteli-arok-msport-bmw-x5-g05-original</param>
         </offer>
         <offer id="starsparts-6e7a6c477bd7" available="true">
@@ -15765,7 +15765,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716416</categoryId>
           <price>195650</price>
           <description>Оригинальные насадки глушителя для БМВ Х5 G05 / Х7 G07. Только для автомобилей в М Обвесе. Комплект 2 насадки. Цвет CERIUM GREY. 51128074267 + 51128074268</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ddd03857a55d-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nasadki-glushitelya-msport-bmw-x5-g05-x6-g06-x7-g07-cerium-grey-original</param>
         </offer>
         <offer id="starsparts-024e0d40c795" available="true">
@@ -16370,7 +16370,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716416</categoryId>
           <price>220220</price>
           <description>Молдинги на двери и передние крылья для БМВ Х5 G05. Комплект 6 накладок. Материал нержавеющая сталь. Цвет под карбон. Установка на двухсторонний 3М скотч.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2cfa296fd0f7-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/moldingi-kuzova-bmw-x5-g05-pod-karbon</param>
         </offer>
         <offer id="starsparts-7e4c21d22b7c" available="true">
@@ -16378,7 +16378,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716416</categoryId>
           <price>84630</price>
           <description>Накладки на воздуховоды передних крыльев для БМВ Х5 G05. Комплект 2 накладки. Материал нержавеющая сталь. Цвет под карбон.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7e4c21d22b7c-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/zhabry-v-krylya-bmw-x5-g05-pod-karbon-nerzhavejka</param>
         </offer>
         <offer id="starsparts-0c7bf5067fc6" available="true">
@@ -16896,7 +16896,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716416</categoryId>
           <price>135590</price>
           <description>Всесезонный коврик WeatherTech Floorliner в багажник с откидной шторкой для защиты бампера БМВ Х5 G05. Цвет бежевый. Установка коврика после второго ряда сидений. Выполнен из упругого полимерного материала. Геометрия точно повторяет изгибы салона.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-aece762f9535-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovrik-v-bagazhnik-bmw-x5-g05-s-otkidnoj-shtorkoj-vsesezonnyj-bezhevyj-za-2ym-ryadom-weathertech</param>
         </offer>
         <offer id="starsparts-6887c2dd8f44" available="true">
@@ -17279,7 +17279,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716418</categoryId>
           <price>738010</price>
           <description>Спойлер M Performance BMW F95 оригинал — BMW. Спойлеры для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4c2ba4b21924-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/spojler-m-performance-bmw-f95-original</param>
         </offer>
         <offer id="starsparts-df40714dc6bf" available="true">
@@ -17344,7 +17344,7 @@ Airbag в комплект не входит.</description>
           <categoryId>9716420</categoryId>
           <price>18200</price>
           <description>Установка на 2-х сторонний 3м скотч. Нанесен на обратной стороне шильдика.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-15e20928a694-0.png</picture>
           <param name="partner_url">https://stars-parts.ru/product/emblema-na-bagazhnik-x6m-cvet-chernyj-replika</param>
         </offer>
         <offer id="starsparts-0d649e6c5f2e" available="true">
@@ -18019,7 +18019,7 @@ All</description>
 Цвет матовый хром.
 Материал ABS пластик.
 Установка на 2-х сторонний 3М скотч.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-71b8c8bb3c34-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladka-obramlenie-zerkala-zadnego-vida-bmw-x6-f16-matovyj-hrom</param>
         </offer>
         <offer id="starsparts-ab3078da7053" available="true">
@@ -18267,7 +18267,7 @@ All</description>
 Выполнен из упругого полимерного материала.
 Геометрия точно повторяет изгибы салона.
 Максимальная защита от грязи и царапин.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d501b2257370-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovrik-v-bagazhnik-bmw-x6-f16-korichnevyj-weathertech</param>
         </offer>
         <offer id="starsparts-d1482ca456ba" available="true">
@@ -18387,7 +18387,7 @@ All</description>
           <categoryId>9716422</categoryId>
           <price>53690</price>
           <description>Эмблема черн. M50I BMW G06 оригинал — BMW. Эмблемы и наклейки для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-83fc2f340427-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/emblema-chern-m50i-bmw-g06-original</param>
         </offer>
         <offer id="starsparts-106ab54b4154" available="true">
@@ -18623,7 +18623,7 @@ All</description>
           <categoryId>9716422</categoryId>
           <price>1228500</price>
           <description>Карбоновый задний диффузор BMW G06 оригинал — BMW. Кузовные детали и обвес.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cc9e03dc641e-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/karbonovyj-zadnij-diffuzor-bmw-g06-original</param>
         </offer>
         <offer id="starsparts-6bd154a74d82" available="true">
@@ -18674,7 +18674,7 @@ All</description>
           <categoryId>9716422</categoryId>
           <price>51870</price>
           <description>Коврики салона BMW X6 G06, 2-ой ряд, резина, высокий борт, оригинал — BMW. Коврики автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ff813e0b8507-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-salona-bmw-x6-g06-2oj-ryad-rezina-vysokij-bort-original</param>
         </offer>
         <offer id="starsparts-5201a35a01db" available="true">
@@ -18690,7 +18690,7 @@ All</description>
           <categoryId>9716422</categoryId>
           <price>282100</price>
           <description>Ковры салона M Performance BMW G06, F96 оригинал — BMW. Коврики автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b223acf3f843-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovry-salona-m-performance-bmw-g06-f96-original</param>
         </offer>
         <offer id="starsparts-30a55d598177" available="true">
@@ -18800,7 +18800,7 @@ All</description>
           <categoryId>9716426</categoryId>
           <price>53690</price>
           <description>Эмблема черн. X7 BMW G07 оригинал — BMW. Эмблемы и наклейки для авто.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-890d93e45bc9-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/emblema-chern-x7-bmw-g07-original</param>
         </offer>
         <offer id="starsparts-3dbf5d4e420b" available="true">
@@ -18897,7 +18897,7 @@ All</description>
           <price>903000</price>
           <description>Оригинальные рейлинги на крышу для БМВ Х7 G07. Комплект 2 рейлинга, 2 планки под рейлинги и крепеж. Цвет Shadow Line. 
 51138090457 + 51138090458 + 51317449649 + 51317449650 + 51139465665 ( х 18 шт) + 07147195759 ( х 10 шт)</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-267ac1fcf7a7-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/rejlingi-kryshi-bmw-x7-g07-shadow-line-original</param>
         </offer>
         <offer id="starsparts-b532846986e8" available="true">
@@ -18965,7 +18965,7 @@ All</description>
           <categoryId>9716426</categoryId>
           <price>12740</price>
           <description>Комплект накладок на замки дверей БМВ Х7 G07. Комплект 4шт. Материал нержавеющая сталь.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fedaba49d7b9-0.png</picture>
           <param name="partner_url">https://stars-parts.ru/product/nakladki-na-zamki-dverej-bmw-x7-g07-nerzhavejka-komplekt-4sht</param>
         </offer>
         <offer id="starsparts-20879b01c17d" available="true">
@@ -19196,7 +19196,7 @@ All</description>
           <categoryId>9716426</categoryId>
           <price>44226</price>
           <description>Оригинальные коврики салона для БМВ Х7 G07. Комплект 2 коврика третьего ряда. Для автомобилей с единым сиденьем 2-ого ряда.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d24b675ad524-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovriki-salona-bmw-x7-g07-3ij-ryad-rezina-7-mest-original</param>
         </offer>
         <offer id="starsparts-b46147d9ca0c" available="true">
@@ -19270,7 +19270,7 @@ All</description>
           <categoryId>9716426</categoryId>
           <price>163800</price>
           <description>Коврик в багажник BMW X7 G07, всесезонный, какао, Weathertech — WeatherTech. Коврики автомобильные.</description>
-
+          <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ed0d446abc1b-0.jpg</picture>
           <param name="partner_url">https://stars-parts.ru/product/kovrik-v-bagazhnik-bmw-x7-g07-vsesezonnyj-kakao-weathertech</param>
         </offer>
         <offer id="starsparts-5c92cef504b3" available="true">
