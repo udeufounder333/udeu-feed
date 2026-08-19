@@ -1,0 +1,2022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-08-19 07:14:47">
+  <shop>
+    <name>Udeu.kz</name>
+    <company>Udeu.kz</company>
+    <url>https://udeu.kz</url>
+    <currencies>
+      <currency id="KZT" rate="1"/>
+    </currencies>
+    <categories>
+    <category id="9718279">Canyon II (2014-2022)</category>
+    <category id="9718280">Canyon III (2022-2026)</category>
+    <category id="9718281">Sierra I (1998—2007)</category>
+    <category id="9718282">Sierra II (2006-2014)</category>
+    <category id="9718283">Sierra III (2013-2018)</category>
+    <category id="9718284">Sierra IV (2018-2022)</category>
+    <category id="9718285">Sierra IV Рестайлинг (2022-2026)</category>
+    <category id="9718286">Yukon III (2006-2014)</category>
+    <category id="9718287">Yukon IV (2014-2020)</category>
+    <category id="9718288">Yukon V (2020-2024)</category>
+    </categories>
+    <offers>
+    <offer id="starsparts-336e7cf79882" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для Chevrolet Colorado / GMC Canyon (2015-2020), насадки черные</name>
+      <categoryId>9718279</categoryId>
+      <price>1106500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для Chevrolet Colorado / GMC Canyon (2015-2020), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для Chevrolet Colorado / GMC Canyon (2015-2020), насадки черные, GMC, Canyon II 2014-2022</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-chevrolet-colorado-gmc-canyon-20152020-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-fbd20b9efcca" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для Chevrolet Colorado / GMC Canyon (2015-2020), насадки черные</name>
+      <categoryId>9718279</categoryId>
+      <price>1106500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для Chevrolet Colorado / GMC Canyon (2015-2020), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для Chevrolet Colorado / GMC Canyon (2015-2020), насадки черные, GMC, Canyon II 2014-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fbd20b9efcca_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/c0d17c5a-3ace-45df-b391-f1312bb06f57</param>
+    </offer>
+    <offer id="starsparts-76fdb15e8796" available="true">
+      <name>Адаптеры Borla для Chevrolet Colorado / GMC Canyon (2015-2020)</name>
+      <categoryId>9718279</categoryId>
+      <price>87000</price>
+      <description>Адаптеры Borla для Chevrolet Colorado / GMC Canyon (2015-2020) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Адаптеры Borla для Chevrolet Colorado / GMC Canyon (2015-2020), GMC, Canyon II 2014-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-76fdb15e8796_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/adaptery-borla-dlya-chevrolet-colorado-gmc-canyon-20152020</param>
+    </offer>
+    <offer id="starsparts-cbaa4c2097a3" available="true">
+      <name>Адаптеры Borla для Chevrolet Colorado / GMC Canyon (2015-2020)</name>
+      <categoryId>9718279</categoryId>
+      <price>87000</price>
+      <description>Адаптеры Borla для Chevrolet Colorado / GMC Canyon (2015-2020) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Адаптеры Borla для Chevrolet Colorado / GMC Canyon (2015-2020), GMC, Canyon II 2014-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cbaa4c2097a3_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/b9a99cc2-081e-462e-90e9-2b0233c4326d</param>
+    </offer>
+    <offer id="starsparts-2a674572a471" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для Chevrolet Colorado / GMC Canyon (2015-2020), насадки хром</name>
+      <categoryId>9718279</categoryId>
+      <price>1088500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для Chevrolet Colorado / GMC Canyon (2015-2020), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для Chevrolet Colorado / GMC Canyon (2015-2020), насадки хром, GMC, Canyon II 2014-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2a674572a471_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-chevrolet-colorado-gmc-canyon-20152020-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-5d7d407347b9" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для Chevrolet Colorado / GMC Canyon (2015-2020), насадки хром</name>
+      <categoryId>9718279</categoryId>
+      <price>1088500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для Chevrolet Colorado / GMC Canyon (2015-2020), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для Chevrolet Colorado / GMC Canyon (2015-2020), насадки хром, GMC, Canyon II 2014-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5d7d407347b9_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/731dff5e-e19c-464a-9bb4-8ee7d0a1a78e</param>
+    </offer>
+    <offer id="starsparts-311d59c919bf" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Canyon 2.7L (2023-2024)</name>
+      <categoryId>9718280</categoryId>
+      <price>1184000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Canyon 2.7L (2023-2024) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Canyon 2.7L (2023-2024), GMC, Canyon III 2022-2026</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-canyon-27l-20232024</param>
+    </offer>
+    <offer id="starsparts-b899dae61056" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Canyon 2.7L (2023-2024), насадки черные</name>
+      <categoryId>9718280</categoryId>
+      <price>1485000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Canyon 2.7L (2023-2024), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Canyon 2.7L (2023-2024), насадки черные, GMC, Canyon III 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b899dae61056_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-canyon-27l-20232024-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-6a4dbc1bb867" available="true">
+      <name>Фонари задние светодиодные Luxx Black для Chevy Silverado/Sierra 1999–2006, AlphaRex</name>
+      <categoryId>9718281</categoryId>
+      <price>281400</price>
+      <description>Фонари задние светодиодные Luxx Black для Chevy Silverado/Sierra 1999–2006, AlphaRex — AlphaRex. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фонари задние светодиодные Luxx Black для Chevy Silverado/Sierra 1999–2006, AlphaRex, GMC, Sierra I 1998—2007</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6a4dbc1bb867_1.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6a4dbc1bb867_2.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6a4dbc1bb867_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/fonari-zadnie-svetodiodnye-luxx-black-dlya-chevy-silveradosierra-19992006-alpharex</param>
+    </offer>
+    <offer id="starsparts-04941a3e486e" available="true">
+      <name>Фонари задние светодиодные LUXX Black Red для Chevy Silverado/GMC Sierra 1999–2006, AlphaRex</name>
+      <categoryId>9718281</categoryId>
+      <price>281400</price>
+      <description>Фонари задние светодиодные LUXX Black Red для Chevy Silverado/GMC Sierra 1999–2006, AlphaRex — AlphaRex. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фонари задние светодиодные LUXX Black Red для Chevy Silverado/GMC Sierra 1999–2006, AlphaRex, GMC, Sierra I 1998—2007</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-04941a3e486e_1.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-04941a3e486e_2.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-04941a3e486e_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/fonari-zadnie-svetodiodnye-luxx-black-red-dlya-chevy-silveradogmc-sierra-19992006-alpharex</param>
+    </offer>
+    <offer id="starsparts-d98f2e22fafb" available="true">
+      <name>Расширители арок GMC Sierra 1500 2007–2013 (5′9″ кузов), стиль Pocket, Rough Country</name>
+      <categoryId>9718282</categoryId>
+      <price>363840</price>
+      <description>Расширители арок GMC Sierra 1500 2007–2013 (5′9″ кузов), стиль Pocket, Rough Country — Rough Country. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Расширители арок GMC Sierra 1500 2007–2013 (5′9″ кузов), стиль Pocket, Rough Country, GMC, Sierra II 2006-2014</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d98f2e22fafb_0.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/rasshiriteli-arok-gmc-sierra-1500-20072013-59-kuzov-stil-pocket-rough-country</param>
+    </offer>
+    <offer id="starsparts-7d665d4be58d" available="true">
+      <name>Расширители арок Chevy/GMC 1500/2500 HD 2007–2014, стиль Pocket, Rough Country</name>
+      <categoryId>9718282</categoryId>
+      <price>363840</price>
+      <description>Расширители арок Chevy/GMC 1500/2500 HD 2007–2014, стиль Pocket, Rough Country — Rough Country. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Расширители арок Chevy/GMC 1500/2500 HD 2007–2014, стиль Pocket, Rough Country, GMC, Sierra II 2006-2014</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7d665d4be58d_0.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/rasshiriteli-arok-chevygmc-15002500-hd-20072014-stil-pocket-rough-country</param>
+    </offer>
+    <offer id="starsparts-3fe66e98d275" available="true">
+      <name>Задние фонари VLAND LED II двойные линзы красный поворотник для Chevrolet Silverado/GMC Sierra (2007-2013)</name>
+      <categoryId>9718282</categoryId>
+      <price>187943</price>
+      <description>Задние фонари VLAND LED II двойные линзы красный поворотник для Chevrolet Silverado/GMC Sierra (2007-2013) — VLAND. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Задние фонари VLAND LED II двойные линзы красный поворотник для Chevrolet Silverado/GMC Sierra (2007-2013), GMC, Sierra II 2006-2014</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3fe66e98d275_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3fe66e98d275_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3fe66e98d275_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3fe66e98d275_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zadnie-fonari-vland-led-ii-dvojnye-linzy-krasnyj-povorotnik-dlya-chevrolet-silveradogmc-sierra-20072013</param>
+    </offer>
+    <offer id="starsparts-d77eecb08107" available="true">
+      <name>Фары VLAND LED отражатели хромированные ДХО ближний дальний для GMC Sierra 2 (2007-2013)</name>
+      <categoryId>9718282</categoryId>
+      <price>284963</price>
+      <description>Фары VLAND LED отражатели хромированные ДХО ближний дальний для GMC Sierra 2 (2007-2013) — VLAND. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фары VLAND LED отражатели хромированные ДХО ближний дальний для GMC Sierra 2 (2007-2013), GMC, Sierra II 2006-2014</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d77eecb08107_0.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d77eecb08107_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d77eecb08107_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d77eecb08107_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/fary-vland-led-otrazhateli-hromirovannye-dho-blizhnij-dalnij-dlya-gmc-sierra-2-20072013</param>
+    </offer>
+    <offer id="starsparts-c47afe29b637" available="true">
+      <name>Фары проекторные светодиодные Jet Black Nova для GMC Sierra 1500 2007–2013, AlphaRex</name>
+      <categoryId>9718282</categoryId>
+      <price>99960</price>
+      <description>Фары проекторные светодиодные Jet Black Nova для GMC Sierra 1500 2007–2013, AlphaRex — AlphaRex. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фары проекторные светодиодные Jet Black Nova для GMC Sierra 1500 2007–2013, AlphaRex, GMC, Sierra II 2006-2014</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c47afe29b637_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c47afe29b637_2.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c47afe29b637_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/fary-proektornye-svetodiodnye-jet-black-nova-dlya-gmc-sierra-1500-20072013-alpharex</param>
+    </offer>
+    <offer id="starsparts-cbd1ba3b3bd0" available="true">
+      <name>Фары проекторные Base Version Chrome для GMC Sierra 2007–2013, AlphaRex</name>
+      <categoryId>9718282</categoryId>
+      <price>281400</price>
+      <description>Фары проекторные Base Version Chrome для GMC Sierra 2007–2013, AlphaRex — AlphaRex. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фары проекторные Base Version Chrome для GMC Sierra 2007–2013, AlphaRex, GMC, Sierra II 2006-2014</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cbd1ba3b3bd0_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cbd1ba3b3bd0_1.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cbd1ba3b3bd0_2.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cbd1ba3b3bd0_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/fary-proektornye-base-version-chrome-dlya-gmc-sierra-20072013-alpharex</param>
+    </offer>
+    <offer id="starsparts-adee740eea4a" available="true">
+      <name>Фары галогеновые PRO Jet Black для GMC Sierra 1500 2007–2013, AlphaRex</name>
+      <categoryId>9718282</categoryId>
+      <price>357000</price>
+      <description>Фары галогеновые PRO Jet Black для GMC Sierra 1500 2007–2013, AlphaRex — AlphaRex. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фары галогеновые PRO Jet Black для GMC Sierra 1500 2007–2013, AlphaRex, GMC, Sierra II 2006-2014</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-adee740eea4a_1.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-adee740eea4a_2.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-adee740eea4a_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/fary-galogenovye-pro-jet-black-dlya-gmc-sierra-1500-20072013-alpharex</param>
+    </offer>
+    <offer id="starsparts-72fd7c6c8a14" available="true">
+      <name>Фары проекторные светодиодные Chrome Luxx для GMC Sierra 1500 2007–2013, AlphaRex</name>
+      <categoryId>9718282</categoryId>
+      <price>609000</price>
+      <description>Фары проекторные светодиодные Chrome Luxx для GMC Sierra 1500 2007–2013, AlphaRex — AlphaRex. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фары проекторные светодиодные Chrome Luxx для GMC Sierra 1500 2007–2013, AlphaRex, GMC, Sierra II 2006-2014</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-72fd7c6c8a14_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-72fd7c6c8a14_2.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-72fd7c6c8a14_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/fary-proektornye-svetodiodnye-chrome-luxx-dlya-gmc-sierra-1500-20072013-alpharex</param>
+    </offer>
+    <offer id="starsparts-de1f150bb73c" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 / Chevrolet Silverado 1500 4.8L/5.3L/6.0L V8 (2009-2013)</name>
+      <categoryId>9718282</categoryId>
+      <price>1279000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 / Chevrolet Silverado 1500 4.8L/5.3L/6.0L V8 (2009-2013) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 / Chevrolet Silverado 1500 4.8L/5.3L/6.0L V8 (2009-2013), GMC, Sierra II 2006-2014</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-de1f150bb73c_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-chevrolet-silverado-1500-48l53l60l-v8-20092013</param>
+    </offer>
+    <offer id="starsparts-a1e9034d28eb" available="true">
+      <name>Фонари задние светодиодные Luxx Black Red для GMC Sierra 2016–2018 с галогенными фонарями, AlphaRex</name>
+      <categoryId>9718283</categoryId>
+      <price>292320</price>
+      <description>Фонари задние светодиодные Luxx Black Red для GMC Sierra 2016–2018 с галогенными фонарями, AlphaRex — AlphaRex. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фонари задние светодиодные Luxx Black Red для GMC Sierra 2016–2018 с галогенными фонарями, AlphaRex, GMC, Sierra III 2013-2018</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a1e9034d28eb_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a1e9034d28eb_1.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a1e9034d28eb_2.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a1e9034d28eb_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/fonari-zadnie-svetodiodnye-luxx-black-red-dlya-gmc-sierra-20162018-s-galogennymi-fonaryami-alpharex</param>
+    </offer>
+    <offer id="starsparts-64191784bb14" available="true">
+      <name>Фонари задние светодиодные Luxx Black Red для Sierra 1500 2016–2018 со штатными светодиодными, AlphaRex</name>
+      <categoryId>9718283</categoryId>
+      <price>373800</price>
+      <description>Фонари задние светодиодные Luxx Black Red для Sierra 1500 2016–2018 со штатными светодиодными, AlphaRex — AlphaRex. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фонари задние светодиодные Luxx Black Red для Sierra 1500 2016–2018 со штатными светодиодными, AlphaRex, GMC, Sierra III 2013-2018</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-64191784bb14_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-64191784bb14_1.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-64191784bb14_2.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-64191784bb14_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/fonari-zadnie-svetodiodnye-luxx-black-red-dlya-sierra-1500-20162018-so-shtatnymi-svetodiodnymi-alpharex</param>
+    </offer>
+    <offer id="starsparts-e139360e6cc9" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado 2500 / GMC Sierra 2500 (2015-2019), насадки черные</name>
+      <categoryId>9718283</categoryId>
+      <price>1412000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado 2500 / GMC Sierra 2500 (2015-2019), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado 2500 / GMC Sierra 2500 (2015-2019), насадки черные, GMC, Sierra III 2013-2018</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e139360e6cc9_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-chevrolet-silverado-2500-gmc-sierra-2500-20152019-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-ecbebe790116" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado 2500 / GMC Sierra 2500 (2015-2019), насадки хром</name>
+      <categoryId>9718283</categoryId>
+      <price>1353000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado 2500 / GMC Sierra 2500 (2015-2019), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado 2500 / GMC Sierra 2500 (2015-2019), насадки хром, GMC, Sierra III 2013-2018</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ecbebe790116_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-chevrolet-silverado-2500-gmc-sierra-2500-20152019-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-786e0656c431" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для Chevrolet Silverado 1500 / GMC Sierra 1500 (2014-2018), насадки черные</name>
+      <categoryId>9718283</categoryId>
+      <price>1476000</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для Chevrolet Silverado 1500 / GMC Sierra 1500 (2014-2018), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для Chevrolet Silverado 1500 / GMC Sierra 1500 (2014-2018), насадки черные, GMC, Sierra III 2013-2018</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-786e0656c431_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-chevrolet-silverado-1500-gmc-sierra-1500-20142018-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-17efdd1f7552" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado 1500 / GMC Sierra 1500 (2014-2019), насадки черные</name>
+      <categoryId>9718283</categoryId>
+      <price>1348000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado 1500 / GMC Sierra 1500 (2014-2019), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado 1500 / GMC Sierra 1500 (2014-2019), насадки черные, GMC, Sierra III 2013-2018</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-17efdd1f7552_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-chevrolet-silverado-1500-gmc-sierra-1500-20142019-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-07f7ec1a0ae9" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 5.3L V8 (2014-2018, включая LD 2019), насадки черные</name>
+      <categoryId>9718283</categoryId>
+      <price>1463500</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 5.3L V8 (2014-2018, включая LD 2019), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 5.3L V8 (2014-2018, включая LD 2019), насадки черные, GMC, Sierra III 2013-2018</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-gmc-sierra-1500-53l-v8-20142018-vklyuchaya-ld-2019-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-bfb14f581583" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 5.3L V8 (2014-2018, включая LD 2019), насадки хром</name>
+      <categoryId>9718283</categoryId>
+      <price>1423000</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 5.3L V8 (2014-2018, включая LD 2019), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 5.3L V8 (2014-2018, включая LD 2019), насадки хром, GMC, Sierra III 2013-2018</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-bfb14f581583_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-gmc-sierra-1500-53l-v8-20142018-vklyuchaya-ld-2019-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-e7d85924a234" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для Chevrolet Silverado 1500 / GMC Sierra 1500 (2014-2018), насадки черные</name>
+      <categoryId>9718283</categoryId>
+      <price>1551500</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для Chevrolet Silverado 1500 / GMC Sierra 1500 (2014-2018), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для Chevrolet Silverado 1500 / GMC Sierra 1500 (2014-2018), насадки черные, GMC, Sierra III 2013-2018</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e7d85924a234_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/8660d989-86ec-423e-9ef6-2381a5acd65f</param>
+    </offer>
+    <offer id="starsparts-4464bcdab3e4" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2014-2018, включая LD 2019), насадки черные</name>
+      <categoryId>9718283</categoryId>
+      <price>1534500</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2014-2018, включая LD 2019), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2014-2018, включая LD 2019), насадки черные, GMC, Sierra III 2013-2018</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4464bcdab3e4_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-53l-v8-20142018-vklyuchaya-ld-2019-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-130a457fbd78" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado / GMC Sierra 2500 (2015-2019), насадки черные</name>
+      <categoryId>9718283</categoryId>
+      <price>1412000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado / GMC Sierra 2500 (2015-2019), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado / GMC Sierra 2500 (2015-2019), насадки черные, GMC, Sierra III 2013-2018</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-130a457fbd78_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-chevrolet-silverado-gmc-sierra-2500-20152019-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-c93710214a85" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado / GMC Sierra 2500 (2015-2019), насадки хром</name>
+      <categoryId>9718283</categoryId>
+      <price>1353000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado / GMC Sierra 2500 (2015-2019), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для Chevrolet Silverado / GMC Sierra 2500 (2015-2019), насадки хром, GMC, Sierra III 2013-2018</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c93710214a85_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-chevrolet-silverado-gmc-sierra-2500-20152019-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-2523b3ceed9c" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для Chevrolet Silverado / GMC Sierra 1500 (2014-2019), насадки черные</name>
+      <categoryId>9718283</categoryId>
+      <price>1504500</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для Chevrolet Silverado / GMC Sierra 1500 (2014-2019), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для Chevrolet Silverado / GMC Sierra 1500 (2014-2019), насадки черные, GMC, Sierra III 2013-2018</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2523b3ceed9c_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-chevrolet-silverado-gmc-sierra-1500-20142019-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-5445b3867b9a" available="true">
+      <name>Расширители арок GMC Sierra 1500 2019–2026, стиль Sport, Rough Country</name>
+      <categoryId>9718284</categoryId>
+      <price>363840</price>
+      <description>Расширители арок GMC Sierra 1500 2019–2026, стиль Sport, Rough Country — Rough Country. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Расширители арок GMC Sierra 1500 2019–2026, стиль Sport, Rough Country, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5445b3867b9a_0.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/rasshiriteli-arok-gmc-sierra-1500-20192026-stil-sport-rough-country</param>
+    </offer>
+    <offer id="starsparts-f0f267f2fc68" available="true">
+      <name>Расширители арок GMC Sierra 1500 2019–2026, стиль Pocket, Rough Country</name>
+      <categoryId>9718284</categoryId>
+      <price>363840</price>
+      <description>Расширители арок GMC Sierra 1500 2019–2026, стиль Pocket, Rough Country — Rough Country. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Расширители арок GMC Sierra 1500 2019–2026, стиль Pocket, Rough Country, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f0f267f2fc68_0.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/rasshiriteli-arok-gmc-sierra-1500-20192026-stil-pocket-rough-country</param>
+    </offer>
+    <offer id="starsparts-448eef8bafbb" available="true">
+      <name>Полифонический гармонизатор Borla ATAK для GMC Sierra 1500 6.2L V8 (2019-2023)</name>
+      <categoryId>9718284</categoryId>
+      <price>247500</price>
+      <description>Полифонический гармонизатор Borla ATAK для GMC Sierra 1500 6.2L V8 (2019-2023) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Полифонический гармонизатор Borla ATAK для GMC Sierra 1500 6.2L V8 (2019-2023), GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-448eef8bafbb_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/polifonicheskij-garmonizator-borla-atak-dlya-gmc-sierra-1500-62l-v8-20192023</param>
+    </offer>
+    <offer id="starsparts-543b4354b3db" available="true">
+      <name>Комплект глушителя Borla S-Type для GMC Sierra 1500 6.2L V8 (2019-2023)</name>
+      <categoryId>9718284</categoryId>
+      <price>258000</price>
+      <description>Комплект глушителя Borla S-Type для GMC Sierra 1500 6.2L V8 (2019-2023) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Комплект глушителя Borla S-Type для GMC Sierra 1500 6.2L V8 (2019-2023), GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-543b4354b3db_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/komplekt-glushitelya-borla-stype-dlya-gmc-sierra-1500-62l-v8-20192023</param>
+    </offer>
+    <offer id="starsparts-600937e5e3fa" available="true">
+      <name>Удлинительная труба Borla для GMC Sierra 1500 6.2L V8 (2019-2023, кроме ZR2/AT4X)</name>
+      <categoryId>9718284</categoryId>
+      <price>119000</price>
+      <description>Удлинительная труба Borla для GMC Sierra 1500 6.2L V8 (2019-2023, кроме ZR2/AT4X) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Удлинительная труба Borla для GMC Sierra 1500 6.2L V8 (2019-2023, кроме ZR2/AT4X), GMC, Sierra IV 2018-2022</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/udlinitelnaya-truba-borla-dlya-gmc-sierra-1500-62l-v8-20192023-krome-zr2at4x</param>
+    </offer>
+    <offer id="starsparts-d271eb78b5a4" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 2500/3500 6.6L V8 (2020-2024), насадки черные</name>
+      <categoryId>9718284</categoryId>
+      <price>1301000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 2500/3500 6.6L V8 (2020-2024), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 2500/3500 6.6L V8 (2020-2024), насадки черные, GMC, Sierra IV 2018-2022</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-25003500-66l-v8-20202024-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-03d3a3baa72b" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 2500/3500 6.6L V8 (2020-2024), насадки хром</name>
+      <categoryId>9718284</categoryId>
+      <price>1284000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 2500/3500 6.6L V8 (2020-2024), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 2500/3500 6.6L V8 (2020-2024), насадки хром, GMC, Sierra IV 2018-2022</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-25003500-66l-v8-20202024-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-f10eaf65e21c" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки карбон</name>
+      <categoryId>9718284</categoryId>
+      <price>2213000</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки карбон — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки карбон, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f10eaf65e21c_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-gmc-sierra-1500-62l-v8-20192020-nasadki-karbon</param>
+    </offer>
+    <offer id="starsparts-f868f0082206" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L Regular Cab (2019-2020)</name>
+      <categoryId>9718284</categoryId>
+      <price>1557500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L Regular Cab (2019-2020) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L Regular Cab (2019-2020), GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f868f0082206_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-53l-regular-cab-20192020</param>
+    </offer>
+    <offer id="starsparts-e0a0f70514c6" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки черные</name>
+      <categoryId>9718284</categoryId>
+      <price>1740000</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки черные, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e0a0f70514c6_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-gmc-sierra-1500-62l-v8-20192020-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-f5df044c8864" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020)</name>
+      <categoryId>9718284</categoryId>
+      <price>1412000</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f5df044c8864_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-gmc-sierra-1500-53l-v8-20192020</param>
+    </offer>
+    <offer id="starsparts-2970d02651ba" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки черные</name>
+      <categoryId>9718284</categoryId>
+      <price>1813000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки черные, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2970d02651ba_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-62l-v8-20192020-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-67777f3fb6d2" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки карбон</name>
+      <categoryId>9718284</categoryId>
+      <price>2395500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки карбон — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки карбон, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-67777f3fb6d2_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-62l-v8-20192020-nasadki-karbon</param>
+    </offer>
+    <offer id="starsparts-824f87d39089" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020)</name>
+      <categoryId>9718284</categoryId>
+      <price>1848500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-824f87d39089_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-62l-v8-20192020</param>
+    </offer>
+    <offer id="starsparts-25865f482632" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020)</name>
+      <categoryId>9718284</categoryId>
+      <price>1666000</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-25865f482632_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-gmc-sierra-1500-62l-v8-20192020</param>
+    </offer>
+    <offer id="starsparts-9ad6bc1a972d" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки хром</name>
+      <categoryId>9718284</categoryId>
+      <price>1666000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки хром, GMC, Sierra IV 2018-2022</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-62l-v8-20192020-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-017cc07532c5" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020)</name>
+      <categoryId>9718284</categoryId>
+      <price>1666000</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-017cc07532c5_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-62l-v8-20192020</param>
+    </offer>
+    <offer id="starsparts-ba795cee75e2" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), включая Trail Boss</name>
+      <categoryId>9718284</categoryId>
+      <price>1630500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), включая Trail Boss — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), включая Trail Boss, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ba795cee75e2_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-53l-v8-20192020-vklyuchaya-trail-boss</param>
+    </offer>
+    <offer id="starsparts-1ec8e2ab96bc" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки карбон</name>
+      <categoryId>9718284</categoryId>
+      <price>2506000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки карбон — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки карбон, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1ec8e2ab96bc_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/737c29b3-5e85-4545-b549-ef3fb42465ce</param>
+    </offer>
+    <offer id="starsparts-a1b5b11ea9c6" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки черные</name>
+      <categoryId>9718284</categoryId>
+      <price>2030500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки черные, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a1b5b11ea9c6_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/1acf1a7a-aaf0-4557-a68d-155e0d279e0b</param>
+    </offer>
+    <offer id="starsparts-eed5f68edcf2" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020) Тип 2</name>
+      <categoryId>9718284</categoryId>
+      <price>1448500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020) Тип 2 — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020) Тип 2, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-eed5f68edcf2_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-62l-v8-20192020-tip-2</param>
+    </offer>
+    <offer id="starsparts-2d6ba65d330b" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), включая Trail Boss</name>
+      <categoryId>9718284</categoryId>
+      <price>1594000</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), включая Trail Boss — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), включая Trail Boss, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2d6ba65d330b_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-53l-v8-20192020-vklyuchaya-trail-boss</param>
+    </offer>
+    <offer id="starsparts-699620ee1acf" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L/4.3L (2019-2020), насадки черные</name>
+      <categoryId>9718284</categoryId>
+      <price>1089000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L/4.3L (2019-2020), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L/4.3L (2019-2020), насадки черные, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-699620ee1acf_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-53l43l-20192020-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-478dc3e9bc86" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L/4.3L (2019-2020), насадки хром</name>
+      <categoryId>9718284</categoryId>
+      <price>1051000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L/4.3L (2019-2020), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L/4.3L (2019-2020), насадки хром, GMC, Sierra IV 2018-2022</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-53l43l-20192020-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-bff6877e3385" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L/4.3L (2019-2020), насадки черные</name>
+      <categoryId>9718284</categoryId>
+      <price>1193000</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L/4.3L (2019-2020), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L/4.3L (2019-2020), насадки черные, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-bff6877e3385_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-53l43l-20192020-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-b81fae1b628b" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L/4.3L (2019-2020), насадки хром</name>
+      <categoryId>9718284</categoryId>
+      <price>1156500</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L/4.3L (2019-2020), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L/4.3L (2019-2020), насадки хром, GMC, Sierra IV 2018-2022</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-53l43l-20192020-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-f351156c21e6" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), включая Trail Boss</name>
+      <categoryId>9718284</categoryId>
+      <price>1339000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), включая Trail Boss — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), включая Trail Boss, GMC, Sierra IV 2018-2022</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/36d36b97-cd27-4bcf-a2be-3497d07de44a</param>
+    </offer>
+    <offer id="starsparts-c5645922328a" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки карбон</name>
+      <categoryId>9718284</categoryId>
+      <price>2361000</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки карбон — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки карбон, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c5645922328a_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-62l-v8-20192020-nasadki-karbon</param>
+    </offer>
+    <offer id="starsparts-9edff5ecd482" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки черные</name>
+      <categoryId>9718284</categoryId>
+      <price>1740000</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2019-2020), насадки черные, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9edff5ecd482_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-62l-v8-20192020-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-948fa5df4b07" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020)</name>
+      <categoryId>9718284</categoryId>
+      <price>1412000</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), GMC, Sierra IV 2018-2022</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-53l-v8-20192020</param>
+    </offer>
+    <offer id="starsparts-ef75636b47a8" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), насадки карбон/черный хром</name>
+      <categoryId>9718284</categoryId>
+      <price>2288000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), насадки карбон/черный хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), насадки карбон/черный хром, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ef75636b47a8_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-53l-v8-20192020-nasadki-karbonchernyj-hrom</param>
+    </offer>
+    <offer id="starsparts-40548a9ded1d" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), насадки черные</name>
+      <categoryId>9718284</categoryId>
+      <price>1666000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), насадки черные, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-40548a9ded1d_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-53l-v8-20192020-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-7e7e79e30ab1" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), насадки карбон</name>
+      <categoryId>9718284</categoryId>
+      <price>1970000</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), насадки карбон — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), насадки карбон, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7e7e79e30ab1_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-53l-v8-20192020-nasadki-karbon</param>
+    </offer>
+    <offer id="starsparts-78fdc060f35f" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), насадки черные</name>
+      <categoryId>9718284</categoryId>
+      <price>1740000</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020), насадки черные, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-78fdc060f35f_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-53l-v8-20192020-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-81cd3e9bf7c8" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020) Тип 2</name>
+      <categoryId>9718284</categoryId>
+      <price>1375500</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020) Тип 2 — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 5.3L V8 (2019-2020) Тип 2, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-81cd3e9bf7c8_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-53l-v8-20192020-tip-2</param>
+    </offer>
+    <offer id="starsparts-5532ab00f8fa" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 2.7L Turbo (2019-2020), насадки черные</name>
+      <categoryId>9718284</categoryId>
+      <price>1461500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 2.7L Turbo (2019-2020), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 2.7L Turbo (2019-2020), насадки черные, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5532ab00f8fa_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-27l-turbo-20192020-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-0c7172c4260e" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 2.7L Turbo (2019-2020), насадки хром</name>
+      <categoryId>9718284</categoryId>
+      <price>1425000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 2.7L Turbo (2019-2020), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 2.7L Turbo (2019-2020), насадки хром, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0c7172c4260e_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-27l-turbo-20192020-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-af052446128f" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L Regular Cab (2019-2020), насадки черные</name>
+      <categoryId>9718284</categoryId>
+      <price>1096000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L Regular Cab (2019-2020), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L Regular Cab (2019-2020), насадки черные, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-af052446128f_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-53l-regular-cab-20192020-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-5e838384e285" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L Regular Cab (2019-2020), насадки хром</name>
+      <categoryId>9718284</categoryId>
+      <price>1074500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L Regular Cab (2019-2020), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L Regular Cab (2019-2020), насадки хром, GMC, Sierra IV 2018-2022</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5e838384e285_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-53l-regular-cab-20192020-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-3e436c2d1b0a" available="true">
+      <name>Расширители арок GMC Sierra 2500/3500HD 2020–2026, стиль Pocket, Rough Country</name>
+      <categoryId>9718285</categoryId>
+      <price>363840</price>
+      <description>Расширители арок GMC Sierra 2500/3500HD 2020–2026, стиль Pocket, Rough Country — Rough Country. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Расширители арок GMC Sierra 2500/3500HD 2020–2026, стиль Pocket, Rough Country, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/rasshiriteli-arok-gmc-sierra-25003500hd-20202026-stil-pocket-rough-country</param>
+    </offer>
+    <offer id="starsparts-25c9e170687c" available="true">
+      <name>Расширители арок GMC 2500HD/3500HD 2020–2026, стиль Sport, Rough Country</name>
+      <categoryId>9718285</categoryId>
+      <price>363840</price>
+      <description>Расширители арок GMC 2500HD/3500HD 2020–2026, стиль Sport, Rough Country — Rough Country. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Расширители арок GMC 2500HD/3500HD 2020–2026, стиль Sport, Rough Country, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-25c9e170687c_0.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/rasshiriteli-arok-gmc-2500hd3500hd-20202026-stil-sport-rough-country</param>
+    </offer>
+    <offer id="starsparts-9ff6504a284c" available="true">
+      <name>Расширители арок GMC 2500/3500HD 2020–2025, стиль Pocket, Rough Country</name>
+      <categoryId>9718285</categoryId>
+      <price>411840</price>
+      <description>Расширители арок GMC 2500/3500HD 2020–2025, стиль Pocket, Rough Country — Rough Country. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Расширители арок GMC 2500/3500HD 2020–2025, стиль Pocket, Rough Country, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9ff6504a284c_0.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/rasshiriteli-arok-gmc-25003500hd-20202025-stil-pocket-rough-country</param>
+    </offer>
+    <offer id="starsparts-bb969405115c" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2024-2025), кроме AEV</name>
+      <categoryId>9718285</categoryId>
+      <price>1620500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2024-2025), кроме AEV — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2024-2025), кроме AEV, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-bb969405115c_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-at4x-62l-v8-20242025-krome-aev</param>
+    </offer>
+    <offer id="starsparts-f19b271fdfa0" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, заводской раздельный выхлоп)</name>
+      <categoryId>9718285</categoryId>
+      <price>1848500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, заводской раздельный выхлоп) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, заводской раздельный выхлоп), GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f19b271fdfa0_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-62l-v8-2024-zavodskoj-razdelnyj-vyhlop</param>
+    </offer>
+    <offer id="starsparts-50f40edfd061" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024-2025, кроме ZR2/AT4X), насадки карбон</name>
+      <categoryId>9718285</categoryId>
+      <price>2499500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024-2025, кроме ZR2/AT4X), насадки карбон — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024-2025, кроме ZR2/AT4X), насадки карбон, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-62l-v8-20242025-krome-zr2at4x-nasadki-karbon</param>
+    </offer>
+    <offer id="starsparts-b46a5e000194" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024-2025, кроме ZR2/AT4X), насадки черные</name>
+      <categoryId>9718285</categoryId>
+      <price>1944500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024-2025, кроме ZR2/AT4X), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024-2025, кроме ZR2/AT4X), насадки черные, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b46a5e000194_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-62l-v8-20242025-krome-zr2at4x-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-181dce7240ed" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024-2025, кроме ZR2/AT4X)</name>
+      <categoryId>9718285</categoryId>
+      <price>1614000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024-2025, кроме ZR2/AT4X) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024-2025, кроме ZR2/AT4X), GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-181dce7240ed_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-62l-v8-20242025-krome-zr2at4x</param>
+    </offer>
+    <offer id="starsparts-269e12fbb79d" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2024-2025)</name>
+      <categoryId>9718285</categoryId>
+      <price>1483500</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2024-2025) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2024-2025), GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-269e12fbb79d_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-gmc-sierra-1500-at4x-62l-v8-20242025</param>
+    </offer>
+    <offer id="starsparts-8eb078760004" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2024-2025)</name>
+      <categoryId>9718285</categoryId>
+      <price>1203500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2024-2025) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2024-2025), GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-at4x-62l-v8-20242025</param>
+    </offer>
+    <offer id="starsparts-22fb386ec9f7" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2024-2025)</name>
+      <categoryId>9718285</categoryId>
+      <price>1455500</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2024-2025) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2024-2025), GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-22fb386ec9f7_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-at4x-62l-v8-20242025</param>
+    </offer>
+    <offer id="starsparts-9301eb8fee0d" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки хром</name>
+      <categoryId>9718285</categoryId>
+      <price>1653000</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки хром, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9301eb8fee0d_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-gmc-sierra-1500-62l-v8-2024-split-rear-exit-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-fc968c26c4ea" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки карбон</name>
+      <categoryId>9718285</categoryId>
+      <price>2288000</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки карбон — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки карбон, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-gmc-sierra-1500-62l-v8-2024-split-rear-exit-nasadki-karbon</param>
+    </offer>
+    <offer id="starsparts-4a336c253631" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки черные</name>
+      <categoryId>9718285</categoryId>
+      <price>1750500</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки черные, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4a336c253631_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-gmc-sierra-1500-62l-v8-2024-split-rear-exit-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-0ca0ebaca144" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), без насадок</name>
+      <categoryId>9718285</categoryId>
+      <price>1425000</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), без насадок — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), без насадок, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0ca0ebaca144_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-gmc-sierra-1500-62l-v8-2024-split-rear-exit-bez-nasadok</param>
+    </offer>
+    <offer id="starsparts-c42dcf72485a" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки хром</name>
+      <categoryId>9718285</categoryId>
+      <price>1685500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки хром, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c42dcf72485a_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-62l-v8-2024-split-rear-exit-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-f53073103a18" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки карбон</name>
+      <categoryId>9718285</categoryId>
+      <price>2337000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки карбон — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки карбон, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f53073103a18_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-62l-v8-2024-split-rear-exit-nasadki-karbon</param>
+    </offer>
+    <offer id="starsparts-4c7a24caac23" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки черные</name>
+      <categoryId>9718285</categoryId>
+      <price>1776500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки черные, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4c7a24caac23_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-62l-v8-2024-split-rear-exit-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-587d00102032" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), без насадок</name>
+      <categoryId>9718285</categoryId>
+      <price>1425000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), без насадок — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), без насадок, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-587d00102032_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-62l-v8-2024-split-rear-exit-bez-nasadok</param>
+    </offer>
+    <offer id="starsparts-6322ab3e3ed7" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки хром</name>
+      <categoryId>9718285</categoryId>
+      <price>1587000</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки хром, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6322ab3e3ed7_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-62l-v8-2024-split-rear-exit-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-8f7da45006a0" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки карбон</name>
+      <categoryId>9718285</categoryId>
+      <price>2288000</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки карбон — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки карбон, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8f7da45006a0_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-62l-v8-2024-split-rear-exit-nasadki-karbon</param>
+    </offer>
+    <offer id="starsparts-4ed3040b1c6e" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки черные</name>
+      <categoryId>9718285</categoryId>
+      <price>1716500</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), насадки черные, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4ed3040b1c6e_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-62l-v8-2024-split-rear-exit-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-736e2fcc89a6" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), без насадок</name>
+      <categoryId>9718285</categoryId>
+      <price>1412000</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), без насадок — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 6.2L V8 (2024, Split Rear Exit), без насадок, GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-62l-v8-2024-split-rear-exit-bez-nasadok</param>
+    </offer>
+    <offer id="starsparts-ee2d1aeb90a6" available="true">
+      <name>Соединительная труба Borla для GMC Sierra 2500/3500 6.6L V8 (2020-2024, кроме дизеля и двойных колёс)</name>
+      <categoryId>9718285</categoryId>
+      <price>20000</price>
+      <description>Соединительная труба Borla для GMC Sierra 2500/3500 6.6L V8 (2020-2024, кроме дизеля и двойных колёс) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Соединительная труба Borla для GMC Sierra 2500/3500 6.6L V8 (2020-2024, кроме дизеля и двойных колёс), GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ee2d1aeb90a6_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/soedinitelnaya-truba-borla-dlya-gmc-sierra-25003500-66l-v8-20202024-krome-dizelya-i-dvojnyh-kolyos</param>
+    </offer>
+    <offer id="starsparts-37363487102f" available="true">
+      <name>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2022-2023)</name>
+      <categoryId>9718285</categoryId>
+      <price>1412000</price>
+      <description>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2022-2023) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla ATAK Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2022-2023), GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-37363487102f_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-atak-catback-dlya-gmc-sierra-1500-at4x-62l-v8-20222023</param>
+    </offer>
+    <offer id="starsparts-bd300a6105a2" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 ZR2 6.2L V8 (2022-2023)</name>
+      <categoryId>9718285</categoryId>
+      <price>1448500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 ZR2 6.2L V8 (2022-2023) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 ZR2 6.2L V8 (2022-2023), GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-bd300a6105a2_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-zr2-62l-v8-20222023</param>
+    </offer>
+    <offer id="starsparts-9358fcbdaed1" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2022-2023)</name>
+      <categoryId>9718285</categoryId>
+      <price>1412000</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2022-2023) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Sierra 1500 AT4X 6.2L V8 (2022-2023), GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9358fcbdaed1_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-sierra-1500-at4x-62l-v8-20222023</param>
+    </offer>
+    <offer id="starsparts-626a0d838e49" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 Regular Cab (2023-2024)</name>
+      <categoryId>9718285</categoryId>
+      <price>1288000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 Regular Cab (2023-2024) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Sierra 1500 5.3L V8 Regular Cab (2023-2024), GMC, Sierra IV Рестайлинг 2022-2026</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-sierra-1500-53l-v8-regular-cab-20232024</param>
+    </offer>
+    <offer id="starsparts-009f21730016" available="true">
+      <name>Задние LED-фонари VLAND для GMC Yukon / Chevrolet Tahoe / Suburban (2007-2014)</name>
+      <categoryId>9718286</categoryId>
+      <price>229243</price>
+      <description>Задние LED-фонари VLAND для GMC Yukon / Chevrolet Tahoe / Suburban (2007-2014) — VLAND. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Задние LED-фонари VLAND для GMC Yukon / Chevrolet Tahoe / Suburban (2007-2014), GMC, Yukon III 2006-2014</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-009f21730016_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-009f21730016_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-009f21730016_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zadnie-ledfonari-vland-dlya-gmc-yukon-chevrolet-tahoe-suburban-20072014</param>
+    </offer>
+    <offer id="starsparts-1b9c3ec260f1" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Yukon Denali XL 6.2L (2015-2020)</name>
+      <categoryId>9718287</categoryId>
+      <price>1542500</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Yukon Denali XL 6.2L (2015-2020) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Yukon Denali XL 6.2L (2015-2020), GMC, Yukon IV 2014-2020</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1b9c3ec260f1_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-yukon-denali-xl-62l-20152020</param>
+    </offer>
+    <offer id="starsparts-bf001e63a33d" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali XL 6.2L (2015-2020)</name>
+      <categoryId>9718287</categoryId>
+      <price>1322000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali XL 6.2L (2015-2020) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali XL 6.2L (2015-2020), GMC, Yukon IV 2014-2020</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-yukon-denali-xl-62l-20152020</param>
+    </offer>
+    <offer id="starsparts-2ef90b10ce0a" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Yukon Denali 6.2L V8 (2015-2020)</name>
+      <categoryId>9718287</categoryId>
+      <price>1396500</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Yukon Denali 6.2L V8 (2015-2020) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Yukon Denali 6.2L V8 (2015-2020), GMC, Yukon IV 2014-2020</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2ef90b10ce0a_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-yukon-denali-62l-v8-20152020</param>
+    </offer>
+    <offer id="starsparts-a0d45608fbae" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali 6.2L V8 (2015-2020)</name>
+      <categoryId>9718287</categoryId>
+      <price>1417000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali 6.2L V8 (2015-2020) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali 6.2L V8 (2015-2020), GMC, Yukon IV 2014-2020</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a0d45608fbae_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-yukon-denali-62l-v8-20152020</param>
+    </offer>
+    <offer id="starsparts-91a921d97ae8" available="true">
+      <name>Сливная пробка GM Chevrolet Cadillac GMC</name>
+      <categoryId>9718288</categoryId>
+      <price>2500</price>
+      <description>Сливная пробка GM Chevrolet Cadillac GMC — GZ HighFly LTD.. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Сливная пробка GM Chevrolet Cadillac GMC, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-91a921d97ae8_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-91a921d97ae8_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-91a921d97ae8_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-91a921d97ae8_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/slivnaya-probka-gm-chevrolet-cadillac-gmc-original</param>
+    </offer>
+    <offer id="starsparts-fae6e26b56d8" available="true">
+      <name>Эмблема Texas Edition Chevrolet Tahoe 2015-, на переднюю дверь, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>53000</price>
+      <description>Шильдик Texas Edition Шевроле Тахо 2015-.
+Устанавливается на переднюю дверь.
+Цена за 1 шт. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Эмблема Texas Edition Chevrolet Tahoe 2015-, на переднюю дверь, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fae6e26b56d8_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fae6e26b56d8_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fae6e26b56d8_2.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/emblema-texas-edition-chevrolet-tahoe-2015-na-perednyuyu-dver-original</param>
+    </offer>
+    <offer id="starsparts-659302da06c2" available="true">
+      <name>Эмблемы кузова GMC Yukon / Yukon XL 2021-2024, AT4, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>228150</price>
+      <description>Эмблемы кузова GMC Yukon / Yukon XL 2021-2024, AT4, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Эмблемы кузова GMC Yukon / Yukon XL 2021-2024, AT4, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-659302da06c2_0.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/emblemy-kuzova-gmc-yukon-yukon-xl-2021-2024-at-4-original</param>
+    </offer>
+    <offer id="starsparts-787cfb3c0026" available="true">
+      <name>Передняя эмблема GMC Yukon / Yukon XL  2021-, черная, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>125775</price>
+      <description>Передняя эмблема GMC Yukon / Yukon XL  2021-, черная, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Передняя эмблема GMC Yukon / Yukon XL  2021-, черная, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-787cfb3c0026_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-787cfb3c0026_2.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/originalnaya-chernaya-perednyaya-emblema-20212023-gmc-yukon-yukon-xl</param>
+    </offer>
+    <offer id="starsparts-b596f494ca20" available="true">
+      <name>Передняя эмблемя с подсветкой + задняя без подсветки GMC Yukon / Yukon XL, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>408525</price>
+      <description>Передняя эмблемя с подсветкой + задняя без подсветки GMC Yukon / Yukon XL, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Передняя эмблемя с подсветкой + задняя без подсветки GMC Yukon / Yukon XL, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b596f494ca20_1.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b596f494ca20_2.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b596f494ca20_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/chernaya-reshetka-s-podsvetkoj-i-emblemoj-20212023-gmc-yukonxl-86537580-oe-gm</param>
+    </offer>
+    <offer id="starsparts-218af284d920" available="true">
+      <name>Эмблемы на крышку багажника и крылья GMC Yukon SLE SLT 2021-2024, оригинал, черные</name>
+      <categoryId>9718288</categoryId>
+      <price>252525</price>
+      <description>Эмблемы на крышку багажника и крылья GMC Yukon SLE SLT 2021-2024, оригинал, черные — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Эмблемы на крышку багажника и крылья GMC Yukon SLE SLT 2021-2024, оригинал, черные, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-218af284d920_0.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/emblemy-na-kryshku-bagazhnika-i-krylya-gmc-yukon-sle-slt-2021-2024-original-chernye</param>
+    </offer>
+    <offer id="starsparts-a15509a58ca4" available="true">
+      <name>Комплект черной передней и задней эмблемы GMC Yukon /  Yukon XL 2021-2024, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>161850</price>
+      <description>Комплект черной передней и задней эмблемы GMC Yukon /  Yukon XL 2021-2024, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Комплект черной передней и задней эмблемы GMC Yukon /  Yukon XL 2021-2024, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a15509a58ca4_2.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/komplekt-chernoj-perednej-i-zadnej-emblemy-20212024-gmc-yukon-yukon-xl-84729912-ot-originalnogo-proizvoditelya</param>
+    </offer>
+    <offer id="starsparts-7ec3c91446fb" available="true">
+      <name>Передняя эмблемя с подсветкой GMC Yukon/ Yukon XL, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>386100</price>
+      <description>Передняя эмблемя с подсветкой GMC Yukon/ Yukon XL, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Передняя эмблемя с подсветкой GMC Yukon/ Yukon XL, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7ec3c91446fb_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7ec3c91446fb_2.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7ec3c91446fb_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/komplekt-reshetki-radiatora-s-emblemoj-20212023-gmc-yukonxl-s-podsvetkoj-krasnaya-86537582-gm-ot-originalnogo-proizvoditelya</param>
+    </offer>
+    <offer id="starsparts-e99dc47863db" available="true">
+      <name>Зарядное устройство АКБ Noco Genius 5 Smart Battery Charger, 120AH</name>
+      <categoryId>9718288</categoryId>
+      <price>110000</price>
+      <description>Зарядное устройство АКБ Noco Genius 5 Smart Battery Charger, 120AH — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Зарядное устройство АКБ Noco Genius 5 Smart Battery Charger, 120AH, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e99dc47863db_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zaryadnoe-ustrojstvo-akb-noco-genius-5-smart-battery-charger</param>
+    </offer>
+    <offer id="starsparts-1754ed2137b7" available="true">
+      <name>Зарядное устройство АКБ Noco Genius 10 Smart Battery Charger, 230AH</name>
+      <categoryId>9718288</categoryId>
+      <price>147500</price>
+      <description>Зарядное устройство АКБ Noco Genius 10 Smart Battery Charger, 230AH — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Зарядное устройство АКБ Noco Genius 10 Smart Battery Charger, 230AH, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1754ed2137b7_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zaryadnoe-ustrojstvo-akb-noco-genius-5-smart-battery-charger-230-ah</param>
+    </offer>
+    <offer id="starsparts-800f6d5b99b4" available="true">
+      <name>Адаптер под клеммы АКБ для Noco Genius Smart Battery Charger</name>
+      <categoryId>9718288</categoryId>
+      <price>42500</price>
+      <description>Адаптер под клеммы АКБ для Noco Genius Smart Battery Charger — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Адаптер под клеммы АКБ для Noco Genius Smart Battery Charger, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-800f6d5b99b4_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/adapter-pod-klemmy-akb-dlya-noco-genius-smart-battery-charger</param>
+    </offer>
+    <offer id="starsparts-e330afb6d9b5" available="true">
+      <name>Адаптер под клеммы XL АКБ для Noco Genius Smart Battery Charger</name>
+      <categoryId>9718288</categoryId>
+      <price>62500</price>
+      <description>Адаптер под клеммы XL АКБ для Noco Genius Smart Battery Charger — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Адаптер под клеммы XL АКБ для Noco Genius Smart Battery Charger, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e330afb6d9b5_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/adapter-pod-klemmy-xl-akb-dlya-noco-genius-smart-battery-charger</param>
+    </offer>
+    <offer id="starsparts-85a73186b5f1" available="true">
+      <name>Адаптер 10-футовый удлинитель для Noco Genius Smart Battery Charger</name>
+      <categoryId>9718288</categoryId>
+      <price>52500</price>
+      <description>Адаптер 10-футовый удлинитель для Noco Genius Smart Battery Charger — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Адаптер 10-футовый удлинитель для Noco Genius Smart Battery Charger, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-85a73186b5f1_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/adapter-10-futovyj-udlinitel-dlya-noco-genius-smart-battery-charger</param>
+    </offer>
+    <offer id="starsparts-7ecb7428b6bb" available="true">
+      <name>Фильтр масляный  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>12500</price>
+      <description>Фильтр масляный  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фильтр масляный  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7ecb7428b6bb_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/filtr-maslyanyj-chevrolet-tahoe-2021-original</param>
+    </offer>
+    <offer id="starsparts-afd04e732fcc" available="true">
+      <name>Сливная пробка  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>7500</price>
+      <description>Сливная пробка  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Сливная пробка  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-afd04e732fcc_1.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-afd04e732fcc_2.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/slivnaya-probka-chevrolet-tahoe-2021-original</param>
+    </offer>
+    <offer id="starsparts-563238f801ae" available="true">
+      <name>Фильтр воздушный   Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>27500</price>
+      <description>Фильтр воздушный   Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фильтр воздушный   Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-563238f801ae_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-563238f801ae_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/filtr-vozdushnyj-chevrolet-tahoe-2021-original</param>
+    </offer>
+    <offer id="starsparts-ffa4943c6355" available="true">
+      <name>Фильтр салонный  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>16000</price>
+      <description>Фильтр салонный  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фильтр салонный  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ffa4943c6355_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/filtr-salonnyj-chevrolet-tahoe-2021-original</param>
+    </offer>
+    <offer id="starsparts-9f68bbb358c1" available="true">
+      <name>Фильтр салонный угольный ACDelco, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>24500</price>
+      <description>Фильтр салонный угольный ACDelco, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фильтр салонный угольный ACDelco, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9f68bbb358c1_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9f68bbb358c1_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9f68bbb358c1_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9f68bbb358c1_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/filtr-salonnyj-ugolnyj-acdelco-original</param>
+    </offer>
+    <offer id="starsparts-25a5b397fc51" available="true">
+      <name>Фильтр салонный угольный Delco-style, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>7500</price>
+      <description>Фильтр салонный угольный Delco-style, оригинал — GZ HighFly LTD.. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фильтр салонный угольный Delco-style, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-25a5b397fc51_0.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-25a5b397fc51_1.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/filtr-salonnyj-ugolnyj-delco-style-original</param>
+    </offer>
+    <offer id="starsparts-238ed90e28f7" available="true">
+      <name>Ступенька защитная вместо фаркопа американского образца, Weathertech</name>
+      <categoryId>9718288</categoryId>
+      <price>94500</price>
+      <description>Защитная ступенька устанавливается вместо кронштейна фаркопа.
+Защищает от столкновений с автомобилями и предметами.
+Изготовлена из высокопрочного термопластика.
+Упрощает доступ к багажнику на крыше. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Ступенька защитная вместо фаркопа американского образца, Weathertech, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-238ed90e28f7_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-238ed90e28f7_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-238ed90e28f7_2.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/stupenka-zashitnaya-vmesto-farkopa-amerikanskogo-obrazca-weathertech</param>
+    </offer>
+    <offer id="starsparts-09fa72ec06bb" available="true">
+      <name>Штифт для фиксации защитной ступеньки Weathertech</name>
+      <categoryId>9718288</categoryId>
+      <price>5850</price>
+      <description>Штифт для фиксации защитной ступеньки Weathertech Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Штифт для фиксации защитной ступеньки Weathertech, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-09fa72ec06bb_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/shtift-dlya-fiksacii-zashitnoj-stupenki-weathertech</param>
+    </offer>
+    <offer id="starsparts-c8c8f94216e4" available="true">
+      <name>Ступенька защитная XL вместо фаркопа американского образца, Weathertech</name>
+      <categoryId>9718288</categoryId>
+      <price>102500</price>
+      <description>Защитная ступенька устанавливается вместо кронштейна фаркопа.
+Защищает от столкновений с автомобилями и предметами.
+Изготовлена из высокопрочного термопластика.
+Упрощает доступ к багажнику на крыше. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Ступенька защитная XL вместо фаркопа американского образца, Weathertech, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c8c8f94216e4_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c8c8f94216e4_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/stupenka-zashitnaya-xl-vmesto-farkopa-amerikanskogo-obrazca-weathertech</param>
+    </offer>
+    <offer id="starsparts-e0230506cb6b" available="true">
+      <name>Штифт для фиксации защитной ступеньки Weathertech, нержавейка, с защитой от кражи</name>
+      <categoryId>9718288</categoryId>
+      <price>18850</price>
+      <description>Штифт для фиксации защитной ступеньки Weathertech
+Материал нержавейка
+С функцией защиты от кражи Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Штифт для фиксации защитной ступеньки Weathertech, нержавейка, с защитой от кражи, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e0230506cb6b_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/shtift-dlya-fiksacii-zashitnoj-stupenki-weathertech-nerzhavejka-s-zashitoj-ot-krazhi</param>
+    </offer>
+    <offer id="starsparts-9c2078572a38" available="true">
+      <name>Центральный колпак ступицы GMC Yukon, с 22-дюймовыми колесами, 4 шт, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>145275</price>
+      <description>Центральный колпак ступицы GMC Yukon, с 22-дюймовыми колесами, 4 шт, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Центральный колпак ступицы GMC Yukon, с 22-дюймовыми колесами, 4 шт, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9c2078572a38_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/czentralnyj-kolpak-stupiczy-gmc-yukon-s-22-dyujmovymi-kolesami-4-sht-original</param>
+    </offer>
+    <offer id="starsparts-0be3994aa967" available="true">
+      <name>Центральный колпак ступицы GMC Yukon, с 22-дюймовыми колесами,  4 шт., оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>145275</price>
+      <description>Центральный колпак ступицы GMC Yukon, с 22-дюймовыми колесами,  4 шт., оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Центральный колпак ступицы GMC Yukon, с 22-дюймовыми колесами,  4 шт., оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-0be3994aa967_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/czentralnyj-kolpak-stupiczy-gmc-yukon-s-22-dyujmovymi-kolesami-4-sht-original-1</param>
+    </offer>
+    <offer id="starsparts-a1e18705463e" available="true">
+      <name>Сетка в багажное отделение GMC Yukon / Yukon XL 2021-,  с логотипом, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>62500</price>
+      <description>Сетка в багажное отделение GMC Yukon / Yukon XL 2021-,  с логотипом, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Сетка в багажное отделение GMC Yukon / Yukon XL 2021-,  с логотипом, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a1e18705463e_0.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a1e18705463e_1.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a1e18705463e_2.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a1e18705463e_3.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/setka-v-bagazhnoe-otdelenie-gmc-yukon-yukon-xl-2021-s-logotipom-original</param>
+    </offer>
+    <offer id="starsparts-b5494817e065" available="true">
+      <name>Багажник на крышу Chevrolet Tahoe / Cadillac Escalade / GMC Yukon 2021-, поперечины на рейлинги, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>275000</price>
+      <description>Багажник на крышу Chevrolet Tahoe / Cadillac Escalade / GMC Yukon 2021-, поперечины на рейлинги, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Багажник на крышу Chevrolet Tahoe / Cadillac Escalade / GMC Yukon 2021-, поперечины на рейлинги, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b5494817e065_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b5494817e065_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b5494817e065_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/bagazhnik-na-kryshu-chevrolet-tahoe-2021-poperechiny-na-rejlingi-original</param>
+    </offer>
+    <offer id="starsparts-42e2375f4fb3" available="true">
+      <name>Багажник на крышу Chevrolet Tahoe 2021- / Cadillac Escalade 2021- / GMC Youkon 2021-, поперечины на рейлинги, реплика</name>
+      <categoryId>9718288</categoryId>
+      <price>169000</price>
+      <description>Багажник на крышу Chevrolet Tahoe 2021- / Cadillac Escalade 2021- / GMC Youkon 2021-, поперечины на рейлинги, реплика — GZ HighFly LTD.. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Багажник на крышу Chevrolet Tahoe 2021- / Cadillac Escalade 2021- / GMC Youkon 2021-, поперечины на рейлинги, реплика, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-42e2375f4fb3_0.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-42e2375f4fb3_1.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-42e2375f4fb3_2.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/bagazhnik-na-kryshu-chevrolet-tahoe-2021-cadillac-escalade-2021-poperechiny-na-rejlingi-replika</param>
+    </offer>
+    <offer id="starsparts-c60d6912e992" available="true">
+      <name>Лампа подвсветки в выдвижном пороге Escalade / Tahoe / Suburban / Yukon, левая, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>122500</price>
+      <description>Лампа подвсветки в выдвижном пороге Escalade / Tahoe / Suburban / Yukon, левая, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Лампа подвсветки в выдвижном пороге Escalade / Tahoe / Suburban / Yukon, левая, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c60d6912e992_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/lampa-podvsvetki-v-vydvizhnom-poroge-escalade-tahoe-suburban-yukon-levaya-original</param>
+    </offer>
+    <offer id="starsparts-53dc1e8711eb" available="true">
+      <name>Лампа подвсветки в выдвижном пороге Escalade / Tahoe / Suburban / Yukon, правая, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>147500</price>
+      <description>Лампа подвсветки в выдвижном пороге Escalade / Tahoe / Suburban / Yukon, правая, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Лампа подвсветки в выдвижном пороге Escalade / Tahoe / Suburban / Yukon, правая, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-53dc1e8711eb_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/lampa-podvsvetki-v-vydvizhnom-poroge-escalade-tahoe-suburban-yukon-pravaya-original</param>
+    </offer>
+    <offer id="starsparts-f78c228f1782" available="true">
+      <name>Защита заднего бампера откидная GMC Yukon / Yukon XL 2021-2023, черный с логотипом GMC, ориинал</name>
+      <categoryId>9718288</categoryId>
+      <price>156975</price>
+      <description>Защита заднего бампера откидная GMC Yukon / Yukon XL 2021-2023, черный с логотипом GMC, ориинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защита заднего бампера откидная GMC Yukon / Yukon XL 2021-2023, черный с логотипом GMC, ориинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f78c228f1782_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashhita-zadnego-bampera-otkidnaya-gmc-yukon-yukon-xl-2021-2023-chernyj-s-logotipom-gmc-oriinal</param>
+    </offer>
+    <offer id="starsparts-e4596edadae6" available="true">
+      <name>Фонари боковые в передний бампер Escalade / Tahoe / Yukon / 2021-, белые</name>
+      <categoryId>9718288</categoryId>
+      <price>39500</price>
+      <description>Фонари боковые в передний бампер Escalade / Tahoe / Yukon / 2021-, белые — GZ HighFly LTD.. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фонари боковые в передний бампер Escalade / Tahoe / Yukon / 2021-, белые, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e4596edadae6_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e4596edadae6_1.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e4596edadae6_2.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e4596edadae6_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/fonari-bokovye-v-perednij-bamper-escalade-tahoe-yukon-2021-belye</param>
+    </offer>
+    <offer id="starsparts-c38e0c8936d4" available="true">
+      <name>Фонари боковые в передний бампер Escalade / Tahoe / Yukon / 2021-, тонированные</name>
+      <categoryId>9718288</categoryId>
+      <price>39500</price>
+      <description>Фонари боковые в передний бампер Escalade / Tahoe / Yukon / 2021-, тонированные — GZ HighFly LTD.. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фонари боковые в передний бампер Escalade / Tahoe / Yukon / 2021-, тонированные, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c38e0c8936d4_1.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c38e0c8936d4_2.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c38e0c8936d4_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/fonari-bokovye-v-perednij-bamper-escalade-tahoe-yukon-2021-tonirovannye</param>
+    </offer>
+    <offer id="starsparts-1dd049d9a6f0" available="true">
+      <name>Рамка номерная GMC Yukon / Yukon XL 2021-2024, AT4, черная, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>47775</price>
+      <description>Рамка номерная GMC Yukon / Yukon XL 2021-2024, AT4, черная, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Рамка номерная GMC Yukon / Yukon XL 2021-2024, AT4, черная, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1dd049d9a6f0_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/ramka-nomernaya-gmc-yukon-yukon-xl-2021-2024-at-4-chernaya-original</param>
+    </offer>
+    <offer id="starsparts-f291ddd0617b" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки карбон</name>
+      <categoryId>9718288</categoryId>
+      <price>1996000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки карбон — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки карбон, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f291ddd0617b_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-yukon-denaliat4-62l-v8-20212024-nasadki-karbon</param>
+    </offer>
+    <offer id="starsparts-307ce744d2a3" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки черные</name>
+      <categoryId>9718288</categoryId>
+      <price>1703500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки черные — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки черные, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-307ce744d2a3_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-yukon-denaliat4-62l-v8-20212024-nasadki-chernye</param>
+    </offer>
+    <offer id="starsparts-9c79a7a1e508" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки хром</name>
+      <categoryId>9718288</categoryId>
+      <price>1630500</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки хром, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9c79a7a1e508_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-gmc-yukon-denaliat4-62l-v8-20212024-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-cd60766c0114" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки карбон</name>
+      <categoryId>9718288</categoryId>
+      <price>2030500</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки карбон — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки карбон, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cd60766c0114_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-yukon-denaliat4-62l-v8-20212024-nasadki-karbon</param>
+    </offer>
+    <offer id="starsparts-84f505789210" available="true">
+      <name>Выхлопная система Borla Touring Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки хром</name>
+      <categoryId>9718288</categoryId>
+      <price>1666000</price>
+      <description>Выхлопная система Borla Touring Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки хром — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla Touring Cat-Back для GMC Yukon Denali/AT4 6.2L V8 (2021-2024), насадки хром, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-84f505789210_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-touring-catback-dlya-gmc-yukon-denaliat4-62l-v8-20212024-nasadki-hrom</param>
+    </offer>
+    <offer id="starsparts-b6ec97cae060" available="true">
+      <name>Накладки на пороги с подсветкой GMC Yukon 2021-, AT4, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>481650</price>
+      <description>Накладки на пороги с подсветкой GMC Yukon 2021-, AT4, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на пороги с подсветкой GMC Yukon 2021-, AT4, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b6ec97cae060_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-na-porogi-s-podsvetkoj-gmc-yukon-2021-at-4-original</param>
+    </offer>
+    <offer id="starsparts-473768b21d82" available="true">
+      <name>Накладки на пороги с подсветкой GMC Yukon 2021-, Denali , оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>481650</price>
+      <description>Накладки на пороги с подсветкой GMC Yukon 2021-, Denali , оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на пороги с подсветкой GMC Yukon 2021-, Denali , оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-473768b21d82_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-473768b21d82_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/komplekt-plastin-podokonnika-dveri-s-podsvetkoj-20212024-gmc-yukon-denali-84667517-gm-ot-originalnogo-proizvoditelya</param>
+    </offer>
+    <offer id="starsparts-c31aa116107e" available="true">
+      <name>Накладки на пороги с подсветкой GMC Yukon 2021-, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>408525</price>
+      <description>Накладки на пороги с подсветкой GMC Yukon 2021-, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на пороги с подсветкой GMC Yukon 2021-, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c31aa116107e_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-na-porogi-s-podsvetkoj-gmc-yukon-2021-original</param>
+    </offer>
+    <offer id="starsparts-bc664d0623a9" available="true">
+      <name>Накладки на педали Cadillac Escalade 2021-, серебристая нержавейка, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>107500</price>
+      <description>Накладки на педали Cadillac Escalade 2021-, серебристая нержавейка, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на педали Cadillac Escalade 2021-, серебристая нержавейка, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-bc664d0623a9_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-na-pedali-cadillac-escalade-2021-original</param>
+    </offer>
+    <offer id="starsparts-4fa08024d3b2" available="true">
+      <name>Солнцезащитная шторка GMC Yukon / XL 2021-2023, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>120900</price>
+      <description>Солнцезащитная шторка GMC Yukon / XL 2021-2023, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Солнцезащитная шторка GMC Yukon / XL 2021-2023, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4fa08024d3b2_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/solnczezashhitnaya-shtorka-gmc-yukon-xl-2021-2023-original</param>
+    </offer>
+    <offer id="starsparts-88279fbac992" available="true">
+      <name>Шторка багажника GMC Yukon / Yukon XL 2021-, черная, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>239850</price>
+      <description>Шторка багажника GMC Yukon / Yukon XL 2021-, черная, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Шторка багажника GMC Yukon / Yukon XL 2021-, черная, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-88279fbac992_0.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/20212025-tahoe-yukon-escalade-vydvizhnoj-gruzovoj-kozyrek-84390976-chernyj-originalnyj-gm</param>
+    </offer>
+    <offer id="starsparts-e6777aefdd51" available="true">
+      <name>Шторка багажника GMC Yukon / Yukon XL 2021-, Fawn, оригинал </name>
+      <categoryId>9718288</categoryId>
+      <price>233025</price>
+      <description>Шторка багажника GMC Yukon / Yukon XL 2021-, Fawn, оригинал  — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Шторка багажника GMC Yukon / Yukon XL 2021-, Fawn, оригинал , GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e6777aefdd51_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e6777aefdd51_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/originalnyj-vydvizhnoj-zashitnyj-kozyrek-dlya-gruza-tahoe-yukon-20212023-godov-vypuska-84390978-fawn</param>
+    </offer>
+    <offer id="starsparts-b1234334975c" available="true">
+      <name>Шторка багажника GMC Yukon / Yukon XL 2021-, Atmosphere, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>233025</price>
+      <description>Шторка багажника GMC Yukon / Yukon XL 2021-, Atmosphere, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Шторка багажника GMC Yukon / Yukon XL 2021-, Atmosphere, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b1234334975c_0.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vydvizhnoj-zashitnyj-gruzovoj-kozyrek-20212023-tahoe-yukon-84390977-dark-atmosphere</param>
+    </offer>
+    <offer id="starsparts-b9b9b98bf0dc" available="true">
+      <name>Накладки на зеркала Cadillac Escalade / Chevrolet Tahoe / GMC / Yukon 2021- Черный, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>79750</price>
+      <description>Накладки на зеркала Cadillac Escalade / Chevrolet Tahoe / GMC / Yukon 2021- Черный, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на зеркала Cadillac Escalade / Chevrolet Tahoe / GMC / Yukon 2021- Черный, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b9b9b98bf0dc_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b9b9b98bf0dc_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b9b9b98bf0dc_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b9b9b98bf0dc_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-na-zerkala-cadillac-escalade-chevrolet-tahoe-2021-chernyj-original</param>
+    </offer>
+    <offer id="starsparts-3f1ce7110842" available="true">
+      <name>Накладки на зеркала Cadillac Escalade / Chevrolet Tahoe 2021- / GMC Yukon 2021-, хром, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>79750</price>
+      <description>Накладки на зеркала Cadillac Escalade / Chevrolet Tahoe 2021- / GMC Yukon 2021-, хром, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на зеркала Cadillac Escalade / Chevrolet Tahoe 2021- / GMC Yukon 2021-, хром, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3f1ce7110842_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3f1ce7110842_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3f1ce7110842_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3f1ce7110842_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-na-zerkala-cadillac-escalade-chevrolet-tahoe-2021-hrom-original</param>
+    </offer>
+    <offer id="starsparts-414113ee19ba" available="true">
+      <name>Накладки на крышки боковых зеркал  Cadillac Escalade 2021 / Chevrolet Tahoe 2021- / GMC Yukon 2021-, под карбон</name>
+      <categoryId>9718288</categoryId>
+      <price>77500</price>
+      <description>Накладки на крышки боковых зеркал  Cadillac Escalade 2021 / Chevrolet Tahoe 2021- / GMC Yukon 2021-, под карбон — GZ HighFly LTD.. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на крышки боковых зеркал  Cadillac Escalade 2021 / Chevrolet Tahoe 2021- / GMC Yukon 2021-, под карбон, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-414113ee19ba_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-414113ee19ba_1.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-414113ee19ba_2.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-414113ee19ba_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-na-kryshki-bokovyh-zerkal-cadillac-escalade-2021-pod-karbon</param>
+    </offer>
+    <offer id="starsparts-c7244e2e4cb6" available="true">
+      <name>Накладки на крышки боковых зеркал Cadillac Escalade 2021 / Chevrolet Tahoe 2021- / GMC Yukon 2021-, черные матовые</name>
+      <categoryId>9718288</categoryId>
+      <price>77500</price>
+      <description>Накладки на крышки боковых зеркал Cadillac Escalade 2021 / Chevrolet Tahoe 2021- / GMC Yukon 2021-, черные матовые — GZ HighFly LTD.. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на крышки боковых зеркал Cadillac Escalade 2021 / Chevrolet Tahoe 2021- / GMC Yukon 2021-, черные матовые, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7244e2e4cb6_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7244e2e4cb6_1.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7244e2e4cb6_2.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-na-kryshki-bokovyh-zerkal-cadillac-escalade-2021-chernye-matovye</param>
+    </offer>
+    <offer id="starsparts-43efa0d11685" available="true">
+      <name>Коврик в багажный отсек GMC Yukon XL 2021-2024  интегрированный, черный с логотипом, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>202800</price>
+      <description>Коврик в багажный отсек GMC Yukon XL 2021-2024  интегрированный, черный с логотипом, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврик в багажный отсек GMC Yukon XL 2021-2024  интегрированный, черный с логотипом, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-43efa0d11685_2.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/20212024-gmc-yukon-xl-integrirovannyj-gruzovoj-lajner-85539136-chernyj-s-logotipom-gmc-oem-gm</param>
+    </offer>
+    <offer id="starsparts-bae278509f11" available="true">
+      <name>Коврик в багажный отсек GMC Yukon 2021-2024 интегрированный, черный с логотипом, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>200850</price>
+      <description>Коврик в багажный отсек GMC Yukon 2021-2024 интегрированный, черный с логотипом, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврик в багажный отсек GMC Yukon 2021-2024 интегрированный, черный с логотипом, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-bae278509f11_1.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-bae278509f11_2.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/20212024-gmc-yukon-integrirovannyj-gruzovoj-lajner-85539132-ugolnochernyj-s-logotipom-gmc-oem-gm</param>
+    </offer>
+    <offer id="starsparts-80524879dc02" available="true">
+      <name>Коврик в багажный отсек GMC Yukon XL 2021-2025 интегрированный, коричневый, с логотипом, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>194025</price>
+      <description>Коврик в багажный отсек GMC Yukon XL 2021-2025 интегрированный, коричневый, с логотипом, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврик в багажный отсек GMC Yukon XL 2021-2025 интегрированный, коричневый, с логотипом, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-80524879dc02_0.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/20212025-gmc-yukon-xl-integrirovannyj-gruzovoj-lajner-85539138-tik-s-logotipom-oem-gm</param>
+    </offer>
+    <offer id="starsparts-54c48504fc13" available="true">
+      <name>Коврики салона GMC Yukon / Yukon  XL 2021-, 1-ый ряд, с бортиком, Коричневый, оригинал </name>
+      <categoryId>9718288</categoryId>
+      <price>163800</price>
+      <description>Коврики салона GMC Yukon / Yukon  XL 2021-, 1-ый ряд, с бортиком, Коричневый, оригинал  — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики салона GMC Yukon / Yukon  XL 2021-, 1-ый ряд, с бортиком, Коричневый, оригинал , GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-54c48504fc13_0.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovriki-salona-gmc-yukon-yukon-xl-2021-1-yj-ryad-s-bortikom-korichnevyj-original</param>
+    </offer>
+    <offer id="starsparts-05fe563c4ca4" available="true">
+      <name>Коврик в багажник GMC Yukon 2021-2024, интегрированный, темно-пепельно-серый, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>203775</price>
+      <description>Коврик в багажник GMC Yukon 2021-2024, интегрированный, темно-пепельно-серый, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврик в багажник GMC Yukon 2021-2024, интегрированный, темно-пепельно-серый, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-05fe563c4ca4_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/20212024-gmc-yukon-integrirovannyj-gruzovoj-lajner-85539133-temnopepelnoseryj-s-logotipom-oem-gm</param>
+    </offer>
+    <offer id="starsparts-73393954d3d0" available="true">
+      <name>Коврики салона GMC Yukon / Yukon  XL 2021-, 1-ый ряд, с бортиком, Black, оригинал </name>
+      <categoryId>9718288</categoryId>
+      <price>163800</price>
+      <description>Коврики салона GMC Yukon / Yukon  XL 2021-, 1-ый ряд, с бортиком, Black, оригинал  — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики салона GMC Yukon / Yukon  XL 2021-, 1-ый ряд, с бортиком, Black, оригинал , GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-73393954d3d0_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-73393954d3d0_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovriki-salona-gmc-yukon-yukon-xl-2021-1-yj-ryad-s-bortikom-black-original-1</param>
+    </offer>
+    <offer id="starsparts-8c950f31e80f" available="true">
+      <name>Коврик в багажник GMC Yukon XL 2021-2024, интегрированный, темно-пепельно-серый, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>200850</price>
+      <description>Коврик в багажник GMC Yukon XL 2021-2024, интегрированный, темно-пепельно-серый, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврик в багажник GMC Yukon XL 2021-2024, интегрированный, темно-пепельно-серый, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8c950f31e80f_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovrik-v-bagazhnik-gmc-yukon-xl-2021-2024-integrirovannyj-temno-pepelno-seryj-original</param>
+    </offer>
+    <offer id="starsparts-24680212f8e1" available="true">
+      <name>Передние коврики GMC Yukon / Yukon XL 2021-, всепогоные, черные, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>125775</price>
+      <description>Передние коврики GMC Yukon / Yukon XL 2021-, всепогоные, черные, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Передние коврики GMC Yukon / Yukon XL 2021-, всепогоные, черные, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-24680212f8e1_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-24680212f8e1_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vsepogodnye-napolnye-kovriki-20212024-gmc-yukonyukon-xl-84646699-chernye-ot-originalnogo-proizvoditelya-gm</param>
+    </offer>
+    <offer id="starsparts-c89a192e8530" available="true">
+      <name>Коврик в багажник GMC Yukon XL 2021-2024, интегрированный, тиково-коричневый, Оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>203775</price>
+      <description>Коврик в багажник GMC Yukon XL 2021-2024, интегрированный, тиково-коричневый, Оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврик в багажник GMC Yukon XL 2021-2024, интегрированный, тиково-коричневый, Оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c89a192e8530_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovrik-v-bagazhnik-gmc-yukon-xl-2021-2024-integrirovannyj-tikovo-korichnevyj-original</param>
+    </offer>
+    <offer id="starsparts-88a2c49cb675" available="true">
+      <name>Коврики салона GMC Yukon / Yukon XL 2021-, 1-ый ряд, с бортиком, Dark Atmosphere, оригинал </name>
+      <categoryId>9718288</categoryId>
+      <price>170625</price>
+      <description>Коврики салона GMC Yukon / Yukon XL 2021-, 1-ый ряд, с бортиком, Dark Atmosphere, оригинал  — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики салона GMC Yukon / Yukon XL 2021-, 1-ый ряд, с бортиком, Dark Atmosphere, оригинал , GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-88a2c49cb675_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovriki-salona-gmc-yukon-yukon-xl-2021-1-yj-ryad-s-bortikom-dark-atmosphere-original</param>
+    </offer>
+    <offer id="starsparts-745e114859e3" available="true">
+      <name>Коврики салона  GMC Yukon/Yukon XL 2021-, 1-ый ряд, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>567450</price>
+      <description>Коврики салона  GMC Yukon/Yukon XL 2021-, 1-ый ряд, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики салона  GMC Yukon/Yukon XL 2021-, 1-ый ряд, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-745e114859e3_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovriki-salona-gmc-yukon-yukon-xl-2021-1-yj-ryad-original</param>
+    </offer>
+    <offer id="starsparts-465754f35579" available="true">
+      <name>Коврики салона GMC Yukon XL 2021-, 3-ий ряд, черный, капитанский второй ряд, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>86775</price>
+      <description>Коврики салона GMC Yukon XL 2021-, 3-ий ряд, черный, капитанский второй ряд, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики салона GMC Yukon XL 2021-, 3-ий ряд, черный, капитанский второй ряд, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-465754f35579_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-465754f35579_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovriki-salona-gmc-yukon-xl-2021-3-ij-ryad-chernyj-kapitanskij-vtoroj-ryad-original</param>
+    </offer>
+    <offer id="starsparts-273077e7eb35" available="true">
+      <name>Коврики салона GMC Yukon/Yukon XL, 2-ой ряд, Teak, оригинал </name>
+      <categoryId>9718288</categoryId>
+      <price>70200</price>
+      <description>Коврики салона GMC Yukon/Yukon XL, 2-ой ряд, Teak, оригинал  — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики салона GMC Yukon/Yukon XL, 2-ой ряд, Teak, оригинал , GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-273077e7eb35_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-273077e7eb35_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/originalnyj-vsepogodnyj-napolnyj-kovrik-2-ryada-20212024-gmc-yukonyukon-xl-84701538-teak</param>
+    </offer>
+    <offer id="starsparts-65fbe8d99376" available="true">
+      <name>Коврики салона GMC Yukon 2021-, 3-ий ряд, черный, капитанский второй ряд, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>83850</price>
+      <description>Коврики салона GMC Yukon 2021-, 3-ий ряд, черный, капитанский второй ряд, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики салона GMC Yukon 2021-, 3-ий ряд, черный, капитанский второй ряд, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-65fbe8d99376_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-65fbe8d99376_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/napolnoe-pokrytie-dlya-lyuboj-pogody-premiumklassa-3j-ryad-20212024-gmc-yukon-84646761-chernoe-ot-originalnogo-proizvoditelya</param>
+    </offer>
+    <offer id="starsparts-8d9e48fe34d9" available="true">
+      <name>Коврики салона GMC Yukon/Yukon XL, 2-ой ряд, Dark Atmosphere, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>80925</price>
+      <description>Коврики салона GMC Yukon/Yukon XL, 2-ой ряд, Dark Atmosphere, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики салона GMC Yukon/Yukon XL, 2-ой ряд, Dark Atmosphere, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8d9e48fe34d9_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8d9e48fe34d9_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovriki-salona-gmc-yukon-yukon-xl-2-oj-ryad-dark-atmosphere-original</param>
+    </offer>
+    <offer id="starsparts-79dfaacf1ad9" available="true">
+      <name>Коврики салона  GMC Yukon/Yukon XL 2021-, 1-ый ряд, Dark Atmosphere, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>581100</price>
+      <description>Коврики салона  GMC Yukon/Yukon XL 2021-, 1-ый ряд, Dark Atmosphere, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики салона  GMC Yukon/Yukon XL 2021-, 1-ый ряд, Dark Atmosphere, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-79dfaacf1ad9_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovriki-salona-gmc-yukon-yukon-xl-2021-1-yj-ryad-dark-atmosphere-original</param>
+    </offer>
+    <offer id="starsparts-9737527b6371" available="true">
+      <name>Коврики салона GMC Yukon 2021-, 3-ий ряд, Teak , капитанский второй ряд, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>86775</price>
+      <description>Коврики салона GMC Yukon 2021-, 3-ий ряд, Teak , капитанский второй ряд, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики салона GMC Yukon 2021-, 3-ий ряд, Teak , капитанский второй ряд, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9737527b6371_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9737527b6371_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovriki-salona-gmc-yukon-2021-3-ij-ryad-teak-kapitanskij-vtoroj-ryad-original</param>
+    </offer>
+    <offer id="starsparts-91d790dd9c3e" available="true">
+      <name>Коврики салона GMC Yukon / Yukon XL 2021-, 1-ый ряд, с бортиком, темно-пепельно-серые, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>130650</price>
+      <description>Коврики салона GMC Yukon / Yukon XL 2021-, 1-ый ряд, с бортиком, темно-пепельно-серые, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики салона GMC Yukon / Yukon XL 2021-, 1-ый ряд, с бортиком, темно-пепельно-серые, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-91d790dd9c3e_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-91d790dd9c3e_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vsepogodnye-napolnye-pokrytiya-20212023-gmc-yukonxl-84646700-temnopepelnoserye</param>
+    </offer>
+    <offer id="starsparts-668f352fea28" available="true">
+      <name>Коврик 3-го ряда GMC Yukon XL 2021-, для а/м с капитанскими креслами, всепогодный, цвет Teak, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>86775</price>
+      <description>Коврик 3-го ряда GMC Yukon XL 2021-, для а/м с капитанскими креслами, всепогодный, цвет Teak, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврик 3-го ряда GMC Yukon XL 2021-, для а/м с капитанскими креслами, всепогодный, цвет Teak, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-668f352fea28_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-668f352fea28_1.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-668f352fea28_2.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-668f352fea28_3.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/napolnoe-pokrytie-dlya-lyuboj-pogody-premiumklassa-20212024-gmc-yukon-xl-3j-ryad-84646777-teak-oe</param>
+    </offer>
+    <offer id="starsparts-079c68f953e2" available="true">
+      <name>Коврик 2-го ряда GMC Yukon / Yukon XL Premium, всепогодный, черный, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>125000</price>
+      <description>Коврик 2-го ряда GMC Yukon / Yukon XL Premium, всепогодный, черный, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврик 2-го ряда GMC Yukon / Yukon XL Premium, всепогодный, черный, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-079c68f953e2_0.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/napolnyj-kovrik-dlya-lyuboj-pogody-2021-gmc-yukon-yukon-xl-premium-2-ryada-84503159-chernyj</param>
+    </offer>
+    <offer id="starsparts-34a43de871ff" available="true">
+      <name>Коврик  в багажника ворсовый Escalade / Tahoe / Yukon, со встроенными боксами, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>145000</price>
+      <description>Коврик  в багажника ворсовый Escalade / Tahoe / Yukon, со встроенными боксами, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврик  в багажника ворсовый Escalade / Tahoe / Yukon, со встроенными боксами, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-34a43de871ff_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-34a43de871ff_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-34a43de871ff_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-34a43de871ff_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/2025-escalade-cargo-area-mat-jet-black-integrated-cargo-bins-premium-carpet</param>
+    </offer>
+    <offer id="starsparts-f5bf59844a57" available="true">
+      <name>Колодки тормозные передние   Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>89570</price>
+      <description>Колодки тормозные передние   Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Колодки тормозные передние   Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f5bf59844a57_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kolodki-tormoznye-perednie-chevrolet-tahoe-2021-original</param>
+    </offer>
+    <offer id="starsparts-c706565b97c4" available="true">
+      <name>Колодки тормозные задние Chevrolet Tahoe 2021-, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>61542</price>
+      <description>Колодки тормозные задние Chevrolet Tahoe 2021-, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Колодки тормозные задние Chevrolet Tahoe 2021-, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c706565b97c4_0.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kolodki-tormoznye-zadnie-chevrolet-tahoe-2021-original</param>
+    </offer>
+    <offer id="starsparts-a36ae74e2496" available="true">
+      <name>Диск тормозной передний Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>152555</price>
+      <description>Диск тормозной передний Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Диск тормозной передний Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a36ae74e2496_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/disk-tormoznoj-perednij-chevrolet-tahoe-2021-original</param>
+    </offer>
+    <offer id="starsparts-1a678da194c8" available="true">
+      <name>Диск тормозной задний Chevrolet Tahoe 2021- / GMC Yukon 2021- оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>167570</price>
+      <description>Диск тормозной задний Chevrolet Tahoe 2021- / GMC Yukon 2021- оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Диск тормозной задний Chevrolet Tahoe 2021- / GMC Yukon 2021- оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1a678da194c8_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/disk-tormoznoj-zadnij-chevrolet-tahoe-2021-original</param>
+    </offer>
+    <offer id="starsparts-9868b90d5a3a" available="true">
+      <name>Колодки тормозные передние Raybestos</name>
+      <categoryId>9718288</categoryId>
+      <price>77500</price>
+      <description>Колодки тормозные передние Raybestos — Raybestos. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Колодки тормозные передние Raybestos, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9868b90d5a3a_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kolodki-tormoznye-perednie-raybestos</param>
+    </offer>
+    <offer id="starsparts-4e0217b65423" available="true">
+      <name>Колодки тормозные передние Powerstop</name>
+      <categoryId>9718288</categoryId>
+      <price>82500</price>
+      <description>Колодки тормозные передние Powerstop — PowerStop. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Колодки тормозные передние Powerstop, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4e0217b65423_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kolodki-tormoznye-perednie-powerstop</param>
+    </offer>
+    <offer id="starsparts-2729cdcfda74" available="true">
+      <name>Электронный модуль ABS</name>
+      <categoryId>9718288</categoryId>
+      <price>200000</price>
+      <description>Электронный модуль ABS — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Электронный модуль ABS, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2729cdcfda74_0.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2729cdcfda74_1.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2729cdcfda74_2.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/elektronnyj-modul-abs</param>
+    </offer>
+    <offer id="starsparts-edd44a907fba" available="true">
+      <name>кольцо ABS, GM оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>65000</price>
+      <description>кольцо ABS, GM оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>кольцо ABS, GM оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-edd44a907fba_0.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-edd44a907fba_1.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kolco-abs-gm-original</param>
+    </offer>
+    <offer id="starsparts-23b7a8aa855d" available="true">
+      <name>Суппорт передний правый GM, стандартная тормозная система, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>195000</price>
+      <description>Суппорт передний правый GM, стандартная тормозная система, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Суппорт передний правый GM, стандартная тормозная система, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-23b7a8aa855d_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/support-perednij-pravyj-gm-standartnaya-tormoznaya-sistema-original</param>
+    </offer>
+    <offer id="starsparts-e92829825127" available="true">
+      <name>Суппорт передний левый GM, стандартная тормозная система, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>195000</price>
+      <description>Суппорт передний левый GM, стандартная тормозная система, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Суппорт передний левый GM, стандартная тормозная система, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e92829825127_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/support-perednij-levyj-gm-standartnaya-tormoznaya-sistema-original</param>
+    </offer>
+    <offer id="starsparts-1facf855b625" available="true">
+      <name>Суппорт передний правый GM, спортивная тормозная система, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>475000</price>
+      <description>Суппорт передний правый GM, спортивная тормозная система, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Суппорт передний правый GM, спортивная тормозная система, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1facf855b625_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/support-perednij-pravyj-gm-sportivnaya-tormoznaya-sistema-original</param>
+    </offer>
+    <offer id="starsparts-fb2ad0db80be" available="true">
+      <name>Суппорт передний левый GM, спортивная тормозная система, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>475000</price>
+      <description>Суппорт передний левый GM, спортивная тормозная система, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Суппорт передний левый GM, спортивная тормозная система, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fb2ad0db80be_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fb2ad0db80be_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/support-perednij-levyj-gm-sportivnaya-tormoznaya-sistema-original</param>
+    </offer>
+    <offer id="starsparts-2bdaa0bd7834" available="true">
+      <name>Передние тормозные колодки для 6-ти поршневых суппортов Escalade 2021- / Tahoe 2021-/ GMC  2021-, оригинал </name>
+      <categoryId>9718288</categoryId>
+      <price>295000</price>
+      <description>Передние тормозные колодки для 6-ти поршневых суппортов Escalade 2021- / Tahoe 2021-/ GMC  2021-, оригинал  — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Передние тормозные колодки для 6-ти поршневых суппортов Escalade 2021- / Tahoe 2021-/ GMC  2021-, оригинал , GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2bdaa0bd7834_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2bdaa0bd7834_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/perednie-tormoznye-kolodki-dlya-6-ti-porshnevyh-supportov-escalade-2021-tahoe-2021-gmc-2021-original</param>
+    </offer>
+    <offer id="starsparts-64a1ffda4e1c" available="true">
+      <name>Ступица передняя  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>172575</price>
+      <description>Ступица передняя  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Ступица передняя  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-64a1ffda4e1c_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/stupica-perednyaya-chevrolet-tahoe-2021-original</param>
+    </offer>
+    <offer id="starsparts-002ed3f9cd5f" available="true">
+      <name>Ступица задняя  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>168071</price>
+      <description>Ступица задняя  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Ступица задняя  Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-002ed3f9cd5f_0.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-002ed3f9cd5f_1.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/stupica-zadnyaya-chevrolet-tahoe-2021-original</param>
+    </offer>
+    <offer id="starsparts-32e5b88d62db" available="true">
+      <name>Помпа   Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>157625</price>
+      <description>Помпа   Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Помпа   Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-32e5b88d62db_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/pompa-chevrolet-tahoe-2021-original</param>
+    </offer>
+    <offer id="starsparts-40e182aa25ad" available="true">
+      <name>Свеча зажигания Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>7500</price>
+      <description>Свеча зажигания Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Свеча зажигания Chevrolet Tahoe 2021- / GMC Yukon 2021-, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-40e182aa25ad_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/svecha-zazhiganiya-chevrolet-tahoe-2021-original</param>
+    </offer>
+    <offer id="starsparts-a149457cc9de" available="true">
+      <name>Дефлекторы окон Cadillac  Escalade 2021- / Chevrolet Tahoe 2021- / GMC Yukon 2021-, комплект 4шт., накладные, Voron Glass</name>
+      <categoryId>9718288</categoryId>
+      <price>77500</price>
+      <description>Дефлекторы окон Cadillac  Escalade 2021- / Chevrolet Tahoe 2021- / GMC Yukon 2021-, комплект 4шт., накладные, Voron Glass — Voron Glass. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлекторы окон Cadillac  Escalade 2021- / Chevrolet Tahoe 2021- / GMC Yukon 2021-, комплект 4шт., накладные, Voron Glass, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a149457cc9de_0.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a149457cc9de_1.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a149457cc9de_2.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a149457cc9de_3.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/product-28</param>
+    </offer>
+    <offer id="starsparts-5863709c7064" available="true">
+      <name>Дефлектор капота GMC Yukon 2021-2023, дымчатый, AVS </name>
+      <categoryId>9718288</categoryId>
+      <price>97240</price>
+      <description>Дефлектор капота GMC Yukon 2021-2023, дымчатый, AVS  — AVS. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлектор капота GMC Yukon 2021-2023, дымчатый, AVS , GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5863709c7064_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/deflektor-kapota-gmc-yukon-2021-2023-dymchatyj-avs</param>
+    </offer>
+    <offer id="starsparts-a74df055dd19" available="true">
+      <name>Дефлектор капота GMC Yukon 2021-2023, дымчатый, накладка, AVS </name>
+      <categoryId>9718288</categoryId>
+      <price>98345</price>
+      <description>Дефлектор капота GMC Yukon 2021-2023, дымчатый, накладка, AVS  — AVS. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлектор капота GMC Yukon 2021-2023, дымчатый, накладка, AVS , GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a74df055dd19_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/deflektor-kapota-gmc-yukon-2021-2023-dymchatyj-nakladka-avs</param>
+    </offer>
+    <offer id="starsparts-6bda5f8af0ff" available="true">
+      <name>Дефлектор капота GMC Yukon 2021-2023, хром, AVS </name>
+      <categoryId>9718288</categoryId>
+      <price>153595</price>
+      <description>Дефлектор капота GMC Yukon 2021-2023, хром, AVS  — AVS. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлектор капота GMC Yukon 2021-2023, хром, AVS , GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6bda5f8af0ff_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/deflektor-kapota-gmc-yukon-2021-2023-hrom-avs</param>
+    </offer>
+    <offer id="starsparts-5c25a7a1513a" available="true">
+      <name>Дефлекторы окон GMC Yukon 2021-2023, накладные, GoodYear</name>
+      <categoryId>9718288</categoryId>
+      <price>102814</price>
+      <description>Дефлекторы окон GMC Yukon 2021-2023, накладные, GoodYear — GoodYear. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлекторы окон GMC Yukon 2021-2023, накладные, GoodYear, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5c25a7a1513a_2.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/deflektory-okon-gmc-yukon-2021-2023-nakladnye-good-year</param>
+    </offer>
+    <offer id="starsparts-56dc61677a4a" available="true">
+      <name>Дефлекторы окон GMC Yukon 2021-2023, накладные, стиль 2, GoodYear</name>
+      <categoryId>9718288</categoryId>
+      <price>97919</price>
+      <description>Дефлекторы окон GMC Yukon 2021-2023, накладные, стиль 2, GoodYear — GoodYear. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлекторы окон GMC Yukon 2021-2023, накладные, стиль 2, GoodYear, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-56dc61677a4a_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-56dc61677a4a_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-56dc61677a4a_2.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/deflektory-okon-gmc-yukon-2021-2023-nakladnye-stil-2-good-year</param>
+    </offer>
+    <offer id="starsparts-3dd44836badb" available="true">
+      <name>Пластина подоконника грузового автомобиля с подсветкой 2021-2023 GMC Yukon/Yukon XL 84696717 черная от оригинального производителя</name>
+      <categoryId>9718288</categoryId>
+      <price>428025</price>
+      <description>Пластина подоконника грузового автомобиля с подсветкой 2021-2023 GMC Yukon/Yukon XL 84696717 черная от оригинального производителя — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Пластина подоконника грузового автомобиля с подсветкой 2021-2023 GMC Yukon/Yukon XL 84696717 черная от оригинального производителя, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3dd44836badb_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3dd44836badb_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/plastina-podokonnika-gruzovogo-avtomobilya-s-podsvetkoj-20212023-gmc-yukonyukon-xl-84696717-chernaya-ot-originalnogo-proizvoditelya</param>
+    </offer>
+    <offer id="starsparts-bd3b1192b01f" available="true">
+      <name>Дефлектор капота GMC Yukon / Yukon XL 2021-2023, дымчатый, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>105300</price>
+      <description>Дефлектор капота GMC Yukon / Yukon XL 2021-2023, дымчатый, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлектор капота GMC Yukon / Yukon XL 2021-2023, дымчатый, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-bd3b1192b01f_0.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/deflektor-kapota-gmc-yukon-yukon-xl-2021-2023-dymchatyj-original</param>
+    </offer>
+    <offer id="starsparts-edcc75c8b524" available="true">
+      <name>Дефлектор капота GMC Yukon / Yukon XL 2021-2023, хром, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>171600</price>
+      <description>Дефлектор капота GMC Yukon / Yukon XL 2021-2023, хром, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлектор капота GMC Yukon / Yukon XL 2021-2023, хром, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-edcc75c8b524_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-edcc75c8b524_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/deflektor-kapota-gmc-yukon-yukon-xl-2021-2023-hrom-original</param>
+    </offer>
+    <offer id="starsparts-e154335a2058" available="true">
+      <name>Дефлекторы окон Cadillac Escalade 2021- / Chevrolet Tahoe 2021- / GMC Yukon 2021-, комплект 4шт., накладные, LUND, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>95550</price>
+      <description>Дефлекторы окон Cadillac Escalade 2021- / Chevrolet Tahoe 2021- / GMC Yukon 2021-, комплект 4шт., накладные, LUND, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлекторы окон Cadillac Escalade 2021- / Chevrolet Tahoe 2021- / GMC Yukon 2021-, комплект 4шт., накладные, LUND, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e154335a2058_0.webp</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e154335a2058_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/deflektory-okon-cadillac-escalade-2021-chevrolet-tahoe-2021-gmc-yukon-2021-komplekt-4sht-nakladnye-lund-original</param>
+    </offer>
+    <offer id="starsparts-67026b0cda32" available="true">
+      <name>Дефлекторы окон Cadillac Escalade 2021- / Chevrolet Tahoe 2021- / GMC Yukon 2021-, комплект 4шт., вставные, LUND, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>85800</price>
+      <description>Дефлекторы окон Cadillac Escalade 2021- / Chevrolet Tahoe 2021- / GMC Yukon 2021-, комплект 4шт., вставные, LUND, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлекторы окон Cadillac Escalade 2021- / Chevrolet Tahoe 2021- / GMC Yukon 2021-, комплект 4шт., вставные, LUND, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-67026b0cda32_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/deflektory-okon-cadillac-escalade-2021-chevrolet-tahoe-2021-gmc-yukon-2021-komplekt-4sht-vstavnye-lund-original</param>
+    </offer>
+    <offer id="starsparts-18a70ec0788d" available="true">
+      <name>Дефлекторы окон  Chevrolet Tahoe / Cadillac Escalade / GMC Yukon 2021-, вставные, матовые черные, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>95550</price>
+      <description>Дефлекторы окон  Chevrolet Tahoe / Cadillac Escalade / GMC Yukon 2021-, вставные, матовые черные, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлекторы окон  Chevrolet Tahoe / Cadillac Escalade / GMC Yukon 2021-, вставные, матовые черные, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-18a70ec0788d_1.webp</picture>
+      <param name="partner_url">https://stars-parts.ru/product/deflektory-okon-chevrolet-tahoe-cadillac-escalade-gmc-yukon-2021-vstavnye-matovye-chernye-original</param>
+    </offer>
+    <offer id="starsparts-8a860ec84a03" available="true">
+      <name>Брызговики задние GMC Yukon / Yukon XL 2021-2024, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>80000</price>
+      <description>Брызговики задние GMC Yukon / Yukon XL 2021-2024, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Брызговики задние GMC Yukon / Yukon XL 2021-2024, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8a860ec84a03_1.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/bryzgoviki-zadnie-gmc-yukon-yukon-xl-2021-2024-original</param>
+    </offer>
+    <offer id="starsparts-1ae2f2681a30" available="true">
+      <name>Брызговики передние GMC Yukon / Yukon XL 2021-2024, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>100000</price>
+      <description>Брызговики передние GMC Yukon / Yukon XL 2021-2024, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Брызговики передние GMC Yukon / Yukon XL 2021-2024, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1ae2f2681a30_1.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1ae2f2681a30_2.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/bryzgoviki-perednie-gmc-yukon-yukon-xl-2021-2024-original</param>
+    </offer>
+    <offer id="starsparts-18d99cc0d63a" available="true">
+      <name>Секретки на колеса Chevrolet Tahoe 2015- + гайки на колеса, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>61500</price>
+      <description>Оригинальный комплект секреток и гаек Шевроле Тахо 2015- для защиты от кражи колес
+Размеры M14 x 1.5
+Покрытие - хром.
+Состав: 20 гаек + 4 секретки + ключ секретки Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Секретки на колеса Chevrolet Tahoe 2015- + гайки на колеса, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-18d99cc0d63a_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/sekretki-na-kolesa-chevrolet-tahoe-2015-gajki-na-kolesa-original</param>
+    </offer>
+    <offer id="starsparts-10c60677215b" available="true">
+      <name>Колесные гайки с секретками GM, длинные, черные, оригинал</name>
+      <categoryId>9718288</categoryId>
+      <price>251000</price>
+      <description>Колесные гайки с секретками GM, длинные, черные, оригинал — GM. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Колесные гайки с секретками GM, длинные, черные, оригинал, GMC, Yukon V 2020-2024</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-10c60677215b_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-10c60677215b_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-10c60677215b_2.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kolesnye-gajki-s-sekretkami-chevrolet-tahoe-2021-dlinnye-chernye-original</param>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
