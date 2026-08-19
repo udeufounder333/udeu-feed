@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-08-19 06:55:14">
+  <shop>
+    <name>Udeu.kz</name>
+    <company>Udeu.kz</company>
+    <url>https://udeu.kz</url>
+    <currencies>
+      <currency id="KZT" rate="1"/>
+    </currencies>
+    <categories>
+    <category id="9718273">Coupe 2009–2015</category>
+    <category id="9718274">Genesis G70</category>
+    <category id="9718275">Genesis GV80 2021-</category>
+    </categories>
+    <offers>
+    <offer id="starsparts-a40c474570d2" available="true">
+      <name>Задние LED-фонари Full LED динамический поворотник для Hyundai Genesis Coupe (2009-2013), комплект, комплект, FT Carlight Carlight</name>
+      <categoryId>9718273</categoryId>
+      <price>312846</price>
+      <description>Задние LED-фонари Full LED динамический поворотник для Hyundai Genesis Coupe (2009-2013), комплект, комплект, FT Carlight Carlight — FT Carlight. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Задние LED-фонари Full LED динамический поворотник для Hyundai Genesis Coupe (2009-2013), комплект, комплект, FT Carlight Carlight, Genesis, Coupe 2009–2015</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a40c474570d2_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a40c474570d2_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a40c474570d2_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zadnie-ledfonari-full-led-dinamicheskij-povorotnik-dlya-hyundai-genesis-coupe-20092013-komplekt-komplekt-ft-carlight-carlight</param>
+    </offer>
+    <offer id="starsparts-d76259e2628f" available="true">
+      <name>Фары передние LED с ходовыми огнями для Hyundai Genesis Coupe (2009-2012), комплект, FT Carlight</name>
+      <categoryId>9718273</categoryId>
+      <price>371496</price>
+      <description>Фары передние LED с ходовыми огнями для Hyundai Genesis Coupe (2009-2012), комплект, FT Carlight — FT Carlight. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фары передние LED с ходовыми огнями для Hyundai Genesis Coupe (2009-2012), комплект, FT Carlight, Genesis, Coupe 2009–2015</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d76259e2628f_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/fary-perednie-led-s-hodovymi-ognyami-dlya-hyundai-genesis-coupe-20092012-komplekt-ft-carlight</param>
+    </offer>
+    <offer id="starsparts-f3273e91a4e6" available="true">
+      <name>Фары передние LED с ходовыми огнями для Hyundai Genesis Coupe (2009-2013), комплект, FT Carlight</name>
+      <categoryId>9718273</categoryId>
+      <price>457822</price>
+      <description>Фары передние LED с ходовыми огнями для Hyundai Genesis Coupe (2009-2013), комплект, FT Carlight — FT Carlight. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фары передние LED с ходовыми огнями для Hyundai Genesis Coupe (2009-2013), комплект, FT Carlight, Genesis, Coupe 2009–2015</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f3273e91a4e6_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f3273e91a4e6_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f3273e91a4e6_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/fary-perednie-led-s-hodovymi-ognyami-dlya-hyundai-genesis-coupe-20092013-komplekt-ft-carlight</param>
+    </offer>
+    <offer id="starsparts-e96f2fea95cd" available="true">
+      <name>Фары передние LED с ходовыми огнями для Hyundai Genesis Coupe (2009-2012), комплект, FT Carlight</name>
+      <categoryId>9718273</categoryId>
+      <price>446444</price>
+      <description>Фары передние LED с ходовыми огнями для Hyundai Genesis Coupe (2009-2012), комплект, FT Carlight — FT Carlight. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фары передние LED с ходовыми огнями для Hyundai Genesis Coupe (2009-2012), комплект, FT Carlight, Genesis, Coupe 2009–2015</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e96f2fea95cd_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e96f2fea95cd_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e96f2fea95cd_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/4e23e0b3-278e-44ef-87ea-e7a8047922bd</param>
+    </offer>
+    <offer id="starsparts-eb707596be45" available="true">
+      <name>Выхлопная система Catback с электроклапаном для Genesis Coupe 3.8L 2009-2015</name>
+      <categoryId>9718273</categoryId>
+      <price>636783</price>
+      <description>Выхлопная система Catback с электроклапаном для Genesis Coupe 3.8L 2009-2015 — GFC Automotive. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Catback с электроклапаном для Genesis Coupe 3.8L 2009-2015, Genesis, Coupe 2009–2015</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-eb707596be45_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-eb707596be45_2.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-catback-s-elektroklapanom-dlya-genesis-coupe-38l-20092015</param>
+    </offer>
+    <offer id="starsparts-2b69fe2a55e5" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для Genesis Coupe (2010-2014)</name>
+      <categoryId>9718273</categoryId>
+      <price>1423000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для Genesis Coupe (2010-2014) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для Genesis Coupe (2010-2014), Genesis, Coupe 2009–2015</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-2b69fe2a55e5_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-genesis-coupe-20102014</param>
+    </offer>
+    <offer id="starsparts-c96faf8c5c66" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для Genesis Coupe (2010-2016)</name>
+      <categoryId>9718273</categoryId>
+      <price>1563000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для Genesis Coupe (2010-2016) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для Genesis Coupe (2010-2016), Genesis, Coupe 2009–2015</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c96faf8c5c66_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-genesis-coupe-20102016</param>
+    </offer>
+    <offer id="starsparts-4f2f0923c88c" available="true">
+      <name>Спойлер на крышку багажника Genesis G70, черный матовый</name>
+      <categoryId>9718274</categoryId>
+      <price>90600</price>
+      <description>Спойлер на крышку багажника для Генезис G70. Материал ABS пластик. Цвет черный матовый. Устанвока на двухсторонний 3М скотч. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Спойлер на крышку багажника Genesis G70, черный матовый, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4f2f0923c88c_2.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/spojler-na-kryshku-bagazhnika-genesis-g70-chernyj-matovyj</param>
+    </offer>
+    <offer id="starsparts-e7a3f07d29d5" available="true">
+      <name>Спойлер на заднее стекло Genesis G70, черный</name>
+      <categoryId>9718274</categoryId>
+      <price>79800</price>
+      <description>Спойлер на заднее стекло для Генезис G70. Материал ABS пластик. Цвет черный. Устанвока на двухсторонний 3М скотч. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Спойлер на заднее стекло Genesis G70, черный, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e7a3f07d29d5_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e7a3f07d29d5_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/spojler-na-zadnee-steklo-genesis-g70-chernyj</param>
+    </offer>
+    <offer id="starsparts-7f1f351413cf" available="true">
+      <name>Элероны порогов Genesis G70, черный матовый, 2 части, M&amp;S</name>
+      <categoryId>9718274</categoryId>
+      <price>174400</price>
+      <description>Накладки Элероны под боковые пороги для Генезис G70. Комплект 2 накладки. Материал ABS пластик. Цвет матовый черный. Можно устанавливать как в передней части порогов, так и в задней части. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Элероны порогов Genesis G70, черный матовый, 2 части, M&amp;S, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7f1f351413cf_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7f1f351413cf_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/elerony-porogov-genesis-g70-chernyj-matovyj-2-chasti-ms</param>
+    </offer>
+    <offer id="starsparts-8e34ba0e122f" available="true">
+      <name>Пепельница в салон Genesis, оригинал</name>
+      <categoryId>9718274</categoryId>
+      <price>53625</price>
+      <description>Оригинальная пепельница в салон Генезис. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Пепельница в салон Genesis, оригинал, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8e34ba0e122f_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8e34ba0e122f_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/pepelnica-v-salon-genesis-original</param>
+    </offer>
+    <offer id="starsparts-b45ca9371955" available="true">
+      <name>Вставки в подстаканники и карман центральной консоли Genesis G70, алюминий</name>
+      <categoryId>9718274</categoryId>
+      <price>40200</price>
+      <description>Вставки в подстаканники и карман центральной консоли для Генезис G70. Материал алюминий. Комплект 3 части. Установка на двухсторонний 3М скотч. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Вставки в подстаканники и карман центральной консоли Genesis G70, алюминий, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b45ca9371955_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b45ca9371955_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-b45ca9371955_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vstavki-v-podstakanniki-i-karman-centralnoj-konsoli-genesis-g70-alyuminij</param>
+    </offer>
+    <offer id="starsparts-1ef01618fb5c" available="true">
+      <name>Вставки в подстаканники и карман центральной консоли Genesis G70, с подсветкой</name>
+      <categoryId>9718274</categoryId>
+      <price>64200</price>
+      <description>Вставки в подстаканники и карман центральной консоли для Генезис G70. Материал акрил и LED. Комплект 2 части. Подсветка красного, синего и белого цветов. Установка на двухсторонний 3М скотч. Инструкции в комплекте нет. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Вставки в подстаканники и карман центральной консоли Genesis G70, с подсветкой, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1ef01618fb5c_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1ef01618fb5c_2.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vstavki-v-podstakanniki-i-karman-centralnoj-konsoli-genesis-g70-s-podsvetkoj</param>
+    </offer>
+    <offer id="starsparts-fd29e1e8fab0" available="true">
+      <name>Выхлопная система Genesis G70, EVC Sports Variable Ver., 2.0T-GDi, JUN B.L</name>
+      <categoryId>9718274</categoryId>
+      <price>1119000</price>
+      <description>Спортивный глушитель для Генезис G70. Для автомобилей с мотором 2.0T-GDi. В комплекте средняя и задние части глушителя. Материал нержавеющая сталь. Диаметр трубы 60,5. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Genesis G70, EVC Sports Variable Ver., 2.0T-GDi, JUN B.L, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fd29e1e8fab0_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fd29e1e8fab0_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fd29e1e8fab0_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fd29e1e8fab0_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-genesis-g70-evc-sports-variable-ver-20tgdi-jun-bl</param>
+    </offer>
+    <offer id="starsparts-cbbbaaa8c562" available="true">
+      <name>Выхлопная система Genesis G70, Racing Ver., 2.0T-GDi, JUN B.L</name>
+      <categoryId>9718274</categoryId>
+      <price>1173750</price>
+      <description>Cпортивный глушитель для Генезис G70. Для автомобилей с мотором 2.0T-GDi. В комплекте средняя и задние части глушителя. Материал нержавеющая сталь. Диаметр трубы 54. +9,6 л.с. при 6000 об / мин. +2,1 крутящего момента (кг.м) при 3400 об / мин. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Genesis G70, Racing Ver., 2.0T-GDi, JUN B.L, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cbbbaaa8c562_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cbbbaaa8c562_2.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-genesis-g70-racing-ver-20tgdi-jun-bl</param>
+    </offer>
+    <offer id="starsparts-d086b3a22d91" available="true">
+      <name>Выхлопная система Genesis G70, E.V.C performance, 2.0T-GDi, JUN B.L</name>
+      <categoryId>9718274</categoryId>
+      <price>1481250</price>
+      <description>Спортивный глушитель для Генезис G70. Для автомобилей с мотором 2.0T-GDi. В комплекте средняя и задние части глушителя. Материал нержавеющая сталь. Диаметр трубы 54. +12,1 л.с. при 5700 об / мин. +2,1 крутящего момента (кг.м) при 2700 об / мин. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Genesis G70, E.V.C performance, 2.0T-GDi, JUN B.L, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d086b3a22d91_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d086b3a22d91_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d086b3a22d91_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-genesis-g70-evc-performance-20tgdi-jun-bl</param>
+    </offer>
+    <offer id="starsparts-1a8990157352" available="true">
+      <name>Выхлопная система Genesis G70, GT-Ver., 2.0T-GDi, JUN B.L</name>
+      <categoryId>9718274</categoryId>
+      <price>1173750</price>
+      <description>Спортивный глушитель для Генезис G70. Для автомобилей с мотором 2.0T-GDi. В комплекте средняя и задние части глушителя. Материал нержавеющая сталь. Диаметр трубы 54. +28,6 лошадиных сил (л.с.) при 6000 об / мин. +4,0 Крутящий момент (кг.м) при 6000 об / мин. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Genesis G70, GT-Ver., 2.0T-GDi, JUN B.L, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1a8990157352_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1a8990157352_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-1a8990157352_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-genesis-g70-gtver-20tgdi-jun-bl</param>
+    </offer>
+    <offer id="starsparts-af74b70ec9dc" available="true">
+      <name>Выхлопная система Borla S-Type Cat-Back для Genesis G70 3.3L V6 Twin Turbo (2022-2025)</name>
+      <categoryId>9718274</categoryId>
+      <price>1744000</price>
+      <description>Выхлопная система Borla S-Type Cat-Back для Genesis G70 3.3L V6 Twin Turbo (2022-2025) — Borla. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Выхлопная система Borla S-Type Cat-Back для Genesis G70 3.3L V6 Twin Turbo (2022-2025), Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-af74b70ec9dc_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-borla-stype-catback-dlya-genesis-g70-33l-v6-twin-turbo-20222025</param>
+    </offer>
+    <offer id="starsparts-e5d4b4cd8e11" available="true">
+      <name>Накладки под ручки Genesis G70, алюминий</name>
+      <categoryId>9718274</categoryId>
+      <price>28200</price>
+      <description>Накладки под салонные ручки открывания дверей Генезис G70. Комплект 4 накладки. Материал алюминий. Установка да двухсторонний 3М скотч. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки под ручки Genesis G70, алюминий, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e5d4b4cd8e11_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e5d4b4cd8e11_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e5d4b4cd8e11_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e5d4b4cd8e11_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-pod-ruchki-genesis-g70-alyuminij</param>
+    </offer>
+    <offer id="starsparts-69a09321a5c8" available="true">
+      <name>Накладки на ответную часть замка двери Genesis G70 G80, сталь, золото, хром, синий, черный</name>
+      <categoryId>9718274</categoryId>
+      <price>23700</price>
+      <description>Накладки на ответную часть замков дверей для Генезис G70 G80. Комплект 4 части. Материал ABS пластик. Цвет на выбор: золото, хром, синий, черный Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на ответную часть замка двери Genesis G70 G80, сталь, золото, хром, синий, черный, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-69a09321a5c8_2.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-na-otvetnuyu-chast-zamka-dveri-genesis-g70-g80-stal-zoloto-hrom-sinij-chernyj</param>
+    </offer>
+    <offer id="starsparts-d1e52e436468" available="true">
+      <name>Накладки под ручки Genesis G70, пластик</name>
+      <categoryId>9718274</categoryId>
+      <price>34800</price>
+      <description>Накладки под салонные ручки открывания дверей Генезис G70. Комплект 4 накладки. Материал ABS пластик. Установка да двухсторонний 3М скотч. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки под ручки Genesis G70, пластик, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d1e52e436468_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-pod-ruchki-genesis-g70-plastik</param>
+    </offer>
+    <offer id="starsparts-c618b3c0365a" available="true">
+      <name>Накладки под ручки Genesis G70, с подсветкой</name>
+      <categoryId>9718274</categoryId>
+      <price>54000</price>
+      <description>Накладки под салонные ручки открывания дверей с подсветкой для Генезис G70. Комплект 4 накладки. Материал акрил и LED. Подсветка красного, синего и белого цветов. Установка да двухсторонний 3М скотч. Инструкция по установке не поставляется. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки под ручки Genesis G70, с подсветкой, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c618b3c0365a_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c618b3c0365a_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c618b3c0365a_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c618b3c0365a_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-pod-ruchki-genesis-g70-s-podsvetkoj</param>
+    </offer>
+    <offer id="starsparts-90ed39643397" available="true">
+      <name>Накладки на форточки задних дверей Genesis G70, с надписью</name>
+      <categoryId>9718274</categoryId>
+      <price>45000</price>
+      <description>Накладки на форточки задних дверей для Генезис G70. Комплект 2 накладки. Материал пластик. Установка на двухсторонний 3М скотч. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на форточки задних дверей Genesis G70, с надписью, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-90ed39643397_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-90ed39643397_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-na-fortochki-zadnih-dverej-genesis-g70-s-nadpisyu</param>
+    </offer>
+    <offer id="starsparts-f9cf74caca22" available="true">
+      <name>Накладки на передний бампер Genesis G70, черный</name>
+      <categoryId>9718274</categoryId>
+      <price>51000</price>
+      <description>Накладки на передний бампер Генезис G70. Комплект 2 накладки. Цвет черный. Установка на двухсторонний 3М скотч. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на передний бампер Genesis G70, черный, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f9cf74caca22_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f9cf74caca22_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-f9cf74caca22_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-na-perednij-bamper-genesis-g70-chernyj</param>
+    </offer>
+    <offer id="starsparts-54c2c4b03af3" available="true">
+      <name>Корпуса зеркал Genesis G70, карбон</name>
+      <categoryId>9718274</categoryId>
+      <price>93000</price>
+      <description>Корпуса зеркал для Генезис G70. Материал карбон. Установка вместо штатных. Комплект 2 корпуса зеркал левый и правый. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Корпуса зеркал Genesis G70, карбон, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-54c2c4b03af3_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-54c2c4b03af3_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/korpusa-zerkal-genesis-g70-karbon</param>
+    </offer>
+    <offer id="starsparts-ba5e667c0885" available="true">
+      <name>Коврики салона Genesis G70, оригинал</name>
+      <categoryId>9718274</categoryId>
+      <price>48750</price>
+      <description>Оригинальные коврики салона для Генезис G70. Комплект на 2 ряда. Цвет черный. Материал полиуретан. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики салона Genesis G70, оригинал, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ba5e667c0885_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovriki-salona-genesis-g70-original</param>
+    </offer>
+    <offer id="starsparts-c7735006a036" available="true">
+      <name>Коврик в багажник Genesis G70, оригинал</name>
+      <categoryId>9718274</categoryId>
+      <price>27950</price>
+      <description>Оригинальный коврик в багажник Генезис G70. Цвет черный. Материал полиуретан. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврик в багажник Genesis G70, оригинал, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c7735006a036_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovrik-v-bagazhnik-genesis-g70-original</param>
+    </offer>
+    <offer id="starsparts-66de6d8acf16" available="true">
+      <name>Защита картера Genesis G70, сталь, оригинал</name>
+      <categoryId>9718274</categoryId>
+      <price>22750</price>
+      <description>Защита картера Genesis G70, сталь, оригинал — MOBIS. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защита картера Genesis G70, сталь, оригинал, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-66de6d8acf16_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashita-kartera-genesis-g70-stal-original</param>
+    </offer>
+    <offer id="starsparts-7a1911cd1b0a" available="true">
+      <name>Защита КПП Genesis G70, сталь, оригинал</name>
+      <categoryId>9718274</categoryId>
+      <price>29250</price>
+      <description>Защита КПП для Генезис G70. Материал сталь. Комплект защита и крепеж. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защита КПП Genesis G70, сталь, оригинал, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7a1911cd1b0a_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashita-kpp-genesis-g70-stal-original</param>
+    </offer>
+    <offer id="starsparts-d2af8b9a410b" available="true">
+      <name>Защита картера + КПП + РК Genesis G70, сталь, комплект, Rival</name>
+      <categoryId>9718274</categoryId>
+      <price>52650</price>
+      <description>Комплект защит Картера ДВС + Картера КПП + Раздаточной Коробки для Генезис G70. Материал сталь. Комплект 2 защиты и крепеж. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защита картера + КПП + РК Genesis G70, сталь, комплект, Rival, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d2af8b9a410b_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashita-kartera-kpp-rk-genesis-g70-stal-komplekt-rival</param>
+    </offer>
+    <offer id="starsparts-4ae107fc5896" available="true">
+      <name>Защита картера + КПП + РК Genesis G70, алюминий, комплект, Rival</name>
+      <categoryId>9718274</categoryId>
+      <price>114713</price>
+      <description>Комплект защит Картера ДВС + Картера КПП + Раздаточной Коробки для Генезис G70. Материал алюминий. Комплект 2 защиты и крепеж. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защита картера + КПП + РК Genesis G70, алюминий, комплект, Rival, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-4ae107fc5896_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashita-kartera-kpp-rk-genesis-g70-alyuminij-komplekt-rival</param>
+    </offer>
+    <offer id="starsparts-5d1ab10fbeb3" available="true">
+      <name>Распорки подкапотного пространства Genesis G70, карбон</name>
+      <categoryId>9718274</categoryId>
+      <price>150000</price>
+      <description>Распорки подкапотного пространства для Генезис G70. Материал карбон. Комплект 2 распорки. Установка вместо штатных. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Распорки подкапотного пространства Genesis G70, карбон, Genesis, Genesis G70</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5d1ab10fbeb3_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5d1ab10fbeb3_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5d1ab10fbeb3_2.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/rasporki-podkapotnogo-prostranstva-genesis-g70-karbon</param>
+    </offer>
+    <offer id="starsparts-447033b36691" available="true">
+      <name>Фаркоп Genesis GV80 2021-, оцинкованный, шар E нерж., ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>165750</price>
+      <description>Фаркоп Genesis GV80 2021-, оцинкованный, шар E нерж., ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фаркоп Genesis GV80 2021-, оцинкованный, шар E нерж., ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-447033b36691_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/farkop-genesis-gv80-2021-ocinkovannyj-shar-e-nerzh-tss</param>
+    </offer>
+    <offer id="starsparts-3f01972b3642" available="true">
+      <name>Фаркоп Genesis GV80 2021-, оцинкованный, шар E, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>143650</price>
+      <description>Фаркоп Genesis GV80 2021-, оцинкованный, шар E, ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фаркоп Genesis GV80 2021-, оцинкованный, шар E, ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-3f01972b3642_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/farkop-genesis-gv80-2021-ocinkovannyj-shar-e-tss</param>
+    </offer>
+    <offer id="starsparts-a7d161261e9a" available="true">
+      <name>Фаркоп (оцинкованный, шар E), Genesis GV80 4WD 2020- (Бензин), ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>94185</price>
+      <description>Фаркоп (оцинкованный, шар E), Genesis GV80 4WD 2020- (Бензин), ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фаркоп (оцинкованный, шар E), Genesis GV80 4WD 2020- (Бензин), ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a7d161261e9a_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/farkop-ocinkovannyj-shar-e-genesis-gv80-4wd-2020-benzin-tss</param>
+    </offer>
+    <offer id="starsparts-d2dcf756227f" available="true">
+      <name>Фаркоп (оцинкованный, шар E нерж.), Genesis GV80 4WD 2020- (Бензин), ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>113360</price>
+      <description>Фаркоп (оцинкованный, шар E нерж.), Genesis GV80 4WD 2020- (Бензин), ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Фаркоп (оцинкованный, шар E нерж.), Genesis GV80 4WD 2020- (Бензин), ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d2dcf756227f_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/farkop-ocinkovannyj-shar-e-nerzh-genesis-gv80-4wd-2020-benzin-tss</param>
+    </offer>
+    <offer id="starsparts-9ba34ab64b58" available="true">
+      <name>Пороги ступеньки Genesis GV80 2021-, с площадкой 42,4 мм, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>141700</price>
+      <description>Пороги ступеньки Genesis GV80 2021-, с площадкой 42,4 мм, ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Пороги ступеньки Genesis GV80 2021-, с площадкой 42,4 мм, ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9ba34ab64b58_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/porogi-stupenki-genesis-gv80-2021-s-ploshadkoj-424-mm-tss</param>
+    </offer>
+    <offer id="starsparts-758bded3f00d" available="true">
+      <name>Пороги ступеньки Genesis GV80 2021-, с площадкой (нерж. лист) 42,4 мм, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>171275</price>
+      <description>Пороги ступеньки Genesis GV80 2021-, с площадкой (нерж. лист) 42,4 мм, ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Пороги ступеньки Genesis GV80 2021-, с площадкой (нерж. лист) 42,4 мм, ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-758bded3f00d_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/porogi-stupenki-genesis-gv80-2021-s-ploshadkoj-nerzh-list-424-mm-tss</param>
+    </offer>
+    <offer id="starsparts-ab6395bac93c" available="true">
+      <name>Пороги ступеньки Genesis GV80 2021-, алюминиевые Slim Line Silver, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>156000</price>
+      <description>Пороги ступеньки Genesis GV80 2021-, алюминиевые Slim Line Silver, ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Пороги ступеньки Genesis GV80 2021-, алюминиевые Slim Line Silver, ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ab6395bac93c_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/porogi-stupenki-genesis-gv80-2021-alyuminievye-slim-line-silver-tss</param>
+    </offer>
+    <offer id="starsparts-8f5e1ed11d83" available="true">
+      <name>Пороги ступеньки Genesis GV80 2021-, алюминиевые Slim Line Black, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>156000</price>
+      <description>Пороги ступеньки Genesis GV80 2021-, алюминиевые Slim Line Black, ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Пороги ступеньки Genesis GV80 2021-, алюминиевые Slim Line Black, ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8f5e1ed11d83_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/porogi-stupenki-genesis-gv80-2021-alyuminievye-slim-line-black-tss</param>
+    </offer>
+    <offer id="starsparts-face2e8c0437" available="true">
+      <name>Пороги ступеньки Genesis GV80 2021-, алюминиевые с пластиковой накладкой (карбон черные), ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>200720</price>
+      <description>Пороги ступеньки Genesis GV80 2021-, алюминиевые с пластиковой накладкой (карбон черные), ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Пороги ступеньки Genesis GV80 2021-, алюминиевые с пластиковой накладкой (карбон черные), ТСС, Genesis, Genesis GV80 2021-</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/porogi-stupenki-genesis-gv80-2021-alyuminievye-s-plastikovoj-nakladkoj-karbon-chernye-tss</param>
+    </offer>
+    <offer id="starsparts-c2a5fcd17e1b" available="true">
+      <name>Пороги ступеньки Genesis GV80 2021-, алюминиевые с пластиковой накладкой (карбон серебро), ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>200720</price>
+      <description>Пороги ступеньки Genesis GV80 2021-, алюминиевые с пластиковой накладкой (карбон серебро), ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Пороги ступеньки Genesis GV80 2021-, алюминиевые с пластиковой накладкой (карбон серебро), ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c2a5fcd17e1b_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/porogi-stupenki-genesis-gv80-2021-alyuminievye-s-plastikovoj-nakladkoj-karbon-serebro-tss</param>
+    </offer>
+    <offer id="starsparts-d4a4822b14fd" available="true">
+      <name>Пороги ступеньки Genesis GV80 2021-, алюминиевые с пластиковой накладкой (карбон серые), ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>200720</price>
+      <description>Пороги ступеньки Genesis GV80 2021-, алюминиевые с пластиковой накладкой (карбон серые), ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Пороги ступеньки Genesis GV80 2021-, алюминиевые с пластиковой накладкой (карбон серые), ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-d4a4822b14fd_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/porogi-stupenki-genesis-gv80-2021-alyuminievye-s-plastikovoj-nakladkoj-karbon-serye-tss</param>
+    </offer>
+    <offer id="starsparts-13128e5eb3fa" available="true">
+      <name>Пороги ступеньки Genesis GV80 2021-, алюминиевые с пластиковой накладкой, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>189800</price>
+      <description>Пороги ступеньки Genesis GV80 2021-, алюминиевые с пластиковой накладкой, ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Пороги ступеньки Genesis GV80 2021-, алюминиевые с пластиковой накладкой, ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-13128e5eb3fa_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/porogi-stupenki-genesis-gv80-2021-alyuminievye-s-plastikovoj-nakladkoj-tss</param>
+    </offer>
+    <offer id="starsparts-179c49555c71" available="true">
+      <name>Органайзер в подлокотник Genesis GV80 2021-</name>
+      <categoryId>9718275</categoryId>
+      <price>7800</price>
+      <description>Органайзер в подлокотник Genesis GV80 2021- — GZ HighFly LTD.. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Органайзер в подлокотник Genesis GV80 2021-, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-179c49555c71_0.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-179c49555c71_1.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/organajzer-v-podlokotnik-genesis-gv80-2021</param>
+    </offer>
+    <offer id="starsparts-291b80c4063b" available="true">
+      <name>Накладки на внутренние пороги Genesis GV80 2021-, нержавейка, черные</name>
+      <categoryId>9718275</categoryId>
+      <price>72000</price>
+      <description>В комплекте 4 накладки. Установка на 2-х сторонний 3М скотч. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на внутренние пороги Genesis GV80 2021-, нержавейка, черные, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-291b80c4063b_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-291b80c4063b_1.png</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-291b80c4063b_2.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-na-vnutrennie-porogi-genesis-gv80-2021-nerzhavejka-chernye</param>
+    </offer>
+    <offer id="starsparts-c70280a1aafa" available="true">
+      <name>Накладки на педали Genesis GV80 2021-, оригинал</name>
+      <categoryId>9718275</categoryId>
+      <price>95225</price>
+      <description>Накладки на педали Genesis GV80 2021-, оригинал — MOBIS. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на педали Genesis GV80 2021-, оригинал, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c70280a1aafa_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c70280a1aafa_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-na-pedali-genesis-gv80-2021-original</param>
+    </offer>
+    <offer id="starsparts-6ac6d9238e91" available="true">
+      <name>Накладка на заднюю дверь Genesis GV80 2021-, лист шлифованный, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>22100</price>
+      <description>Накладка на заднюю дверь Genesis GV80 2021-, лист шлифованный, ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладка на заднюю дверь Genesis GV80 2021-, лист шлифованный, ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6ac6d9238e91_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladka-na-zadnyuyu-dver-genesis-gv80-2021-list-shlifovannyj-tss</param>
+    </offer>
+    <offer id="starsparts-6b94f682a746" available="true">
+      <name>Накладка на задний бампер Genesis GV80 2021-, лист шлифованный, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>23400</price>
+      <description>Накладка на задний бампер Genesis GV80 2021-, лист шлифованный, ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладка на задний бампер Genesis GV80 2021-, лист шлифованный, ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-6b94f682a746_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladka-na-zadnij-bamper-genesis-gv80-2021-list-shlifovannyj-tss</param>
+    </offer>
+    <offer id="starsparts-bcd36c50ac76" available="true">
+      <name>Накладка на задний бампер Genesis GV80 2021-, лист шлифованный надпись Genesis, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>28600</price>
+      <description>Накладка на задний бампер Genesis GV80 2021-, лист шлифованный надпись Genesis, ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладка на задний бампер Genesis GV80 2021-, лист шлифованный надпись Genesis, ТСС, Genesis, Genesis GV80 2021-</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/nakladka-na-zadnij-bamper-genesis-gv80-2021-list-shlifovannyj-nadpis-genesis-tss</param>
+    </offer>
+    <offer id="starsparts-a15326c53714" available="true">
+      <name>Накладки на зеркала Genesis GV80 2021-, под карбон</name>
+      <categoryId>9718275</categoryId>
+      <price>63000</price>
+      <description>Имитация карбона. Комплект из 2-х накладок. Установка на 2-х сторонний 3М скотч. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки на зеркала Genesis GV80 2021-, под карбон, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a15326c53714_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a15326c53714_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a15326c53714_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a15326c53714_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-na-zerkala-genesis-gv80-2021-pod-karbon</param>
+    </offer>
+    <offer id="starsparts-eb75779a4cfc" available="true">
+      <name>Накладки передних форточек Genesis GV80 2021-, серебристые</name>
+      <categoryId>9718275</categoryId>
+      <price>42500</price>
+      <description>Накладки передних форточек Genesis GV80 2021-, серебристые — Корея. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Накладки передних форточек Genesis GV80 2021-, серебристые, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-eb75779a4cfc_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-eb75779a4cfc_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-eb75779a4cfc_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/nakladki-perednih-fortochek-genesis-gv80-2021-serebristye</param>
+    </offer>
+    <offer id="starsparts-cf2db6b03351" available="true">
+      <name>Молдинги на двери Genesis GV80 2021-, хром</name>
+      <categoryId>9718275</categoryId>
+      <price>125000</price>
+      <description>Молдинги на двери Genesis GV80 2021-, хром — Dawn Enterprises. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Молдинги на двери Genesis GV80 2021-, хром, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cf2db6b03351_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-cf2db6b03351_2.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/moldingi-na-dveri-genesis-gv80-2021-hrom</param>
+    </offer>
+    <offer id="starsparts-ea0437353ce3" available="true">
+      <name>Молдинги на двери Genesis GV80 2021-, в цвет кузова</name>
+      <categoryId>9718275</categoryId>
+      <price>112500</price>
+      <description>Молдинги на двери Genesis GV80 2021-, в цвет кузова — Dawn Enterprises. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Молдинги на двери Genesis GV80 2021-, в цвет кузова, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ea0437353ce3_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/moldingi-na-dveri-genesis-gv80-2021-v-cvet-kuzova</param>
+    </offer>
+    <offer id="starsparts-549031d57483" available="true">
+      <name>Молдинги на двери Genesis GV80 2021-, в цвет кузова с хром вставкой</name>
+      <categoryId>9718275</categoryId>
+      <price>145500</price>
+      <description>Молдинги на двери Genesis GV80 2021-, в цвет кузова с хром вставкой — Dawn Enterprises. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Молдинги на двери Genesis GV80 2021-, в цвет кузова с хром вставкой, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-549031d57483_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-549031d57483_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-549031d57483_2.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/moldingi-na-dveri-genesis-gv80-2021-v-cvet-kuzova-s-hrom-vstavkoj</param>
+    </offer>
+    <offer id="starsparts-264c519a82c3" available="true">
+      <name>Коврик в багажник Genesis GV80 2021-, 5 мест, оригинал</name>
+      <categoryId>9718275</categoryId>
+      <price>16283</price>
+      <description>Коврик в багажник Genesis GV80 2021-, 5 мест, оригинал — MOBIS. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврик в багажник Genesis GV80 2021-, 5 мест, оригинал, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-264c519a82c3_0.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovrik-v-bagazhnik-genesis-gv80-2021-5-mest-original</param>
+    </offer>
+    <offer id="starsparts-59593a5fe5b7" available="true">
+      <name>Коврик в багажник Genesis GV80 2021-, 7 мест, оригинал</name>
+      <categoryId>9718275</categoryId>
+      <price>9100</price>
+      <description>Коврик в багажник Genesis GV80 2021-, 7 мест, оригинал — MOBIS. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврик в багажник Genesis GV80 2021-, 7 мест, оригинал, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-59593a5fe5b7_0.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovrik-v-bagazhnik-genesis-gv80-2021-7-mest-original</param>
+    </offer>
+    <offer id="starsparts-8b46fd5e96b5" available="true">
+      <name>Коврики в салон Klever Premium GENESIS GV80, 2020-, кроссовер, 4шт. (текстиль) / Дженезис</name>
+      <categoryId>9718275</categoryId>
+      <price>42855</price>
+      <description>Коврики в салон Klever Premium GENESIS GV80, 2020-, кроссовер, 4шт. (текстиль) / Дженезис — Autofamily. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики в салон Klever Premium GENESIS GV80, 2020-, кроссовер, 4шт. (текстиль) / Дженезис, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-8b46fd5e96b5_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/kovriki-v-salon-klever-premium-genesis-gv80-2020-krossover-4sht-tekstil-dzhenezis</param>
+    </offer>
+    <offer id="starsparts-9adfc3b88cc1" available="true">
+      <name>Коврики в салон Klever Premium GENESIS GV80, 2020-, кроссовер, 4шт. (текстиль, бежевые) / Дженезис</name>
+      <categoryId>9718275</categoryId>
+      <price>42855</price>
+      <description>Коврики в салон Klever Premium GENESIS GV80, 2020-, кроссовер, 4шт. (текстиль, бежевые) / Дженезис — Autofamily. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики в салон Klever Premium GENESIS GV80, 2020-, кроссовер, 4шт. (текстиль, бежевые) / Дженезис, Genesis, Genesis GV80 2021-</keywords>
+
+      <param name="partner_url">https://stars-parts.ru/product/kovriki-v-salon-klever-premium-genesis-gv80-2020-krossover-4sht-tekstil-bezhevye-dzhenezis</param>
+    </offer>
+    <offer id="starsparts-ba62497ac3de" available="true">
+      <name>Коврики в салон Klever Premium GENESIS GV80 2020-, кроссовер, 4шт. (текстиль) / Дженезис</name>
+      <categoryId>9718275</categoryId>
+      <price>42855</price>
+      <description>Коврики в салон Klever Premium GENESIS GV80 2020-, кроссовер, 4шт. (текстиль) / Дженезис — Autofamily. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Коврики в салон Klever Premium GENESIS GV80 2020-, кроссовер, 4шт. (текстиль) / Дженезис, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-ba62497ac3de_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/10205251-2ba9-46ca-9350-cb10fa50dc6b</param>
+    </offer>
+    <offer id="starsparts-5868cd3937b6" available="true">
+      <name>Защита картера Genesis GV80 2021-, алюминий 4мм, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>34750</price>
+      <description>Защита картера Genesis GV80 2021-, алюминий 4мм, ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защита картера Genesis GV80 2021-, алюминий 4мм, ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-5868cd3937b6_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashita-kartera-genesis-gv80-2021-alyuminij-4mm-tss</param>
+    </offer>
+    <offer id="starsparts-caba539ec4ac" available="true">
+      <name>Защита АКПП Genesis GV80 2021-, алюминий 4мм, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>57850</price>
+      <description>Защита АКПП Genesis GV80 2021-, алюминий 4мм, ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защита АКПП Genesis GV80 2021-, алюминий 4мм, ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-caba539ec4ac_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashita-akpp-genesis-gv80-2021-alyuminij-4mm-tss</param>
+    </offer>
+    <offer id="starsparts-9868caf3cf3d" available="true">
+      <name>Защита заднего редуктора Genesis GV80 2021-, алюминий 4мм, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>29250</price>
+      <description>Защита заднего редуктора Genesis GV80 2021-, алюминий 4мм, ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защита заднего редуктора Genesis GV80 2021-, алюминий 4мм, ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9868caf3cf3d_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashita-zadnego-reduktora-genesis-gv80-2021-alyuminij-4mm-tss</param>
+    </offer>
+    <offer id="starsparts-a9423da77474" available="true">
+      <name>Защита бака Genesis GV80 2021-, алюминий 4мм, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>78650</price>
+      <description>Защита бака Genesis GV80 2021-, алюминий 4мм, ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защита бака Genesis GV80 2021-, алюминий 4мм, ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-a9423da77474_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashita-baka-genesis-gv80-2021-alyuminij-4mm-tss</param>
+    </offer>
+    <offer id="starsparts-dd5a2e2c8c6c" available="true">
+      <name>Защита АКПП Genesis GV80 2021-, сталь, вариант 1, оригинал</name>
+      <categoryId>9718275</categoryId>
+      <price>64350</price>
+      <description>Защита АКПП Genesis GV80 2021-, сталь, вариант 1, оригинал — MOBIS. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защита АКПП Genesis GV80 2021-, сталь, вариант 1, оригинал, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-dd5a2e2c8c6c_0.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashita-akpp-genesis-gv80-2021-stal-variant-1-original</param>
+    </offer>
+    <offer id="starsparts-60f438172f09" available="true">
+      <name>Защита АКПП Genesis GV80 2021-, сталь, вариант 2, оригинал</name>
+      <categoryId>9718275</categoryId>
+      <price>58500</price>
+      <description>Защита АКПП Genesis GV80 2021-, сталь, вариант 2, оригинал — MOBIS. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защита АКПП Genesis GV80 2021-, сталь, вариант 2, оригинал, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-60f438172f09_0.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashita-akpp-genesis-gv80-2021-stal-variant-2-original</param>
+    </offer>
+    <offer id="starsparts-176d587168e1" available="true">
+      <name>Защита картера Genesis GV80 2021-, сталь, оригинал</name>
+      <categoryId>9718275</categoryId>
+      <price>91650</price>
+      <description>Защита картера Genesis GV80 2021-, сталь, оригинал — MOBIS. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защита картера Genesis GV80 2021-, сталь, оригинал, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-176d587168e1_0.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashita-kartera-genesis-gv80-2021-stal-original</param>
+    </offer>
+    <offer id="starsparts-40c283dbaa81" available="true">
+      <name>Защита заднего редуктора Genesis GV80 2021-, сталь, оригинал</name>
+      <categoryId>9718275</categoryId>
+      <price>118300</price>
+      <description>Защита заднего редуктора Genesis GV80 2021-, сталь, оригинал — MOBIS. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защита заднего редуктора Genesis GV80 2021-, сталь, оригинал, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-40c283dbaa81_0.png</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashita-zadnego-reduktora-genesis-gv80-2021-stal-original</param>
+    </offer>
+    <offer id="starsparts-98e5d6ecec3f" available="true">
+      <name>Защиты комплект (алюминий) 4 мм (картер, акпп, задний редуктор, бак), Genesis GV80 4WD 3D 2020-, ТСС</name>
+      <categoryId>9718275</categoryId>
+      <price>130163</price>
+      <description>Защиты комплект (алюминий) 4 мм (картер, акпп, задний редуктор, бак), Genesis GV80 4WD 3D 2020-, ТСС — ТСС. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Защиты комплект (алюминий) 4 мм (картер, акпп, задний редуктор, бак), Genesis GV80 4WD 3D 2020-, ТСС, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-98e5d6ecec3f_0.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/zashity-komplekt-alyuminij-4-mm-karter-akpp-zadnij-reduktor-bak-genesis-gv80-4wd-3d-2020-tss</param>
+    </offer>
+    <offer id="starsparts-66711af0dcd0" available="true">
+      <name>Дефлекторы окон Genesis GV80 2021-, хром, 6 частей</name>
+      <categoryId>9718275</categoryId>
+      <price>117000</price>
+      <description>Дефлекторы окон Genesis GV80 2021-, хром, 6 частей — Auto Clover. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлекторы окон Genesis GV80 2021-, хром, 6 частей, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-66711af0dcd0_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-66711af0dcd0_1.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-66711af0dcd0_2.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-66711af0dcd0_3.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/deflektory-okon-genesis-gv80-2021-hrom-6-chastej</param>
+    </offer>
+    <offer id="starsparts-e95ca8706f62" available="true">
+      <name>Дефлекторы окон Genesis GV80 2021-, черный, 4 части</name>
+      <categoryId>9718275</categoryId>
+      <price>49500</price>
+      <description>Дефлекторы окон Genesis GV80 2021-, черный, 4 части. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлекторы окон Genesis GV80 2021-, черный, 4 части, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-e95ca8706f62_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/deflektory-okon-genesis-gv80-2021-chernyj-4-chasti</param>
+    </offer>
+    <offer id="starsparts-7341cbcafd61" available="true">
+      <name>Дефлекторы окон Genesis GV80 2021-, хром, 4 части</name>
+      <categoryId>9718275</categoryId>
+      <price>108750</price>
+      <description>Дефлекторы окон Genesis GV80 2021-, хром, 4 части — Auto Clover. Доступен под заказ, срок доставки 2-15 дней.</description>
+      <keywords>Дефлекторы окон Genesis GV80 2021-, хром, 4 части, Genesis, Genesis GV80 2021-</keywords>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7341cbcafd61_0.jpg</picture>
+      <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-7341cbcafd61_1.jpg</picture>
+      <param name="partner_url">https://stars-parts.ru/product/deflektory-okon-genesis-gv80-2021-hrom-4-chasti</param>
+    </offer>
+    </offers>
+  </shop>
+</yml_catalog>
