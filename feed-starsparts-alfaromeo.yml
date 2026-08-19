@@ -16,8 +16,7 @@
           <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c3a379d5da54_1.jpg</picture>
           <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c3a379d5da54_2.jpg</picture>
           <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-c3a379d5da54_3.jpg</picture>
-          <param name="partner_url">https://stars-parts.ru/product/perednyaya-reshetka-v-sbore-chernye-gonochnye-grili-dlya-alfa-romeo-giulia-base-20152023</param>
-        </offer>
+                  </offer>
         <offer id="starsparts-9346c693349c" available="true">
           <name>Задние LED-фонари динамический поворотник для Alfa Romeo Giulia (2016-2023), комплект, комплект, FT Carlight Carlight</name>
           <categoryId>9716997</categoryId>
@@ -28,8 +27,7 @@
           <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9346c693349c_1.jpg</picture>
           <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9346c693349c_2.jpg</picture>
           <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-9346c693349c_3.jpg</picture>
-          <param name="partner_url">https://stars-parts.ru/product/zadnie-ledfonari-dinamicheskij-povorotnik-dlya-alfa-romeo-giulia-20162023-komplekt-komplekt-ft-carlight-carlight</param>
-        </offer>
+                  </offer>
         <offer id="starsparts-50c46a5b35bb" available="true">
           <name>Выхлопная система Catback Valvetronic для Alfa Romeo Giulia 2.0T 2016-2022</name>
           <categoryId>9716997</categoryId>
@@ -40,8 +38,7 @@
           <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-50c46a5b35bb_1.jpg</picture>
           <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-50c46a5b35bb_2.jpg</picture>
           <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-50c46a5b35bb_3.jpg</picture>
-          <param name="partner_url">https://stars-parts.ru/product/vyhlopnaya-sistema-catback-valvetronic-dlya-alfa-romeo-giulia-20t-20162022</param>
-        </offer>
+                  </offer>
     </offers>
   </shop>
 </yml_catalog>
