@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-08-24T09:02:22.422Z">
+<shop>
+<name>Udeu.kz</name>
+<company>Udeu.kz</company>
+<url>https://udeu.kz</url>
+<currencies><currency id="KZT" rate="1"/></currencies>
+<categories>
+<category id="9722600">Firebird III (1982-1992)</category>
+<category id="9722602">Firebird IV (1993-2002)</category>
+</categories>
+<offers>
+<offer id="starsparts-fea15d0c5718" available="true">
+<name>Выхлопная система Borla Cat-Back для Pontiac Firebird/Trans-Am 5.0/5.7L V8 (1984-1992)</name>
+<categoryId>9722600</categoryId>
+<price>1890000</price>
+<currencyId>KZT</currencyId>
+<description> Доступен под заказ, срок доставки 2-15 дней.</description>
+<keywords>Выхлопная система Borla Cat-Back для Pontiac Firebird/Trans-Am 5.0/5.7L V8 (1984-1992), Pontiac</keywords>
+<picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-fea15d0c5718_0.jpg</picture>
+</offer>
+<offer id="starsparts-80a5522bbcd1" available="true">
+<name>Выхлопная система Borla S-Type Cat-Back для Pontiac Firebird/Trans-Am 5.7L V8 (1998-2002)</name>
+<categoryId>9722602</categoryId>
+<price>1161500</price>
+<currencyId>KZT</currencyId>
+<description> Доступен под заказ, срок доставки 2-15 дней.</description>
+<keywords>Выхлопная система Borla S-Type Cat-Back для Pontiac Firebird/Trans-Am 5.7L V8 (1998-2002), Pontiac</keywords>
+<picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-80a5522bbcd1_0.jpg</picture>
+</offer>
+<offer id="starsparts-59ac39ad4a4c" available="true">
+<name>Выхлопная система Borla S-Type Cat-Back для Pontiac Firebird/Trans-Am 5.7L V8 (1998-2002)</name>
+<categoryId>9722602</categoryId>
+<price>1635000</price>
+<currencyId>KZT</currencyId>
+<description> Доступен под заказ, срок доставки 2-15 дней.</description>
+<keywords>Выхлопная система Borla S-Type Cat-Back для Pontiac Firebird/Trans-Am 5.7L V8 (1998-2002), Pontiac</keywords>
+<picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-59ac39ad4a4c_0.jpg</picture>
+</offer>
+<offer id="starsparts-544f6976b215" available="true">
+<name>Выхлопная система Borla Cat-Back для Pontiac Firebird/Trans-Am 5.7L V8 (1995-1997)</name>
+<categoryId>9722602</categoryId>
+<price>1598500</price>
+<currencyId>KZT</currencyId>
+<description> Доступен под заказ, срок доставки 2-15 дней.</description>
+<keywords>Выхлопная система Borla Cat-Back для Pontiac Firebird/Trans-Am 5.7L V8 (1995-1997), Pontiac</keywords>
+<picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_starsparts/starsparts-544f6976b215_0.jpg</picture>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
