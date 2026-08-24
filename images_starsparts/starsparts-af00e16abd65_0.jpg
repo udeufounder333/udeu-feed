@@ -1,0 +1,196 @@
+    <!DOCTYPE html>
+<html xml:lang="ru" lang="ru">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link href="/bitrix/css/main/bootstrap.min.css?1691662922121326" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/css/main/font-awesome.min.css?169166292223748" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/css/main/system.auth/flat/style.min.css?16916629225404" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/portal20/template_a9760cc0c426ccab1cfd687245640034/template_a9760cc0c426ccab1cfd687245640034_v1.css?169204175125195" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1691662869260438"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1706542677','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'3e4711d5afd04a0f6c235a600a6888dc'});</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/portal20/kernel_main/kernel_main_v1.js?1692041551153397"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/session.js','/bitrix/js/main/core/core_fx.js','/bitrix/js/main/pageobject/pageobject.js','/bitrix/js/main/core/core_window.js','/bitrix/js/main/date/main.date.js','/bitrix/js/main/core/core_date.js','/bitrix/js/main/utils.js']);</script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/templates/portal20/styles.css','/bitrix/templates/portal20/template_styles.css','/bitrix/templates/portal20/colors.css']);</script>
+<script type="text/javascript">
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s1");
+
+							if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
+								return;
+
+							var request = new XMLHttpRequest();
+							request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+							request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request.send(
+								"SITE_ID="+encodeURIComponent("s1")+
+								"&sessid="+encodeURIComponent(BX.bitrix_sessid())+
+								"&HTTP_REFERER="+encodeURIComponent(document.referrer)
+							);
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+
+
+
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "73cad11c56732f9ff02c97aa4bdf1027"]); _ba.push(["host", "b2b.autofamily.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+        
+        <title>Авторизация</title>
+                
+
+    </head>
+<body class="bx-background-image bx-theme-green" >
+    <div id="panel"></div>
+
+
+
+    <div class="bx-wrapper" id="bx_eshop_wrap">
+    <header class="bx-header">
+        <div class="bx-header-section container">
+            <div class="row">
+                <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+                    <div class="bx-logo">
+                        <a class="bx-logo-block hidden-xs" href="/">
+                            <img width="196" src="/include/logo.png" height="45" srcset="/include/logo_retina.png">                        </a>
+                        <a class="bx-logo-block hidden-lg hidden-md hidden-sm text-center"
+                           href="/">
+                            <img src="/include/logo_mobile.png"  srcset="/include/logo_mobile_retina.png" />                        </a>
+                    </div>
+                </div>
+                                                            </div>
+                                                            </div>
+    </header>
+
+
+    <div class="workarea">
+    <div class="container bx-content-seection">
+    <div class="row">
+    <div class="bx-content col-md-12 col-sm-8"
+         style="margin:0 25% 0 25%; width:50%;">
+<div class="bx-authform">
+
+
+
+	<h3 class="bx-title">Пожалуйста, авторизуйтесь</h3>
+
+
+	<form name="form_auth" method="post" target="_top" action="/?login=yes">
+
+		<input type="hidden" name="AUTH_FORM" value="Y" />
+		<input type="hidden" name="TYPE" value="AUTH" />
+		<input type="hidden" name="backurl" value="/" />
+
+		<div class="bx-authform-formgroup-container">
+			<div class="bx-authform-label-container">Логин</div>
+			<div class="bx-authform-input-container">
+				<input type="text" name="USER_LOGIN" maxlength="255" value="" />
+			</div>
+		</div>
+		<div class="bx-authform-formgroup-container">
+			<div class="bx-authform-label-container">Пароль</div>
+			<div class="bx-authform-input-container">
+				<input type="password" name="USER_PASSWORD" maxlength="255" autocomplete="off" />
+			</div>
+		</div>
+
+
+		<div class="bx-authform-formgroup-container">
+			<div class="checkbox">
+				<label class="bx-filter-param-label">
+					<input type="checkbox" id="USER_REMEMBER" name="USER_REMEMBER" value="Y" />
+					<span class="bx-filter-param-text">Запомнить меня на этом компьютере</span>
+				</label>
+			</div>
+		</div>
+		<div class="bx-authform-formgroup-container">
+			<input type="submit" class="btn btn-primary" name="Login" value="Войти" />
+		</div>
+	</form>
+
+	<hr class="bxe-light">
+
+	<noindex>
+		<div class="bx-authform-link-container">
+			<a href="/?forgot_password=yes" rel="nofollow"><b>Забыли свой пароль?</b></a>
+		</div>
+	</noindex>
+
+
+	<noindex>
+		<div class="bx-authform-link-container">
+			<a href="/store/" rel="nofollow"><b>Контакты</b></a>
+		</div>
+	</noindex>
+
+
+</div>
+
+<script type="text/javascript">
+try{document.form_auth.USER_LOGIN.focus();}catch(e){}
+</script>
+
+
+
+
+
+					</div>
+
+			
+		</footer>	</div> <!-- //bx-wrapper -->
+
+
+<script>
+	BX.ready(function(){
+		var upButton = document.querySelector('[data-role="eshopUpButton"]');
+		BX.bind(upButton, "click", function(){
+			var windowScroll = BX.GetWindowScrollPos();
+			(new BX.easing({
+				duration : 500,
+				start : { scroll : windowScroll.scrollTop },
+				finish : { scroll : 0 },
+				transition : BX.easing.makeEaseOut(BX.easing.transitions.quart),
+				step : function(state){
+					window.scrollTo(0, state.scroll);
+				},
+				complete: function() {
+				}
+			})).animate();
+		})
+	});
+</script>
+
+
+
+
+
+
+</body>
+</html>
