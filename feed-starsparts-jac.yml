@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2026-08-19T16:45:28.766Z">
 <shop>
-<name></name>
-<company></company>
+<name>Udeu.kz - stars-parts.ru JAC</name>
+<company>Udeu.kz</company>
 <url>https://udeu.kz</url>
 <currencies><currency id="KZT" rate="1"/></currencies>
 <categories>
+<category id="9718509">J7 (2020-н.в.)</category>
+<category id="9718510">T6 (2021-н.в.)</category>
+<category id="9718511">Т8 Pro (2023-н.в.)</category>
 </categories>
 <offers>
 <offer id="starsparts-85b8dbee3c85" available="true">
