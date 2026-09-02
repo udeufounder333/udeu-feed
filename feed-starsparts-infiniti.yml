@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2026-08-19T12:59:09.265Z">
 <shop>
-<name></name>
-<company></company>
+<name>Udeu.kz - stars-parts.ru Infiniti</name>
+<company>Udeu.kz</company>
 <url>https://udeu.kz</url>
 <currencies><currency id="KZT" rate="1"/></currencies>
 <categories>
+<category id="9718486">G37 2009–2013</category>
+<category id="9718487">Q50 2013-2017</category>
+<category id="9718488">Q50 2017-2024</category>
+<category id="9718489">Q60 2015–2020</category>
+<category id="9718490">Q70 (2013-2019)</category>
+<category id="9718491">QX50 II 2017-</category>
+<category id="9718492">QX70 (FX) 2014-</category>
+<category id="9718493">QX80 (QX56) 2014-</category>
+<category id="9718494">QX80 2018-</category>
 </categories>
 <offers>
 <offer id="starsparts-c47383a5f41a" available="true">
