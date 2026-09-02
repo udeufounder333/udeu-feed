@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2026-08-19T21:34:47.981Z">
 <shop>
-<name></name>
-<company></company>
+<name>Udeu.kz - stars-parts.ru Jaguar</name>
+<company>Udeu.kz</company>
 <url>https://udeu.kz</url>
 <currencies><currency id="KZT" rate="1"/></currencies>
 <categories>
+<category id="9718528">E-Pace</category>
+<category id="9718529">F-Pace 2016-</category>
+<category id="9718530">XF 2011–2015</category>
 </categories>
 <offers>
 <offer id="starsparts-cce784cd9316" available="true">
