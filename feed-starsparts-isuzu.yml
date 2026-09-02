@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2026-08-19T14:24:57.423Z">
 <shop>
-<name></name>
-<company></company>
+<name>Udeu.kz - stars-parts.ru Isuzu</name>
+<company>Udeu.kz</company>
 <url>https://udeu.kz</url>
 <currencies><currency id="KZT" rate="1"/></currencies>
 <categories>
+<category id="9718497">D-MAX 2019-</category>
 </categories>
 <offers>
 <offer id="starsparts-ee3930aae22a" available="true">
