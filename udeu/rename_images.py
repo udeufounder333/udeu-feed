@@ -2,12 +2,14 @@
 """Переименование фото в формат Údeu (запускается роботом GitHub после generate.py).
 
 Читает udeu/image_map.csv (исходный путь фото -> новое имя) и переносит файлы; git add в роботе фиксирует переименование.
+Одно исходное фото может принадлежать нескольким листингам: тогда оно переносится под имя первого,
+а для остальных делается копия (git хранит одинаковые файлы один раз, места в репозитории не прибавится).
 Ведёт журнал udeu/image_locations.csv (исходный путь -> где файл лежит сейчас),
-поэтому повторный запуск безопасен: уже перенесённые фото не теряются, а при смене названия
-листинга фото просто переезжает на новое имя.
+поэтому повторный запуск безопасен.
 """
 import csv
 import os
+import shutil
 import sys
 
 MAP = sys.argv[1] if len(sys.argv) > 1 else 'udeu/image_map.csv'
@@ -31,49 +33,52 @@ def save_ledger(loc):
             w.writerow([k, loc[k]])
 
 
-def move_files(pairs):
-    """Обычный перенос файлов (быстро даже для 80 тысяч фото). Git сам увидит переименование при git add."""
-    for src, dst in pairs:
-        os.makedirs(os.path.dirname(dst) or '.', exist_ok=True)
-        if os.path.exists(dst):
-            continue
-        os.rename(src, dst)
-
-
 def main():
     loc = load_ledger()
-    moves, missing, done = [], 0, 0
-    targets = {}
+    groups = {}          # исходное фото -> список новых имён (по порядку)
+    owner = {}           # новое имя -> исходное фото
     with open(MAP, encoding='utf-8') as f:
         for row in csv.DictReader(f):
             orig, new = row['old'], row['new']
-            if new in targets and targets[new] != orig:
-                print(f'ВНИМАНИЕ: одно имя для двух фото: {new}')
+            if new in owner:
+                if owner[new] != orig:
+                    print(f'ВНИМАНИЕ: одно имя для двух фото: {new}')
                 continue
-            targets[new] = orig
-            cur = loc.get(orig, orig)
-            if cur == new and os.path.exists(new):
-                done += 1
-                continue
-            if os.path.exists(cur):
-                moves.append((cur, new))
-                loc[orig] = new
-            elif os.path.exists(new):
-                loc[orig] = new
-                done += 1
+            owner[new] = orig
+            groups.setdefault(orig, []).append(new)
+
+    moved = copied = done = missing = 0
+    for orig, targets in groups.items():
+        primary = targets[0]
+        cur = loc.get(orig, orig)
+        # где сейчас лежит файл: по журналу, на старом месте или уже под одним из новых имён
+        src = None
+        for cand in [primary, cur, orig] + targets[1:]:
+            if os.path.exists(cand):
+                src = cand
+                break
+        if src is None:
+            missing += len(targets)
+            continue
+        if src != primary:
+            os.makedirs(os.path.dirname(primary) or '.', exist_ok=True)
+            if src in targets:
+                shutil.copy2(src, primary)   # файл уже нужен под своим именем — не трогаем его
             else:
-                missing += 1
-    if moves:
-        move_files(moves)
-        failed = 0
-        for orig, cur in list(loc.items()):
-            if not os.path.exists(cur) and os.path.exists(orig):
-                loc[orig] = orig
-                failed += 1
-        if failed:
-            print(f'не удалось перенести: {failed} (останутся на старом месте до следующего запуска)')
+                os.rename(src, primary)
+            moved += 1
+        else:
+            done += 1
+        loc[orig] = primary
+        for t in targets[1:]:
+            if os.path.exists(t):
+                done += 1
+                continue
+            os.makedirs(os.path.dirname(t) or '.', exist_ok=True)
+            shutil.copy2(primary, t)
+            copied += 1
     save_ledger(loc)
-    print(f'перенесено: {len(moves)}, уже на месте: {done}, не найдено: {missing}')
+    print(f'перенесено: {moved}, скопировано для общих фото: {copied}, уже на месте: {done}, не найдено: {missing}')
 
 
 if __name__ == '__main__':
