@@ -388,7 +388,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/farkop-otsinkovannyy-nadpis-jac-shar-e-jac-t6-2021-2-0-benzin-jac-t8-pro-4wd-2-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">JAC</param><param name="Модель автомобиля">T8 Pro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Фаркоп</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-be96ba6d43bc" available="true">
-<name>Фаркоп (оцинкованный, надпись JAC, шар E), JAC Т6 2021 2.0 бензин / JAC Т8 Pro 4WD 2.4T 2023, тип 1, ТСС</name>
+<name>Фаркоп (оцинкованный, надпись JAC, шар E), тип 1, ТСС</name>
 <categoryId>9718511</categoryId>
 <price>142610</price>
 <currencyId>KZT</currencyId>
@@ -11930,7 +11930,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/disk-kolesnyy-r20x9-stroke-d645-glyantsevyy-chernyy-fuel-off-road-89e245-1.jpg</picture>
 <vendor>Fuel Off-Road</vendor><param name="Марка автомобиля">JAC</param><param name="Модель автомобиля">T8 Pro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Диски</param><param name="Цвет">глянцевый черный</param><param name="Производитель">Fuel Off-Road</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-347026b562d6" available="true">
-<name>Диск колесный R20x9 TIS Wheels 544 2.0 Gloss Black Wheels with Milled Accents 20x9 Глянцевый черный TIS</name>
+<name>Диск колесный R20x9 TIS Wheels 544 2.0 Gloss Black Wheels with Milled Accents 20x9 Глянцевый черный</name>
 <categoryId>9718511</categoryId>
 <price>514000</price>
 <currencyId>KZT</currencyId>
@@ -30606,7 +30606,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/disk-kolesnyy-r18x9-warlord-black-rhino-d12428-1.jpg</picture>
 <vendor>Black Rhino</vendor><param name="Марка автомобиля">JAC</param><param name="Модель автомобиля">T8 Pro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Диски</param><param name="Производитель">Black Rhino</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-5e47c94be52c" available="true">
-<name>Защита картера и переднего моста (алюминий) 4мм, JAC T6 4WD 2.0T (бенз) 2021-/ T8 Pro 4WD 2.4T МКПП 2023-, ТСС</name>
+<name>Защита картера и переднего моста (алюминий) 4мм, JAC T6 4WD 2.0T (бенз) 2021-/ T8 Pro 4WD 2.4T МКПП</name>
 <categoryId>9718511</categoryId>
 <price>40625</price>
 <currencyId>KZT</currencyId>
@@ -30693,7 +30693,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-kpp-alyuminiy-4mm-jac-t6-4wd-2-0t-benz-2021-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">JAC</param><param name="Модель автомобиля">T6</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Защита кпп</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-bd6e65dcf242" available="true">
-<name>Защиты комплект (алюминий) 4мм (картера, переднего моста, КПП, раздаточной коробки, бака), JAC T6 4WD 2.0T (бенз) 2021-, ТСС</name>
+<name>Защиты комплект (алюминий) 4мм (картера, переднего моста, КПП, раздаточной коробки, бака), JAC T6</name>
 <categoryId>9718510</categoryId>
 <price>131892</price>
 <currencyId>KZT</currencyId>

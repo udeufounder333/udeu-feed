@@ -583,7 +583,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/svetodiodnye-fary-2-komplekt-iz-2-sht-rough-country-36d936-3.jpg</picture>
 <vendor>Rough Country</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Frontier II</param><param name="Годы выпуска">2009–2021</param><param name="Тип детали">Дополнительные фары</param><param name="Количество">2 шт.</param><param name="Производитель">Rough Country</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-30864840fb65" available="true">
-<name>Комплект тонких светодиодных противотуманных фар 76×44 мм (3×1,75 дюйма), желтый, наружный монтаж, Rough Country</name>
+<name>Комплект тонких светодиодных противотуманных фар 76×44 мм (3×1,75 дюйма), желтый, Rough Country</name>
 <categoryId>9720500</categoryId>
 <price>132500</price>
 <currencyId>KZT</currencyId>
@@ -679,7 +679,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/svetodiodnye-fary-5-komplekt-iz-2-sht-dalniy-svet-yantarnye-dkho-rough-country-3a1ac9-4.jpg</picture>
 <vendor>Rough Country</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Frontier II</param><param name="Годы выпуска">2009–2021</param><param name="Тип детали">Дополнительные фары</param><param name="Количество">2 шт.</param><param name="Производитель">Rough Country</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-e1103e4ad63d" available="true">
-<name>Комплект тонких светодиодных противотуманных фар 76×44 мм (3×1,75 дюйма), белый, врезной монтаж, Rough Country</name>
+<name>Комплект тонких светодиодных противотуманных фар 76×44 мм (3×1,75 дюйма), белый, Rough Country</name>
 <categoryId>9720500</categoryId>
 <price>132500</price>
 <currencyId>KZT</currencyId>
@@ -710,7 +710,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/komplekt-tonkikh-svetodiodnykh-protivotumannykh-far-76-44-mm-3-1-75-dyuyma-39b2d1-3.jpg</picture>
 <vendor>Rough Country</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Frontier II</param><param name="Годы выпуска">2009–2021</param><param name="Тип детали">Противотуманные фары</param><param name="Цвет">белый</param><param name="Производитель">Rough Country</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-e51bdbba009a" available="true">
-<name>Комплект тонких светодиодных противотуманных фар 76×44 мм (3×1,75 дюйма), желтый, врезной монтаж, Rough Country</name>
+<name>Комплект тонких светодиодных противотуманных фар 76×44 мм (3×1,75 дюйма), желтый, Rough Country</name>
 <categoryId>9720500</categoryId>
 <price>132500</price>
 <currencyId>KZT</currencyId>
@@ -3853,7 +3853,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/chernaya-khromirovannaya-sotovaya-reshetka-perednego-bampera-dlya-nissan-maxima-4.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Maxima</param><param name="Годы выпуска">2016–2018</param><param name="Тип детали">Решетка бампера</param><param name="Цвет">черный хром</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-7406f1966bac" available="true">
-<name>ТСУ на а/м NISSAN Murano III SUV 2014- / Ниссан Мурано</name>
+<name>ТСУ на а/м Nissan Murano III SUV 2014- / Ниссан Мурано</name>
 <categoryId>9720505</categoryId>
 <price>94920</price>
 <currencyId>KZT</currencyId>
@@ -4746,7 +4746,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nissan-murano-15-20-qaa-nerzhaveyushchaya-stal-khrom-polirovannye-stoyki-10-sht-1.jpg</picture>
 <vendor>QAA</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z52</param><param name="Годы выпуска">2017–2022</param><param name="Тип детали">Нержавеющая сталь хром полированные стойки 10</param><param name="Материал">нержавеющая сталь</param><param name="Цвет">хром</param><param name="Количество">10 шт.</param><param name="Производитель">QAA</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-eaa676c92b7f" available="true">
-<name>Подкрылок с шумоизоляцией подходит для NISSAN Murano 2016- (задний левый) / Ниссан Мурано</name>
+<name>Подкрылок с шумоизоляцией подходит для Nissan Murano 2016- (задний левый) / Ниссан Мурано</name>
 <categoryId>9720505</categoryId>
 <price>44250</price>
 <currencyId>KZT</currencyId>
@@ -4775,7 +4775,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-nissan-murano-2016-zadniy-levyy-1.jpg</picture>
 <vendor>TOTEM</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z52</param><param name="Годы выпуска">2017–2022</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-09bf2bcbe844" available="true">
-<name>Подкрылок с шумоизоляцией подходит для NISSAN Murano 2016- (задний правый) / Ниссан Мурано</name>
+<name>Подкрылок с шумоизоляцией подходит для Nissan Murano 2016- (задний правый) / Ниссан Мурано</name>
 <categoryId>9720505</categoryId>
 <price>44250</price>
 <currencyId>KZT</currencyId>
@@ -4804,7 +4804,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-nissan-murano-2016-zadniy-pravyy-1.jpg</picture>
 <vendor>TOTEM</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z52</param><param name="Годы выпуска">2017–2022</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-27e280790b05" available="true">
-<name>Подкрылок NISSAN MURANO, 01/2016- (задний левый) / Ниссан Мурано</name>
+<name>Подкрылок Nissan MURANO, 01/2016- (задний левый) / Ниссан Мурано</name>
 <categoryId>9720505</categoryId>
 <price>16380</price>
 <currencyId>KZT</currencyId>
@@ -4833,7 +4833,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-nissan-murano-01-2016-zadniy-levyy-nissan-murano-1.jpg</picture>
 <vendor>TOTEM</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z52</param><param name="Годы выпуска">2017–2022</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-28ccc4a831ee" available="true">
-<name>Подкрылок NISSAN MURANO, 01/2016- (задний правый) / Ниссан Мурано</name>
+<name>Подкрылок Nissan MURANO, 01/2016- (задний правый) / Ниссан Мурано</name>
 <categoryId>9720505</categoryId>
 <price>16380</price>
 <currencyId>KZT</currencyId>
@@ -4862,7 +4862,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-nissan-murano-01-2016-zadniy-pravyy-nissan-murano-1.jpg</picture>
 <vendor>TOTEM</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z52</param><param name="Годы выпуска">2017–2022</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-fdaca3252999" available="true">
-<name>Комплект задних подкрылков NISSAN Murano, 2016-, 2 элемента / Ниссан Мурано</name>
+<name>Комплект задних подкрылков Nissan Murano, 2016-, 2 элемента / Ниссан Мурано</name>
 <categoryId>9720505</categoryId>
 <price>4465</price>
 <currencyId>KZT</currencyId>
@@ -4891,7 +4891,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/komplekt-zadnikh-podkrylkov-nissan-murano-2016-2-elementa-nissan-murano-1.jpg</picture>
 <vendor>TOTEM</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z52</param><param name="Годы выпуска">2017–2022</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-2f788510628d" available="true">
-<name>Коврик в багажник NISSAN Murano, 2016-, 1 шт. (полиуретан) / Ниссан Мурано</name>
+<name>Коврик в багажник Nissan Murano, 2016-, 1 шт. (полиуретан) / Ниссан Мурано</name>
 <categoryId>9720505</categoryId>
 <price>10760</price>
 <currencyId>KZT</currencyId>
@@ -4919,7 +4919,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-nissan-murano-2016-1-sht-poliuretan-nissan-murano-2.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z52</param><param name="Годы выпуска">2017–2022</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Количество">1 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-98654f884ccf" available="true">
-<name>Коврики 3D в салон NISSAN Murano, 2016-, 4 шт. (полиуретан) / Ниссан Мурано</name>
+<name>Коврики 3D в салон Nissan Murano, 2016-, 4 шт. (полиуретан) / Ниссан Мурано</name>
 <categoryId>9720505</categoryId>
 <price>17415</price>
 <currencyId>KZT</currencyId>
@@ -4947,7 +4947,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-nissan-murano-2016-4-sht-poliuretan-nissan-murano-2.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z52</param><param name="Годы выпуска">2017–2022</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-362f07f7b9da" available="true">
-<name>Коврики 3D в салон NISSAN Murano, 2016-, 4 шт. (полиуретан, бежевые) / Ниссан Мурано</name>
+<name>Коврики 3D в салон Nissan Murano, 2016-, 4 шт. (полиуретан, бежевые) / Ниссан Мурано</name>
 <categoryId>9720505</categoryId>
 <price>41125</price>
 <currencyId>KZT</currencyId>
@@ -4975,7 +4975,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-nissan-murano-2016-4-sht-poliuretan-bezhevye-nissan-murano-2.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z52</param><param name="Годы выпуска">2017–2022</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Цвет">бежевый</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-dbe6b0eabdb3" available="true">
-<name>Коврики в салон Klever Standard NISSAN Murano, 2014-, кроссовер, 4 шт. (текстиль) / Ниссан Мурано</name>
+<name>Коврики в салон Klever Standard Nissan Murano, 2014-, кроссовер, 4 шт. (текстиль) / Ниссан Мурано</name>
 <categoryId>9720505</categoryId>
 <price>32780</price>
 <currencyId>KZT</currencyId>
@@ -5003,7 +5003,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-standard-nissan-murano-2014-krossover-4-sht-tekstil-2.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z52</param><param name="Годы выпуска">2017–2022</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-fa1f7aa40cf2" available="true">
-<name>Коврики в салон Klever Premium NISSAN Murano, 2014-, кроссовер, 5 шт. (текстиль) / Ниссан Мурано</name>
+<name>Коврики в салон Klever Premium Nissan Murano, 2014-, кроссовер, 5 шт. (текстиль) / Ниссан Мурано</name>
 <categoryId>9720505</categoryId>
 <price>44990</price>
 <currencyId>KZT</currencyId>
@@ -5031,7 +5031,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-premium-nissan-murano-2014-krossover-5-sht-tekstil-2.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z52</param><param name="Годы выпуска">2017–2022</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">5 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-af7008fdd93e" available="true">
-<name>Коврики 3D в салон подходит для NISSAN Murano (III) Z52, 2014-, 4 шт. (Повышенная устойчивость, повышенная износостойкост / Ниссан Мурано</name>
+<name>Коврики 3D в салон для Nissan Murano (III) Z52, 2014-, 4 шт</name>
 <categoryId>9720505</categoryId>
 <price>24220</price>
 <currencyId>KZT</currencyId>
@@ -5145,7 +5145,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-komplekt-alyuminiy-4mm-karter-i-kpp-bak-zadniy-differentsial-nissan-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z52</param><param name="Годы выпуска">2017–2022</param><param name="Тип детали">Защита днища</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-dd95b87c96d6" available="true">
-<name>Защиты картера и крепеж ЗК, подходит для NISSAN Murano (16-) 3,5 бензин АТ / Ниссан Мурано</name>
+<name>Защиты картера и крепеж ЗК, подходит для Nissan Murano (16-) 3,5 бензин АТ / Ниссан Мурано</name>
 <categoryId>9720505</categoryId>
 <price>17735</price>
 <currencyId>KZT</currencyId>
@@ -5502,7 +5502,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-bokovykh-okon-nissan-murano-2015-4ch-temnyy-nissan-murano-1.jpg</picture>
 <vendor>Rein</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z52</param><param name="Годы выпуска">2017–2022</param><param name="Тип детали">Дефлекторы окон</param><param name="Производитель">Rein</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-3bebb1b7404f" available="true">
-<name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., NISSAN MURANO III (Z52) 2014-, кроссовер / Ниссан Мурано</name>
+<name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., Nissan MURANO III (Z52) 2014-, кроссовер / Ниссан Мурано</name>
 <categoryId>9720505</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -5736,7 +5736,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/vykhlopnaya-sistema-borla-s-type-cat-back-dlya-nissan-murano-2-0l-awd-2025-2026-1.jpg</picture>
 <vendor>Borla</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Murano Z53</param><param name="Годы выпуска">2024–2026</param><param name="Тип детали">Выхлопная система</param><param name="Производитель">Borla</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-cda67fd51e58" available="true">
-<name>ТСУ на а/м INFINITI JX 35 SUV 2013-2014, INFINITI QX 60 SUV 2014-2017, NISSAN Pathfinder (R52) SUV 2014-2021 / Инфинити Джей</name>
+<name>ТСУ на Infiniti JX 35 SUV 2013-2014, Infiniti QX 60 SUV 2014-2017</name>
 <categoryId>9720507</categoryId>
 <price>101955</price>
 <currencyId>KZT</currencyId>
@@ -5765,7 +5765,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/tsu-na-a-m-infiniti-jx-35-suv-2013-2014-infiniti-qx-60-suv-2014-2017-nissan-1.jpg</picture>
 <vendor>Oris</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 4-gen</param><param name="Годы выпуска">2015–2020</param><param name="Тип детали">Фаркоп</param><param name="Производитель">Oris</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-1f7112406bdc" available="true">
-<name>ТСУ на а/м NISSAN Pathfinder (R52) SUV 2014-2021 / Ниссан Патфайндер</name>
+<name>ТСУ на а/м Nissan Pathfinder (R52) SUV 2014-2021 / Ниссан Патфайндер</name>
 <categoryId>9720507</categoryId>
 <price>93220</price>
 <currencyId>KZT</currencyId>
@@ -7030,7 +7030,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nissan-pathfinder-13-21-qaa-nerzhaveyushchaya-polirovannaya-khromirovannaya-1.jpg</picture>
 <vendor>QAA</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 4-gen</param><param name="Годы выпуска">2015–2020</param><param name="Тип детали">Колпачки на диски</param><param name="Материал">нержавеющая сталь</param><param name="Цвет">хром</param><param name="Производитель">QAA</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-0dbe841e77a1" available="true">
-<name>NISSAN PATHFINDER 2013-2021 ИЗ НЕРЖАВЕЮЩЕЙ СТАЛИ ХРОМ НОМЕРНОЙ ЗНАК ОТДЕЛКА 1ШТ</name>
+<name>Nissan PATHFINDER 2013-2021 ИЗ НЕРЖАВЕЮЩЕЙ СТАЛИ ХРОМ НОМЕРНОЙ ЗНАК ОТДЕЛКА 1ШТ</name>
 <categoryId>9720507</categoryId>
 <price>51860</price>
 <currencyId>KZT</currencyId>
@@ -7418,7 +7418,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-poliuretanovyy-nissan-pathfinder-r52-2014-2015-chernyy-3-ryad-norplast-1.jpg</picture>
 <vendor>Norplast</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 4-gen</param><param name="Годы выпуска">2015–2020</param><param name="Тип детали">Коврики</param><param name="Материал">полиуретан</param><param name="Цвет">черный</param><param name="Производитель">Norplast</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-e2eb2ae36a93" available="true">
-<name>Коврик в багажник NISSAN Pathfinder, 2014- кроссовер, длин. (полиуретан) / Ниссан Патфайндер</name>
+<name>Коврик в багажник Nissan Pathfinder, 2014- кроссовер, длин. (полиуретан) / Ниссан Патфайндер</name>
 <categoryId>9720507</categoryId>
 <price>13490</price>
 <currencyId>KZT</currencyId>
@@ -7446,7 +7446,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-nissan-pathfinder-2014-krossover-dlin-poliuretan-nissan-2.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 4-gen</param><param name="Годы выпуска">2015–2020</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-d15ca14ad4c5" available="true">
-<name>Коврики в салон NISSAN Pathfinder, 2014- 5 шт. (полиуретан) / Ниссан Патфайндер</name>
+<name>Коврики в салон Nissan Pathfinder, 2014- 5 шт. (полиуретан) / Ниссан Патфайндер</name>
 <categoryId>9720507</categoryId>
 <price>18900</price>
 <currencyId>KZT</currencyId>
@@ -8258,7 +8258,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-nissan-pathfinder-r52-2014-2015-temnye-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 4-gen</param><param name="Годы выпуска">2015–2020</param><param name="Тип детали">Дефлекторы окон</param><param name="Цвет">дымчатый</param><param name="Количество">4 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-52d498fd4655" available="true">
-<name>Дефлектор капота темный NISSAN PATHFINDER 2014-2017 / Ниссан Патфайндер</name>
+<name>Дефлектор капота темный Nissan PATHFINDER 2014-2017 / Ниссан Патфайндер</name>
 <categoryId>9720507</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -8318,7 +8318,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-bokovykh-okon-nissan-pathfinder-2014-2017-4ch-temnyy-nissan-2.jpg</picture>
 <vendor>Rein</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 4-gen</param><param name="Годы выпуска">2015–2020</param><param name="Тип детали">Дефлекторы окон</param><param name="Производитель">Rein</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-52d8613a2712" available="true">
-<name>Дефлекторы окон Vinguru NISSAN Pathfinder lV 2012-2017, 2016-2020 /крос/накладные/скотч/комплект 4шт./акрил / Ниссан Патфайндер</name>
+<name>Дефлекторы окон Vinguru Nissan Pathfinder lV 2012-2017</name>
 <categoryId>9720507</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -9098,7 +9098,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nissan-pathfinder-2022-nakladka-bampera-pod-farkop-original-1.jpg</picture>
 <vendor>Nissan</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 5-gen</param><param name="Годы выпуска">с 2022</param><param name="Тип детали">Накладка бампера под фаркоп</param><param name="Производитель">Nissan</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-50e7d28aa406" available="true">
-<name>Коврики в салон Klever Premium NISSAN Pathfinder 2021-, внедорожник, 8 мест, 5 шт (текстиль, бежевые) / Ниссан Патфайндер</name>
+<name>Коврики в салон Klever Premium Nissan Pathfinder 2021-, внедорожник, 8 мест</name>
 <categoryId>9720508</categoryId>
 <price>42855</price>
 <currencyId>KZT</currencyId>
@@ -9125,7 +9125,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-premium-nissan-pathfinder-2021-vnedorozhnik-8-mest-5-sht-1.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 5-gen</param><param name="Годы выпуска">с 2022</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Цвет">бежевый</param><param name="Количество">5 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-d4b3ef3b771d" available="true">
-<name>Коврики в салон Klever Premium NISSAN Pathfinder 2021-, внедорожник, 8 мест, 5 шт (текстиль) / Ниссан Патфайндер, с подпятником</name>
+<name>Коврики в салон Klever Premium Nissan Pathfinder 2021-, внедорожник, 8 мест, 5 шт (текстиль)</name>
 <categoryId>9720508</categoryId>
 <price>42855</price>
 <currencyId>KZT</currencyId>
@@ -9152,7 +9152,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-premium-nissan-pathfinder-2021-vnedorozhnik-8-mest-5-sht-0c4250-1.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 5-gen</param><param name="Годы выпуска">с 2022</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">5 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-8c8807b4bbe6" available="true">
-<name>Коврики в салон Klever Econom NISSAN Pathfinder 2021-, внедорожник, 8 мест, 5 шт. (текстиль) / Ниссан Патфайндер</name>
+<name>Коврики в салон Klever Econom Nissan Pathfinder 2021-, внедорожник, 8 мест, 5 шт (текстиль)</name>
 <categoryId>9720508</categoryId>
 <price>22840</price>
 <currencyId>KZT</currencyId>
@@ -9179,7 +9179,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-econom-nissan-pathfinder-2021-vnedorozhnik-8-mest-5-sht-1.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 5-gen</param><param name="Годы выпуска">с 2022</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">5 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-1a9d0ab5c3b8" available="true">
-<name>Коврики в салон Klever Standard NISSAN Pathfinder 2021-, внедорожник, 8 мест, 5 шт. (текстиль) / Ниссан Патфайндер</name>
+<name>Коврики в салон Klever Standard Nissan Pathfinder 2021-, внедорожник, 8 мест, 5 шт (текстиль)</name>
 <categoryId>9720508</categoryId>
 <price>32780</price>
 <currencyId>KZT</currencyId>
@@ -9206,7 +9206,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-standard-nissan-pathfinder-2021-vnedorozhnik-8-mest-5-1.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 5-gen</param><param name="Годы выпуска">с 2022</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">5 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-d35ca9eff057" available="true">
-<name>Коврики в салон Klever Premium NISSAN Pathfinder 2021-, внедорожник, 8 мест, 5 шт (текстиль) / Ниссан Патфайндер</name>
+<name>Коврики в салон Klever Premium Nissan Pathfinder 2021-, внедорожник, 8 мест, 5 шт (текстиль)</name>
 <categoryId>9720508</categoryId>
 <price>42855</price>
 <currencyId>KZT</currencyId>
@@ -9233,7 +9233,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-premium-nissan-pathfinder-2021-vnedorozhnik-8-mest-5-sht-1ef23b-1.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 5-gen</param><param name="Годы выпуска">с 2022</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">5 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-0dc443fa4e79" available="true">
-<name>Коврики в салон подходит для NISSAN Pathfinder, 2021-, 5 шт., 3 ряд раздельные сид. (полиуретан) / Ниссан Патфайндер</name>
+<name>Коврики в салон для Nissan Pathfinder, 2021-, 5 шт, 3 ряд раздельные сид. (полиуретан)</name>
 <categoryId>9720508</categoryId>
 <price>34015</price>
 <currencyId>KZT</currencyId>
@@ -9260,7 +9260,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-podkhodit-dlya-nissan-pathfinder-2021-5-sht-3-ryad-razdelnye-1.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 5-gen</param><param name="Годы выпуска">с 2022</param><param name="Тип детали">Коврики</param><param name="Материал">полиуретан</param><param name="Количество">5 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-810db22cbcc8" available="true">
-<name>Коврики в салон подходит для NISSAN Pathfinder, 2021-, 5 шт., 3 ряд цельное сид. (полиуретан) / Ниссан Патфайндер</name>
+<name>Коврики в салон для Nissan Pathfinder, 2021-, 5 шт, 3 ряд цельное сид. (полиуретан)</name>
 <categoryId>9720508</categoryId>
 <price>34225</price>
 <currencyId>KZT</currencyId>
@@ -9732,7 +9732,7 @@
 <keywords>дефлекторы окон патфайндер, дефлекторы окон nissan pathfinder, ветровики патфайндер, дефлекторы боковых окон nissan pathfinder, дефлекторы окон ниссан патфайндер 2022, дефлекторы окон патфайндер алматы, дефлекторы окон патфайндер астана</keywords>
 <vendor>Nissan</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 5-gen</param><param name="Годы выпуска">с 2022</param><param name="Тип детали">Дефлекторы окон</param><param name="Производитель">Nissan</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-b43c8bd61748" available="true">
-<name>Дефлектор капота NISSAN Pathfinder, 2021-, темный / Ниссан Патфайндер</name>
+<name>Дефлектор капота Nissan Pathfinder, 2021-, темный / Ниссан Патфайндер</name>
 <categoryId>9720508</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -9877,7 +9877,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/2012-2024-nissan-gayki-sekretki-dlya-koles-original-1.jpg</picture>
 <vendor>Nissan</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Pathfinder 5-gen</param><param name="Годы выпуска">с 2022</param><param name="Тип детали">Секретки на колеса</param><param name="Производитель">Nissan</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-8cdc3c22c2d0" available="true">
-<name>ТСУ на а/м NISSAN Qashqai SUV 2013- / Ниссан Кашкай</name>
+<name>ТСУ на а/м Nissan Qashqai SUV 2013- / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>96325</price>
 <currencyId>KZT</currencyId>
@@ -10055,7 +10055,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/khrom-nakladki-reshetki-bampera-nissan-qashqai-2014-2015-4.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Хром накладки решетки бампера</param><param name="Материал">ABS-пластик</param><param name="Цвет">хром</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-26af3ba7c6b6" available="true">
-<name>Сетка на бампер внешняя для NISSAN Qashqai 2014-2019, черн., 10 мм, для автомобилей с передним парктроником / Ниссан Кашкай</name>
+<name>Сетка на бампер внешняя для Nissan Qashqai 2014-2019, черн., 10 мм</name>
 <categoryId>9720509</categoryId>
 <price>20090</price>
 <currencyId>KZT</currencyId>
@@ -10084,7 +10084,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/setka-na-bamper-vneshnyaya-dlya-nissan-qashqai-2014-2019-chern-10-mm-dlya-1.jpg</picture>
 <vendor>Arbori</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Решетка бампера</param><param name="Цвет">черный</param><param name="Производитель">Arbori</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-3cc69c154d2f" available="true">
-<name>Сетка на бампер внешняя для NISSAN Qashqai 2014-2019, черн., 10 мм, для автомобилей без переднего парктроника / Ниссан Кашкай</name>
+<name>Сетка на бампер внешняя для Nissan Qashqai 2014-2019, черн., 10 мм</name>
 <categoryId>9720509</categoryId>
 <price>18130</price>
 <currencyId>KZT</currencyId>
@@ -10113,7 +10113,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/setka-na-bamper-vneshnyaya-dlya-nissan-qashqai-2014-2019-chern-10-mm-dlya-c6b077-1.jpg</picture>
 <vendor>Arbori</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Решетка бампера</param><param name="Цвет">черный</param><param name="Производитель">Arbori</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-d902e79f5506" available="true">
-<name>Сетка на бампер внешняя для NISSAN Qashqai 2014-2019, хром, 10 мм, для автомобилей без переднего парктроника / Ниссан Кашкай</name>
+<name>Сетка на бампер внешняя для Nissan Qashqai 2014-2019, хром, 10 мм</name>
 <categoryId>9720509</categoryId>
 <price>18130</price>
 <currencyId>KZT</currencyId>
@@ -10142,7 +10142,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/setka-na-bamper-vneshnyaya-dlya-nissan-qashqai-2014-2019-khrom-10-mm-dlya-1.jpg</picture>
 <vendor>Arbori</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Решетка бампера</param><param name="Цвет">хром</param><param name="Производитель">Arbori</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-cb8be90d9e33" available="true">
-<name>Сетка на бампер внешняя для NISSAN Qashqai 2014-2019, черн., 15 мм, для автомобилей без переднего парктроника / Ниссан Кашкай</name>
+<name>Сетка на бампер внешняя для Nissan Qashqai 2014-2019, черн., 15 мм</name>
 <categoryId>9720509</categoryId>
 <price>18130</price>
 <currencyId>KZT</currencyId>
@@ -10172,7 +10172,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/setka-na-bamper-vneshnyaya-dlya-nissan-qashqai-2014-2019-chern-15-mm-dlya-2.jpg</picture>
 <vendor>Arbori</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Решетка бампера</param><param name="Цвет">черный</param><param name="Производитель">Arbori</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-89f01d5d7e4d" available="true">
-<name>Сетка на бампер внешняя для NISSAN Qashqai 2014-2019, черн., 15 мм, для автомобилей с передним парктроником / Ниссан Кашкай</name>
+<name>Сетка на бампер внешняя для Nissan Qashqai 2014-2019, черн., 15 мм</name>
 <categoryId>9720509</categoryId>
 <price>20090</price>
 <currencyId>KZT</currencyId>
@@ -10763,7 +10763,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-nissan-qashqai-2014-replika-4.jpg</picture>
 <vendor>Winbo</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Пороги</param><param name="Производитель">Winbo</param><param name="Оригинальность">Реплика</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-72306698e24a" available="true">
-<name>Пороги ступеньки Nissan Qashqai 2014- / Nissan X-Trail 2014- / Renault Koleos 2017-, алюминий, Premium-Black, Rival</name>
+<name>Пороги ступеньки Nissan Qashqai 2014- / Nissan X-Trail 2014- / Renault Koleos 2017-, алюминий, Rival</name>
 <categoryId>9720509</categoryId>
 <price>86250</price>
 <currencyId>KZT</currencyId>
@@ -10795,7 +10795,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-nissan-qashqai-2014-nissan-x-trail-2014-renault-koleos-2017-4.jpg</picture>
 <vendor>RIVAL</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Производитель">RIVAL</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-5644a49b338b" available="true">
-<name>Пороги ступеньки Nissan Qashqai 2014- / Nissan X-Trail 2014- / Renault Koleos 2017-, алюминий, Premium, Rival</name>
+<name>Пороги ступеньки Nissan Qashqai 2014- / Nissan X-Trail 2014- / Renault Koleos 2017-, алюминий, Rival</name>
 <categoryId>9720509</categoryId>
 <price>109500</price>
 <currencyId>KZT</currencyId>
@@ -10827,7 +10827,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-nissan-qashqai-2014-nissan-x-trail-2014-renault-koleos-2017-e77300-4.jpg</picture>
 <vendor>RIVAL</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Производитель">RIVAL</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-848a28fc8535" available="true">
-<name>Пороги ступеньки Nissan Qashqai 2014- / Nissan X-Trail 2014- / Renault Koleos 2017-, алюминий, Silver, Rival</name>
+<name>Пороги ступеньки Nissan Qashqai 2014- / Nissan X-Trail 2014- / Renault Koleos 2017-, алюминий, Rival</name>
 <categoryId>9720509</categoryId>
 <price>66750</price>
 <currencyId>KZT</currencyId>
@@ -10859,7 +10859,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-nissan-qashqai-2014-nissan-x-trail-2014-renault-koleos-2017-d27aef-4.jpg</picture>
 <vendor>RIVAL</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Производитель">RIVAL</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-2d54b350f6a5" available="true">
-<name>Пороги ступеньки Nissan Qashqai 2014- / Nissan X-Trail 2014- / Renault Koleos 2017-, алюминий, Bmw-Style 1, Rival</name>
+<name>Пороги ступеньки Nissan Qashqai 2014- / Nissan X-Trail 2014- / Renault Koleos 2017-, алюминий, Rival</name>
 <categoryId>9720509</categoryId>
 <price>98250</price>
 <currencyId>KZT</currencyId>
@@ -10891,7 +10891,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-nissan-qashqai-2014-nissan-x-trail-2014-renault-koleos-2017-2d186a-4.jpg</picture>
 <vendor>RIVAL</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Производитель">RIVAL</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-16ed05835997" available="true">
-<name>Пороги ступеньки Nissan Qashqai 2014- / Nissan X-Trail 2014- / Renault Koleos 2017-, алюминий, Bmw-Style 2, Rival</name>
+<name>Пороги ступеньки Nissan Qashqai 2014- / Nissan X-Trail 2014- / Renault Koleos 2017-, алюминий, Rival</name>
 <categoryId>9720509</categoryId>
 <price>145500</price>
 <currencyId>KZT</currencyId>
@@ -10923,7 +10923,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-nissan-qashqai-2014-nissan-x-trail-2014-renault-koleos-2017-bf50ec-4.jpg</picture>
 <vendor>RIVAL</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Производитель">RIVAL</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-583a577251c1" available="true">
-<name>Пороги ступеньки Nissan Qashqai 2014- / Nissan X-Trail 2014- / Renault Koleos 2017-, алюминий, Black, Rival</name>
+<name>Пороги ступеньки Nissan Qashqai 2014- / Nissan X-Trail 2014- / Renault Koleos 2017-, алюминий, Rival</name>
 <categoryId>9720509</categoryId>
 <price>66750</price>
 <currencyId>KZT</currencyId>
@@ -12548,7 +12548,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladka-na-zadniy-bamper-list-shlifovannyy-nadpis-qashqai-nisqashspb15-27-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Накладка на задний бампер</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-86320385f05e" available="true">
-<name>Подкрылок с шумоизоляцией NISSAN Qashqai (J11), 2014-2016, (J11F) (передний левый) / Ниссан Кашкай</name>
+<name>Подкрылок с шумоизоляцией Nissan Qashqai (J11), 2014-2016, (J11F) (передний левый) / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>21362</price>
 <currencyId>KZT</currencyId>
@@ -12577,7 +12577,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-nissan-qashqai-j11-2014-2016-j11f-peredniy-levyy-1.jpg</picture>
 <vendor>TOTEM</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-03d10748a6a8" available="true">
-<name>Подкрылок с шумоизоляцией NISSAN Qashqai (J11), 2014-2016, (J11F) (передний правый) / Ниссан Кашкай</name>
+<name>Подкрылок с шумоизоляцией Nissan Qashqai (J11), 2014-2016, (J11F) (передний правый) / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>21362</price>
 <currencyId>KZT</currencyId>
@@ -12606,7 +12606,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-nissan-qashqai-j11-2014-2016-j11f-peredniy-pravyy-1.jpg</picture>
 <vendor>TOTEM</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-720224319bac" available="true">
-<name>Подкрылок с шумоизоляцией NISSAN Qashqai (J11F), 2015-2019, кроссовер (задний левый) / Ниссан Кашкай</name>
+<name>Подкрылок с шумоизоляцией Nissan Qashqai (J11F), 2015-2019, кроссовер (задний левый) / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>23735</price>
 <currencyId>KZT</currencyId>
@@ -12635,7 +12635,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-nissan-qashqai-j11f-2015-2019-krossover-zadniy-1.jpg</picture>
 <vendor>TOTEM</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-38baf2e8039b" available="true">
-<name>Подкрылок с шумоизоляцией NISSAN Qashqai (J11F), 2015-2019, кроссовер (задний правый) / Ниссан Кашкай</name>
+<name>Подкрылок с шумоизоляцией Nissan Qashqai (J11F), 2015-2019, кроссовер (задний правый)</name>
 <categoryId>9720509</categoryId>
 <price>23735</price>
 <currencyId>KZT</currencyId>
@@ -12664,7 +12664,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-nissan-qashqai-j11f-2015-2019-krossover-zadniy-bfd857-1.jpg</picture>
 <vendor>TOTEM</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-936023be3c33" available="true">
-<name>Подкрылок NISSAN Qashqai, 2014-2015, J11 (импортная сборка) (задний левый) / Ниссан Кашкай</name>
+<name>Подкрылок Nissan Qashqai, 2014-2015, J11 (импортная сборка) (задний левый) / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>13185</price>
 <currencyId>KZT</currencyId>
@@ -12693,7 +12693,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-nissan-qashqai-2014-2015-j11-importnaya-sborka-zadniy-levyy-nissan-1.jpg</picture>
 <vendor>TOTEM</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-4bb7124bb786" available="true">
-<name>Подкрылок NISSAN Qashqai, 2014-2015, J11 (импортная сборка) (задний правый) / Ниссан Кашкай</name>
+<name>Подкрылок Nissan Qashqai, 2014-2015, J11 (импортная сборка) (задний правый) / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>13185</price>
 <currencyId>KZT</currencyId>
@@ -12722,7 +12722,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-nissan-qashqai-2014-2015-j11-importnaya-sborka-zadniy-pravyy-nissan-1.jpg</picture>
 <vendor>TOTEM</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-5917a5a059ba" available="true">
-<name>Подкрылок NISSAN Qashqai (J11F), 2015-2019, кроссовер (задний левый) / Ниссан Кашкай</name>
+<name>Подкрылок Nissan Qashqai (J11F), 2015-2019, кроссовер (задний левый) / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>18125</price>
 <currencyId>KZT</currencyId>
@@ -12751,7 +12751,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-nissan-qashqai-j11f-2015-2019-krossover-zadniy-levyy-nissan-kashkay-1.jpg</picture>
 <vendor>TOTEM</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-0c3c9c20bf94" available="true">
-<name>Подкрылок NISSAN Qashqai (J11F), 2015-2019, кроссовер (задний правый) / Ниссан Кашкай</name>
+<name>Подкрылок Nissan Qashqai (J11F), 2015-2019, кроссовер (задний правый) / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>18125</price>
 <currencyId>KZT</currencyId>
@@ -12780,7 +12780,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-nissan-qashqai-j11f-2015-2019-krossover-zadniy-pravyy-nissan-kashkay-1.jpg</picture>
 <vendor>TOTEM</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-8f81d4d9b231" available="true">
-<name>Комплект задних подкрылков NISSAN Qashqai, 2015-2019, 2 элемента / Ниссан Кашкай</name>
+<name>Комплект задних подкрылков Nissan Qashqai, 2015-2019, 2 элемента / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>29845</price>
 <currencyId>KZT</currencyId>
@@ -13067,7 +13067,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-nissan-kashkay-2014-velyurovyy-2.jpg</picture>
 <vendor>Nissan</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">велюр</param><param name="Производитель">Nissan</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-9bfc7709a729" available="true">
-<name>Коврик в багажник NISSAN Qashqai, 2014-, сборка РФ, сборка Великобритания, кроссовер (полиуретан) / Ниссан Кашкай</name>
+<name>Коврик в багажник Nissan Qashqai, 2014-, сборка РФ, сборка Великобритания, кроссовер (полиуретан)</name>
 <categoryId>9720509</categoryId>
 <price>9260</price>
 <currencyId>KZT</currencyId>
@@ -13095,7 +13095,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-nissan-qashqai-2014-sborka-rf-sborka-velikobritaniya-2.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-b7318f4396f5" available="true">
-<name>Коврики 3D в салон NISSAN Qashqai (J11F), 2015-, сборка РФ, 4 шт. (полиуретан) / Ниссан Кашкай</name>
+<name>Коврики 3D в салон Nissan Qashqai (J11F), 2015-, сборка РФ, 4 шт. (полиуретан) / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>15395</price>
 <currencyId>KZT</currencyId>
@@ -13123,7 +13123,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-nissan-qashqai-j11f-2015-sborka-rf-4-sht-poliuretan-nissan-2.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-a541cf099f00" available="true">
-<name>Коврики в салон Klever Econom NISSAN Qashqai, 2013-2019, 2017-, кроссовер, сборка РФ, 4 шт. (текстиль) / Ниссан Кашкай</name>
+<name>Коврики в салон Klever Econom Nissan Qashqai, 2013-2019, кроссовер, сборка РФ, 4 шт (текстиль)</name>
 <categoryId>9720509</categoryId>
 <price>22840</price>
 <currencyId>KZT</currencyId>
@@ -13151,7 +13151,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-econom-nissan-qashqai-2013-2019-2017-krossover-sborka-rf-2.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-f430814aae2e" available="true">
-<name>Коврики в салон Klever Standard NISSAN Qashqai 2013-2019, 2017-, кроссовер, сборка ЕВ, 4 шт. (текстиль) / Ниссан Кашкай</name>
+<name>Коврики в салон Klever Standard Nissan Qashqai 2013-2019, кроссовер, сборка ЕВ, 4 шт (текстиль)</name>
 <categoryId>9720509</categoryId>
 <price>32780</price>
 <currencyId>KZT</currencyId>
@@ -13179,7 +13179,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-standard-nissan-qashqai-2013-2019-2017-krossover-sborka-2.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-196ca88a05d4" available="true">
-<name>Коврики в салон Klever Premium NISSAN Qashqai 2013-2019, 2017-, кроссовер, сборка ЕВ, 5 шт. (текстиль) / Ниссан Кашкай</name>
+<name>Коврики в салон Klever Premium Nissan Qashqai 2013-2019, кроссовер, сборка ЕВ, 5 шт (текстиль)</name>
 <categoryId>9720509</categoryId>
 <price>44990</price>
 <currencyId>KZT</currencyId>
@@ -13207,7 +13207,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-premium-nissan-qashqai-2013-2019-2017-krossover-sborka-2.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">5 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-e2fda414e4b6" available="true">
-<name>Коврики в салон Klever Standard NISSAN Qashqai, 2013-2019, 2017-, кроссовер, сборка РФ, 4 шт. (текстиль) / Ниссан Кашкай</name>
+<name>Коврики в салон Klever Standard Nissan Qashqai, 2013-2019, кроссовер, сборка РФ, 4 шт (текстиль)</name>
 <categoryId>9720509</categoryId>
 <price>32780</price>
 <currencyId>KZT</currencyId>
@@ -13235,7 +13235,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-standard-nissan-qashqai-2013-2019-2017-krossover-sborka-eb440d-2.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-755886bbf1ba" available="true">
-<name>Коврики в салон NISSAN Qashqai, 2014-, сборка Великобритания, 4 шт. (полиуретан) / Ниссан Кашкай</name>
+<name>Коврики в салон Nissan Qashqai, 2014-, сборка Великобритания, 4 шт. (полиуретан) / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>11570</price>
 <currencyId>KZT</currencyId>
@@ -13262,7 +13262,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-nissan-qashqai-2014-sborka-velikobritaniya-4-sht-poliuretan-1.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-eade06521d9c" available="true">
-<name>Коврики в салон Klever Premium NISSAN Qashqai, 2013-2019, 2017-, кроссовер, сборка РФ, 5 шт. (текстиль) / Ниссан Кашкай</name>
+<name>Коврики в салон Klever Premium Nissan Qashqai, 2013-2019, кроссовер, сборка РФ, 5 шт (текстиль)</name>
 <categoryId>9720509</categoryId>
 <price>44990</price>
 <currencyId>KZT</currencyId>
@@ -13290,7 +13290,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-premium-nissan-qashqai-2013-2019-2017-krossover-sborka-b017e3-2.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">5 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-35811c6b9792" available="true">
-<name>Коврики 3D в салон NISSAN Qashqai (J11F), 2015-, сборка РФ, 4 шт. (Повышенная устойчивость, повышенная износостойкость) / Ниссан Кашкай</name>
+<name>Коврики 3D в салон Nissan Qashqai (J11F), сборка РФ</name>
 <categoryId>9720509</categoryId>
 <price>24220</price>
 <currencyId>KZT</currencyId>
@@ -13317,7 +13317,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-nissan-qashqai-j11f-2015-sborka-rf-4-sht-povyshennaya-1.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">3d коврики</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-269afc5746fe" available="true">
-<name>Коврики в салон Klever Premium NISSAN Qashqai, 2013-2019, 2017-, кроссовер, 5 шт.(текстиль) / Ниссан Кашкай</name>
+<name>Коврики в салон Klever Premium Nissan Qashqai, 2013-2019, 2017-, кроссовер, 5 шт(текстиль)</name>
 <categoryId>9720509</categoryId>
 <price>44990</price>
 <currencyId>KZT</currencyId>
@@ -13344,7 +13344,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-premium-nissan-qashqai-2013-2019-2017-krossover-5-sht-1.jpg</picture>
 <vendor>Autofamily</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">5 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-ce77473b43a1" available="true">
-<name>Коврик 3D в салон подходит для NISSAN Qashqai (J11F) 2015-, передний левый, сборка РФ, 1шт. (полиуретан) / Ниссан Кашкай</name>
+<name>Коврик 3D в салон для Nissan Qashqai (J11F) 2015-, передний левый, сборка РФ, 1 шт (полиуретан)</name>
 <categoryId>9720509</categoryId>
 <price>5490</price>
 <currencyId>KZT</currencyId>
@@ -13430,7 +13430,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-kartera-nissan-kashkay-2014-tolshchina-4-mm-alyuminiy-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Защита картера</param><param name="Материал">алюминий</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-ee2de9a81f18" available="true">
-<name>Защиты комплект (алюминий) 4мм (картер и кпп, дифференциал), Nissan Qashqai 2014 (сборка Великобритания), ТСС</name>
+<name>Защиты комплект (алюминий) 4мм (картер и кпп, дифференциал), Nissan Qashqai 2014</name>
 <categoryId>9720509</categoryId>
 <price>114784</price>
 <currencyId>KZT</currencyId>
@@ -13517,7 +13517,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-baka-pravaya-alyuminiy-4mm-nissan-qashqai-2015-sborka-s-peterburg-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Защита бака</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-267658bd8826" available="true">
-<name>Защиты комплект (алюминий) 4мм (картер и кпп, задний дифференциал, бак левая, бак правая), Nissan Qashqai 2015- (сборка С-Петербург), ТСС</name>
+<name>Защиты комплект (алюминий) 4мм (картер и кпп, задний дифференциал, бак левая, бак правая), Nissan</name>
 <categoryId>9720509</categoryId>
 <price>106405</price>
 <currencyId>KZT</currencyId>
@@ -13546,7 +13546,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-komplekt-alyuminiy-4mm-karter-i-kpp-zadniy-differentsial-bak-levaya-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Защита днища</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-30295f212139" available="true">
-<name>Комплект Защиты картера и крепеж, подходит для NISSAN Qashqai (J11) (2014-2015) 1.2/2.0 FWR/AWD бензин, вариатор / Ниссан Кашкай</name>
+<name>Комплект Защиты картера и крепеж, для Nissan Qashqai (J11) (2014-2015) 1.2/2.0 FWR/AWD бензин</name>
 <categoryId>9720509</categoryId>
 <price>24760</price>
 <currencyId>KZT</currencyId>
@@ -13576,7 +13576,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/komplekt-zashchity-kartera-i-krepezh-podkhodit-dlya-nissan-qashqai-j11-2014-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Защита картера</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-2687c2ad5cd2" available="true">
-<name>Комплект Защиты картера и крепеж ECO, подходит для NISSAN Qashqai (J11) (2014) 1,2 бензин, вариатор / Ниссан Кашкай</name>
+<name>Комплект Защиты картера и крепеж ECO, для Nissan Qashqai (J11) (2014) 1,2 бензин, вариатор</name>
 <categoryId>9720509</categoryId>
 <price>88165</price>
 <currencyId>KZT</currencyId>
@@ -13606,7 +13606,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/komplekt-zashchity-kartera-i-krepezh-eco-podkhodit-dlya-nissan-qashqai-j11-2014-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Защита картера</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-430337482bf5" available="true">
-<name>Защиты картера и крепеж ECO, подходит для NISSAN X-Trail, Qashqai (2015-) 2,0/1,6 бензин, диз., МТ/АТ / Ниссан Х Трейл</name>
+<name>Защиты картера и крепеж ECO, для Nissan X-Trail, Qashqai (2015-) 2,0/1,6 бензин, диз., МТ/АТ</name>
 <categoryId>9720509</categoryId>
 <price>18690</price>
 <currencyId>KZT</currencyId>
@@ -13729,7 +13729,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-zadnyaya-ugolki-ovalnye-75kh42-mm-nissan-kashkay-2014-3.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Защита заднего бампера</param><param name="Материал">нержавеющая сталь</param><param name="Комплектация">из 2-х уголков + комплект крепежей</param><param name="Диаметр трубы">75х42 мм</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-9f34d7758014" available="true">
-<name>Защита переднего бампера d57 волна Arbori нержавеющая сталь для NISSAN Qashqai 2014-2016 / Ниссан Кашкай</name>
+<name>Защита переднего бампера d57 волна Arbori нержавеющая сталь для Nissan Qashqai 2014-2016</name>
 <categoryId>9720509</categoryId>
 <price>121585</price>
 <currencyId>KZT</currencyId>
@@ -13758,7 +13758,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-perednego-bampera-d57-volna-arbori-nerzhaveyushchaya-stal-dlya-nissan-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Защита переднего бампера</param><param name="Материал">нержавеющая сталь</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-1aba40f9c543" available="true">
-<name>Защита переднего бампера d57 волна Arbori черн. для NISSAN Qashqai 2014-2016 / Ниссан Кашкай</name>
+<name>Защита переднего бампера d57 волна Arbori черн. для Nissan Qashqai 2014-2016 / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>14830</price>
 <currencyId>KZT</currencyId>
@@ -13935,7 +13935,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-nissan-qashqai-2014-6-chastey-temnye-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Дефлекторы окон</param><param name="Количество">6 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-810f991cbd5b" available="true">
-<name>Дефлектор капота темный NISSAN QASHQAI 2013-2017 / Ниссан Кашкай</name>
+<name>Дефлектор капота темный Nissan QASHQAI 2013-2017 / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -13965,7 +13965,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektor-kapota-temnyy-nissan-qashqai-2013-2017-nissan-kashkay-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Дефлектор капота</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-637aea6ec5e9" available="true">
-<name>Дефлектор капота (ЕВРО крепеж) NISSAN QASHQAI II (J11) 2013- кроссовер / Ниссан Кашкай</name>
+<name>Дефлектор капота (ЕВРО крепеж) Nissan QASHQAI II (J11) 2013- кроссовер / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -14025,7 +14025,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-bokovykh-okon-nissan-qashqai-2013-4ch-temnyy-nissan-kashkay-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Дефлекторы окон</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-6f600076429a" available="true">
-<name>Дефлекторы окон Vinguru NISSAN Qashqai II 2013-2019, 2017- /крос/накладные/скотч/комплект 4 шт./литьевой поликарбонат / Ниссан Кашкай</name>
+<name>Дефлекторы окон Vinguru Nissan Qashqai II 2013-2019</name>
 <categoryId>9720509</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -14055,7 +14055,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-vinguru-nissan-qashqai-ii-2013-2019-2017-kros-nakladnye-skotch-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Дефлекторы окон</param><param name="Материал">карбон</param><param name="Количество">4 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-70f2282900d3" available="true">
-<name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт. NISSAN QASHQAI II (J11) 2013- кроссовер / Ниссан Кашкай</name>
+<name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт. Nissan QASHQAI II (J11) 2013- кроссовер / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -14085,7 +14085,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektor-okon-nakladnoy-skotch-3m-4-sht-nissan-qashqai-ii-j11-2013-krossover-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Дефлекторы окон</param><param name="Количество">4 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-33065fb68b62" available="true">
-<name>Дефлектор окон (ВСТАВНОЙ ПОД РЕЗИНКУ), 4 шт., NISSAN QASHQAI II (J11), 2013-, кроссовер / Ниссан Кашкай</name>
+<name>Дефлектор окон (ВСТАВНОЙ ПОД РЕЗИНКУ), 4 шт, Nissan QASHQAI II (J11), 2013-, кроссовер</name>
 <categoryId>9720509</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -14114,7 +14114,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektor-okon-vstavnoy-pod-rezinku-4-sht-nissan-qashqai-ii-j11-2013-krossover-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Дефлекторы окон</param><param name="Материал">резина</param><param name="Количество">4 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-fa4d0bc4c3e6" available="true">
-<name>Дефлекторы окон CHROMEX с хром. молдингом NISSAN QASHQAI II (J11) 2014-, 4 шт. / Ниссан Кашкай</name>
+<name>Дефлекторы окон CHROMEX с хром. молдингом Nissan QASHQAI II (J11) 2014-, 4 шт. / Ниссан Кашкай</name>
 <categoryId>9720509</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -14170,7 +14170,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/derzhatel-dlya-telefona-v-podstakannik-nissan-qashqai-2014-1.jpg</picture>
 <vendor>Nissan</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Qashqai J11</param><param name="Годы выпуска">2014–2019</param><param name="Тип детали">Держатель</param><param name="Производитель">Nissan</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-fd3e541d8382" available="true">
-<name>Брызговики Ниссан Кашкай 2014, комплект 4шт.</name>
+<name>Брызговики Ниссан Кашкай 2014, комплект 4шт</name>
 <categoryId>9720509</categoryId>
 <price>46800</price>
 <currencyId>KZT</currencyId>
@@ -14828,7 +14828,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/vykhlopnaya-sistema-borla-s-type-cat-back-dlya-nissan-titan-2016-2019-nasadki-b76bc5-1.jpg</picture>
 <vendor>Borla</vendor><param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">Titan II</param><param name="Годы выпуска">2015–2019</param><param name="Тип детали">Выхлопная система</param><param name="Цвет">хром</param><param name="Производитель">Borla</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-5cc4f6e21e6b" available="true">
-<name>ТСУ для NISSAN X-Trail (T32) 2014-, Тип шара: Вертикальный, легкосъемный (V) / Ниссан Х Трейл</name>
+<name>ТСУ для Nissan X-Trail (T32) 2014-, Тип шара: Вертикальный, легкосъемный (V) / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>268495</price>
 <currencyId>KZT</currencyId>
@@ -14857,7 +14857,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/tsu-dlya-nissan-x-trail-t32-2014-tip-shara-vertikalnyy-legkosemnyy-v-nissan-kh-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Фаркоп</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-d33bd3f58cf5" available="true">
-<name>ТСУ на а/м NISSAN X-Trail (T32) SUV 2013- / Ниссан Х Трейл</name>
+<name>ТСУ на а/м Nissan X-Trail (T32) SUV 2013- / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>95885</price>
 <currencyId>KZT</currencyId>
@@ -15091,7 +15091,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/reshetka-radiatora-12-mm-2sht-nisxtr18-38-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Решетка радиатора</param><param name="Количество">2 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-5b8b41b26561" available="true">
-<name>Сетка на бампер внешняя для NISSAN X-Trail 2015-2018, черн., 10 мм, для автомобилей без переднего парктроника / Ниссан Х Трейл</name>
+<name>Сетка на бампер внешняя для Nissan X-Trail 2015-2018, черн., 10 мм</name>
 <categoryId>9720514</categoryId>
 <price>16185</price>
 <currencyId>KZT</currencyId>
@@ -15120,7 +15120,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/setka-na-bamper-vneshnyaya-dlya-nissan-x-trail-2015-2018-chern-10-mm-dlya-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Решетка бампера</param><param name="Цвет">черный</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-8ead24007843" available="true">
-<name>Сетка на бампер внешняя для NISSAN X-Trail 2015-2018, черн., 15 мм, для автомобилей с передним парктроником / Ниссан Х Трейл</name>
+<name>Сетка на бампер внешняя для Nissan X-Trail 2015-2018, черн., 15 мм</name>
 <categoryId>9720514</categoryId>
 <price>18130</price>
 <currencyId>KZT</currencyId>
@@ -15150,7 +15150,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/setka-na-bamper-vneshnyaya-dlya-nissan-x-trail-2015-2018-chern-15-mm-dlya-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Решетка бампера</param><param name="Цвет">черный</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-a14c56d2ea3e" available="true">
-<name>Сетка на бампер внешняя для NISSAN X-Trail 2015-2018, хром, 15 мм, для автомобилей с передним парктроником / Ниссан Х Трейл</name>
+<name>Сетка на бампер внешняя для Nissan X-Trail 2015-2018, хром, 15 мм</name>
 <categoryId>9720514</categoryId>
 <price>18130</price>
 <currencyId>KZT</currencyId>
@@ -15179,7 +15179,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/setka-na-bamper-vneshnyaya-dlya-nissan-x-trail-2015-2018-khrom-15-mm-dlya-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Решетка бампера</param><param name="Цвет">хром</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-981b573ffd50" available="true">
-<name>Сетка на бампер внешняя для NISSAN X-Trail 2015-2018, черн., 15 мм, для автомобилей без переднего парктроника / Ниссан Х Трейл</name>
+<name>Сетка на бампер внешняя для Nissan X-Trail 2015-2018, черн., 15 мм</name>
 <categoryId>9720514</categoryId>
 <price>16185</price>
 <currencyId>KZT</currencyId>
@@ -17262,7 +17262,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladka-na-zadnyuyu-dver-list-shlifovannyy-nisxtr18-12-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Накладка на заднюю дверь</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-3e9d06811875" available="true">
-<name>Подкрылок с шумоизоляцией подходит для NISSAN X-Trail 2017- (передний левый) / Ниссан Х Трейл</name>
+<name>Подкрылок с шумоизоляцией подходит для Nissan X-Trail 2017- (передний левый) / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>30688</price>
 <currencyId>KZT</currencyId>
@@ -17291,7 +17291,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-nissan-x-trail-2017-peredniy-levyy-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-c6f23a799891" available="true">
-<name>Подкрылок с шумоизоляцией подходит для NISSAN X-Trail 2017- (передний правый) / Ниссан Х Трейл</name>
+<name>Подкрылок с шумоизоляцией подходит для Nissan X-Trail 2017- (передний правый) / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>30688</price>
 <currencyId>KZT</currencyId>
@@ -17320,7 +17320,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-nissan-x-trail-2017-peredniy-pravyy-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-e9deec8ae4ac" available="true">
-<name>Подкрылок с шумоизоляцией подходит для NISSAN X-Trail 2017- (задний левый) / Ниссан Х Трейл</name>
+<name>Подкрылок с шумоизоляцией подходит для Nissan X-Trail 2017- (задний левый) / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>30688</price>
 <currencyId>KZT</currencyId>
@@ -17349,7 +17349,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-nissan-x-trail-2017-zadniy-levyy-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-36a17f7dddf2" available="true">
-<name>Подкрылок с шумоизоляцией подходит для NISSAN X-Trail 2017- (задний правый) / Ниссан Х Трейл</name>
+<name>Подкрылок с шумоизоляцией подходит для Nissan X-Trail 2017- (задний правый) / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>30688</price>
 <currencyId>KZT</currencyId>
@@ -17378,7 +17378,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-nissan-x-trail-2017-zadniy-pravyy-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-aefe989d4697" available="true">
-<name>Подкрылок NISSAN X-Trail (T32), 2015- (передний левый) / Ниссан Х Трейл</name>
+<name>Подкрылок Nissan X-Trail (T32), 2015- (передний левый) / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>11630</price>
 <currencyId>KZT</currencyId>
@@ -17407,7 +17407,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-nissan-x-trail-t32-2015-peredniy-levyy-nissan-kh-treyl-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Подкрылки</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-5f01418a0dec" available="true">
-<name>Подкрылок NISSAN X-Trail (T32), 2015- (передний правый) / Ниссан Х Трейл</name>
+<name>Подкрылок Nissan X-Trail (T32), 2015- (передний правый) / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>11630</price>
 <currencyId>KZT</currencyId>
@@ -17436,7 +17436,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-nissan-x-trail-t32-2015-peredniy-pravyy-nissan-kh-treyl-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Подкрылки</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-320d1f274e00" available="true">
-<name>Подкрылок NISSAN X-Trail (T32), 2015- (задний левый) / Ниссан Х Трейл</name>
+<name>Подкрылок Nissan X-Trail (T32), 2015- (задний левый) / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>10120</price>
 <currencyId>KZT</currencyId>
@@ -17465,7 +17465,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-nissan-x-trail-t32-2015-zadniy-levyy-nissan-kh-treyl-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Подкрылки</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-1b1177f36e2c" available="true">
-<name>Подкрылок NISSAN X-Trail (T32), 2015- (задний правый) / Ниссан Х Трейл</name>
+<name>Подкрылок Nissan X-Trail (T32), 2015- (задний правый) / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>10120</price>
 <currencyId>KZT</currencyId>
@@ -17494,7 +17494,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-nissan-x-trail-t32-2015-zadniy-pravyy-nissan-kh-treyl-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Подкрылки</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-6970ffd80e64" available="true">
-<name>Комплект подкрылков NISSAN X-Trail, 2015-, 4 элемента / Ниссан Х Трейл</name>
+<name>Комплект подкрылков Nissan X-Trail, 2015-, 4 элемента / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>43500</price>
 <currencyId>KZT</currencyId>
@@ -17523,7 +17523,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/komplekt-podkrylkov-nissan-x-trail-2015-4-elementa-nissan-kh-treyl-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Подкрылки</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-ed97f7a40a82" available="true">
-<name>Подкрылок NISSAN X-Trail, 2015- (передний правый) / Ниссан Х Трейл</name>
+<name>Подкрылок Nissan X-Trail, 2015- (передний правый) / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>11325</price>
 <currencyId>KZT</currencyId>
@@ -17674,7 +17674,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladka-na-zadniy-bamper-nissan-x-trail-2014-nerzhaveyka-934683-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Накладка на задний бампер</param><param name="Материал">нержавеющая сталь</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-0b11278da9f6" available="true">
-<name>Коврик в багажник подходит для NISSAN X-Trail T32 (III, IIIp), 2013-, кроссовер, 1 шт. (полиуретан) / Ниссан Х Трейл</name>
+<name>Коврик в багажник для Nissan X-Trail T32 (III, IIIp), 2013-, кроссовер, 1 шт (полиуретан)</name>
 <categoryId>9720514</categoryId>
 <price>9405</price>
 <currencyId>KZT</currencyId>
@@ -17702,7 +17702,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-podkhodit-dlya-nissan-x-trail-t32-iii-iiip-2013-krossover-1-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Количество">1 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-f137cca2ab75" available="true">
-<name>Коврик в багажник с функцией защиты бампера Econom NISSAN X-Trail, 03/2015-, внедорожник / Ниссан Х Трейл</name>
+<name>Коврик в багажник с функцией защиты бампера Econom Nissan X-Trail, 03/2015-, внедорожник</name>
 <categoryId>9720514</categoryId>
 <price>24335</price>
 <currencyId>KZT</currencyId>
@@ -17730,7 +17730,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-s-funktsiey-zashchity-bampera-econom-nissan-x-trail-03-2015-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Коврик в багажник</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-fd5d461301b8" available="true">
-<name>Коврики 3D в салон подходит для NISSAN X-Trail T32 (III, IIIp), 2013-, 4 шт. (полиуретан) / Ниссан Х Трейл</name>
+<name>Коврики 3D в салон для Nissan X-Trail T32 (III, IIIp), 2013-, 4 шт (полиуретан)</name>
 <categoryId>9720514</categoryId>
 <price>15395</price>
 <currencyId>KZT</currencyId>
@@ -17758,7 +17758,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-podkhodit-dlya-nissan-x-trail-t32-iii-iiip-2013-4-sht-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-6aa253405542" available="true">
-<name>Коврики 3D в салон подходит для NISSAN X-Trail T32 (III, IIIp), 2013-, 4 шт. (полиуретан, бежевые) / Ниссан Х Трейл</name>
+<name>Коврики 3D в салон для Nissan X-Trail T32 (III, IIIp), 2013-, 4 шт (полиуретан, бежевые)</name>
 <categoryId>9720514</categoryId>
 <price>34175</price>
 <currencyId>KZT</currencyId>
@@ -17786,7 +17786,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-podkhodit-dlya-nissan-x-trail-t32-iii-iiip-2013-4-sht-d6f215-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Цвет">бежевый</param><param name="Количество">4 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-d53072cb04f5" available="true">
-<name>Коврики в салон Klever Premium NISSAN X-Trail T32 (III, IIIp), 2014-, внедорожник, 5 шт. (текстиль, бежевые) / Ниссан Х Трейл</name>
+<name>Коврики в салон Klever Premium Nissan X-Trail T32 (III, IIIp), внедорожник, 5 шт (текстиль, бежевые)</name>
 <categoryId>9720514</categoryId>
 <price>44990</price>
 <currencyId>KZT</currencyId>
@@ -17814,7 +17814,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-premium-nissan-x-trail-t32-iii-iiip-2014-vnedorozhnik-5-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Цвет">бежевый</param><param name="Количество">5 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-596735c54553" available="true">
-<name>Коврики в салон Klever Econom NISSAN X-Trail T32 (III, IIIp), 2014-, внедорожник, 4 шт. (текстиль) / Ниссан Х Трейл</name>
+<name>Коврики в салон Klever Econom Nissan X-Trail T32 (III, IIIp), 2014-, внедорожник, 4 шт (текстиль)</name>
 <categoryId>9720514</categoryId>
 <price>22840</price>
 <currencyId>KZT</currencyId>
@@ -17842,7 +17842,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-econom-nissan-x-trail-t32-iii-iiip-2014-vnedorozhnik-4-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">4 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-419275e9782c" available="true">
-<name>Коврики в салон Klever Premium NISSAN X-Trail T32 (III, IIIp), 2014-, внедорожник, 5 шт. (текстиль) / Ниссан Х Трейл</name>
+<name>Коврики в салон Klever Premium Nissan X-Trail T32 (III, IIIp), 2014-, внедорожник, 5 шт (текстиль)</name>
 <categoryId>9720514</categoryId>
 <price>44990</price>
 <currencyId>KZT</currencyId>
@@ -17870,7 +17870,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-premium-nissan-x-trail-t32-iii-iiip-2014-vnedorozhnik-5-5ddaab-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">5 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-b9e968d23cac" available="true">
-<name>Коврики в салон NISSAN X-Trail 2014-, внедорожник, 5шт. (текстиль) / Ниссан Х Трейл</name>
+<name>Коврики в салон Nissan X-Trail 2014-, внедорожник, 5шт. (текстиль) / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>27035</price>
 <currencyId>KZT</currencyId>
@@ -17897,7 +17897,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-nissan-x-trail-2014-vnedorozhnik-5sht-tekstil-nissan-kh-treyl-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">5 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-aaa3d61a0989" available="true">
-<name>Коврики 3D в салон подходят для NISSAN X-Trail, 2015- правый руль внедорожник, 4шт. (полиуретан) / Ниссан Х Трейл</name>
+<name>Коврики 3D в салон для Nissan X-Trail, 2015- правый руль внедорожник, 4 шт (полиуретан)</name>
 <categoryId>9720514</categoryId>
 <price>27460</price>
 <currencyId>KZT</currencyId>
@@ -17925,7 +17925,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-podkhodyat-dlya-nissan-x-trail-2015-pravyy-rul-vnedorozhnik-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-4b6d4cea4673" available="true">
-<name>Коврики 3D в салон подходит для NISSAN X-Trail T32 (III, IIIp), 2013-, 4 шт. (Повышенная устойчивость, повышенная износостойкость) / Ниссан Х Трейл</name>
+<name>Коврики 3D в салон для Nissan X-Trail T32 (III, IIIp)</name>
 <categoryId>9720514</categoryId>
 <price>24220</price>
 <currencyId>KZT</currencyId>
@@ -17952,7 +17952,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-podkhodit-dlya-nissan-x-trail-t32-iii-iiip-2013-4-sht-25f7bb-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">3d коврики</param><param name="Количество">4 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-e8dfb4aca31f" available="true">
-<name>Коврики в салон Klever Premium NISSAN X-Trail, 2014-, кроссовер, 5 шт.(текстиль) / Ниссан Х Трейл</name>
+<name>Коврики в салон Klever Premium Nissan X-Trail, 2014-, кроссовер, 5 шт.(текстиль) / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>44990</price>
 <currencyId>KZT</currencyId>
@@ -17979,7 +17979,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-premium-nissan-x-trail-2014-krossover-5-sht-tekstil-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">5 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-270dd6378434" available="true">
-<name>ЗК+Защиты коробки передач и крепеж подходит для NISSAN X-Trail (14-) 2,0 бензин АТ FWD/4WD праворульный / Ниссан Х Трейл</name>
+<name>ЗК+Защиты коробки передач и крепеж для Nissan X-Trail (14-) 2,0 бензин АТ FWD/4WD праворульный</name>
 <categoryId>9720514</categoryId>
 <price>6150</price>
 <currencyId>KZT</currencyId>
@@ -18531,7 +18531,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-zadnyaya-ugolki-60-3-mm-nisxtr18-36-1.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Защита заднего бампера</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-cbc91101fb38" available="true">
-<name>Уголки d57 Arbori нержавеющая сталь для NISSAN X-Trail 2015-нв / Ниссан Х Трейл</name>
+<name>Уголки d57 Arbori нержавеющая сталь для Nissan X-Trail 2015-нв / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>89990</price>
 <currencyId>KZT</currencyId>
@@ -18652,7 +18652,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-nissan-x-trail-2014-6-shtuk-khrom-3.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Дефлекторы окон</param><param name="Цвет">хром</param><param name="Количество">6 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-4467ca2abcfc" available="true">
-<name>Дефлектор капота темный NISSAN X-trail 2015- / Ниссан Х Трейл</name>
+<name>Дефлектор капота темный Nissan X-trail 2015- / Ниссан Х Трейл</name>
 <categoryId>9720514</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -18712,7 +18712,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-bokovykh-okon-nissan-x-trail-2015-4-ch-temnyy-nissan-kh-treyl-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Дефлекторы окон</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-e1600f7bbfa7" available="true">
-<name>Дефлекторы окон Vinguru NISSAN X-Trail lll 2013-2019 /крос/накладные/скотч/комплект 4шт./акрил / Ниссан Х Трейл</name>
+<name>Дефлекторы окон Vinguru Nissan X-Trail lll 2013-2019 /крос/накладные/скотч/комплект 4 шт/акрил</name>
 <categoryId>9720514</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -18742,7 +18742,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-vinguru-nissan-x-trail-lll-2013-2019-kros-nakladnye-skotch-2.jpg</picture>
 <param name="Марка автомобиля">Nissan</param><param name="Модель автомобиля">X-Trail 3-gen</param><param name="Годы выпуска">2014–2022</param><param name="Тип детали">Дефлекторы окон</param><param name="Количество">4 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-0348ef4ab564" available="true">
-<name>Дефлекторы окон Vinguru NISSAN X Trail 2013-2019 /накладные/скотч /комплект 4 шт./ литьевой поликарбонат / Ниссан Х Трейл</name>
+<name>Дефлекторы окон Vinguru Nissan X Trail 2013-2019 /накладные/скотч /комплект 4 шт/ литьевой</name>
 <categoryId>9720514</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>

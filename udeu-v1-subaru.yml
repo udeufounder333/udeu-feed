@@ -25,7 +25,7 @@
 </categories>
 <offers>
 <offer id="starsparts-ba63220b452f" available="true">
-<name>Задний LED-фонарь VLAND с последовательным поворотником для Toyota GT86 / Subaru BRZ / Scion FR-S (2012-2019)</name>
+<name>Задний LED-фонарь VLAND с последовательным поворотником для Toyota GT86 / Subaru BRZ / Scion FR-S</name>
 <categoryId>9722702</categoryId>
 <price>118580</price>
 <currencyId>KZT</currencyId>
@@ -95,7 +95,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/fara-vland-led-perednyaya-dlya-toyota-gt86-subaru-brz-2012-2021-7.jpg</picture>
 <vendor>VLAND</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">BRZ 1-gen</param><param name="Годы выпуска">2012–2020</param><param name="Тип детали">Светодиодные фары</param><param name="Производитель">VLAND</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-1a81d479bf01" available="true">
-<name>Задние LED-фонари VLAND последовательный поворотник для Scion FR-S / Subaru BRZ / Toyota GT86 (2012-2021)</name>
+<name>Задние LED-фонари VLAND последовательный поворотник для Scion FR-S / Subaru BRZ / Toyota GT86</name>
 <categoryId>9722702</categoryId>
 <price>128163</price>
 <currencyId>KZT</currencyId>
@@ -130,7 +130,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zadnie-led-fonari-vland-posledovatelnyy-povorotnik-dlya-scion-fr-s-subaru-brz-7.jpg</picture>
 <vendor>VLAND</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">BRZ 1-gen</param><param name="Годы выпуска">2012–2020</param><param name="Тип детали">Задние фонари</param><param name="Производитель">VLAND</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-cb93932dcae9" available="true">
-<name>Задние LED-фонари VLAND последовательный поворотник динамическая подсветка для Toyota 86/Subaru BRZ/Scion FR-S (2012-2020)</name>
+<name>Задние LED-фонари VLAND последовательный поворотник динамическая подсветка для Toyota 86/Subaru</name>
 <categoryId>9722702</categoryId>
 <price>165193</price>
 <currencyId>KZT</currencyId>
@@ -270,7 +270,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/fary-full-led-proektor-dkho-dlya-toyota-gt86-subaru-brz-2012-2020-komplekt-ft-7.jpg</picture>
 <vendor>FT Carlight</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">BRZ 1-gen</param><param name="Годы выпуска">2012–2020</param><param name="Тип детали">Светодиодные фары</param><param name="Производитель">FT Carlight</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-1121be4b0f1b" available="true">
-<name>Задние LED-фонари динамический поворотник для Toyota GT86 / Subaru BRZ (2012-2020), комплект, FT Carlight</name>
+<name>Задние LED-фонари динамический поворотник для Toyota GT86 / Subaru BRZ (2012-2020), FT Carlight</name>
 <categoryId>9722702</categoryId>
 <price>182498</price>
 <currencyId>KZT</currencyId>
@@ -305,7 +305,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zadnie-led-fonari-dinamicheskiy-povorotnik-dlya-toyota-gt86-subaru-brz-2012-7.jpg</picture>
 <vendor>FT Carlight</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">BRZ 1-gen</param><param name="Годы выпуска">2012–2020</param><param name="Тип детали">Задние фонари</param><param name="Производитель">FT Carlight</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-deea9f496edb" available="true">
-<name>Задние LED-фонари динамический поворотник для Toyota GT86 / Subaru BRZ (2012-2020), комплект, FT Carlight</name>
+<name>Задние LED-фонари динамический поворотник для Toyota GT86 / Subaru BRZ (2012-2020), FT Carlight</name>
 <categoryId>9722702</categoryId>
 <price>179117</price>
 <currencyId>KZT</currencyId>
@@ -375,7 +375,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/fary-perednie-led-s-khodovymi-ognyami-dlya-toyota-gt86-subaru-brz-2012-2020-7.jpg</picture>
 <vendor>FT Carlight</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">BRZ 1-gen</param><param name="Годы выпуска">2012–2020</param><param name="Тип детали">Светодиодные фары</param><param name="Производитель">FT Carlight</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-0d0cc7d30ea1" available="true">
-<name>Задний LED-фонарь динамический поворотник для Toyota GT86 / Subaru BRZ (2012-2020), комплект, FT Carlight</name>
+<name>Задний LED-фонарь динамический поворотник для Toyota GT86 / Subaru BRZ (2012-2020), FT Carlight</name>
 <categoryId>9722702</categoryId>
 <price>91280</price>
 <currencyId>KZT</currencyId>
@@ -410,7 +410,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zadniy-led-fonar-dinamicheskiy-povorotnik-dlya-toyota-gt86-subaru-brz-2012-2020-7.jpg</picture>
 <vendor>FT Carlight</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">BRZ 1-gen</param><param name="Годы выпуска">2012–2020</param><param name="Тип детали">Задние фонари</param><param name="Производитель">FT Carlight</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-b5455866b75d" available="true">
-<name>Задний LED-фонарь RGB динамический поворотник для Toyota GT86 / Subaru BRZ (2012-2020), комплект, FT Carlight</name>
+<name>Задний LED-фонарь RGB динамический поворотник для Toyota GT86 / Subaru BRZ (2012-2020), FT Carlight</name>
 <categoryId>9722702</categoryId>
 <price>97766</price>
 <currencyId>KZT</currencyId>
@@ -445,7 +445,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zadniy-led-fonar-rgb-dinamicheskiy-povorotnik-dlya-toyota-gt86-subaru-brz-2012-7.jpg</picture>
 <vendor>FT Carlight</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">BRZ 1-gen</param><param name="Годы выпуска">2012–2020</param><param name="Тип детали">Задние фонари</param><param name="Производитель">FT Carlight</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-70db7aae7f59" available="true">
-<name>Задние LED-фонари динамический поворотник для Toyota GT86 / Subaru BRZ (2012-2020), комплект, FT Carlight</name>
+<name>Задние LED-фонари динамический поворотник для Toyota GT86 / Subaru BRZ (2012-2020), FT Carlight</name>
 <categoryId>9722702</categoryId>
 <price>185748</price>
 <currencyId>KZT</currencyId>
@@ -480,7 +480,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zadnie-led-fonari-dinamicheskiy-povorotnik-dlya-toyota-gt86-subaru-brz-2012-edd879-7.jpg</picture>
 <vendor>FT Carlight</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">BRZ 1-gen</param><param name="Годы выпуска">2012–2020</param><param name="Тип детали">Задние фонари</param><param name="Производитель">FT Carlight</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-e43d132f9019" available="true">
-<name>Фары передние LED с ходовыми огнями RGB для Toyota GT86 / Subaru BRZ (2012-2020), комплект, FT Carlight</name>
+<name>Фары передние LED с ходовыми огнями RGB для Toyota GT86 / Subaru BRZ (2012-2020), FT Carlight</name>
 <categoryId>9722702</categoryId>
 <price>381273</price>
 <currencyId>KZT</currencyId>
@@ -1173,7 +1173,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/reshetka-radiatora-nizhnyaya-12-mm-subfor13-22-1.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест.</param><param name="Годы выпуска">2014–2015</param><param name="Тип детали">Решетка радиатора</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-d39c1070ab0f" available="true">
-<name>Сетка на бампер внешняя для SUBARU Forester 2,0i-L, Active Edition, 2,5i-L 2013-2015, 2 шт., черн., 10 мм / Субару Форестер</name>
+<name>Сетка на бампер внешняя для Subaru Forester 2,0i-L, Active Edition, 2 шт, черн., 10 мм</name>
 <categoryId>9722704</categoryId>
 <price>19835</price>
 <currencyId>KZT</currencyId>
@@ -1202,7 +1202,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/setka-na-bamper-vneshnyaya-dlya-subaru-forester-2-0i-l-active-edition-2-5i-l-1.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест.</param><param name="Годы выпуска">2014–2015</param><param name="Тип детали">Решетка бампера</param><param name="Цвет">черный</param><param name="Количество">2 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-18de35d4a172" available="true">
-<name>Сетка на бампер внешняя для SUBARU Forester 2,5i-S, 2,0XT 2013-2015, 2 шт., черн., 15 мм / Субару Форестер</name>
+<name>Сетка на бампер внешняя для Subaru Forester 2,5i-S, 2,0XT 2013-2015, 2 шт, черн., 15 мм</name>
 <categoryId>9722704</categoryId>
 <price>19835</price>
 <currencyId>KZT</currencyId>
@@ -3452,7 +3452,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-bagazhnika-subaru-forester-2014-poliuretan-norplast-1.jpg</picture>
 <vendor>Norplast</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест.</param><param name="Годы выпуска">2014–2015</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Производитель">Norplast</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-72796dbf304e" available="true">
-<name>Коврик в багажник SUBARU Forester, 2013-2018, кроссовер, (полиуретан) / Субару Форестер</name>
+<name>Коврик в багажник Subaru Forester, 2013-2018, кроссовер, (полиуретан) / Субару Форестер</name>
 <categoryId>9722704</categoryId>
 <price>11150</price>
 <currencyId>KZT</currencyId>
@@ -3480,7 +3480,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-subaru-forester-2013-2018-krossover-poliuretan-subaru-2.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест.</param><param name="Годы выпуска">2014–2015</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-a02620612cc9" available="true">
-<name>Коврики 3D в салон SUBARU Forester, 2013-2018, 4 шт. (полиуретан) / Субару Форестер</name>
+<name>Коврики 3D в салон Subaru Forester, 2013-2018, 4 шт. (полиуретан) / Субару Форестер</name>
 <categoryId>9722704</categoryId>
 <price>16060</price>
 <currencyId>KZT</currencyId>
@@ -3508,7 +3508,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-subaru-forester-2013-2018-4-sht-poliuretan-subaru-forester-2.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест.</param><param name="Годы выпуска">2014–2015</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-c37fc8448858" available="true">
-<name>Коврики 3D в салон подходят для SUBARU Forester, 2012- 2018, правый руль 4 шт. (полиуретан) / Субару Форестер</name>
+<name>Коврики 3D в салон для Subaru Forester, 2012- 2018, правый руль 4 шт (полиуретан)</name>
 <categoryId>9722704</categoryId>
 <price>25165</price>
 <currencyId>KZT</currencyId>
@@ -3623,7 +3623,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-differentsiala-subaru-forester-2014-alyuminiy-4mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест.</param><param name="Годы выпуска">2014–2015</param><param name="Тип детали">Защита моста</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-53d156fe95fe" available="true">
-<name>Защиты комплект (алюминий) 4мм (картер, задний дифференциал), Subaru Forester (SJ) 2013- (Turbo), ТСС</name>
+<name>Защиты комплект (алюминий) 4мм (картер, задний дифференциал), Subaru Forester (SJ) 2013- (Turbo)</name>
 <categoryId>9722704</categoryId>
 <price>102076</price>
 <currencyId>KZT</currencyId>
@@ -3652,7 +3652,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-komplekt-alyuminiy-4mm-karter-zadniy-differentsial-subaru-forester-sj-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест.</param><param name="Годы выпуска">2014–2015</param><param name="Тип детали">Защита днища</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-0b841e70dddc" available="true">
-<name>Защиты комплект (алюминий) 4мм (картер, кпп, задний дифференциал), Subaru Forester (SJ) 2013- (кроме Turbo), ТСС</name>
+<name>Защиты комплект (алюминий) 4мм (картер, кпп, задний дифференциал), Subaru Forester (SJ) 2013</name>
 <categoryId>9722704</categoryId>
 <price>134901</price>
 <currencyId>KZT</currencyId>
@@ -3681,7 +3681,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-komplekt-alyuminiy-4mm-karter-kpp-zadniy-differentsial-subaru-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест.</param><param name="Годы выпуска">2014–2015</param><param name="Тип детали">Защита днища</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-bb82f38a0472" available="true">
-<name>Защиты картера и крепеж, подходит для SUBARU Forester (13-18) 2,5 бензин АТ / Субару Форестер</name>
+<name>Защиты картера и крепеж, подходит для Subaru Forester (13-18) 2,5 бензин АТ / Субару Форестер</name>
 <categoryId>9722704</categoryId>
 <price>16185</price>
 <currencyId>KZT</currencyId>
@@ -3711,7 +3711,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-kartera-i-krepezh-podkhodit-dlya-subaru-forester-13-18-2-5-benzin-at-2.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест.</param><param name="Годы выпуска">2014–2015</param><param name="Тип детали">Защита картера</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-0effff0dbf3e" available="true">
-<name>Комплект Защиты картера и крепеж, подходит для SUBARU Forester (13-18) 2,5 бензин / Субару Форестер</name>
+<name>Комплект Защиты картера и крепеж, подходит для Subaru Forester (13-18) 2,5 бензин / Субару Форестер</name>
 <categoryId>9722704</categoryId>
 <price>16310</price>
 <currencyId>KZT</currencyId>
@@ -4508,7 +4508,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladka-na-srednyuyu-reshetku-radiatora-subaru-forester-2016-truba-12-mm-tss-2.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест 2</param><param name="Годы выпуска">2016–2018</param><param name="Тип детали">Накладка на среднюю решетку радиатора</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-de847e569b14" available="true">
-<name>Сетка на бампер внешняя для SUBARU Forester 2016-2020, 2 шт., хром, 10 мм / Субару Форестер</name>
+<name>Сетка на бампер внешняя для Subaru Forester 2016-2020, 2 шт., хром, 10 мм / Субару Форестер</name>
 <categoryId>9722705</categoryId>
 <price>19835</price>
 <currencyId>KZT</currencyId>
@@ -4566,7 +4566,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bagazhnik-na-kryshu-subaru-forester-2016-2018-poperechiny-dlya-avto-bez-1.jpg</picture>
 <vendor>Subaru</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест 2</param><param name="Годы выпуска">2016–2018</param><param name="Тип детали">Рейлинги</param><param name="Производитель">Subaru</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-d519355dd2c6" available="true">
-<name>Багажник на крышу Subaru Forester 2016-2018, поперечины, аэродинамические, для авто с рейлингами, оригинал</name>
+<name>Багажник на крышу Subaru Forester 2016-2018, поперечины, аэродинамические, оригинал</name>
 <categoryId>9722705</categoryId>
 <price>113750</price>
 <currencyId>KZT</currencyId>
@@ -5324,7 +5324,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladka-na-zadniy-bamper-subaru-forester-2016-list-shlifovannyy-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест 2</param><param name="Годы выпуска">2016–2018</param><param name="Тип детали">Накладка на задний бампер</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-c3d4a7843c1c" available="true">
-<name>Подкрылок с шумоизоляцией SUBARU Forester, 01/2013-2018, Кроссовер (задний левый) / Субару Форестер</name>
+<name>Подкрылок с шумоизоляцией Subaru Forester, 01/2013-2018, Кроссовер (задний левый) / Субару Форестер</name>
 <categoryId>9722705</categoryId>
 <price>24981</price>
 <currencyId>KZT</currencyId>
@@ -5684,7 +5684,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-vsesezonnye-subaru-forester-2014-2-ryada-chernye-huskyliners-1.jpg</picture>
 <vendor>HuskyLiners</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест 2</param><param name="Годы выпуска">2016–2018</param><param name="Тип детали">Коврики</param><param name="Цвет">черный</param><param name="Производитель">HuskyLiners</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-b14de3d4371f" available="true">
-<name>Комплект крепежа для брызговиков задних SUBARU Forester, 2015-2018, 2 шт. (полиуретан) / Субару Форестер</name>
+<name>Комплект крепежа для брызговиков задних Subaru Forester, 2015-2018, 2 шт (полиуретан)</name>
 <categoryId>9722705</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -5713,7 +5713,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/komplekt-krepezha-dlya-bryzgovikov-zadnikh-subaru-forester-2015-2018-2-sht-1.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 4-gen рест 2</param><param name="Годы выпуска">2016–2018</param><param name="Тип детали">Брызговики</param><param name="Материал">полиуретан</param><param name="Количество">2 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-c886928d695a" available="true">
-<name>ТСУ на а/м SUBARU Forester V SUV 2018- / Субару Форестер</name>
+<name>ТСУ на а/м Subaru Forester V SUV 2018- / Субару Форестер</name>
 <categoryId>9722706</categoryId>
 <price>82410</price>
 <currencyId>KZT</currencyId>
@@ -5742,7 +5742,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/tsu-na-a-m-subaru-forester-v-suv-2018-subaru-forester-1.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Фаркоп</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-372d279148de" available="true">
-<name>ТСУ для SUBARU Forester eco Hybrid 2019-, Тип шара: Вертикальный, легкосъемный (V) / Субару Форестер</name>
+<name>ТСУ для Subaru Forester eco Hybrid 2019-, Тип шара: Вертикальный, легкосъемный (V) / Субару Форестер</name>
 <categoryId>9722706</categoryId>
 <price>335340</price>
 <currencyId>KZT</currencyId>
@@ -6328,7 +6328,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-forester-v-alyuminievye-s-plastikovoy-nakladkoy-1720-mm-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-3d34ed3b2120" available="true">
-<name>Пороги ступеньки Subaru Forester V, алюминиевые с пластиковой накладкой, карбон серые, 1720 мм, ТСС SUBFOR18-32GR</name>
+<name>Пороги ступеньки Subaru Forester V, алюминиевые с пластиковой накладкой, карбон серые, 1720 мм</name>
 <categoryId>9722706</categoryId>
 <price>107933</price>
 <currencyId>KZT</currencyId>
@@ -6415,7 +6415,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-forester-v-alyuminievye-slim-line-silver-1720-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-ca73da40e974" available="true">
-<name>Накладки на пороги Subaru Forester V, пластик, 2 шт.</name>
+<name>Накладки на пороги Subaru Forester V, пластик, 2 шт</name>
 <categoryId>9722706</categoryId>
 <price>29250</price>
 <currencyId>KZT</currencyId>
@@ -6955,7 +6955,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladka-obramleniya-knopok-torpedy-subaru-forester-5-matovyy-khrom-2.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Накладка обрамления кнопок торпеды</param><param name="Цвет">матовый хром</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-b98ce29c75a3" available="true">
-<name>Накладки кнопок стеклоподъемников Subaru Forester V, под карбон, 4 шт.</name>
+<name>Накладки кнопок стеклоподъемников Subaru Forester V, под карбон, 4 шт</name>
 <categoryId>9722706</categoryId>
 <price>19500</price>
 <currencyId>KZT</currencyId>
@@ -7912,7 +7912,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-s-khrom-moldingom-subaru-forester-5-ct-1.jpg</picture>
 <vendor>CT</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Дефлекторы окон</param><param name="Цвет">хром</param><param name="Производитель">CT</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-1bfd5d265529" available="true">
-<name>Подкрылок с шумоизоляцией подходит для SUBARU Forester 2018- кросс (задний левый) / Субару Форестер</name>
+<name>Подкрылок с шумоизоляцией подходит для Subaru Forester 2018- кросс (задний левый) / Субару Форестер</name>
 <categoryId>9722706</categoryId>
 <price>35108</price>
 <currencyId>KZT</currencyId>
@@ -7941,7 +7941,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-subaru-forester-2018-kross-zadniy-1.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-ab1351e8091e" available="true">
-<name>Подкрылок задний левый SUBARU Forester 2019 с шумоизоляцией / Субару Форестер</name>
+<name>Подкрылок задний левый Subaru Forester 2019 с шумоизоляцией / Субару Форестер</name>
 <categoryId>9722706</categoryId>
 <price>9181</price>
 <currencyId>KZT</currencyId>
@@ -7970,7 +7970,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-zadniy-levyy-subaru-forester-2019-s-shumoizolyatsiey-subaru-forester-1.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-e3386bd211cb" available="true">
-<name>Подкрылок подходит для SUBARU Forester 2018- кросс (передний правый) / Субару Форестер</name>
+<name>Подкрылок подходит для Subaru Forester 2018- кросс (передний правый) / Субару Форестер</name>
 <categoryId>9722706</categoryId>
 <price>20495</price>
 <currencyId>KZT</currencyId>
@@ -8204,7 +8204,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-otseki-i-karmany-salona-subaru-forester-5-siniy-kant-1.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Коврики</param><param name="Цвет">синий</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-22e767371713" available="true">
-<name>Коврик в багажник подходит для SUBARU Forester, 2018-, кроссовер, 1шт. (полиуретан) / Субару Форестер</name>
+<name>Коврик в багажник для Subaru Forester, 2018-, кроссовер, 1 шт (полиуретан)</name>
 <categoryId>9722706</categoryId>
 <price>11485</price>
 <currencyId>KZT</currencyId>
@@ -8232,7 +8232,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-podkhodit-dlya-subaru-forester-2018-krossover-1sht-2.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Количество">1 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-fe945470a28a" available="true">
-<name>Коврик в багажник подходят для SUBARU Forester 2018-, правый рульвнедорожник, 1шт. (полиуретан) / Субару Форестер</name>
+<name>Коврик в багажник для Subaru Forester 2018-, правый рульвнедорожник, 1 шт (полиуретан)</name>
 <categoryId>9722706</categoryId>
 <price>11485</price>
 <currencyId>KZT</currencyId>
@@ -8260,7 +8260,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-podkhodyat-dlya-subaru-forester-2018-pravyy-rulvnedorozhnik-2.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Количество">1 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-f3d0c10b8a6e" available="true">
-<name>Коврики 3D в салон подходят для SUBARU Forester, 2018- кроссовер, 4шт. (полиуретан) / Субару Форестер</name>
+<name>Коврики 3D в салон для Subaru Forester, 2018- кроссовер, 4 шт (полиуретан)</name>
 <categoryId>9722706</categoryId>
 <price>15880</price>
 <currencyId>KZT</currencyId>
@@ -8377,7 +8377,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-kpp-subaru-forester-v-stal-v-2-0-polnyy-privod-rival-2.jpg</picture>
 <vendor>Rival</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Защита кпп</param><param name="Материал">сталь</param><param name="Производитель">Rival</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-78a3ccd84b7e" available="true">
-<name>Защита картера (алюминий) 4 мм (не устанавливается с передней защитой а/м), Subaru Forester (S5) 2018-, ТСС</name>
+<name>Защита картера (алюминий) 4 мм (не устанавливается с передней защитой а/м), Subaru Forester (S5)</name>
 <categoryId>9722706</categoryId>
 <price>70285</price>
 <currencyId>KZT</currencyId>
@@ -8435,7 +8435,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-kartera-malaya-alyuminiy-4-mm-subaru-forester-s5-2018-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Защита картера</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-4ea6516b2f2b" available="true">
-<name>Защиты комплект (алюминий) 4мм (картер малая кпп, задний дифференциал, бак правая, бак левая), Subaru Forester (S5) 2018-, ТСС</name>
+<name>Защиты комплект (алюминий) 4мм (картер малая кпп, задний дифференциал, бак правая, бак левая)</name>
 <categoryId>9722706</categoryId>
 <price>128258</price>
 <currencyId>KZT</currencyId>
@@ -8464,7 +8464,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-komplekt-alyuminiy-4mm-karter-malaya-kpp-zadniy-differentsial-bak-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Защита днища</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-bc18b485fd0b" available="true">
-<name>Защиты комплект (алюминий) 4мм (картер и кпп, задний дифференциал, бак правая, бак правая)(не устанавливается с передней защитой а/м), Subaru Forester (S5) 2018-, ТСС</name>
+<name>Защиты комплект (алюминий) 4мм (картер и кпп, задний дифференциал, бак правая, бак правая)</name>
 <categoryId>9722706</categoryId>
 <price>165068</price>
 <currencyId>KZT</currencyId>
@@ -8493,7 +8493,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-komplekt-alyuminiy-4mm-karter-i-kpp-zadniy-differentsial-bak-pravaya-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Защита днища</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-c2102e42e241" available="true">
-<name>Защиты редуктора и крепёж, подходит для SUBARU XV (17-), Forester (18-) 2,0 бензин AT / Субару Хв</name>
+<name>Защиты редуктора и крепёж, подходит для Subaru XV (17-), Forester (18-) 2,0 бензин AT / Субару Хв</name>
 <categoryId>9722706</categoryId>
 <price>12815</price>
 <currencyId>KZT</currencyId>
@@ -8523,7 +8523,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-reduktora-i-krepezh-podkhodit-dlya-subaru-xv-17-forester-18-2-0-2.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Защита моста</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-ba2544e89ac9" available="true">
-<name>Защиты коробки передач и крепёж, подходит для SUBARU XV (17-), Forester (18-) 2,0 бензин AT / Субару Хв</name>
+<name>Защиты коробки передач и крепёж, для Subaru XV (17-), Forester (18-) 2,0 бензин AT</name>
 <categoryId>9722706</categoryId>
 <price>22075</price>
 <currencyId>KZT</currencyId>
@@ -8552,7 +8552,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-korobki-peredach-i-krepezh-podkhodit-dlya-subaru-xv-17-forester-18-2-1.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Защита кпп</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-71108e57c6aa" available="true">
-<name>Защиты картера и крепёж, подходит для SUBARU XV (17-), Forester (18-) 2,0 бензин AT / Субару Хв</name>
+<name>Защиты картера и крепёж, подходит для Subaru XV (17-), Forester (18-) 2,0 бензин AT / Субару Хв</name>
 <categoryId>9722706</categoryId>
 <price>27215</price>
 <currencyId>KZT</currencyId>
@@ -9055,7 +9055,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-s-khrom-moldingom-subaru-forester-5-4.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Дефлекторы окон</param><param name="Цвет">хром</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-9ae8462e582f" available="true">
-<name>Дефлектор капота темный SUBARU Forester 2018- / Субару Форестер</name>
+<name>Дефлектор капота темный Subaru Forester 2018- / Субару Форестер</name>
 <categoryId>9722706</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -9145,7 +9145,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-bokovykh-okon-subaru-forester-2018-2021-4ch-temnyy-subaru-forester-2.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Дефлекторы окон</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-e2f449cfe584" available="true">
-<name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., SUBARU FORESTER V (SK) 2018-, кроссовер / Субару Форестер</name>
+<name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., Subaru FORESTER V (SK) 2018-, кроссовер / Субару Форестер</name>
 <categoryId>9722706</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -9175,7 +9175,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektor-okon-nakladnoy-skotch-3m-4-sht-subaru-forester-v-sk-2018-krossover-2.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Дефлекторы окон</param><param name="Количество">4 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-089b0c8cb5d6" available="true">
-<name>Дефлекторы окон Vinguru SUBARU Forester 2018- /накладные/скотч /комплект 4 шт./ литьевой поликарбонат / Субару Форестер</name>
+<name>Дефлекторы окон Vinguru Subaru Forester 2018- /накладные/скотч /комплект 4 шт/ литьевой поликарбонат</name>
 <categoryId>9722706</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -9414,7 +9414,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-dlya-subaru-forester-2019-zadnie-1.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Forester 5-gen</param><param name="Годы выпуска">2018–2024</param><param name="Тип детали">Брызговики</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-9d6e8ad5f0e4" available="true">
-<name>Брызговики задние SUBARU Forester, 2018-, кроссовер, 2 шт. (optimum) в коробке / Субару Форестер</name>
+<name>Брызговики задние Subaru Forester, 2018-, кроссовер, 2 шт. (optimum) в коробке / Субару Форестер</name>
 <categoryId>9722706</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -12999,7 +12999,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-subaru-outback-2012-perednie-norplast-1.jpg</picture>
 <vendor>Norplast</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 4-gen</param><param name="Годы выпуска">2010–2014</param><param name="Тип детали">Брызговики</param><param name="Производитель">Norplast</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-c4a97a10b51b" available="true">
-<name>Решетка радиатора SUBARU Outback 2021-, 12 мм, ТСС</name>
+<name>Решетка радиатора Subaru Outback 2021-, 12 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>51350</price>
 <currencyId>KZT</currencyId>
@@ -13028,7 +13028,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/reshetka-radiatora-subaru-outback-2021-12-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Решетка радиатора</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-8e039f91e95a" available="true">
-<name>Пороги ступеньки SUBARU Outback 2021-, овальные с накладкой 75х42 мм, ТСС</name>
+<name>Пороги ступеньки Subaru Outback 2021-, овальные с накладкой 75х42 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>171600</price>
 <currencyId>KZT</currencyId>
@@ -13057,7 +13057,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-outback-2021-ovalnye-s-nakladkoy-75kh42-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-a178d91c8dcd" available="true">
-<name>Пороги ступеньки SUBARU Outback 2021-, овальные с проступью 75х42 мм, ТСС</name>
+<name>Пороги ступеньки Subaru Outback 2021-, овальные с проступью 75х42 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>182000</price>
 <currencyId>KZT</currencyId>
@@ -13086,7 +13086,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-outback-2021-ovalnye-s-prostupyu-75kh42-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-a23f57c866df" available="true">
-<name>Пороги ступеньки SUBARU Outback 2021-, овальные гнутые с накладкой 75х42 мм, ТСС</name>
+<name>Пороги ступеньки Subaru Outback 2021-, овальные гнутые с накладкой 75х42 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>182000</price>
 <currencyId>KZT</currencyId>
@@ -13115,7 +13115,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-outback-2021-ovalnye-gnutye-s-nakladkoy-75kh42-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-5fc4d658f456" available="true">
-<name>Пороги ступеньки SUBARU Outback 2021-, с площадкой 42,4 мм, ТСС</name>
+<name>Пороги ступеньки Subaru Outback 2021-, с площадкой 42,4 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>150800</price>
 <currencyId>KZT</currencyId>
@@ -13144,7 +13144,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-outback-2021-s-ploshchadkoy-42-4-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-c80de46b375e" available="true">
-<name>Пороги ступеньки SUBARU Outback 2021-, с площадкой (нерж.лист) 42,4 мм, ТСС</name>
+<name>Пороги ступеньки Subaru Outback 2021-, с площадкой (нерж.лист) 42,4 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>192400</price>
 <currencyId>KZT</currencyId>
@@ -13173,7 +13173,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-outback-2021-s-ploshchadkoy-nerzh-list-42-4-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Материал">нержавеющая сталь</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-9478a3c3620f" available="true">
-<name>Пороги ступеньки SUBARU Outback 2021-, с площадкой 60,3 мм, ТСС</name>
+<name>Пороги ступеньки Subaru Outback 2021-, с площадкой 60,3 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>171600</price>
 <currencyId>KZT</currencyId>
@@ -13202,7 +13202,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-outback-2021-s-ploshchadkoy-60-3-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-7a98966cd909" available="true">
-<name>Пороги ступеньки с площадкой SUBARU Outback 2021-, (нерж. лист) 60,3 мм, ТСС</name>
+<name>Пороги ступеньки с площадкой Subaru Outback 2021-, (нерж. лист) 60,3 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>213200</price>
 <currencyId>KZT</currencyId>
@@ -13231,7 +13231,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-s-ploshchadkoy-subaru-outback-2021-nerzh-list-60-3-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Материал">нержавеющая сталь</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-4b2005c05ddc" available="true">
-<name>Пороги ступеньки с площадкой SUBARU Outback 2021-, 75х42 мм, ТСС</name>
+<name>Пороги ступеньки с площадкой Subaru Outback 2021-, 75х42 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>192400</price>
 <currencyId>KZT</currencyId>
@@ -13260,7 +13260,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-s-ploshchadkoy-subaru-outback-2021-75kh42-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-e13140352ca6" available="true">
-<name>Пороги ступеньки с площадкой SUBARU Outback 2021-, (нерж. лист) 75х42 мм, ТСС</name>
+<name>Пороги ступеньки с площадкой Subaru Outback 2021-, (нерж. лист) 75х42 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>234000</price>
 <currencyId>KZT</currencyId>
@@ -13289,7 +13289,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-s-ploshchadkoy-subaru-outback-2021-nerzh-list-75kh42-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Материал">нержавеющая сталь</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-9a58daa97a87" available="true">
-<name>Пороги ступеньки SUBARU Outback 2021-, алюминиевые с пластиковой накладкой 1820 мм, ТСС</name>
+<name>Пороги ступеньки Subaru Outback 2021-, алюминиевые с пластиковой накладкой 1820 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>196040</price>
 <currencyId>KZT</currencyId>
@@ -13318,7 +13318,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-outback-2021-alyuminievye-s-plastikovoy-nakladkoy-1820-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-1969b446ed07" available="true">
-<name>Пороги ступеньки SUBARU Outback 2021-, алюминиевые с пластиковой накладкой, карбон серые, 1820 мм, ТСС</name>
+<name>Пороги ступеньки Subaru Outback 2021-, алюминиевые с пластиковой накладкой, карбон серые, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>209560</price>
 <currencyId>KZT</currencyId>
@@ -13347,7 +13347,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-outback-2021-alyuminievye-s-plastikovoy-nakladkoy-karbon-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Материал">карбон</param><param name="Цвет">серый</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-a99eb64bf948" available="true">
-<name>Пороги ступеньки SUBARU Outback 2021-, алюминиевые с пластиковой накладкой, карбон серебро, 1820 мм, ТСС</name>
+<name>Пороги ступеньки Subaru Outback 2021-, алюминиевые с пластиковой накладкой, карбон серебро, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>209560</price>
 <currencyId>KZT</currencyId>
@@ -13376,7 +13376,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-outback-2021-alyuminievye-s-plastikovoy-nakladkoy-karbon-5673c3-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Материал">карбон</param><param name="Цвет">серебристый</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-ca8feb9fe8e4" available="true">
-<name>Пороги ступеньки SUBARU Outback 2021-, алюминиевые с пластиковой накладкой, карбон черные, 1820 мм, ТСС</name>
+<name>Пороги ступеньки Subaru Outback 2021-, алюминиевые с пластиковой накладкой, карбон черные, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>209560</price>
 <currencyId>KZT</currencyId>
@@ -13405,7 +13405,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-outback-2021-alyuminievye-s-plastikovoy-nakladkoy-karbon-59dd3a-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Материал">карбон</param><param name="Цвет">черный</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-f56ec5527a77" available="true">
-<name>Пороги ступеньки SUBARU Outback 2021-, алюминиевые "Slim Line Black", 1820 мм, ТСС</name>
+<name>Пороги ступеньки Subaru Outback 2021-, алюминиевые "Slim Line Black", 1820 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>155480</price>
 <currencyId>KZT</currencyId>
@@ -13434,7 +13434,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-outback-2021-alyuminievye-slim-line-black-1820-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-7a7d99ba0e1c" available="true">
-<name>Пороги ступеньки SUBARU Outback 2021-, алюминиевые "Slim Line Silver", 1820 мм, ТСС</name>
+<name>Пороги ступеньки Subaru Outback 2021-, алюминиевые "Slim Line Silver", 1820 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>148720</price>
 <currencyId>KZT</currencyId>
@@ -13463,7 +13463,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-subaru-outback-2021-alyuminievye-slim-line-silver-1820-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-3fa3be958726" available="true">
-<name>Пороги труба SUBARU Outback 2021-, 42,4 мм, ТСС</name>
+<name>Пороги труба Subaru Outback 2021-, 42,4 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>124800</price>
 <currencyId>KZT</currencyId>
@@ -13492,7 +13492,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-truba-subaru-outback-2021-42-4-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Пороги</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-b356c083d0dd" available="true">
-<name>Пороги труба SUBARU Outback 2021-, 60,3 мм, ТСС</name>
+<name>Пороги труба Subaru Outback 2021-, 60,3 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>145600</price>
 <currencyId>KZT</currencyId>
@@ -13550,7 +13550,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/vykhlopnaya-sistema-borla-s-type-axle-back-dlya-subaru-outback-2-5l-awd-2020-1.jpg</picture>
 <vendor>Borla</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Выхлопная система</param><param name="Производитель">Borla</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-a0613cfd825e" available="true">
-<name>Накладки на пластиковые пороги SUBARU Outback 2021-, лист шлифованный, 4шт, ТСС</name>
+<name>Накладки на пластиковые пороги Subaru Outback 2021-, лист шлифованный, 4шт, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>19500</price>
 <currencyId>KZT</currencyId>
@@ -13579,7 +13579,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladki-na-plastikovye-porogi-subaru-outback-2021-list-shlifovannyy-4sht-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Накладки на пластиковые пороги</param><param name="Материал">пластик</param><param name="Количество">4 шт.</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-7deaf3ddce44" available="true">
-<name>Накладки на пластиковые пороги SUBARU Outback 2021-, лист шлифованный надпись Outback, 4шт, ТСС</name>
+<name>Накладки на пластиковые пороги Subaru Outback 2021-, лист шлифованный надпись Outback, 4шт, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>26650</price>
 <currencyId>KZT</currencyId>
@@ -13608,7 +13608,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladki-na-plastikovye-porogi-subaru-outback-2021-list-shlifovannyy-nadpis-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Накладки на пластиковые пороги</param><param name="Материал">пластик</param><param name="Количество">4 шт.</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-46e145b65db6" available="true">
-<name>Накадка на задний бампер SUBARU Outback 2021-, лист шлифованный, ТСС</name>
+<name>Накадка на задний бампер Subaru Outback 2021-, лист шлифованный, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>24700</price>
 <currencyId>KZT</currencyId>
@@ -13637,7 +13637,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakadka-na-zadniy-bamper-subaru-outback-2021-list-shlifovannyy-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Бампер</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-44c2ba422108" available="true">
-<name>Накадка на задний бампер SUBARU Outback 2021-, лист шлифованный, надпись Outback, ТСС</name>
+<name>Накадка на задний бампер Subaru Outback 2021-, лист шлифованный, надпись Outback, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>26975</price>
 <currencyId>KZT</currencyId>
@@ -13666,7 +13666,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakadka-na-zadniy-bamper-subaru-outback-2021-list-shlifovannyy-nadpis-outback-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Бампер</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-aca93f43c475" available="true">
-<name>Накладка на заднюю дверь SUBARU Outback 2021-, лист шлифованный, ТСС</name>
+<name>Накладка на заднюю дверь Subaru Outback 2021-, лист шлифованный, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>5850</price>
 <currencyId>KZT</currencyId>
@@ -13695,7 +13695,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladka-na-zadnyuyu-dver-subaru-outback-2021-list-shlifovannyy-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Накладка на заднюю дверь</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-ea3e30b67b4b" available="true">
-<name>Защита переднего бампера SUBARU Outback 2021-, 42,4 мм, ТСС</name>
+<name>Защита переднего бампера Subaru Outback 2021-, 42,4 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>135200</price>
 <currencyId>KZT</currencyId>
@@ -13724,7 +13724,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-perednego-bampera-subaru-outback-2021-42-4-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Защита переднего бампера</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-2f003446ba4d" available="true">
-<name>Защита переднего бампера SUBARU Outback 2021-, 60,3 мм, ТСС</name>
+<name>Защита переднего бампера Subaru Outback 2021-, 60,3 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>161200</price>
 <currencyId>KZT</currencyId>
@@ -13753,7 +13753,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-perednego-bampera-subaru-outback-2021-60-3-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Защита переднего бампера</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-8d8d4b8d07fd" available="true">
-<name>Защита переднего бампера SUBARU Outback 2021-, с ДХО, 60,3 мм, ТСС</name>
+<name>Защита переднего бампера Subaru Outback 2021-, с ДХО, 60,3 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>306800</price>
 <currencyId>KZT</currencyId>
@@ -13782,7 +13782,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-perednego-bampera-subaru-outback-2021-s-dkho-60-3-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Защита переднего бампера</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-1314f79caa9c" available="true">
-<name>Защита заднего бампера SUBARU Outback 2021-, уголки, 42,4 мм, ТСС</name>
+<name>Защита заднего бампера Subaru Outback 2021-, уголки, 42,4 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>135200</price>
 <currencyId>KZT</currencyId>
@@ -13811,7 +13811,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-zadnego-bampera-subaru-outback-2021-ugolki-42-4-mm-tss-1.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">Outback 6-gen</param><param name="Годы выпуска">2021–2025</param><param name="Тип детали">Защита заднего бампера</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-e2c64beaa2b6" available="true">
-<name>Защита заднего бампера SUBARU Outback 2021-, уголки, 60,3 мм, ТСС</name>
+<name>Защита заднего бампера Subaru Outback 2021-, уголки, 60,3 мм, ТСС</name>
 <categoryId>9722716</categoryId>
 <price>145600</price>
 <currencyId>KZT</currencyId>
@@ -13910,7 +13910,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zadnie-led-fonari-dinamicheskiy-povorotnik-dlya-subaru-wrx-2015-2020-komplekt-7.jpg</picture>
 <vendor>FT Carlight</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">WRX 1-gen</param><param name="Годы выпуска">2014–2021</param><param name="Тип детали">Задние фонари</param><param name="Производитель">FT Carlight</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-fc7abd6ab485" available="true">
-<name>Задние LED-фонари Full LED динамический поворотник для Subaru WRX STI (2015-2021), комплект, FT Carlight</name>
+<name>Задние LED-фонари Full LED динамический поворотник для Subaru WRX STI (2015-2021), FT Carlight</name>
 <categoryId>9722717</categoryId>
 <price>277028</price>
 <currencyId>KZT</currencyId>
@@ -14289,7 +14289,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/farkop-subaru-xv-2017-otsinkovannyy-shar-e-tss-2.jpg</picture>
 <vendor>ТСС</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">XV 2-gen</param><param name="Годы выпуска">2017–2023</param><param name="Тип детали">Фаркоп</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-02054220a996" available="true">
-<name>ТСУ на а/м SUBARU XV (V) SUV 2017- / Субару Хв</name>
+<name>ТСУ на а/м Subaru XV (V) SUV 2017- / Субару Хв</name>
 <categoryId>9722719</categoryId>
 <price>87590</price>
 <currencyId>KZT</currencyId>
@@ -14437,7 +14437,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladki-na-bokovye-reshetki-perednego-bampera-subaru-xv-2017-khrom-4.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">XV 2-gen</param><param name="Годы выпуска">2017–2023</param><param name="Тип детали">Накладки на боковые решетки переднего бампера</param><param name="Цвет">хром</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-bf6491f8c0f4" available="true">
-<name>Сетка на бампер внешняя для SUBARU XV 2016-2020, черн., 20 мм (сота) / Субару Хв</name>
+<name>Сетка на бампер внешняя для Subaru XV 2016-2020, черн., 20 мм (сота) / Субару Хв</name>
 <categoryId>9722719</categoryId>
 <price>20665</price>
 <currencyId>KZT</currencyId>
@@ -17885,7 +17885,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-otseki-i-karmany-subaru-xv-2017-16-chastey-siniy-1.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">XV 2-gen</param><param name="Годы выпуска">2017–2023</param><param name="Тип детали">Коврики</param><param name="Цвет">синий</param><param name="Количество">16 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-22ce6168706c" available="true">
-<name>Коврик в багажник SUBARU XV, 2017-, кроссовер 1 шт. (полиуретан) / Субару Хв</name>
+<name>Коврик в багажник Subaru XV, 2017-, кроссовер 1 шт. (полиуретан) / Субару Хв</name>
 <categoryId>9722719</categoryId>
 <price>10675</price>
 <currencyId>KZT</currencyId>
@@ -17941,7 +17941,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kover-v-bagazhnik-podkhodit-dlya-subaru-xv-impreza-2016-pravyy-rul-khetchbek-1-2.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">XV 2-gen</param><param name="Годы выпуска">2017–2023</param><param name="Тип детали">Коврик в багажник</param><param name="Количество">1 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-905fb70dacef" available="true">
-<name>Коврики 3D в салон SUBARU XV, 2017-, 4 шт. (полиуретан) / Субару Хв</name>
+<name>Коврики 3D в салон Subaru XV, 2017-, 4 шт. (полиуретан) / Субару Хв</name>
 <categoryId>9722719</categoryId>
 <price>16060</price>
 <currencyId>KZT</currencyId>
@@ -17969,7 +17969,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-subaru-xv-2017-4-sht-poliuretan-subaru-khv-2.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">XV 2-gen</param><param name="Годы выпуска">2017–2023</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-87a2e5674af2" available="true">
-<name>Коврики в салон Klever Premium SUBARU XV 2011-2016, 2016-2017, кроссовер, 5 шт. (текстиль) / Субару Хв</name>
+<name>Коврики в салон Klever Premium Subaru XV 2011-2016, 2016-2017, кроссовер, 5 шт (текстиль)</name>
 <categoryId>9722719</categoryId>
 <price>44990</price>
 <currencyId>KZT</currencyId>
@@ -17996,7 +17996,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-premium-subaru-xv-2011-2016-2016-2017-krossover-5-sht-1.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">XV 2-gen</param><param name="Годы выпуска">2017–2023</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">5 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-b64db3bcc3a9" available="true">
-<name>Коврики в салон Klever Premium SUBARU XV, 2017-2021, 2021-, кроссовер, 5 шт. (текстиль) / Субару Хв</name>
+<name>Коврики в салон Klever Premium Subaru XV, 2017-2021, 2021-, кроссовер, 5 шт. (текстиль) / Субару Хв</name>
 <categoryId>9722719</categoryId>
 <price>44990</price>
 <currencyId>KZT</currencyId>
@@ -18023,7 +18023,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-klever-premium-subaru-xv-2017-2021-2021-krossover-5-sht-tekstil-1.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">XV 2-gen</param><param name="Годы выпуска">2017–2023</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Количество">5 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-4622e760ebc4" available="true">
-<name>Коврики в салон Klever Econom SUBARU XV, 2017-2021, 2021-, кроссовер, 4 шт. (текстиль) / Субару Хв</name>
+<name>Коврики в салон Klever Econom Subaru XV, 2017-2021, 2021-, кроссовер, 4 шт. (текстиль) / Субару Хв</name>
 <categoryId>9722719</categoryId>
 <price>2080</price>
 <currencyId>KZT</currencyId>
@@ -18519,7 +18519,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-subaru-xv-2017-premium-original-1.jpg</picture>
 <vendor>Subaru</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">XV 2-gen</param><param name="Годы выпуска">2017–2023</param><param name="Тип детали">Дефлекторы окон</param><param name="Производитель">Subaru</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-d15314310be3" available="true">
-<name>Дефлектор капота SUBARU XV 2017-, темный / Субару Хв</name>
+<name>Дефлектор капота Subaru XV 2017-, темный / Субару Хв</name>
 <categoryId>9722719</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -18637,7 +18637,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-zadnie-subaru-xv-2017-original-1.jpg</picture>
 <vendor>Subaru</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">XV 2-gen</param><param name="Годы выпуска">2017–2023</param><param name="Тип детали">Брызговики</param><param name="Производитель">Subaru</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-820664974666" available="true">
-<name>Брызговики Subary XV 2017-, к-кт.</name>
+<name>Брызговики Subary XV 2017-, к-кт</name>
 <categoryId>9722719</categoryId>
 <price>14500</price>
 <currencyId>KZT</currencyId>
@@ -18725,7 +18725,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-zadnie-subaru-xv-2017-rival-1.jpg</picture>
 <vendor>Rival</vendor><param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">XV 2-gen</param><param name="Годы выпуска">2017–2023</param><param name="Тип детали">Брызговики</param><param name="Производитель">Rival</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-34f22a1fa6da" available="true">
-<name>Брызговики передние подходят для SUBARU XV, 2017-, кроссовер 2 шт. (optimum) в коробке / Субару Хв</name>
+<name>Брызговики передние подходят для Subaru XV, 2017-, кроссовер 2 шт. (optimum) в коробке / Субару Хв</name>
 <categoryId>9722719</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
@@ -18755,7 +18755,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-perednie-podkhodyat-dlya-subaru-xv-2017-krossover-2-sht-optimum-v-2.jpg</picture>
 <param name="Марка автомобиля">Subaru</param><param name="Модель автомобиля">XV 2-gen</param><param name="Годы выпуска">2017–2023</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-f5b4988003eb" available="true">
-<name>Брызговики задние подходят для SUBARU XV, 2017-, кроссовер 2 шт. (optimum) в коробке / Субару Хв</name>
+<name>Брызговики задние подходят для Subaru XV, 2017-, кроссовер 2 шт. (optimum) в коробке / Субару Хв</name>
 <categoryId>9722719</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>

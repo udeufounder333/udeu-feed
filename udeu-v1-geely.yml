@@ -141,7 +141,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/farkop-geely-atlas-otsinkovannyy-shar-e-nerzhaveyka-tss-3.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Фаркоп</param><param name="Материал">нержавеющая сталь</param><param name="Комплектация">фаркоп, провода, розетка, декоративная заглушка, чехол для крюка</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-da358b9fb297" available="true">
-      <name>ТСУ на а/м GEELY Atlas SUV 2017- / Джили Атлас</name>
+      <name>ТСУ на а/м Geely Atlas SUV 2017- / Джили Атлас</name>
       <categoryId>9718233</categoryId>
       <price>84555</price>
       <description>&lt;p&gt;&lt;strong&gt;ТСУ на а/м GEELY Atlas SUV 2017- / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -676,7 +676,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/oblozhka-na-dokumenty-s-rfid-zashchitoy-1.png</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Обложка на документы с rfid защитой</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-658e48c2b241" available="true">
-      <name>РЮКЗАК GEELY (размер рюкзака 31х12х43 см.)</name>
+      <name>РЮКЗАК Geely (размер рюкзака 31х12х43 см.)</name>
       <categoryId>9718233</categoryId>
       <price>29000</price>
       <description>&lt;p&gt;&lt;strong&gt;РЮКЗАК GEELY (размер рюкзака 31х12х43 см.)&lt;/strong&gt;&lt;/p&gt;
@@ -699,7 +699,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/ryukzak-geely-razmer-ryukzaka-31kh12kh43-sm-1.jpg</picture>
           <param name="Тип детали">Рюкзак</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-07f0a3121e8b" available="true">
-      <name>ШАПКА И ШАРФ GEELY TRAVEL</name>
+      <name>ШАПКА И ШАРФ Geely TRAVEL</name>
       <categoryId>9718233</categoryId>
       <price>29000</price>
       <description>&lt;p&gt;&lt;strong&gt;ШАПКА И ШАРФ GEELY TRAVEL&lt;/strong&gt;&lt;/p&gt;
@@ -727,7 +727,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/shapka-i-sharf-geely-travel-1.jpg</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Шапка и шарф</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-73fb6dcdc50c" available="true">
-      <name>ПЛЕД ВЯЗАНЫЙ GEELY TRAVEL</name>
+      <name>ПЛЕД ВЯЗАНЫЙ Geely TRAVEL</name>
       <categoryId>9718233</categoryId>
       <price>29000</price>
       <description>&lt;p&gt;&lt;strong&gt;ПЛЕД ВЯЗАНЫЙ GEELY TRAVEL&lt;/strong&gt;&lt;/p&gt;
@@ -755,7 +755,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/pled-vyazanyy-geely-travel-1.jpg</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Плед вязаный</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-0728a62dd8a7" available="true">
-      <name>Складной двусторонний плед серии GEELY TRAVEL</name>
+      <name>Складной двусторонний плед серии Geely TRAVEL</name>
       <categoryId>9718233</categoryId>
       <price>29000</price>
       <description>&lt;p&gt;&lt;strong&gt;Складной двусторонний плед серии GEELY TRAVEL&lt;/strong&gt;&lt;/p&gt;
@@ -783,7 +783,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/skladnoy-dvustoronniy-pled-serii-geely-travel-1.jpg</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Складной двусторонний плед серии</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-5007a71fe88a" available="true">
-      <name>Термокружка для чая серии GEELY WATER объемом 540 мл.</name>
+      <name>Термокружка для чая серии Geely WATER объемом 540 мл</name>
       <categoryId>9718233</categoryId>
       <price>29000</price>
       <description>&lt;p&gt;&lt;strong&gt;Термокружка для чая серии GEELY WATER объемом 540 мл.&lt;/strong&gt;&lt;/p&gt;
@@ -806,7 +806,7 @@
 
           <param name="Тип детали">Термокружка</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-6f6f6a05c31c" available="true">
-      <name>Бутылка для воды серии GEELY WATER объемом 500 мл.</name>
+      <name>Бутылка для воды серии Geely WATER объемом 500 мл</name>
       <categoryId>9718233</categoryId>
       <price>29000</price>
       <description>&lt;p&gt;&lt;strong&gt;Бутылка для воды серии GEELY WATER объемом 500 мл.&lt;/strong&gt;&lt;/p&gt;
@@ -834,7 +834,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/butylka-dlya-vody-serii-geely-water-obemom-500-ml-1.png</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Бутылка</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-3b543524673b" available="true">
-      <name>Шариковая ручка GEELY PEN с нажимным механизмом SWISS MADE</name>
+      <name>Шариковая ручка Geely PEN с нажимным механизмом SWISS MADE</name>
       <categoryId>9718233</categoryId>
       <price>29000</price>
       <description>&lt;p&gt;&lt;strong&gt;Шариковая ручка GEELY PEN с нажимным механизмом SWISS MADE&lt;/strong&gt;&lt;/p&gt;
@@ -862,7 +862,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/sharikovaya-ruchka-geely-pen-s-nazhimnym-mekhanizmom-swiss-made-1.jpg</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Шариковая ручка</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-1cce7a4fd890" available="true">
-      <name>Ежедневник недатированный серии GEELY BOOK с обложкой SOFT-TOUCH</name>
+      <name>Ежедневник недатированный серии Geely BOOK с обложкой SOFT-TOUCH</name>
       <categoryId>9718233</categoryId>
       <price>29000</price>
       <description>&lt;p&gt;&lt;strong&gt;Ежедневник недатированный серии GEELY BOOK с обложкой SOFT-TOUCH&lt;/strong&gt;&lt;/p&gt;
@@ -890,7 +890,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/ezhednevnik-nedatirovannyy-serii-geely-book-s-oblozhkoy-soft-touch-1.png</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Ежедневник недатированный серии</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-7ab49a500b66" available="true">
-      <name>Автомобильное зарядное устройство GEELY CHARGE на 2 USB-порта по 2,1А каждый.</name>
+      <name>Автомобильное зарядное устройство Geely CHARGE на 2 USB-порта по 2,1А каждый</name>
       <categoryId>9718233</categoryId>
       <price>29000</price>
       <description>&lt;p&gt;&lt;strong&gt;Автомобильное зарядное устройство GEELY CHARGE на 2 USB-порта по 2,1А каждый.&lt;/strong&gt;&lt;/p&gt;
@@ -918,7 +918,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/avtomobilnoe-zaryadnoe-ustroystvo-geely-charge-na-2-usb-porta-po-2-1a-kazhdyy-1.png</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Автомобильное зарядное устройство</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-4bac734e1deb" available="true">
-      <name>Изящная металлическая ручка GEELY PEN с нажимным механизмом и поверхностью SOFT-TOUCH</name>
+      <name>Изящная металлическая ручка Geely PEN с нажимным механизмом и поверхностью SOFT-TOUCH</name>
       <categoryId>9718233</categoryId>
       <price>29000</price>
       <description>&lt;p&gt;&lt;strong&gt;Изящная металлическая ручка GEELY PEN с нажимным механизмом и поверхностью SOFT-TOUCH&lt;/strong&gt;&lt;/p&gt;
@@ -1377,7 +1377,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-atlas-alyuminievye-s-plastikovoy-nakladkoy-1720-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Комплектация">пороги и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-b9374f5dee5f" available="true">
-      <name>Пороги ступеньки Geely Atlas, алюминиевые с пластиковой накладкой (карбон серые) 1720 мм, ТСС GEELEATL18-36GR</name>
+      <name>Пороги ступеньки Geely Atlas, алюминиевые с пластиковой накладкой (карбон серые) 1720 мм</name>
       <categoryId>9718233</categoryId>
       <price>107933</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки Geely Atlas, алюминиевые с пластиковой накладкой (карбон серые) 1720 мм, ТСС GEELEATL18-36GR&lt;/strong&gt;&lt;/p&gt;
@@ -1405,7 +1405,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-atlas-alyuminievye-s-plastikovoy-nakladkoy-karbon-serye-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Пороги</param><param name="Материал">карбон</param><param name="Комплектация">пороги и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-d399af7b1018" available="true">
-      <name>Пороги ступеньки Geely Atlas, алюминиевые с пластиковой накладкой (карбон серебро) 1720 мм, ТСС GEELEATL18-36SL</name>
+      <name>Пороги ступеньки Geely Atlas, алюминиевые с пластиковой накладкой (карбон серебро) 1720 мм</name>
       <categoryId>9718233</categoryId>
       <price>107933</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки Geely Atlas, алюминиевые с пластиковой накладкой (карбон серебро) 1720 мм, ТСС GEELEATL18-36SL&lt;/strong&gt;&lt;/p&gt;
@@ -1433,7 +1433,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-atlas-alyuminievye-s-plastikovoy-nakladkoy-karbon-serebro-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Пороги</param><param name="Материал">карбон</param><param name="Цвет">серебристый</param><param name="Комплектация">пороги и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-f94a94777b57" available="true">
-      <name>Пороги ступеньки Geely Atlas, алюминиевые с пластиковой накладкой (карбон черные) 1720 мм, ТСС GEELEATL18-36BL</name>
+      <name>Пороги ступеньки Geely Atlas, алюминиевые с пластиковой накладкой (карбон черные) 1720 мм</name>
       <categoryId>9718233</categoryId>
       <price>107933</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки Geely Atlas, алюминиевые с пластиковой накладкой (карбон черные) 1720 мм, ТСС GEELEATL18-36BL&lt;/strong&gt;&lt;/p&gt;
@@ -1629,7 +1629,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-atlas-style-original-1.jpg</picture>
           <vendor>Geely</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Пороги</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">Geely</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-0ea7a7a7dd3c" available="true">
-      <name>ПОДУШКА GEELY TRAVEL С МИКРОГРАНУЛАМИ</name>
+      <name>ПОДУШКА Geely TRAVEL С МИКРОГРАНУЛАМИ</name>
       <categoryId>9718233</categoryId>
       <price>29000</price>
       <description>&lt;p&gt;&lt;strong&gt;ПОДУШКА GEELY TRAVEL С МИКРОГРАНУЛАМИ&lt;/strong&gt;&lt;/p&gt;
@@ -2117,7 +2117,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladka-na-zadnyuyu-dver-geely-atlas-list-shlifovannyy-tss-geeleatl18-15-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Накладка на заднюю дверь</param><param name="Материал">нержавеющая сталь</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-76b3340cf5c6" available="true">
-      <name>МУЛЬТИТУЛ GEELY ИЗ ИНСТРУМЕНТАЛЬНОЙ СТАЛИ</name>
+      <name>МУЛЬТИТУЛ Geely ИЗ ИНСТРУМЕНТАЛЬНОЙ СТАЛИ</name>
       <categoryId>9718233</categoryId>
       <price>17500</price>
       <description>&lt;p&gt;&lt;strong&gt;МУЛЬТИТУЛ GEELY ИЗ ИНСТРУМЕНТАЛЬНОЙ СТАЛИ&lt;/strong&gt;&lt;/p&gt;
@@ -2145,7 +2145,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/multitul-geely-iz-instrumentalnoy-stali-1.jpg</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Мультитул</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-cbb14b46caa2" available="true">
-      <name>Автомобильный мультитул, серии GEELY DRIVE</name>
+      <name>Автомобильный мультитул, серии Geely DRIVE</name>
       <categoryId>9718233</categoryId>
       <price>29000</price>
       <description>&lt;p&gt;&lt;strong&gt;Автомобильный мультитул, серии GEELY DRIVE&lt;/strong&gt;&lt;/p&gt;
@@ -2247,7 +2247,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylki-geely-atlas-s-shumoizolyatsiey-komplekt-original-1.jpg</picture>
           <vendor>Geely</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Комплектация">на 4 арки</param><param name="Производитель">Geely</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-ad93b217b379" available="true">
-      <name>Подкрылок с шумоизоляцией GEELY Atlas, 2017- (передний левый) / Джили Атлас</name>
+      <name>Подкрылок с шумоизоляцией Geely Atlas, 2017- (передний левый) / Джили Атлас</name>
       <categoryId>9718233</categoryId>
       <price>23792</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией GEELY Atlas, 2017- (передний левый) / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -2275,7 +2275,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-geely-atlas-2017-peredniy-levyy-dzhili-atlas-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-7db259781413" available="true">
-      <name>Подкрылок с шумоизоляцией GEELY Atlas, 2017- (передний правый) / Джили Атлас</name>
+      <name>Подкрылок с шумоизоляцией Geely Atlas, 2017- (передний правый) / Джили Атлас</name>
       <categoryId>9718233</categoryId>
       <price>23792</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией GEELY Atlas, 2017- (передний правый) / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -2303,7 +2303,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-geely-atlas-2017-peredniy-pravyy-dzhili-atlas-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-152498657945" available="true">
-      <name>Подкрылок с шумоизоляцией GEELY Atlas, 2017- (задний левый) / Джили Атлас</name>
+      <name>Подкрылок с шумоизоляцией Geely Atlas, 2017- (задний левый) / Джили Атлас</name>
       <categoryId>9718233</categoryId>
       <price>23792</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией GEELY Atlas, 2017- (задний левый) / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -2331,7 +2331,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-geely-atlas-2017-zadniy-levyy-dzhili-atlas-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-56e36d08ee40" available="true">
-      <name>Подкрылок с шумоизоляцией GEELY Atlas, 2017- (задний правый) / Джили Атлас</name>
+      <name>Подкрылок с шумоизоляцией Geely Atlas, 2017- (задний правый) / Джили Атлас</name>
       <categoryId>9718233</categoryId>
       <price>23792</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией GEELY Atlas, 2017- (задний правый) / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -2490,7 +2490,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-salona-geely-atlas-poliuretan-original-2.jpg</picture>
           <vendor>Geely</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Коврики</param><param name="Материал">полиуретан</param><param name="Комплектация">4 коврика на 2 ряда</param><param name="Производитель">Geely</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-af9327ad8b12" available="true">
-      <name>Коврик в багажник подходит для GEELY Atlas (I), 2016-2022, 1 шт. (полиуретан) / Джили Атлас</name>
+      <name>Коврик в багажник подходит для Geely Atlas (I), 2016-2022, 1 шт. (полиуретан) / Джили Атлас</name>
       <categoryId>9718233</categoryId>
       <price>11150</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник подходит для GEELY Atlas (I), 2016-2022, 1 шт. (полиуретан) / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -2516,7 +2516,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-podkhodit-dlya-geely-atlas-i-2016-2022-1-sht-poliuretan-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Количество">1 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-c99bc1b7f843" available="true">
-      <name>Коврики 3D в салон подходят для GEELY Atlas (I), 2016-2022, 4шт. (полиуретан) / Джили Атлас</name>
+      <name>Коврики 3D в салон подходят для Geely Atlas (I), 2016-2022, 4шт. (полиуретан) / Джили Атлас</name>
       <categoryId>9718233</categoryId>
       <price>13230</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики 3D в салон подходят для GEELY Atlas (I), 2016-2022, 4шт. (полиуретан) / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -2542,7 +2542,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-podkhodyat-dlya-geely-atlas-i-2016-2022-4sht-poliuretan-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-9d143c096591" available="true">
-      <name>Коврики 3D в салон GEELY Atlas, 2017- 4шт. (Повышенная устойчивость, повышенная износостойкость) / Джили Атлас</name>
+      <name>Коврики 3D в салон Geely Atlas, 2017- 4 шт (Повышенная устойчивость, повышенная износостойкость)</name>
       <categoryId>9718233</categoryId>
       <price>24220</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики 3D в салон GEELY Atlas, 2017- 4шт. (Повышенная устойчивость, повышенная износостойкость) / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -3044,7 +3044,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-kartera-geely-atlas-sport-alyuminiy-3-mm-original-1.jpg</picture>
           <vendor>Geely</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Защита картера</param><param name="Материал">алюминий</param><param name="Комплектация">защита и крепеж</param><param name="Производитель">Geely</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-8911dcf88d81" available="true">
-      <name>Защиты комплект (алюминий) 4мм (картер и кпп, задн. дифференциал, бак и адсорбер), Geely Atlas 2018-, ТСС</name>
+      <name>Защиты комплект (алюминий) 4мм (картер и кпп, задн. дифференциал, бак и адсорбер), Geely Atlas</name>
       <categoryId>9718233</categoryId>
       <price>148233</price>
       <description>&lt;p&gt;&lt;strong&gt;Защиты комплект (алюминий) 4мм (картер и кпп, задн. дифференциал, бак и адсорбер), Geely Atlas 2018-, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -3072,7 +3072,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-komplekt-alyuminiy-4mm-karter-i-kpp-zadn-differentsial-bak-i-adsorber-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Защита днища</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-cb16b6f5749d" available="true">
-      <name>Защиты бензобака и крепеж, подходит для GEELY Atlas (17-) 1,8 бензин AT FWD / Джили Атлас</name>
+      <name>Защиты бензобака и крепеж, подходит для Geely Atlas (17-) 1,8 бензин AT FWD / Джили Атлас</name>
       <categoryId>9718233</categoryId>
       <price>24030</price>
       <description>&lt;p&gt;&lt;strong&gt;Защиты бензобака и крепеж, подходит для GEELY Atlas (17-) 1,8 бензин AT FWD / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -3100,7 +3100,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-benzobaka-i-krepezh-podkhodit-dlya-geely-atlas-17-1-8-benzin-at-fwd-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Защита бака</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-109e557b9490" available="true">
-      <name>Защиты картера и крепеж, подходит для GEELY Atlas (17-) 1,8 бензин AT FWD / Джили Атлас</name>
+      <name>Защиты картера и крепеж, подходит для Geely Atlas (17-) 1,8 бензин AT FWD / Джили Атлас</name>
       <categoryId>9718233</categoryId>
       <price>23105</price>
       <description>&lt;p&gt;&lt;strong&gt;Защиты картера и крепеж, подходит для GEELY Atlas (17-) 1,8 бензин AT FWD / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -3353,7 +3353,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-geely-atlas-original-1.jpg</picture>
           <vendor>Geely</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Дефлекторы окон</param><param name="Комплектация">4 дефлектора</param><param name="Производитель">Geely</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-580b1e6c7146" available="true">
-      <name>Дефлектор капота (ЕВРО крепеж) GEELY ATLAS I 2016- кроссовер / Джили Атлас</name>
+      <name>Дефлектор капота (ЕВРО крепеж) Geely ATLAS I 2016- кроссовер / Джили Атлас</name>
       <categoryId>9718233</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлектор капота (ЕВРО крепеж) GEELY ATLAS I 2016- кроссовер / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -3381,7 +3381,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektor-kapota-evro-krepezh-geely-atlas-i-2016-krossover-dzhili-atlas-1.jpg</picture>
           <vendor>Rein</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Дефлектор капота</param><param name="Производитель">Rein</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-3d7dcebc3f16" available="true">
-      <name>Дефлектор капота GEELY Atlas, 2017-, темный / Джили Атлас</name>
+      <name>Дефлектор капота Geely Atlas, 2017-, темный / Джили Атлас</name>
       <categoryId>9718233</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлектор капота GEELY Atlas, 2017-, темный / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -3410,7 +3410,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektor-kapota-geely-atlas-2017-temnyy-dzhili-atlas-2.jpg</picture>
           <vendor>Rein</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Дефлектор капота</param><param name="Производитель">Rein</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-137c80abbfd5" available="true">
-      <name>Дефлекторы окон Vinguru GEELY Atlas, 2016- /кроссовер/накладные/скотч/комплект 4 шт./акрил / Джили Атлас</name>
+      <name>Дефлекторы окон Vinguru Geely Atlas, 2016- /кроссовер/накладные/скотч/комплект 4 шт/акрил</name>
       <categoryId>9718233</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлекторы окон Vinguru GEELY Atlas, 2016- /кроссовер/накладные/скотч/комплект 4 шт./акрил / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -3438,7 +3438,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-vinguru-geely-atlas-2016-krossover-nakladnye-skotch-komplekt-4-1.jpg</picture>
           <vendor>Rein</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Дефлекторы окон</param><param name="Количество">4 шт.</param><param name="Производитель">Rein</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-a39dc7b422dd" available="true">
-      <name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., GEELY ATLAS I 2016-, кроссовер / Джили Атлас</name>
+      <name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., Geely ATLAS I 2016-, кроссовер / Джили Атлас</name>
       <categoryId>9718233</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., GEELY ATLAS I 2016-, кроссовер / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -3466,7 +3466,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektor-okon-nakladnoy-skotch-3m-4-sht-geely-atlas-i-2016-krossover-dzhili-1.jpg</picture>
           <vendor>Rein</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas</param><param name="Годы выпуска">2016–2022</param><param name="Тип детали">Дефлекторы окон</param><param name="Количество">4 шт.</param><param name="Производитель">Rein</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-47291b93dba2" available="true">
-      <name>Дефлекторы окон Vinguru GEELY Atlas 2016- /накладные/скотч/комплект 4 шт./литьевой поликарбонат / Джили Атлас</name>
+      <name>Дефлекторы окон Vinguru Geely Atlas 2016- /накладные/скотч/комплект 4 шт/литьевой поликарбонат</name>
       <categoryId>9718233</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлекторы окон Vinguru GEELY Atlas 2016- /накладные/скотч/комплект 4 шт./литьевой поликарбонат / Джили Атлас&lt;/strong&gt;&lt;/p&gt;
@@ -3639,7 +3639,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-geely-atlas-2023-komplekt-3.png</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas 2-gen</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Брызговики</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-7a210df8bf19" available="true">
-      <name>ТСУ на GEELY Atlas pro (NL-3) 2019- (без электрики) / Джили Атлас про</name>
+      <name>ТСУ на Geely Atlas pro (NL-3) 2019- (без электрики) / Джили Атлас про</name>
       <categoryId>9718235</categoryId>
       <price>80780</price>
       <description>&lt;p&gt;&lt;strong&gt;ТСУ на GEELY Atlas pro (NL-3) 2019- (без электрики) / Джили Атлас про&lt;/strong&gt;&lt;/p&gt;
@@ -4003,7 +4003,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladka-na-zadnyuyu-dver-list-shlifovannyy-geeleatlp21-11-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Накладка на заднюю дверь</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-d0b3ebcdf559" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Atlas Pro 2021- кроссовер (передний левый) / Джили Атлас про</name>
+      <name>Подкрылок с шумоизоляцией для Geely Atlas Pro 2021- кроссовер (передний левый)</name>
       <categoryId>9718235</categoryId>
       <price>30492</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Atlas Pro 2021- кроссовер (передний левый) / Джили Атлас про&lt;/strong&gt;&lt;/p&gt;
@@ -4031,7 +4031,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-atlas-pro-2021-krossover-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-446cc50595e6" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Atlas Pro 2021- кроссовер (передний правый) / Джили Атлас про</name>
+      <name>Подкрылок с шумоизоляцией для Geely Atlas Pro 2021- кроссовер (передний правый)</name>
       <categoryId>9718235</categoryId>
       <price>30492</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Atlas Pro 2021- кроссовер (передний правый) / Джили Атлас про&lt;/strong&gt;&lt;/p&gt;
@@ -4059,7 +4059,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-atlas-pro-2021-krossover-cf8a4c-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-867cbd2cfc7b" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Atlas Pro 2021- кроссовер (задний левый) / Джили Атлас про</name>
+      <name>Подкрылок с шумоизоляцией для Geely Atlas Pro 2021- кроссовер (задний левый)</name>
       <categoryId>9718235</categoryId>
       <price>30492</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Atlas Pro 2021- кроссовер (задний левый) / Джили Атлас про&lt;/strong&gt;&lt;/p&gt;
@@ -4087,7 +4087,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-atlas-pro-2021-krossover-709151-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-3f0083e42233" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Atlas Pro 2021- кроссовер (задний правый) / Джили Атлас про</name>
+      <name>Подкрылок с шумоизоляцией для Geely Atlas Pro 2021- кроссовер (задний правый)</name>
       <categoryId>9718235</categoryId>
       <price>30492</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Atlas Pro 2021- кроссовер (задний правый) / Джили Атлас про&lt;/strong&gt;&lt;/p&gt;
@@ -4115,7 +4115,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-atlas-pro-2021-krossover-d82580-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-ab2abd157bc1" available="true">
-      <name>Коврик в багажник подходят для GEELY Atlas Pro 2021- кроссовер 1шт. (полиуретан) / Джили Атлас про</name>
+      <name>Коврик в багажник подходят для Geely Atlas Pro 2021- кроссовер 1шт. (полиуретан) / Джили Атлас про</name>
       <categoryId>9718235</categoryId>
       <price>11150</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник подходят для GEELY Atlas Pro 2021- кроссовер 1шт. (полиуретан) / Джили Атлас про&lt;/strong&gt;&lt;/p&gt;
@@ -4141,7 +4141,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-podkhodyat-dlya-geely-atlas-pro-2021-krossover-1sht-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Количество">1 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-fe209c001eb8" available="true">
-      <name>Коврики 3D в салон подходят для GEELY Atlas Pro 2021-, кроссовер, 4шт. (полиуретан) / Джили Атлас про</name>
+      <name>Коврики 3D в салон для Geely Atlas Pro 2021-, кроссовер, 4 шт (полиуретан)</name>
       <categoryId>9718235</categoryId>
       <price>15025</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики 3D в салон подходят для GEELY Atlas Pro 2021-, кроссовер, 4шт. (полиуретан) / Джили Атлас про&lt;/strong&gt;&lt;/p&gt;
@@ -4167,7 +4167,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-podkhodyat-dlya-geely-atlas-pro-2021-krossover-4sht-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-8c837ca550a5" available="true">
-      <name>Коврики 3D в салон подходят для GEELY Atlas Pro 2021-, кроссовер, 4шт. (Повышенная устойчивость, повышенная износостойкость) / Джили Атлас про</name>
+      <name>Коврики 3D в салон для Geely Atlas Pro 2021-, кроссовер</name>
       <categoryId>9718235</categoryId>
       <price>24220</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики 3D в салон подходят для GEELY Atlas Pro 2021-, кроссовер, 4шт. (Повышенная устойчивость, повышенная износостойкость) / Джили Атлас про&lt;/strong&gt;&lt;/p&gt;
@@ -4221,7 +4221,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-kartera-i-kpp-alyuminiy-4mm-geely-atlas-pro-1-5l-4wd-2021-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Защита картера</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-71a41a5226ce" available="true">
-      <name>Защита заднего дифференциала (алюминий) 4мм (Устанавливать совместно с -ZKTCC00383 Защита бака и адсорбера (алюминий) 4 мм), Geely Atlas PRO 1.5L 4WD 2021-, ТСС</name>
+      <name>Защита заднего дифференциала (алюминий) 4мм</name>
       <categoryId>9718235</categoryId>
       <price>12669</price>
       <description>&lt;p&gt;&lt;strong&gt;Защита заднего дифференциала (алюминий) 4мм (Устанавливать совместно с -ZKTCC00383 Защита бака и адсорбера (алюминий) 4 мм), Geely Atlas PRO 1.5L 4WD 2021-, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -4249,7 +4249,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-zadnego-differentsiala-alyuminiy-4mm-ustanavlivat-sovmestno-s-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Защита моста</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-f0e24dc15aac" available="true">
-      <name>Защиты комплект (алюминий) 4мм (картер и кпп, задн. дифференциал, бак и адсорбер), Geely Atlas PRO 1.5L 4WD 2021-, ТСС</name>
+      <name>Защиты комплект (алюминий) 4мм (картер и кпп, задн. дифференциал, бак и адсорбер), Geely Atlas PRO</name>
       <categoryId>9718235</categoryId>
       <price>148376</price>
       <description>&lt;p&gt;&lt;strong&gt;Защиты комплект (алюминий) 4мм (картер и кпп, задн. дифференциал, бак и адсорбер), Geely Atlas PRO 1.5L 4WD 2021-, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -4473,7 +4473,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-zadnyaya-tsentralnaya-60-3-mm-geeleatlp21-20-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Защита заднего бампера</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-10158f927e39" available="true">
-      <name>Брызговики передние подходят для GEELY Atlas Pro 2021- 2 шт.(optimum) в пакете / Джили Атлас про</name>
+      <name>Брызговики передние подходят для Geely Atlas Pro 2021- 2 шт.(optimum) в пакете / Джили Атлас про</name>
       <categoryId>9718235</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики передние подходят для GEELY Atlas Pro 2021- 2 шт.(optimum) в пакете / Джили Атлас про&lt;/strong&gt;&lt;/p&gt;
@@ -4501,7 +4501,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-perednie-podkhodyat-dlya-geely-atlas-pro-2021-2-sht-optimum-v-pakete-1.jpg</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-bf17f9bb8e95" available="true">
-      <name>Брызговики задние подходят для GEELY Atlas Pro 2021- 2 шт.(optimum) в пакете / Джили Атлас про</name>
+      <name>Брызговики задние подходят для Geely Atlas Pro 2021- 2 шт.(optimum) в пакете / Джили Атлас про</name>
       <categoryId>9718235</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики задние подходят для GEELY Atlas Pro 2021- 2 шт.(optimum) в пакете / Джили Атлас про&lt;/strong&gt;&lt;/p&gt;
@@ -4529,7 +4529,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-zadnie-podkhodyat-dlya-geely-atlas-pro-2021-2-sht-optimum-v-pakete-1.jpg</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-6c5e5749252d" available="true">
-      <name>Брызговики передние с логотипом, подходят для GEELY Atlas Pro 2021- 2 шт.(optimum) в пакете / Джили Атлас про</name>
+      <name>Брызговики передние с логотипом, для Geely Atlas Pro 2021- 2 шт(optimum) в пакете</name>
       <categoryId>9718235</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики передние с логотипом, подходят для GEELY Atlas Pro 2021- 2 шт.(optimum) в пакете / Джили Атлас про&lt;/strong&gt;&lt;/p&gt;
@@ -4557,7 +4557,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-perednie-s-logotipom-podkhodyat-dlya-geely-atlas-pro-2021-2-sht-1.jpg</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-ab012ba9158b" available="true">
-      <name>Брызговики задние подходят для GEELY Atlas Pro 2021- 2шт. (standard) / Джили Атлас про</name>
+      <name>Брызговики задние подходят для Geely Atlas Pro 2021- 2шт. (standard) / Джили Атлас про</name>
       <categoryId>9718235</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики задние подходят для GEELY Atlas Pro 2021- 2шт. (standard) / Джили Атлас про&lt;/strong&gt;&lt;/p&gt;
@@ -4585,7 +4585,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-zadnie-podkhodyat-dlya-geely-atlas-pro-2021-2sht-standard-dzhili-1.png</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Atlas Pro</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-1f5d498c0038" available="true">
-      <name>ТСУ на а/м GEELY Coolray (SX11) SUV 2019- / Джили Кулрей</name>
+      <name>ТСУ на а/м Geely Coolray (SX11) SUV 2019- / Джили Кулрей</name>
       <categoryId>9718236</categoryId>
       <price>75450</price>
       <description>&lt;p&gt;&lt;strong&gt;ТСУ на а/м GEELY Coolray (SX11) SUV 2019- / Джили Кулрей&lt;/strong&gt;&lt;/p&gt;
@@ -5716,7 +5716,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-geely-coolray-s-shumoizolyatsiey-zadniy-levyy-original-1.jpg</picture>
           <vendor>Geely</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Coolray</param><param name="Годы выпуска">2019–2023</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">Geely</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-731725c067de" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Coolray Sport 2020- кроссовер (передний левый) / Джили Кулрей</name>
+      <name>Подкрылок с шумоизоляцией для Geely Coolray Sport 2020- кроссовер (передний левый)</name>
       <categoryId>9718236</categoryId>
       <price>25415</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Coolray Sport 2020- кроссовер (передний левый) / Джили Кулрей&lt;/strong&gt;&lt;/p&gt;
@@ -5744,7 +5744,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-coolray-sport-2020-krossover-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Coolray</param><param name="Годы выпуска">2019–2023</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-087a951b7cc9" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Coolray Sport 2020- кроссовер (передний правый) / Джили Кулрей</name>
+      <name>Подкрылок с шумоизоляцией для Geely Coolray Sport 2020- кроссовер (передний правый)</name>
       <categoryId>9718236</categoryId>
       <price>25415</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Coolray Sport 2020- кроссовер (передний правый) / Джили Кулрей&lt;/strong&gt;&lt;/p&gt;
@@ -5772,7 +5772,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-coolray-sport-2020-krossover-803a69-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Coolray</param><param name="Годы выпуска">2019–2023</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-4cf5c33cf08b" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Coolray Sport 2020- кроссовер (задний левый) / Джили Кулрей</name>
+      <name>Подкрылок с шумоизоляцией для Geely Coolray Sport 2020- кроссовер (задний левый)</name>
       <categoryId>9718236</categoryId>
       <price>25415</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Coolray Sport 2020- кроссовер (задний левый) / Джили Кулрей&lt;/strong&gt;&lt;/p&gt;
@@ -5800,7 +5800,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-coolray-sport-2020-krossover-4e8e92-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Coolray</param><param name="Годы выпуска">2019–2023</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-52049f82b844" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Coolray Sport 2020- кроссовер (задний правый) / Джили Кулрей</name>
+      <name>Подкрылок с шумоизоляцией для Geely Coolray Sport 2020- кроссовер (задний правый)</name>
       <categoryId>9718236</categoryId>
       <price>25415</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Coolray Sport 2020- кроссовер (задний правый) / Джили Кулрей&lt;/strong&gt;&lt;/p&gt;
@@ -6182,7 +6182,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-salona-geely-coolray-tekstil-original-1.jpg</picture>
           <vendor>Geely</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Coolray</param><param name="Годы выпуска">2019–2023</param><param name="Тип детали">Коврики</param><param name="Материал">текстиль</param><param name="Комплектация">на 2 ряда</param><param name="Производитель">Geely</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-fdf54a9a3f32" available="true">
-      <name>Коврик в багажник подходит для GEELY Coolray 2019-, кроссовер, 1шт. (полиуретан) / Джили Кулрей</name>
+      <name>Коврик в багажник подходит для Geely Coolray 2019-, кроссовер, 1шт. (полиуретан) / Джили Кулрей</name>
       <categoryId>9718236</categoryId>
       <price>9950</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник подходит для GEELY Coolray 2019-, кроссовер, 1шт. (полиуретан) / Джили Кулрей&lt;/strong&gt;&lt;/p&gt;
@@ -6208,7 +6208,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-podkhodit-dlya-geely-coolray-2019-krossover-1sht-poliuretan-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Coolray</param><param name="Годы выпуска">2019–2023</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Количество">1 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-731498020c55" available="true">
-      <name>Коврики 3D в салон подходят для GEELY Coolray, 2019- кроссовер, 4шт. (полиуретан) / Джили Кулрей</name>
+      <name>Коврики 3D в салон подходят для Geely Coolray, 2019- кроссовер, 4шт. (полиуретан) / Джили Кулрей</name>
       <categoryId>9718236</categoryId>
       <price>14585</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики 3D в салон подходят для GEELY Coolray, 2019- кроссовер, 4шт. (полиуретан) / Джили Кулрей&lt;/strong&gt;&lt;/p&gt;
@@ -6234,7 +6234,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-podkhodyat-dlya-geely-coolray-2019-krossover-4sht-poliuretan-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Coolray</param><param name="Годы выпуска">2019–2023</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-a63bb8d6a27f" available="true">
-      <name>Коврики 3D в салон подходят для GEELY Coolray 2019-, 4шт. (Повышенная устойчивость, повышенная износостойкость) / Джили Кулрей</name>
+      <name>Коврики 3D в салон для Geely Coolray 2019</name>
       <categoryId>9718236</categoryId>
       <price>24220</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики 3D в салон подходят для GEELY Coolray 2019-, 4шт. (Повышенная устойчивость, повышенная износостойкость) / Джили Кулрей&lt;/strong&gt;&lt;/p&gt;
@@ -6451,7 +6451,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-geely-coolray-4-chasti-original-1.png</picture>
           <vendor>Geely</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Coolray</param><param name="Годы выпуска">2019–2023</param><param name="Тип детали">Дефлекторы окон</param><param name="Комплектация">4 части</param><param name="Количество">4 шт.</param><param name="Производитель">Geely</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-d71b1662e069" available="true">
-      <name>Дефлектор капота GEELY Coolray, 2019-, темный / Джили Кулрей</name>
+      <name>Дефлектор капота Geely Coolray, 2019-, темный / Джили Кулрей</name>
       <categoryId>9718236</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлектор капота GEELY Coolray, 2019-, темный / Джили Кулрей&lt;/strong&gt;&lt;/p&gt;
@@ -6479,7 +6479,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektor-kapota-geely-coolray-2019-temnyy-dzhili-kulrey-1.jpg</picture>
           <vendor>Rein</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Coolray</param><param name="Годы выпуска">2019–2023</param><param name="Тип детали">Дефлектор капота</param><param name="Производитель">Rein</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-ac245b889ea4" available="true">
-      <name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., GEELY COOLRAY (SX11) 2019-, кроссовер / Джили Кулрей</name>
+      <name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., Geely COOLRAY (SX11) 2019-, кроссовер / Джили Кулрей</name>
       <categoryId>9718236</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., GEELY COOLRAY (SX11) 2019-, кроссовер / Джили Кулрей&lt;/strong&gt;&lt;/p&gt;
@@ -6647,7 +6647,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-dlya-geely-coolrey-sx11-2019-zadnie-1.jpg</picture>
           <vendor>Norplast</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Coolray</param><param name="Годы выпуска">2019–2023</param><param name="Тип детали">Брызговики</param><param name="Производитель">Norplast</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-ac0c8523ef13" available="true">
-      <name>Брызговики передние подходят для GEELY Coolray Sport 2020- 2 шт.(optimum) в коробке / Джили Кулрей спорт</name>
+      <name>Брызговики передние для Geely Coolray Sport 2020- 2 шт(optimum) в коробке</name>
       <categoryId>9718236</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики передние подходят для GEELY Coolray Sport 2020- 2 шт.(optimum) в коробке / Джили Кулрей спорт&lt;/strong&gt;&lt;/p&gt;
@@ -6675,7 +6675,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-perednie-podkhodyat-dlya-geely-coolray-sport-2020-2-sht-optimum-v-1.png</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Coolray</param><param name="Годы выпуска">2019–2023</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-b09f8066b8e9" available="true">
-      <name>Брызговики задние подходят для GEELY Coolray Sport 2020- 2 шт.(optimum) в коробке / Джили Кулрей спорт</name>
+      <name>Брызговики задние для Geely Coolray Sport 2020- 2 шт(optimum) в коробке</name>
       <categoryId>9718236</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики задние подходят для GEELY Coolray Sport 2020- 2 шт.(optimum) в коробке / Джили Кулрей спорт&lt;/strong&gt;&lt;/p&gt;
@@ -6832,7 +6832,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-geely-coolray-restayling-2023-komplekt-4.jpg</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Coolray рестайлинг</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Брызговики</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-9b9862250dbc" available="true">
-      <name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., GEELY EMGRAND 7 2018-, седан / Джили Эмгранд 7</name>
+      <name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., Geely EMGRAND 7 2018-, седан / Джили Эмгранд 7</name>
       <categoryId>9718239</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., GEELY EMGRAND 7 2018-, седан / Джили Эмгранд 7&lt;/strong&gt;&lt;/p&gt;
@@ -6861,7 +6861,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektor-okon-nakladnoy-skotch-3m-4-sht-geely-emgrand-7-2018-sedan-dzhili-2.jpg</picture>
           <vendor>Rein</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand 7</param><param name="Годы выпуска">2016–2020</param><param name="Тип детали">Дефлекторы окон</param><param name="Количество">4 шт.</param><param name="Производитель">Rein</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-ce933a41fa22" available="true">
-      <name>Брызговики задние GEELY Emgrand 7 (FE-3), 2018-2020 2 шт. (optimum) в пакете / Джили Эмгранд 7</name>
+      <name>Брызговики задние Geely Emgrand 7 (FE-3), 2018-2020 2 шт. (optimum) в пакете / Джили Эмгранд 7</name>
       <categoryId>9718239</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики задние GEELY Emgrand 7 (FE-3), 2018-2020 2 шт. (optimum) в пакете / Джили Эмгранд 7&lt;/strong&gt;&lt;/p&gt;
@@ -6889,7 +6889,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-zadnie-geely-emgrand-7-fe-3-2018-2020-2-sht-optimum-v-pakete-dzhili-1.jpg</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand 7</param><param name="Годы выпуска">2016–2020</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-6a556a15375f" available="true">
-      <name>Брызговики передние GEELY Emgrand 7 (FE-3), 2018-2020 2 шт. (optimum) в коробке / Джили Эмгранд 7</name>
+      <name>Брызговики передние Geely Emgrand 7 (FE-3), 2018-2020 2 шт. (optimum) в коробке / Джили Эмгранд 7</name>
       <categoryId>9718239</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики передние GEELY Emgrand 7 (FE-3), 2018-2020 2 шт. (optimum) в коробке / Джили Эмгранд 7&lt;/strong&gt;&lt;/p&gt;
@@ -6918,7 +6918,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-perednie-geely-emgrand-7-fe-3-2018-2020-2-sht-optimum-v-korobke-2.png</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand 7</param><param name="Годы выпуска">2016–2020</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-b1c5a4c47955" available="true">
-      <name>Брызговики задние GEELY Emgrand 7 (FE-3), 2018-2020 2 шт. (optimum) в коробке / Джили Эмгранд 7</name>
+      <name>Брызговики задние Geely Emgrand 7 (FE-3), 2018-2020 2 шт. (optimum) в коробке / Джили Эмгранд 7</name>
       <categoryId>9718239</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики задние GEELY Emgrand 7 (FE-3), 2018-2020 2 шт. (optimum) в коробке / Джили Эмгранд 7&lt;/strong&gt;&lt;/p&gt;
@@ -6946,7 +6946,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-zadnie-geely-emgrand-7-fe-3-2018-2020-2-sht-optimum-v-korobke-dzhili-1.jpg</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand 7</param><param name="Годы выпуска">2016–2020</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-374ec9f3b76b" available="true">
-      <name>Подкрылок GEELY Emgrand (EC-7), 2011-2016 (передний левый) / Джили Эмгранд</name>
+      <name>Подкрылок Geely Emgrand (EC-7), 2011-2016 (передний левый) / Джили Эмгранд</name>
       <categoryId>9718240</categoryId>
       <price>13660</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок GEELY Emgrand (EC-7), 2011-2016 (передний левый) / Джили Эмгранд&lt;/strong&gt;&lt;/p&gt;
@@ -6974,7 +6974,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-geely-emgrand-ec-7-2011-2016-peredniy-levyy-dzhili-emgrand-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand EC7</param><param name="Годы выпуска">2009–2016</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-db87efb53b1d" available="true">
-      <name>Подкрылок GEELY Emgrand (EC-7), 2011-2016 (передний правый) / Джили Эмгранд</name>
+      <name>Подкрылок Geely Emgrand (EC-7), 2011-2016 (передний правый) / Джили Эмгранд</name>
       <categoryId>9718240</categoryId>
       <price>13660</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок GEELY Emgrand (EC-7), 2011-2016 (передний правый) / Джили Эмгранд&lt;/strong&gt;&lt;/p&gt;
@@ -7002,7 +7002,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-geely-emgrand-ec-7-2011-2016-peredniy-pravyy-dzhili-emgrand-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand EC7</param><param name="Годы выпуска">2009–2016</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-4311eec8168b" available="true">
-      <name>Подкрылок GEELY Emgrand (EC-7), 2011-2016 (задний левый) / Джили Эмгранд</name>
+      <name>Подкрылок Geely Emgrand (EC-7), 2011-2016 (задний левый) / Джили Эмгранд</name>
       <categoryId>9718240</categoryId>
       <price>15185</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок GEELY Emgrand (EC-7), 2011-2016 (задний левый) / Джили Эмгранд&lt;/strong&gt;&lt;/p&gt;
@@ -7030,7 +7030,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-geely-emgrand-ec-7-2011-2016-zadniy-levyy-dzhili-emgrand-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand EC7</param><param name="Годы выпуска">2009–2016</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-1784fc41fee1" available="true">
-      <name>Подкрылок GEELY Emgrand (EC-7), 2011-2016 (задний правый) / Джили Эмгранд</name>
+      <name>Подкрылок Geely Emgrand (EC-7), 2011-2016 (задний правый) / Джили Эмгранд</name>
       <categoryId>9718240</categoryId>
       <price>15185</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок GEELY Emgrand (EC-7), 2011-2016 (задний правый) / Джили Эмгранд&lt;/strong&gt;&lt;/p&gt;
@@ -7058,7 +7058,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-geely-emgrand-ec-7-2011-2016-zadniy-pravyy-dzhili-emgrand-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand EC7</param><param name="Годы выпуска">2009–2016</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-b709c8e305d3" available="true">
-      <name>Подкрылок с шумоизоляцией GEELY Emgrand (EC-7), 2011-2016 (передний левый) / Джили Эмгранд</name>
+      <name>Подкрылок с шумоизоляцией Geely Emgrand (EC-7), 2011-2016 (передний левый) / Джили Эмгранд</name>
       <categoryId>9718240</categoryId>
       <price>15808</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией GEELY Emgrand (EC-7), 2011-2016 (передний левый) / Джили Эмгранд&lt;/strong&gt;&lt;/p&gt;
@@ -7086,7 +7086,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-geely-emgrand-ec-7-2011-2016-peredniy-levyy-dzhili-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand EC7</param><param name="Годы выпуска">2009–2016</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-dfc0a07cc8e8" available="true">
-      <name>Подкрылок с шумоизоляцией GEELY Emgrand (EC-7), 2011-2016 (передний правый) / Джили Эмгранд</name>
+      <name>Подкрылок с шумоизоляцией Geely Emgrand (EC-7), 2011-2016 (передний правый) / Джили Эмгранд</name>
       <categoryId>9718240</categoryId>
       <price>15808</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией GEELY Emgrand (EC-7), 2011-2016 (передний правый) / Джили Эмгранд&lt;/strong&gt;&lt;/p&gt;
@@ -7114,7 +7114,7 @@
 
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand EC7</param><param name="Годы выпуска">2009–2016</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-31fc7a3a4075" available="true">
-      <name>Подкрылок с шумоизоляцией GEELY Emgrand (EC-7), 2011-2016 (задний левый) / Джили Эмгранд</name>
+      <name>Подкрылок с шумоизоляцией Geely Emgrand (EC-7), 2011-2016 (задний левый) / Джили Эмгранд</name>
       <categoryId>9718240</categoryId>
       <price>15808</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией GEELY Emgrand (EC-7), 2011-2016 (задний левый) / Джили Эмгранд&lt;/strong&gt;&lt;/p&gt;
@@ -7142,7 +7142,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-geely-emgrand-ec-7-2011-2016-zadniy-levyy-dzhili-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand EC7</param><param name="Годы выпуска">2009–2016</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-b79ccd510cc0" available="true">
-      <name>Подкрылок с шумоизоляцией GEELY Emgrand (EC-7), 2011-2016 (задний правый) / Джили Эмгранд</name>
+      <name>Подкрылок с шумоизоляцией Geely Emgrand (EC-7), 2011-2016 (задний правый) / Джили Эмгранд</name>
       <categoryId>9718240</categoryId>
       <price>15808</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией GEELY Emgrand (EC-7), 2011-2016 (задний правый) / Джили Эмгранд&lt;/strong&gt;&lt;/p&gt;
@@ -7170,7 +7170,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-geely-emgrand-ec-7-2011-2016-zadniy-pravyy-dzhili-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand EC7</param><param name="Годы выпуска">2009–2016</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-c5865b8128c3" available="true">
-      <name>Коврик в багажник GEELY Emgrand EC7 RV, 2011-, хэтчбек (полиуретан) / Джили Эмгранд</name>
+      <name>Коврик в багажник Geely Emgrand EC7 RV, 2011-, хэтчбек (полиуретан) / Джили Эмгранд</name>
       <categoryId>9718240</categoryId>
       <price>15795</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник GEELY Emgrand EC7 RV, 2011-, хэтчбек (полиуретан) / Джили Эмгранд&lt;/strong&gt;&lt;/p&gt;
@@ -7196,7 +7196,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-geely-emgrand-ec7-rv-2011-khetchbek-poliuretan-dzhili-emgrand-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand EC7</param><param name="Годы выпуска">2009–2016</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-b39e0e6bb055" available="true">
-      <name>Коврик в багажник GEELY Emgrand EC7 RV, 2011-2016, 2016-, седан (полиуретан) / Джили Эмгранд</name>
+      <name>Коврик в багажник Geely Emgrand EC7 RV, 2011-2016, 2016-, седан (полиуретан) / Джили Эмгранд</name>
       <categoryId>9718240</categoryId>
       <price>11350</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник GEELY Emgrand EC7 RV, 2011-2016, 2016-, седан (полиуретан) / Джили Эмгранд&lt;/strong&gt;&lt;/p&gt;
@@ -7222,7 +7222,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-geely-emgrand-ec7-rv-2011-2016-2016-sedan-poliuretan-dzhili-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand EC7</param><param name="Годы выпуска">2009–2016</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-c596b33b0f55" available="true">
-      <name>Коврики в салон подходят для GEELY Emgrand EC7/EC7 RV, 2009-2016, 4 шт. (полиуретан) / Джили Эмгранд / Джили Эмгранд ес7</name>
+      <name>Коврики в салон для Geely Emgrand EC7/EC7 RV, 2009-2016, 4 шт (полиуретан) / Джили Эмгранд</name>
       <categoryId>9718240</categoryId>
       <price>15215</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики в салон подходят для GEELY Emgrand EC7/EC7 RV, 2009-2016, 4 шт. (полиуретан) / Джили Эмгранд / Джили Эмгранд ес7&lt;/strong&gt;&lt;/p&gt;
@@ -7389,7 +7389,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-dlya-geely-emgrand-ec7-2018-zadnie-1.jpg</picture>
           <vendor>Norplast</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand EC7</param><param name="Годы выпуска">2009–2016</param><param name="Тип детали">Брызговики</param><param name="Производитель">Norplast</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-f757434a23eb" available="true">
-      <name>Брызговики задние GEELY Emgrand (EC-7) RV, 2011-2016 хэтчбек 2 шт.(optimum) в пакете / Джили Эмгранд</name>
+      <name>Брызговики задние Geely Emgrand (EC-7) RV, 2011-2016 хэтчбек 2 шт.(optimum) в пакете / Джили Эмгранд</name>
       <categoryId>9718240</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики задние GEELY Emgrand (EC-7) RV, 2011-2016 хэтчбек 2 шт.(optimum) в пакете / Джили Эмгранд&lt;/strong&gt;&lt;/p&gt;
@@ -7418,7 +7418,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-zadnie-geely-emgrand-ec-7-rv-2011-2016-khetchbek-2-sht-optimum-v-2.jpg</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand EC7</param><param name="Годы выпуска">2009–2016</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-467872b3ae8e" available="true">
-      <name>Коврик в багажник GEELY Emgrand 7 SS11 2023-, седан 1шт. (полиуретан) / Джили Эмгранд 7 CC11</name>
+      <name>Коврик в багажник Geely Emgrand 7 SS11 2023-, седан 1шт. (полиуретан) / Джили Эмгранд 7 CC11</name>
       <categoryId>9718242</categoryId>
       <price>14060</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник GEELY Emgrand 7 SS11 2023-, седан 1шт. (полиуретан) / Джили Эмгранд 7 CC11&lt;/strong&gt;&lt;/p&gt;
@@ -7445,7 +7445,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-geely-emgrand-7-ss11-2023-sedan-1sht-poliuretan-dzhili-2.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand SS11</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Количество">1 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-1132f2524d6f" available="true">
-      <name>Коврики 3D в салон GEELY Emgrand 7 SS11 2023-, седан, 4шт. (полиуретан) / Джили Эмгранд 7 CC11</name>
+      <name>Коврики 3D в салон Geely Emgrand 7 SS11 2023-, седан, 4шт. (полиуретан) / Джили Эмгранд 7 CC11</name>
       <categoryId>9718242</categoryId>
       <price>14900</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики 3D в салон GEELY Emgrand 7 SS11 2023-, седан, 4шт. (полиуретан) / Джили Эмгранд 7 CC11&lt;/strong&gt;&lt;/p&gt;
@@ -7472,7 +7472,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-geely-emgrand-7-ss11-2023-sedan-4sht-poliuretan-dzhili-2.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand SS11</param><param name="Годы выпуска">с 2021</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-08f3a983ddbe" available="true">
-      <name>ТСУ на а/м GEELY Emgrand X7 SUV 2013-2018 / Джили Эмгранд x7</name>
+      <name>ТСУ на а/м Geely Emgrand X7 SUV 2013-2018 / Джили Эмгранд x7</name>
       <categoryId>9718243</categoryId>
       <price>99735</price>
       <description>&lt;p&gt;&lt;strong&gt;ТСУ на а/м GEELY Emgrand X7 SUV 2013-2018 / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -7864,7 +7864,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-alyuminievye-slim-line-silver-1720-mm-geelemgx715-21s-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">2011–2018</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-4e009a90e00e" available="true">
-      <name>Подкрылок GEELY Emgrand X7, 2013- 2019 (передний левый) / Джили Эмгранд x7</name>
+      <name>Подкрылок Geely Emgrand X7, 2013- 2019 (передний левый) / Джили Эмгранд x7</name>
       <categoryId>9718243</categoryId>
       <price>13660</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок GEELY Emgrand X7, 2013- 2019 (передний левый) / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -7892,7 +7892,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-geely-emgrand-x7-2013-2019-peredniy-levyy-dzhili-emgrand-x7-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">2011–2018</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-90cbfc561b0f" available="true">
-      <name>Подкрылок GEELY Emgrand X7, 2013- 2019 (передний правый) / Джили Эмгранд x7</name>
+      <name>Подкрылок Geely Emgrand X7, 2013- 2019 (передний правый) / Джили Эмгранд x7</name>
       <categoryId>9718243</categoryId>
       <price>13660</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок GEELY Emgrand X7, 2013- 2019 (передний правый) / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -7920,7 +7920,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-geely-emgrand-x7-2013-2019-peredniy-pravyy-dzhili-emgrand-x7-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">2011–2018</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-e1392968905e" available="true">
-      <name>Подкрылок GEELY Emgrand X7, 2013- 2019 (задний левый) / Джили Эмгранд x7</name>
+      <name>Подкрылок Geely Emgrand X7, 2013- 2019 (задний левый) / Джили Эмгранд x7</name>
       <categoryId>9718243</categoryId>
       <price>3460</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок GEELY Emgrand X7, 2013- 2019 (задний левый) / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -7948,7 +7948,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-geely-emgrand-x7-2013-2019-zadniy-levyy-dzhili-emgrand-x7-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">2011–2018</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-3aff04568436" available="true">
-      <name>Подкрылок GEELY Emgrand X7, 2013- 2019 (задний правый) / Джили Эмгранд x7</name>
+      <name>Подкрылок Geely Emgrand X7, 2013- 2019 (задний правый) / Джили Эмгранд x7</name>
       <categoryId>9718243</categoryId>
       <price>15185</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок GEELY Emgrand X7, 2013- 2019 (задний правый) / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -7976,7 +7976,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-geely-emgrand-x7-2013-2019-zadniy-pravyy-dzhili-emgrand-x7-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">2011–2018</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-18b59e2dc9f2" available="true">
-      <name>Коврик в багажник подходит для GEELY Emgrand X7, 2011-2018, кроссовер (полиуретан) / Джили Эмгранд x7</name>
+      <name>Коврик в багажник для Geely Emgrand X7, 2011-2018, кроссовер (полиуретан)</name>
       <categoryId>9718243</categoryId>
       <price>17705</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник подходит для GEELY Emgrand X7, 2011-2018, кроссовер (полиуретан) / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -8003,7 +8003,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-podkhodit-dlya-geely-emgrand-x7-2011-2018-krossover-2.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">2011–2018</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-1a0c6283cb0d" available="true">
-      <name>Коврики 3D в салон подходят для GEELY Emgrand X7, 2011-2018, 4 шт. (полиуретан) / Джили Эмгранд x7</name>
+      <name>Коврики 3D в салон подходят для Geely Emgrand X7, 2011-2018, 4 шт. (полиуретан) / Джили Эмгранд x7</name>
       <categoryId>9718243</categoryId>
       <price>14585</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики 3D в салон подходят для GEELY Emgrand X7, 2011-2018, 4 шт. (полиуретан) / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -8253,7 +8253,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-perednyaya-nizhnyaya-ovalnaya-s-khodovymi-ognyami-75kh42-mm-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">2011–2018</param><param name="Тип детали">Защита переднего бампера</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-d0bdd0ea6a6f" available="true">
-      <name>Дефлектор капота (ЕВРО крепеж) GEELY EMGRAND Х7 2011- кроссовер / Джили Эмгранд x7</name>
+      <name>Дефлектор капота (ЕВРО крепеж) Geely EMGRAND Х7 2011- кроссовер / Джили Эмгранд x7</name>
       <categoryId>9718243</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлектор капота (ЕВРО крепеж) GEELY EMGRAND Х7 2011- кроссовер / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -8281,7 +8281,7 @@
 
           <vendor>Rein</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">2011–2018</param><param name="Тип детали">Дефлектор капота</param><param name="Производитель">Rein</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-5288e9277570" available="true">
-      <name>Брызговики задние GEELY Emgrand X7, 2013-2019 внедорожник 2 шт. (standart) / Джили Эмгранд x7</name>
+      <name>Брызговики задние Geely Emgrand X7, 2013-2019 внедорожник 2 шт. (standart) / Джили Эмгранд x7</name>
       <categoryId>9718243</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики задние GEELY Emgrand X7, 2013-2019 внедорожник 2 шт. (standart) / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -8309,7 +8309,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-zadnie-geely-emgrand-x7-2013-2019-vnedorozhnik-2-sht-standart-dzhili-1.jpg</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">2011–2018</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-240804152d48" available="true">
-      <name>Брызговики задние GEELY Emgrand X7, 2013-2019 внедорожник 2 шт. (optimum) в коробке / Джили Эмгранд x7</name>
+      <name>Брызговики задние Geely Emgrand X7, 2013-2019 внедорожник 2 шт (optimum) в коробке</name>
       <categoryId>9718243</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики задние GEELY Emgrand X7, 2013-2019 внедорожник 2 шт. (optimum) в коробке / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -8338,7 +8338,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-zadnie-geely-emgrand-x7-2013-2019-vnedorozhnik-2-sht-optimum-v-2.jpg</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">2011–2018</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-aac9d307718f" available="true">
-      <name>Брызговики задние GEELY Emgrand X7, 2013-2019 внедорожник 2 шт.(optimum) в пакете / Джили Эмгранд x7</name>
+      <name>Брызговики задние Geely Emgrand X7, 2013-2019 внедорожник 2 шт.(optimum) в пакете / Джили Эмгранд x7</name>
       <categoryId>9718243</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики задние GEELY Emgrand X7, 2013-2019 внедорожник 2 шт.(optimum) в пакете / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -8366,7 +8366,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-zadnie-geely-emgrand-x7-2013-2019-vnedorozhnik-2-sht-optimum-v-f5c134-1.jpg</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">2011–2018</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-af28ad886289" available="true">
-      <name>ТСУ на а/м GEELY Emgrand X7 SUV 2019- / Джили Эмгранд x7</name>
+      <name>ТСУ на а/м Geely Emgrand X7 SUV 2019- / Джили Эмгранд x7</name>
       <categoryId>9718244</categoryId>
       <price>81295</price>
       <description>&lt;p&gt;&lt;strong&gt;ТСУ на а/м GEELY Emgrand X7 SUV 2019- / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -8982,7 +8982,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladka-na-zadnyuyu-dver-list-shlifovannyy-geelemgx718-07-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">с 2019</param><param name="Тип детали">Накладка на заднюю дверь</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-3c93888d8514" available="true">
-      <name>Коврик в багажник подходит для GEELY Emgrand X7 (I р2) 2018-, внедорожник 5 дв. 1шт. (полиуретан) / Джили Эмгранд x7</name>
+      <name>Коврик в багажник для Geely Emgrand X7 (I р2) 2018-, внедорожник 5 дв. 1 шт (полиуретан)</name>
       <categoryId>9718244</categoryId>
       <price>3075</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник подходит для GEELY Emgrand X7 (I р2) 2018-, внедорожник 5 дв. 1шт. (полиуретан) / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -9008,7 +9008,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-podkhodit-dlya-geely-emgrand-x7-i-r2-2018-vnedorozhnik-5-dv-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">с 2019</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Количество">1 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-1bdd7401e7a2" available="true">
-      <name>Коврики 3D в салон подходят для GEELY Emgrand X7, 2018-, 4шт. (полиуретан) / Джили Эмгранд x7</name>
+      <name>Коврики 3D в салон подходят для Geely Emgrand X7, 2018-, 4шт. (полиуретан) / Джили Эмгранд x7</name>
       <categoryId>9718244</categoryId>
       <price>14085</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики 3D в салон подходят для GEELY Emgrand X7, 2018-, 4шт. (полиуретан) / Джили Эмгранд x7&lt;/strong&gt;&lt;/p&gt;
@@ -9287,7 +9287,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-dlya-geely-emgrand-x7-2018-zadnie-1.jpg</picture>
           <vendor>Norplast</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Emgrand X7</param><param name="Годы выпуска">с 2019</param><param name="Тип детали">Брызговики</param><param name="Производитель">Norplast</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-40ed5c53570e" available="true">
-      <name>Коврик в багажник подходит для GEELY MK (I, Ir), 2006-2015, седан (полиуретан) / Джили МК</name>
+      <name>Коврик в багажник подходит для Geely MK (I, Ir), 2006-2015, седан (полиуретан) / Джили МК</name>
       <categoryId>9718245</categoryId>
       <price>17090</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник подходит для GEELY MK (I, Ir), 2006-2015, седан (полиуретан) / Джили МК&lt;/strong&gt;&lt;/p&gt;
@@ -9314,7 +9314,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-podkhodit-dlya-geely-mk-i-ir-2006-2015-sedan-poliuretan-2.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">MK</param><param name="Годы выпуска">2006–2015</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-2d7fae120b46" available="true">
-      <name>Коврики 3D в салон подходят для GEELY MK (Ir), 2013-2015, 4 шт. (полиуретан) / Джили МК</name>
+      <name>Коврики 3D в салон подходят для Geely MK (Ir), 2013-2015, 4 шт. (полиуретан) / Джили МК</name>
       <categoryId>9718245</categoryId>
       <price>21035</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики 3D в салон подходят для GEELY MK (Ir), 2013-2015, 4 шт. (полиуретан) / Джили МК&lt;/strong&gt;&lt;/p&gt;
@@ -9340,7 +9340,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-podkhodyat-dlya-geely-mk-ir-2013-2015-4-sht-poliuretan-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">MK</param><param name="Годы выпуска">2006–2015</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-f99b4d2ca140" available="true">
-      <name>Комплект Защиты картера и крепеж, подходит для GEELY MK (2008-) 1,5 бензин МКПП / Джили МК</name>
+      <name>Комплект Защиты картера и крепеж, подходит для Geely MK (2008-) 1,5 бензин МКПП / Джили МК</name>
       <categoryId>9718245</categoryId>
       <price>28970</price>
       <description>&lt;p&gt;&lt;strong&gt;Комплект Защиты картера и крепеж, подходит для GEELY MK (2008-) 1,5 бензин МКПП / Джили МК&lt;/strong&gt;&lt;/p&gt;
@@ -9368,7 +9368,7 @@
 
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">MK</param><param name="Годы выпуска">2006–2015</param><param name="Тип детали">Защита картера</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-5f63a806d8d6" available="true">
-      <name>Дефлектор капота (ЕВРО крепеж) GEELY MK I 2006-2015 седан / Джили МК</name>
+      <name>Дефлектор капота (ЕВРО крепеж) Geely MK I 2006-2015 седан / Джили МК</name>
       <categoryId>9718245</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлектор капота (ЕВРО крепеж) GEELY MK I 2006-2015 седан / Джили МК&lt;/strong&gt;&lt;/p&gt;
@@ -9396,7 +9396,7 @@
 
           <vendor>Rein</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">MK</param><param name="Годы выпуска">2006–2015</param><param name="Тип детали">Дефлектор капота</param><param name="Производитель">Rein</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-5106633598eb" available="true">
-      <name>ТСУ на а/м GEELY MK Cross хэтчбек 2011-2016 / Джили МК кросс</name>
+      <name>ТСУ на а/м Geely MK Cross хэтчбек 2011-2016 / Джили МК кросс</name>
       <categoryId>9718246</categoryId>
       <price>53235</price>
       <description>&lt;p&gt;&lt;strong&gt;ТСУ на а/м GEELY MK Cross хэтчбек 2011-2016 / Джили МК кросс&lt;/strong&gt;&lt;/p&gt;
@@ -9424,7 +9424,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/tsu-na-a-m-geely-mk-cross-khetchbek-2011-2016-dzhili-mk-kross-1.jpg</picture>
           <vendor>Oris</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">MK Cross</param><param name="Тип детали">Фаркоп</param><param name="Производитель">Oris</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-2e69e48f931e" available="true">
-      <name>Подкрылок GEELY MK Cross, 2010-2016 (задний левый) / Джили МК</name>
+      <name>Подкрылок Geely MK Cross, 2010-2016 (задний левый) / Джили МК</name>
       <categoryId>9718246</categoryId>
       <price>12255</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок GEELY MK Cross, 2010-2016 (задний левый) / Джили МК&lt;/strong&gt;&lt;/p&gt;
@@ -9452,7 +9452,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-geely-mk-cross-2010-2016-zadniy-levyy-dzhili-mk-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">MK Cross</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-bef9fb5b5540" available="true">
-      <name>Коврик в багажник GEELY MK Cross, 2011-, хэтчбек (полиуретан) / Джили МК</name>
+      <name>Коврик в багажник Geely MK Cross, 2011-, хэтчбек (полиуретан) / Джили МК</name>
       <categoryId>9718246</categoryId>
       <price>9405</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник GEELY MK Cross, 2011-, хэтчбек (полиуретан) / Джили МК&lt;/strong&gt;&lt;/p&gt;
@@ -9478,7 +9478,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-geely-mk-cross-2011-khetchbek-poliuretan-dzhili-mk-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">MK Cross</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-a7fbd0656316" available="true">
-      <name>Коврики в салон подходят для GEELY MK Cross 2010-2016, 4 шт. (полиуретан) / Джили МК кросс</name>
+      <name>Коврики в салон подходят для Geely MK Cross 2010-2016, 4 шт. (полиуретан) / Джили МК кросс</name>
       <categoryId>9718246</categoryId>
       <price>13350</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики в салон подходят для GEELY MK Cross 2010-2016, 4 шт. (полиуретан) / Джили МК кросс&lt;/strong&gt;&lt;/p&gt;
@@ -9504,7 +9504,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-podkhodyat-dlya-geely-mk-cross-2010-2016-4-sht-poliuretan-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">MK Cross</param><param name="Тип детали">Коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-6480aa9ec7a5" available="true">
-      <name>Коврики в салон GEELY MK Cross, 2011-2012 4 шт. (полиуретан) / Джили МК кросс</name>
+      <name>Коврики в салон Geely MK Cross, 2011-2012 4 шт. (полиуретан) / Джили МК кросс</name>
       <categoryId>9718246</categoryId>
       <price>13350</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики в салон GEELY MK Cross, 2011-2012 4 шт. (полиуретан) / Джили МК кросс&lt;/strong&gt;&lt;/p&gt;
@@ -9530,7 +9530,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-v-salon-geely-mk-cross-2011-2012-4-sht-poliuretan-dzhili-mk-kross-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">MK Cross</param><param name="Тип детали">Коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-d2ec797e049d" available="true">
-      <name>Дефлекторы окон Vinguru GEELY MK Cross 2010-2016 /хб/накладные/скотч/комплект 4 шт./акрил / Джили МК</name>
+      <name>Дефлекторы окон Vinguru Geely MK Cross 2010-2016 /хб/накладные/скотч/комплект 4 шт./акрил / Джили МК</name>
       <categoryId>9718246</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлекторы окон Vinguru GEELY MK Cross 2010-2016 /хб/накладные/скотч/комплект 4 шт./акрил / Джили МК&lt;/strong&gt;&lt;/p&gt;
@@ -9559,7 +9559,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-vinguru-geely-mk-cross-2010-2016-khb-nakladnye-skotch-komplekt-2.jpg</picture>
           <vendor>Rein</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">MK Cross</param><param name="Тип детали">Дефлекторы окон</param><param name="Количество">4 шт.</param><param name="Производитель">Rein</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-6c3496aae6c1" available="true">
-      <name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт. GEELY MK CROSS 2010-2016 хэтчбек / Джили МК</name>
+      <name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт. Geely MK CROSS 2010-2016 хэтчбек / Джили МК</name>
       <categoryId>9718246</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт. GEELY MK CROSS 2010-2016 хэтчбек / Джили МК&lt;/strong&gt;&lt;/p&gt;
@@ -10691,7 +10691,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladki-trikolor-na-reshetku-radiatora-geely-monjaro-2.png</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Накладки триколор на решетку радиатора</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-5574bd6ca99b" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (передний левый) / Джили Монжаро</name>
+      <name>Подкрылок с шумоизоляцией для Geely Monjaro I 2022- Внедорожник 5 дв. (передний левый)</name>
       <categoryId>9718247</categoryId>
       <price>20131</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (передний левый) / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -10719,7 +10719,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-monjaro-i-2022-vnedorozhnik-5-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-303f71698e83" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (передний правый) / Джили Монжаро</name>
+      <name>Подкрылок с шумоизоляцией для Geely Monjaro I 2022- Внедорожник 5 дв. (передний правый)</name>
       <categoryId>9718247</categoryId>
       <price>20131</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (передний правый) / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -10747,7 +10747,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-monjaro-i-2022-vnedorozhnik-5-62449a-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-b87481f90d63" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (задний левый) / Джили Монжаро</name>
+      <name>Подкрылок с шумоизоляцией для Geely Monjaro I 2022- Внедорожник 5 дв. (задний левый)</name>
       <categoryId>9718247</categoryId>
       <price>20131</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (задний левый) / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -10775,7 +10775,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-monjaro-i-2022-vnedorozhnik-5-ff18d6-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-fce2eb2f853c" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (задний правый) / Джили Монжаро</name>
+      <name>Подкрылок с шумоизоляцией для Geely Monjaro I 2022- Внедорожник 5 дв. (задний правый)</name>
       <categoryId>9718247</categoryId>
       <price>20131</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (задний правый) / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -10804,7 +10804,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-monjaro-i-2022-vnedorozhnik-5-8ac2d1-2.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-b6c603e93d92" available="true">
-      <name>Подкрылок подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (передний левый) / Джили Монжаро</name>
+      <name>Подкрылок подходит для Geely Monjaro I 2022- Внедорожник 5 дв. (передний левый) / Джили Монжаро</name>
       <categoryId>9718247</categoryId>
       <price>11396</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (передний левый) / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -10832,7 +10832,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-podkhodit-dlya-geely-monjaro-i-2022-vnedorozhnik-5-dv-peredniy-levyy-1.png</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-a0a210650bbc" available="true">
-      <name>Подкрылок подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (передний правый) / Джили Монжаро</name>
+      <name>Подкрылок подходит для Geely Monjaro I 2022- Внедорожник 5 дв. (передний правый) / Джили Монжаро</name>
       <categoryId>9718247</categoryId>
       <price>11396</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (передний правый) / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -10860,7 +10860,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-podkhodit-dlya-geely-monjaro-i-2022-vnedorozhnik-5-dv-peredniy-pravyy-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-20a61adac621" available="true">
-      <name>Подкрылок подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (задний левый) / Джили Монжаро</name>
+      <name>Подкрылок подходит для Geely Monjaro I 2022- Внедорожник 5 дв. (задний левый) / Джили Монжаро</name>
       <categoryId>9718247</categoryId>
       <price>11396</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (задний левый) / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -10888,7 +10888,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-podkhodit-dlya-geely-monjaro-i-2022-vnedorozhnik-5-dv-zadniy-levyy-1.png</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-4e97a6f8be1c" available="true">
-      <name>Подкрылок подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (задний правый) / Джили Монжаро</name>
+      <name>Подкрылок подходит для Geely Monjaro I 2022- Внедорожник 5 дв. (задний правый) / Джили Монжаро</name>
       <categoryId>9718247</categoryId>
       <price>11396</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок подходит для GEELY Monjaro I 2022- Внедорожник 5 дв. (задний правый) / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -10916,7 +10916,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-podkhodit-dlya-geely-monjaro-i-2022-vnedorozhnik-5-dv-zadniy-pravyy-1.png</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Подкрылки</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-878c6d008ef1" available="true">
-      <name>Коврик в багажник подходят для GEELY Monjaro (I) 2022- Внедорожник 5 дв. 1шт. (полиуретан) / Джили Монжаро</name>
+      <name>Коврик в багажник для Geely Monjaro (I) 2022- Внедорожник 5 дв. 1 шт (полиуретан)</name>
       <categoryId>9718247</categoryId>
       <price>13550</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник подходят для GEELY Monjaro (I) 2022- Внедорожник 5 дв. 1шт. (полиуретан) / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -10943,7 +10943,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-podkhodyat-dlya-geely-monjaro-i-2022-vnedorozhnik-5-dv-1sht-2.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Количество">1 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-b6ef44442f79" available="true">
-      <name>Коврики 3D в салон подходят для GEELY Monjaro (I) 2022-, Внедорожник 5 дв., 4шт. (полиуретан) / Джили Монжаро</name>
+      <name>Коврики 3D в салон для Geely Monjaro (I) 2022-, Внедорожник 5 дв., 4 шт (полиуретан)</name>
       <categoryId>9718247</categoryId>
       <price>18580</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики 3D в салон подходят для GEELY Monjaro (I) 2022-, Внедорожник 5 дв., 4шт. (полиуретан) / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -11237,7 +11237,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-komplekt-alyuminiy-4-mm-karter-i-kpp-toplivoprovoda-baka-geely-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Защита днища</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-848314012a3b" available="true">
-      <name>Защиты картера и крепёж подходит для GEELY Monjaro (23-) 2,0 бензин AT / Джили Монжаро</name>
+      <name>Защиты картера и крепёж подходит для Geely Monjaro (23-) 2,0 бензин AT / Джили Монжаро</name>
       <categoryId>9718247</categoryId>
       <price>34025</price>
       <description>&lt;p&gt;&lt;strong&gt;Защиты картера и крепёж подходит для GEELY Monjaro (23-) 2,0 бензин AT / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -11406,7 +11406,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kryshka-minusovoy-klemmy-dlya-geely-monjaro-2023-1.jpg</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Крышка минусовой клеммы</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-52a2704bd5eb" available="true">
-      <name>Дефлектор капота GEELY Monjaro, 2023-, темный / Джили Монжаро</name>
+      <name>Дефлектор капота Geely Monjaro, 2023-, темный / Джили Монжаро</name>
       <categoryId>9718247</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлектор капота GEELY Monjaro, 2023-, темный / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -11464,7 +11464,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-geely-monjaro-komplekt-4sht-v-stile-oem-3.png</picture>
           <vendor>Geely</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Брызговики</param><param name="Количество">4 шт.</param><param name="Производитель">Geely</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-183af7271f95" available="true">
-      <name>Брызговики передние подходят для GEELY Monjaro I 2022- 2 шт.(optimum) в пакете / Джили Монжаро</name>
+      <name>Брызговики передние подходят для Geely Monjaro I 2022- 2 шт.(optimum) в пакете / Джили Монжаро</name>
       <categoryId>9718247</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики передние подходят для GEELY Monjaro I 2022- 2 шт.(optimum) в пакете / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -11492,7 +11492,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-perednie-podkhodyat-dlya-geely-monjaro-i-2022-2-sht-optimum-v-pakete-1.jpg</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-ce555958c25d" available="true">
-      <name>Брызговики задние подходят для GEELY Monjaro I 2022- 2 шт.(optimum) в пакете / Джили Монжаро</name>
+      <name>Брызговики задние подходят для Geely Monjaro I 2022- 2 шт.(optimum) в пакете / Джили Монжаро</name>
       <categoryId>9718247</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики задние подходят для GEELY Monjaro I 2022- 2 шт.(optimum) в пакете / Джили Монжаро&lt;/strong&gt;&lt;/p&gt;
@@ -11548,7 +11548,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-loker-zadney-arki-geely-monjaro-2023-komplekt-2sht-1.png</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Monjaro</param><param name="Годы выпуска">с 2023</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-f7a69b4f9ce4" available="true">
-      <name>ТСУ на GEELY Tugella (FY11) 2019-, без электрики / Джили Тугела</name>
+      <name>ТСУ на Geely Tugella (FY11) 2019-, без электрики / Джили Тугела</name>
       <categoryId>9718248</categoryId>
       <price>66490</price>
       <description>&lt;p&gt;&lt;strong&gt;ТСУ на GEELY Tugella (FY11) 2019-, без электрики / Джили Тугела&lt;/strong&gt;&lt;/p&gt;
@@ -11823,7 +11823,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/ryukzak-tugella-razmer-ryukzaka-31kh12kh43-sm-1.jpg</picture>
           <param name="Тип детали">Рюкзак</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-f0557168fb5d" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, овальные с накладкой, 120х60 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, овальные с накладкой, 120х60 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>159250</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, овальные с накладкой, 120х60 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -11851,7 +11851,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-tugella-2020-ovalnye-s-nakladkoy-120kh60-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-70c3c651461c" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, овальные с накладкой, 75х42 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, овальные с накладкой, 75х42 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>150150</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, овальные с накладкой, 75х42 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -11879,7 +11879,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-tugella-2020-ovalnye-s-nakladkoy-75kh42-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-39a712d9541f" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, овальные с проступью, 75х42 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, овальные с проступью, 75х42 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>159250</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, овальные с проступью, 75х42 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -11907,7 +11907,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-tugella-2020-ovalnye-s-prostupyu-75kh42-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-91041350a47e" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, овальные гнутые с накладкой, 75х42 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, овальные гнутые с накладкой, 75х42 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>163800</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, овальные гнутые с накладкой, 75х42 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -11935,7 +11935,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-tugella-2020-ovalnye-gnutye-s-nakladkoy-75kh42-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-db43d625deb2" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, с площадкой, 42,4 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, с площадкой, 42,4 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>131950</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, с площадкой, 42,4 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -11963,7 +11963,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-tugella-2020-s-ploshchadkoy-42-4-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-d5b2f4e86329" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, с площадкой (нерж. лист), 42,4 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, с площадкой (нерж. лист), 42,4 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>168350</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, с площадкой (нерж. лист), 42,4 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -11991,7 +11991,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-tugella-2020-s-ploshchadkoy-nerzh-list-42-4-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Материал">нержавеющая сталь</param><param name="Комплектация">2 порога и крепеж</param><param name="Диаметр трубы">42,4 мм</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-f8f93af41283" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, с площадкой, 60,3 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, с площадкой, 60,3 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>150150</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, с площадкой, 60,3 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12019,7 +12019,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-tugella-2020-s-ploshchadkoy-60-3-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Комплектация">2 порога и крепеж</param><param name="Диаметр трубы">60,3 мм</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-ddc4f3f344b1" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, с площадкой (нерж. лист), 60,3 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, с площадкой (нерж. лист), 60,3 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>186550</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, с площадкой (нерж. лист), 60,3 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12047,7 +12047,7 @@
 
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Материал">нержавеющая сталь</param><param name="Комплектация">2 порога и крепеж</param><param name="Диаметр трубы">60,3 мм</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-7caf4211467c" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, с площадкой, 75х42 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, с площадкой, 75х42 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>172900</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, с площадкой, 75х42 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12075,7 +12075,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-tugella-2020-s-ploshchadkoy-75kh42-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-6dd62e6e66a6" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, с площадкой (нерж. лист), 75х42 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, с площадкой (нерж. лист), 75х42 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>209300</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, с площадкой (нерж. лист), 75х42 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12103,7 +12103,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-tugella-2020-s-ploshchadkoy-nerzh-list-75kh42-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Материал">нержавеющая сталь</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-9edc62cee441" available="true">
-      <name>Пороги труба GEELY Tugella 2020-, 60,3 мм, ТСС</name>
+      <name>Пороги труба Geely Tugella 2020-, 60,3 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>118300</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги труба GEELY Tugella 2020-, 60,3 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12131,7 +12131,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-truba-geely-tugella-2020-60-3-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Комплектация">2 порога и крепеж</param><param name="Диаметр трубы">60,3 мм</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-b676dbe22ea0" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, алюминиевые с пластиковой накладкой 1820 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, алюминиевые с пластиковой накладкой 1820 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>171535</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, алюминиевые с пластиковой накладкой 1820 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12159,7 +12159,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-tugella-2020-alyuminievye-s-plastikovoy-nakladkoy-1820-mm-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-4621fb93fd87" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, алюминиевые с пластиковой накладкой, карбон серые, 1820 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, алюминиевые с пластиковой накладкой, карбон серые, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>183365</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, алюминиевые с пластиковой накладкой, карбон серые, 1820 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12187,7 +12187,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-tugella-2020-alyuminievye-s-plastikovoy-nakladkoy-karbon-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Материал">карбон</param><param name="Цвет">серый</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-9aa7541037d2" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, алюминиевые с пластиковой накладкой, карбон серебро, 1820 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, алюминиевые с пластиковой накладкой, карбон серебро, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>183365</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, алюминиевые с пластиковой накладкой, карбон серебро, 1820 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12215,7 +12215,7 @@
 
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Материал">карбон</param><param name="Цвет">серебристый</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-0ae12f4b5267" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, алюминиевые с пластиковой накладкой, карбон черные, 1820 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, алюминиевые с пластиковой накладкой, карбон черные, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>183365</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, алюминиевые с пластиковой накладкой, карбон черные, 1820 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12243,7 +12243,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-tugella-2020-alyuminievye-s-plastikovoy-nakladkoy-karbon-7f73e6-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Материал">карбон</param><param name="Цвет">черный</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-db41d5714948" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, алюминиевые "Slim Line Black", 1820 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, алюминиевые "Slim Line Black", 1820 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>136045</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, алюминиевые "Slim Line Black", 1820 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12271,7 +12271,7 @@
 
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-866ddadef590" available="true">
-      <name>Пороги ступеньки GEELY Tugella 2020-, алюминиевые "Slim Line Silver", 1820 мм, ТСС</name>
+      <name>Пороги ступеньки Geely Tugella 2020-, алюминиевые "Slim Line Silver", 1820 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>130130</price>
       <description>&lt;p&gt;&lt;strong&gt;Пороги ступеньки GEELY Tugella 2020-, алюминиевые "Slim Line Silver", 1820 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12299,7 +12299,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/porogi-stupenki-geely-tugella-2020-alyuminievye-slim-line-silver-1820-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Пороги</param><param name="Материал">алюминий</param><param name="Комплектация">2 порога и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-827fb4fcd8c5" available="true">
-      <name>Органайзер в подлокотник GEELY Tugella 2020-, красный кант</name>
+      <name>Органайзер в подлокотник Geely Tugella 2020-, красный кант</name>
       <categoryId>9718248</categoryId>
       <price>6500</price>
       <description>&lt;p&gt;&lt;strong&gt;Органайзер в подлокотник GEELY Tugella 2020-, красный кант&lt;/strong&gt;&lt;/p&gt;
@@ -12325,7 +12325,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/organayzer-v-podlokotnik-geely-tugella-2020-krasnyy-kant-1.png</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Органайзер в подлокотник</param><param name="Цвет">красный</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-02cbb9940b57" available="true">
-      <name>Накладки на пластиковые пороги GEELY Tugella 2020-, лист шлифованный, 4шт, ТСС</name>
+      <name>Накладки на пластиковые пороги Geely Tugella 2020-, лист шлифованный, 4шт, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>25350</price>
       <description>&lt;p&gt;&lt;strong&gt;Накладки на пластиковые пороги GEELY Tugella 2020-, лист шлифованный, 4шт, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12353,7 +12353,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladki-na-plastikovye-porogi-geely-tugella-2020-list-shlifovannyy-4sht-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Накладки на пластиковые пороги</param><param name="Материал">нержавеющая сталь</param><param name="Количество">4 шт.</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-395bea32307d" available="true">
-      <name>Накладки на пластиковые пороги GEELY Tugella 2020-, лист шлифованный, надпись Tugella, 4шт, ТСС</name>
+      <name>Накладки на пластиковые пороги Geely Tugella 2020-, лист шлифованный, надпись Tugella, 4шт, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>28925</price>
       <description>&lt;p&gt;&lt;strong&gt;Накладки на пластиковые пороги GEELY Tugella 2020-, лист шлифованный, надпись Tugella, 4шт, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12553,7 +12553,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladka-na-ruchka-akpp-dlya-geely-tugella-alkantara-krasnaya-1.jpg</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Накладка на ручка акпп</param><param name="Материал">алькантара</param><param name="Цвет">красный</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-608d659d52be" available="true">
-      <name>Накладка на заднюю дверь GEELY Tugella 2020-, лист шлифованный, ТСС</name>
+      <name>Накладка на заднюю дверь Geely Tugella 2020-, лист шлифованный, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>16900</price>
       <description>&lt;p&gt;&lt;strong&gt;Накладка на заднюю дверь GEELY Tugella 2020-, лист шлифованный, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12609,7 +12609,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/nakladki-na-lameli-reshetki-bampera-geely-tugella-nerzhaveyka-1.jpg</picture>
           <param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Накладки на ламели решетки бампера</param><param name="Материал">нержавеющая сталь</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-1ee171dd5ebd" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Tugella 2021- кроссовер (передний левый) / Джили Тугела</name>
+      <name>Подкрылок с шумоизоляцией подходит для Geely Tugella 2021- кроссовер (передний левый) / Джили Тугела</name>
       <categoryId>9718248</categoryId>
       <price>32515</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Tugella 2021- кроссовер (передний левый) / Джили Тугела&lt;/strong&gt;&lt;/p&gt;
@@ -12637,7 +12637,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-tugella-2021-krossover-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-73e993907c6a" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Tugella 2021- кроссовер (передний правый) / Джили Тугела</name>
+      <name>Подкрылок с шумоизоляцией для Geely Tugella 2021- кроссовер (передний правый)</name>
       <categoryId>9718248</categoryId>
       <price>32515</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Tugella 2021- кроссовер (передний правый) / Джили Тугела&lt;/strong&gt;&lt;/p&gt;
@@ -12665,7 +12665,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-tugella-2021-krossover-cc32b0-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-64984508f9c0" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Tugella 2021- кроссовер (задний левый) / Джили Тугела</name>
+      <name>Подкрылок с шумоизоляцией подходит для Geely Tugella 2021- кроссовер (задний левый) / Джили Тугела</name>
       <categoryId>9718248</categoryId>
       <price>32515</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Tugella 2021- кроссовер (задний левый) / Джили Тугела&lt;/strong&gt;&lt;/p&gt;
@@ -12693,7 +12693,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-tugella-2021-krossover-zadniy-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-3dfb304e87a5" available="true">
-      <name>Подкрылок с шумоизоляцией подходит для GEELY Tugella 2021- кроссовер (задний правый) / Джили Тугела</name>
+      <name>Подкрылок с шумоизоляцией подходит для Geely Tugella 2021- кроссовер (задний правый) / Джили Тугела</name>
       <categoryId>9718248</categoryId>
       <price>32515</price>
       <description>&lt;p&gt;&lt;strong&gt;Подкрылок с шумоизоляцией подходит для GEELY Tugella 2021- кроссовер (задний правый) / Джили Тугела&lt;/strong&gt;&lt;/p&gt;
@@ -12721,7 +12721,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/podkrylok-s-shumoizolyatsiey-podkhodit-dlya-geely-tugella-2021-krossover-zadniy-5abdf3-1.jpg</picture>
           <vendor>TOTEM</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Подкрылки с шумоизоляцией</param><param name="Производитель">TOTEM</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-a254d6508b8b" available="true">
-      <name>Коврики салона GEELY Tugella 2020-, черный, Norplast</name>
+      <name>Коврики салона Geely Tugella 2020-, черный, Norplast</name>
       <categoryId>9718248</categoryId>
       <price>14770</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики салона GEELY Tugella 2020-, черный, Norplast&lt;/strong&gt;&lt;/p&gt;
@@ -12747,7 +12747,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-salona-geely-tugella-2020-chernyy-norplast-1.jpg</picture>
           <vendor>Norplast</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Коврики</param><param name="Цвет">черный</param><param name="Производитель">Norplast</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-0718dea6a816" available="true">
-      <name>Коврики салона GEELY Tugella 2020-, серый, Norplast</name>
+      <name>Коврики салона Geely Tugella 2020-, серый, Norplast</name>
       <categoryId>9718248</categoryId>
       <price>17283</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики салона GEELY Tugella 2020-, серый, Norplast&lt;/strong&gt;&lt;/p&gt;
@@ -12773,7 +12773,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-salona-geely-tugella-2020-seryy-norplast-1.jpg</picture>
           <vendor>Norplast</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Коврики</param><param name="Цвет">серый</param><param name="Производитель">Norplast</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-77ba6852e94c" available="true">
-      <name>Коврики салона GEELY Tugella 2020-, бежевый, Norplast</name>
+      <name>Коврики салона Geely Tugella 2020-, бежевый, Norplast</name>
       <categoryId>9718248</categoryId>
       <price>17283</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики салона GEELY Tugella 2020-, бежевый, Norplast&lt;/strong&gt;&lt;/p&gt;
@@ -12799,7 +12799,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-salona-geely-tugella-2020-bezhevyy-norplast-1.jpg</picture>
           <vendor>Norplast</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Коврики</param><param name="Цвет">бежевый</param><param name="Производитель">Norplast</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-9711bc581a0a" available="true">
-      <name>Коврик в багажник GEELY Tugella 2020-, черный, Norplast</name>
+      <name>Коврик в багажник Geely Tugella 2020-, черный, Norplast</name>
       <categoryId>9718248</categoryId>
       <price>10080</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник GEELY Tugella 2020-, черный, Norplast&lt;/strong&gt;&lt;/p&gt;
@@ -12825,7 +12825,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-geely-tugella-2020-chernyy-norplast-1.jpg</picture>
           <vendor>Norplast</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Коврик в багажник</param><param name="Цвет">черный</param><param name="Производитель">Norplast</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-f5a4048bcbdf" available="true">
-      <name>Коврик в багажник GEELY Tugella 2020-, серый, Norplast</name>
+      <name>Коврик в багажник Geely Tugella 2020-, серый, Norplast</name>
       <categoryId>9718248</categoryId>
       <price>11802</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник GEELY Tugella 2020-, серый, Norplast&lt;/strong&gt;&lt;/p&gt;
@@ -12851,7 +12851,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-geely-tugella-2020-seryy-norplast-1.jpg</picture>
           <vendor>Norplast</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Коврик в багажник</param><param name="Цвет">серый</param><param name="Производитель">Norplast</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-0e09ac495c18" available="true">
-      <name>Коврик в багажник GEELY Tugella 2020-, бежевый, Norplast</name>
+      <name>Коврик в багажник Geely Tugella 2020-, бежевый, Norplast</name>
       <categoryId>9718248</categoryId>
       <price>11802</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник GEELY Tugella 2020-, бежевый, Norplast&lt;/strong&gt;&lt;/p&gt;
@@ -12877,7 +12877,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-geely-tugella-2020-bezhevyy-norplast-1.jpg</picture>
           <vendor>Norplast</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Коврик в багажник</param><param name="Цвет">бежевый</param><param name="Производитель">Norplast</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-a312d4e069ae" available="true">
-      <name>Коврик в багажник подходят для GEELY Tugella 2021- Кроссовер, 1шт. (полиуретан) / Джили Тугела</name>
+      <name>Коврик в багажник подходят для Geely Tugella 2021- Кроссовер, 1шт. (полиуретан) / Джили Тугела</name>
       <categoryId>9718248</categoryId>
       <price>9950</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврик в багажник подходят для GEELY Tugella 2021- Кроссовер, 1шт. (полиуретан) / Джили Тугела&lt;/strong&gt;&lt;/p&gt;
@@ -12903,7 +12903,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovrik-v-bagazhnik-podkhodyat-dlya-geely-tugella-2021-krossover-1sht-poliuretan-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Коврик в багажник</param><param name="Материал">полиуретан</param><param name="Количество">1 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-9bebc69ff61b" available="true">
-      <name>Коврики 3D в салон подходят для GEELY Tugella 2021- Кроссовер, 4шт. (полиуретан) / Джили Тугела</name>
+      <name>Коврики 3D в салон подходят для Geely Tugella 2021- Кроссовер, 4шт. (полиуретан) / Джили Тугела</name>
       <categoryId>9718248</categoryId>
       <price>14675</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики 3D в салон подходят для GEELY Tugella 2021- Кроссовер, 4шт. (полиуретан) / Джили Тугела&lt;/strong&gt;&lt;/p&gt;
@@ -12929,7 +12929,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-podkhodyat-dlya-geely-tugella-2021-krossover-4sht-poliuretan-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">3d коврики</param><param name="Материал">полиуретан</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-31cfae6614b6" available="true">
-      <name>Коврики 3D в салон подходят для GEELY Tugella 2021-, Кроссовер, 4шт.(Повышенная устойчивость, повышенная износостойкость) / Джили Тугела</name>
+      <name>Коврики 3D в салон для Geely Tugella 2021-, Кроссовер</name>
       <categoryId>9718248</categoryId>
       <price>24220</price>
       <description>&lt;p&gt;&lt;strong&gt;Коврики 3D в салон подходят для GEELY Tugella 2021-, Кроссовер, 4шт.(Повышенная устойчивость, повышенная износостойкость) / Джили Тугела&lt;/strong&gt;&lt;/p&gt;
@@ -12955,7 +12955,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/kovriki-3d-v-salon-podkhodyat-dlya-geely-tugella-2021-krossover-4sht-1.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">3d коврики</param><param name="Количество">4 шт.</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-f34a66acbb29" available="true">
-      <name>Защита картера и КПП GEELY Tugella 2020-, алюминий 4мм, ТСС</name>
+      <name>Защита картера и КПП Geely Tugella 2020-, алюминий 4мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>125450</price>
       <description>&lt;p&gt;&lt;strong&gt;Защита картера и КПП GEELY Tugella 2020-, алюминий 4мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -12983,7 +12983,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-kartera-i-kpp-geely-tugella-2020-alyuminiy-4mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Защита картера</param><param name="Материал">алюминий</param><param name="Комплектация">защита и крепеж</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-e9b0343369ba" available="true">
-      <name>Защита бака и адсорбера GEELY Tugella 2020-, алюминий 4мм, ТСС</name>
+      <name>Защита бака и адсорбера Geely Tugella 2020-, алюминий 4мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>64350</price>
       <description>&lt;p&gt;&lt;strong&gt;Защита бака и адсорбера GEELY Tugella 2020-, алюминий 4мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -13039,7 +13039,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-komplekt-alyuminiy-4-mm-karter-i-kpp-baka-i-adsorbera-geely-tugella-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Защита днища</param><param name="Материал">алюминий</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-8c8bdd0eea72" available="true">
-      <name>Защиты картера и крепёж подходит для GEELY Tugella (21-) 2,0 бензин AT / Джили Тугела</name>
+      <name>Защиты картера и крепёж подходит для Geely Tugella (21-) 2,0 бензин AT / Джили Тугела</name>
       <categoryId>9718248</categoryId>
       <price>16430</price>
       <description>&lt;p&gt;&lt;strong&gt;Защиты картера и крепёж подходит для GEELY Tugella (21-) 2,0 бензин AT / Джили Тугела&lt;/strong&gt;&lt;/p&gt;
@@ -13068,7 +13068,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchity-kartera-i-krepezh-podkhodit-dlya-geely-tugella-21-2-0-benzin-at-2.jpg</picture>
           <vendor>Autofamily</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Защита картера</param><param name="Производитель">Autofamily</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-175beb3277d2" available="true">
-      <name>Защита переднего бампера GEELY Tugella 2020-, 42,4 мм, ТСС</name>
+      <name>Защита переднего бампера Geely Tugella 2020-, 42,4 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>122850</price>
       <description>&lt;p&gt;&lt;strong&gt;Защита переднего бампера GEELY Tugella 2020-, 42,4 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -13096,7 +13096,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-perednego-bampera-geely-tugella-2020-42-4-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Защита переднего бампера</param><param name="Материал">нержавеющая сталь</param><param name="Комплектация">защита и крепеж</param><param name="Диаметр трубы">42,4 мм</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-ec6a1983556c" available="true">
-      <name>Защита переднего бампера GEELY Tugella 2020-, 42,4/42,4 мм, двойная, ТСС</name>
+      <name>Защита переднего бампера Geely Tugella 2020-, 42,4/42,4 мм, двойная, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>150150</price>
       <description>&lt;p&gt;&lt;strong&gt;Защита переднего бампера GEELY Tugella 2020-, 42,4/42,4 мм, двойная, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -13124,7 +13124,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-perednego-bampera-geely-tugella-2020-42-4-42-4-mm-dvoynaya-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Защита переднего бампера</param><param name="Материал">нержавеющая сталь</param><param name="Комплектация">защита и крепеж</param><param name="Диаметр трубы">42,4/42,4 мм</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-05d1d00e957e" available="true">
-      <name>Защита переднего бампера GEELY Tugella 2020-, 60,3, ТСС</name>
+      <name>Защита переднего бампера Geely Tugella 2020-, 60,3, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>136500</price>
       <description>&lt;p&gt;&lt;strong&gt;Защита переднего бампера GEELY Tugella 2020-, 60,3, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -13152,7 +13152,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-perednego-bampera-geely-tugella-2020-60-3-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Защита переднего бампера</param><param name="Материал">нержавеющая сталь</param><param name="Комплектация">защита и крепеж</param><param name="Диаметр трубы">60,3 мм</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-855c4818582a" available="true">
-      <name>Защита переднего бампера GEELY Tugella 2020-, 60,3, с ДХО, ТСС</name>
+      <name>Защита переднего бампера Geely Tugella 2020-, 60,3, с ДХО, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>250250</price>
       <description>&lt;p&gt;&lt;strong&gt;Защита переднего бампера GEELY Tugella 2020-, 60,3, с ДХО, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -13180,7 +13180,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-perednego-bampera-geely-tugella-2020-60-3-s-dkho-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Защита переднего бампера</param><param name="Материал">нержавеющая сталь</param><param name="Комплектация">защита и крепеж</param><param name="Диаметр трубы">60,3</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-706cc231bf0b" available="true">
-      <name>Защита переднего бампера GEELY Tugella 2020-, 60,3/42,4 мм, двойная, ТСС</name>
+      <name>Защита переднего бампера Geely Tugella 2020-, 60,3/42,4 мм, двойная, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>163800</price>
       <description>&lt;p&gt;&lt;strong&gt;Защита переднего бампера GEELY Tugella 2020-, 60,3/42,4 мм, двойная, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -13208,7 +13208,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-perednego-bampera-geely-tugella-2020-60-3-42-4-mm-dvoynaya-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Защита переднего бампера</param><param name="Материал">нержавеющая сталь</param><param name="Комплектация">защита и крепеж</param><param name="Диаметр трубы">60,3/42,4 мм</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-095ce2cb295e" available="true">
-      <name>Защита заднего бампера SUBARU Outback 2021-, 42,4 мм, ТСС</name>
+      <name>Защита заднего бампера Subaru Outback 2021-, 42,4 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>109200</price>
       <description>&lt;p&gt;&lt;strong&gt;Защита заднего бампера SUBARU Outback 2021-, 42,4 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -13236,7 +13236,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-zadnego-bampera-subaru-outback-2021-42-4-mm-tss-1.jpg</picture>
           <vendor>ТСС</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Защита заднего бампера</param><param name="Материал">нержавеющая сталь</param><param name="Комплектация">защита и крепеж</param><param name="Диаметр трубы">42,4 мм</param><param name="Производитель">ТСС</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-1aea328a7fb6" available="true">
-      <name>Защита заднего бампера GEELY Tugella 2020-, уголки, 42,4 мм, ТСС</name>
+      <name>Защита заднего бампера Geely Tugella 2020-, уголки, 42,4 мм, ТСС</name>
       <categoryId>9718248</categoryId>
       <price>81900</price>
       <description>&lt;p&gt;&lt;strong&gt;Защита заднего бампера GEELY Tugella 2020-, уголки, 42,4 мм, ТСС&lt;/strong&gt;&lt;/p&gt;
@@ -13322,7 +13322,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektor-kapota-geely-tugella-2020-temnyy-dzhili-tugela-2.jpg</picture>
           <vendor>Rein</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Дефлектор капота</param><param name="Производитель">Rein</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-b07b3bf12f0b" available="true">
-      <name>Дефлекторы окон CHROMEX с хром. молдингом GEELY Tugella FY11, 2020-, 4шт., кроссовер, накладной / Джили Тугела</name>
+      <name>Дефлекторы окон CHROMEX с хром. молдингом Geely Tugella FY11, 2020-, 4 шт, кроссовер, накладной</name>
       <categoryId>9718248</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлекторы окон CHROMEX с хром. молдингом GEELY Tugella FY11, 2020-, 4шт., кроссовер, накладной / Джили Тугела&lt;/strong&gt;&lt;/p&gt;
@@ -13350,7 +13350,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-chromex-s-khrom-moldingom-geely-tugella-fy11-2020-4sht-1.jpg</picture>
           <vendor>Rein</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Дефлекторы окон</param><param name="Цвет">хром</param><param name="Количество">4 шт.</param><param name="Производитель">Rein</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-52904ddb1e51" available="true">
-      <name>Дефлектор окон (НАКЛАДНОЙ скотч 3М), 4 шт., GEELY Tugella FY11, 2020-, кроссовер / Джили Тугела</name>
+      <name>Дефлектор окон (НАКЛАДНОЙ скотч 3М), 4 шт., Geely Tugella FY11, 2020-, кроссовер / Джили Тугела</name>
       <categoryId>9718248</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Дефлектор окон (НАКЛАДНОЙ скотч 3М), 4 шт., GEELY Tugella FY11, 2020-, кроссовер / Джили Тугела&lt;/strong&gt;&lt;/p&gt;
@@ -13434,7 +13434,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-dlya-geely-tugela-2020-zadnie-1.jpg</picture>
           <vendor>Norplast</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Брызговики</param><param name="Производитель">Norplast</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-c6e1b41af47d" available="true">
-      <name>Брызговики передние подходят для GEELY Tugella 2021- 2 шт.(optimum) в пакете / Джили Тугела</name>
+      <name>Брызговики передние подходят для Geely Tugella 2021- 2 шт.(optimum) в пакете / Джили Тугела</name>
       <categoryId>9718248</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики передние подходят для GEELY Tugella 2021- 2 шт.(optimum) в пакете / Джили Тугела&lt;/strong&gt;&lt;/p&gt;
@@ -13462,7 +13462,7 @@
       <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/bryzgoviki-perednie-podkhodyat-dlya-geely-tugella-2021-2-sht-optimum-v-pakete-1.jpg</picture>
           <vendor>Frosh</vendor><param name="Марка автомобиля">Geely</param><param name="Модель автомобиля">Tugella</param><param name="Годы выпуска">с 2020</param><param name="Тип детали">Брызговики</param><param name="Количество">2 шт.</param><param name="Производитель">Frosh</param><param name="Состояние">Новое</param></offer>
     <offer id="starsparts-753e7694b1c0" available="true">
-      <name>Брызговики задние подходят для GEELY Tugella 2021- 2 шт.(optimum) в пакете / Джили Тугела</name>
+      <name>Брызговики задние подходят для Geely Tugella 2021- 2 шт.(optimum) в пакете / Джили Тугела</name>
       <categoryId>9718248</categoryId>
       <price>20000</price>
       <description>&lt;p&gt;&lt;strong&gt;Брызговики задние подходят для GEELY Tugella 2021- 2 шт.(optimum) в пакете / Джили Тугела&lt;/strong&gt;&lt;/p&gt;

@@ -1469,7 +1469,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/zashchita-kartera-i-kpp-jaguar-e-pace-range-rover-evoque-land-rover-discovery-2.jpg</picture>
 <vendor>Rival</vendor><param name="Марка автомобиля">Jaguar</param><param name="Модель автомобиля">E-Pace</param><param name="Тип детали">Защита картера</param><param name="Материал">алюминий</param><param name="Производитель">Rival</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-2009e28d73e3" available="true">
-<name>Защиты картера и крепеж, подходит для JAGUAR E-Pace (18-) 2,0 диз. AT / Ягуар Е-пэйс</name>
+<name>Защиты картера и крепеж, подходит для Jaguar E-Pace (18-) 2,0 диз. AT / Ягуар Е-пэйс</name>
 <categoryId>9718528</categoryId>
 <price>27150</price>
 <currencyId>KZT</currencyId>
@@ -1853,7 +1853,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/reshetka-radiatora-jaguar-f-pace-2016-chernyy-glyanets-dlya-a-m-s-adaptivnym-1.jpg</picture>
 <vendor>Jaguar</vendor><param name="Марка автомобиля">Jaguar</param><param name="Модель автомобиля">F-Pace</param><param name="Годы выпуска">с 2016</param><param name="Тип детали">Решетка радиатора</param><param name="Цвет">глянцевый черный</param><param name="Производитель">Jaguar</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-b529f4620927" available="true">
-<name>Решетка радиатора Jaguar F-Pace 2016-, черный глянец, для а/м с адаптивным круиз контролем и камерой, оригинал</name>
+<name>Решетка радиатора Jaguar F-Pace 2016-, черный глянец, оригинал</name>
 <categoryId>9718529</categoryId>
 <price>157500</price>
 <currencyId>KZT</currencyId>
@@ -4796,7 +4796,7 @@
 <picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/deflektory-okon-jaguar-f-pace-2016-original-1.jpg</picture>
 <vendor>Jaguar</vendor><param name="Марка автомобиля">Jaguar</param><param name="Модель автомобиля">F-Pace</param><param name="Годы выпуска">с 2016</param><param name="Тип детали">Дефлекторы окон</param><param name="Количество">4 шт.</param><param name="Производитель">Jaguar</param><param name="Оригинальность">Оригинал</param><param name="Состояние">Новое</param></offer>
 <offer id="starsparts-227a1b27ba6a" available="true">
-<name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., JAGUAR F-PACE l 2016-, кроссовер / Ягуар Ф-пэйс</name>
+<name>Дефлектор окон (НАКЛАДНОЙ скотч 3М) 4 шт., Jaguar F-PACE l 2016-, кроссовер / Ягуар Ф-пэйс</name>
 <categoryId>9718529</categoryId>
 <price>20000</price>
 <currencyId>KZT</currencyId>
