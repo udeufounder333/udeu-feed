@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-08-24T09:02:22.422Z">
+<shop>
+<name>Údeu v1 · Pontiac</name>
+<company>Údeu</company>
+<url>https://udeu.kz</url>
+<currencies><currency id="KZT" rate="1" /></currencies>
+<categories>
+<category id="9722600">Firebird III (1982-1992)</category>
+<category id="9722602">Firebird IV (1993-2002)</category>
+</categories>
+<offers>
+<offer id="starsparts-fea15d0c5718" available="true">
+<name>Выхлопная система Borla Cat-Back для Pontiac Firebird/Trans-Am 5.0/5.7L V8 (1984-1992)</name>
+<categoryId>9722600</categoryId>
+<price>1890000</price>
+<currencyId>KZT</currencyId>
+<description>&lt;p&gt;&lt;strong&gt;Выхлопная система Borla Cat-Back для Pontiac Firebird/Trans-Am 5.0/5.7L V8 (1984-1992)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Выхлопная система Borla Cat-Back для Pontiac Firebird III (Понтиак Файрберд) 1982–1992 годов выпуска. Деталь выхлопной системы для спортивного звука и внешнего вида.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Преимущества&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Меняет звук и внешний вид задней части машины.&lt;/li&gt;&lt;li&gt;Производитель: Borla.&lt;/li&gt;&lt;li&gt;Установим в нашем сервисе в Астане.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Совместимость&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pontiac Firebird III, 1982–1992. Пришлите VIN в чат: проверим посадку для вашей машины и комплектации.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Установка&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;В нашем сервисе в Астане.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Оплата&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kaspi Pay, удалённый счёт, перевод, перечисление на расчётный счёт для ИП и компаний.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Доставка по Казахстану&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Астана, Алматы, Шымкент, Караганда, Актобе, Тараз, Павлодар, Усть-Каменогорск, Семей, Атырау, Костанай, Кызылорда, Уральск, Петропавловск, Актау, Туркестан, Кокшетау, Талдыкорган, Темиртау, Экибастуз, Рудный, Жезказган, Конаев и другие города. Срок 2–15 дней в зависимости от наличия.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Возврат&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Товар надлежащего качества принимаем на реализацию: выставляем его на продажу в нашем магазине и возвращаем деньги после продажи.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Частые вопросы&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Подойдёт ли выхлопная система на Понтиак Файрберд?&lt;/strong&gt;&lt;br&gt;Выхлопная система рассчитана на Pontiac Firebird III, 1982–1992. Пришлите VIN, и мы подтвердим посадку для вашей машины.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Как проверить совместимость с моим двигателем?&lt;/strong&gt;&lt;br&gt;Версия двигателя указана в названии. Пришлите VIN, проверим.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Где установить выхлопную систему на Понтиак Файрберд?&lt;/strong&gt;&lt;br&gt;В нашем сервисе в Астане.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Как оплатить?&lt;/strong&gt;&lt;br&gt;Kaspi Pay, удалённый счёт, перевод или перечисление на расчётный счёт.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ещё для Pontiac Firebird III в магазине Údeu&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Выхлопные системы&lt;/li&gt;&lt;/ul&gt;</description>
+<keywords>выхлопная система понтиак файрберд, выхлопная система pontiac firebird, выхлоп понтиак файрберд, выхлопная система borla cat-back понтиак файрберд, спортивный выхлоп pontiac firebird, выхлопная система borla firebird, выхлопная система понтиак файрберд 1982, тюнинг выхлопа понтиак файрберд, выхлопная система понтиак файрберд алматы, выхлопная система понтиак файрберд астана</keywords>
+<picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/vykhlopnaya-sistema-borla-cat-back-dlya-pontiac-firebird-trans-am-5-0-5-7l-v8-1.jpg</picture>
+<vendor>Borla</vendor><param name="Марка автомобиля">Pontiac</param><param name="Модель автомобиля">Firebird III</param><param name="Годы выпуска">1982–1992</param><param name="Тип детали">Выхлопная система</param><param name="Производитель">Borla</param><param name="Состояние">Новое</param></offer>
+<offer id="starsparts-80a5522bbcd1" available="true">
+<name>Выхлопная система Borla S-Type Cat-Back для Pontiac Firebird/Trans-Am 5.7L V8 (1998-2002)</name>
+<categoryId>9722602</categoryId>
+<price>1161500</price>
+<currencyId>KZT</currencyId>
+<description>&lt;p&gt;&lt;strong&gt;Выхлопная система Borla S-Type Cat-Back для Pontiac Firebird/Trans-Am 5.7L V8 (1998-2002)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Выхлопная система Borla S-Type Cat-Back для Pontiac Firebird IV (Понтиак Файрберд) 1993–2002 годов выпуска. Деталь выхлопной системы для спортивного звука и внешнего вида.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Преимущества&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Меняет звук и внешний вид задней части машины.&lt;/li&gt;&lt;li&gt;Производитель: Borla.&lt;/li&gt;&lt;li&gt;Установим в нашем сервисе в Астане.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Совместимость&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pontiac Firebird IV, 1993–2002. Пришлите VIN в чат: проверим посадку для вашей машины и комплектации.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Установка&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;В нашем сервисе в Астане.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Оплата&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kaspi Pay, удалённый счёт, перевод, перечисление на расчётный счёт для ИП и компаний.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Доставка по Казахстану&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Астана, Алматы, Шымкент, Караганда, Актобе, Тараз, Павлодар, Усть-Каменогорск, Семей, Атырау, Костанай, Кызылорда, Уральск, Петропавловск, Актау, Туркестан, Кокшетау, Талдыкорган, Темиртау, Экибастуз, Рудный, Жезказган, Конаев и другие города. Срок 2–15 дней в зависимости от наличия.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Возврат&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Товар надлежащего качества принимаем на реализацию: выставляем его на продажу в нашем магазине и возвращаем деньги после продажи.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Частые вопросы&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Подойдёт ли выхлопная система на Понтиак Файрберд?&lt;/strong&gt;&lt;br&gt;Выхлопная система рассчитана на Pontiac Firebird IV, 1993–2002. Пришлите VIN, и мы подтвердим посадку для вашей машины.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Как проверить совместимость с моим двигателем?&lt;/strong&gt;&lt;br&gt;Версия двигателя указана в названии. Пришлите VIN, проверим.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Где установить выхлопную систему на Понтиак Файрберд?&lt;/strong&gt;&lt;br&gt;В нашем сервисе в Астане.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Как оплатить?&lt;/strong&gt;&lt;br&gt;Kaspi Pay, удалённый счёт, перевод или перечисление на расчётный счёт.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ещё для Pontiac Firebird IV в магазине Údeu&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Выхлопные системы&lt;/li&gt;&lt;/ul&gt;</description>
+<keywords>выхлопная система понтиак файрберд, выхлопная система pontiac firebird, выхлоп понтиак файрберд, выхлопная система borla s-type cat-back понтиак файрберд, спортивный выхлоп pontiac firebird, выхлопная система borla firebird, выхлопная система понтиак файрберд 1993, тюнинг выхлопа понтиак файрберд, выхлопная система понтиак файрберд алматы, выхлопная система понтиак файрберд астана</keywords>
+<picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/vykhlopnaya-sistema-borla-s-type-cat-back-dlya-pontiac-firebird-trans-am-5-7l-1.jpg</picture>
+<vendor>Borla</vendor><param name="Марка автомобиля">Pontiac</param><param name="Модель автомобиля">Firebird IV</param><param name="Годы выпуска">1993–2002</param><param name="Тип детали">Выхлопная система</param><param name="Производитель">Borla</param><param name="Состояние">Новое</param></offer>
+<offer id="starsparts-59ac39ad4a4c" available="true">
+<name>Выхлопная система Borla S-Type Cat-Back для Pontiac Firebird/Trans-Am 5.7L V8 (1998-2002)</name>
+<categoryId>9722602</categoryId>
+<price>1635000</price>
+<currencyId>KZT</currencyId>
+<description>&lt;p&gt;&lt;strong&gt;Выхлопная система Borla S-Type Cat-Back для Pontiac Firebird/Trans-Am 5.7L V8 (1998-2002)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Выхлопная система Borla S-Type Cat-Back для Pontiac Firebird IV (Понтиак Файрберд) 1993–2002 годов выпуска. Деталь выхлопной системы для спортивного звука и внешнего вида.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Преимущества&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Меняет звук и внешний вид задней части машины.&lt;/li&gt;&lt;li&gt;Производитель: Borla.&lt;/li&gt;&lt;li&gt;Установим в нашем сервисе в Астане.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Совместимость&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pontiac Firebird IV, 1993–2002. Пришлите VIN в чат: проверим посадку для вашей машины и комплектации.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Установка&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;В нашем сервисе в Астане.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Оплата&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kaspi Pay, удалённый счёт, перевод, перечисление на расчётный счёт для ИП и компаний.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Доставка по Казахстану&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Астана, Алматы, Шымкент, Караганда, Актобе, Тараз, Павлодар, Усть-Каменогорск, Семей, Атырау, Костанай, Кызылорда, Уральск, Петропавловск, Актау, Туркестан, Кокшетау, Талдыкорган, Темиртау, Экибастуз, Рудный, Жезказган, Конаев и другие города. Срок 2–15 дней в зависимости от наличия.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Возврат&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Товар надлежащего качества принимаем на реализацию: выставляем его на продажу в нашем магазине и возвращаем деньги после продажи.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Частые вопросы&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Подойдёт ли выхлопная система на Понтиак Файрберд?&lt;/strong&gt;&lt;br&gt;Выхлопная система рассчитана на Pontiac Firebird IV, 1993–2002. Пришлите VIN, и мы подтвердим посадку для вашей машины.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Как проверить совместимость с моим двигателем?&lt;/strong&gt;&lt;br&gt;Версия двигателя указана в названии. Пришлите VIN, проверим.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Где установить выхлопную систему на Понтиак Файрберд?&lt;/strong&gt;&lt;br&gt;В нашем сервисе в Астане.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Как оплатить?&lt;/strong&gt;&lt;br&gt;Kaspi Pay, удалённый счёт, перевод или перечисление на расчётный счёт.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ещё для Pontiac Firebird IV в магазине Údeu&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Выхлопные системы&lt;/li&gt;&lt;/ul&gt;</description>
+<keywords>выхлопная система понтиак файрберд, выхлопная система pontiac firebird, выхлоп понтиак файрберд, выхлопная система borla s-type cat-back понтиак файрберд, спортивный выхлоп pontiac firebird, выхлопная система borla firebird, выхлопная система понтиак файрберд 1993, тюнинг выхлопа понтиак файрберд, выхлопная система понтиак файрберд алматы, выхлопная система понтиак файрберд астана</keywords>
+<picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/vykhlopnaya-sistema-borla-s-type-cat-back-dlya-pontiac-firebird-trans-am-5-7l-f397fc-1.jpg</picture>
+<vendor>Borla</vendor><param name="Марка автомобиля">Pontiac</param><param name="Модель автомобиля">Firebird IV</param><param name="Годы выпуска">1993–2002</param><param name="Тип детали">Выхлопная система</param><param name="Производитель">Borla</param><param name="Состояние">Новое</param></offer>
+<offer id="starsparts-544f6976b215" available="true">
+<name>Выхлопная система Borla Cat-Back для Pontiac Firebird/Trans-Am 5.7L V8 (1995-1997)</name>
+<categoryId>9722602</categoryId>
+<price>1598500</price>
+<currencyId>KZT</currencyId>
+<description>&lt;p&gt;&lt;strong&gt;Выхлопная система Borla Cat-Back для Pontiac Firebird/Trans-Am 5.7L V8 (1995-1997)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Выхлопная система Borla Cat-Back для Pontiac Firebird IV (Понтиак Файрберд) 1993–2002 годов выпуска. Деталь выхлопной системы для спортивного звука и внешнего вида.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Преимущества&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Меняет звук и внешний вид задней части машины.&lt;/li&gt;&lt;li&gt;Производитель: Borla.&lt;/li&gt;&lt;li&gt;Установим в нашем сервисе в Астане.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Совместимость&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pontiac Firebird IV, 1993–2002. Пришлите VIN в чат: проверим посадку для вашей машины и комплектации.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Установка&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;В нашем сервисе в Астане.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Оплата&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kaspi Pay, удалённый счёт, перевод, перечисление на расчётный счёт для ИП и компаний.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Доставка по Казахстану&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Астана, Алматы, Шымкент, Караганда, Актобе, Тараз, Павлодар, Усть-Каменогорск, Семей, Атырау, Костанай, Кызылорда, Уральск, Петропавловск, Актау, Туркестан, Кокшетау, Талдыкорган, Темиртау, Экибастуз, Рудный, Жезказган, Конаев и другие города. Срок 2–15 дней в зависимости от наличия.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Возврат&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Товар надлежащего качества принимаем на реализацию: выставляем его на продажу в нашем магазине и возвращаем деньги после продажи.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Частые вопросы&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Подойдёт ли выхлопная система на Понтиак Файрберд?&lt;/strong&gt;&lt;br&gt;Выхлопная система рассчитана на Pontiac Firebird IV, 1993–2002. Пришлите VIN, и мы подтвердим посадку для вашей машины.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Как проверить совместимость с моим двигателем?&lt;/strong&gt;&lt;br&gt;Версия двигателя указана в названии. Пришлите VIN, проверим.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Где установить выхлопную систему на Понтиак Файрберд?&lt;/strong&gt;&lt;br&gt;В нашем сервисе в Астане.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Как оплатить?&lt;/strong&gt;&lt;br&gt;Kaspi Pay, удалённый счёт, перевод или перечисление на расчётный счёт.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ещё для Pontiac Firebird IV в магазине Údeu&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Выхлопные системы&lt;/li&gt;&lt;/ul&gt;</description>
+<keywords>выхлопная система понтиак файрберд, выхлопная система pontiac firebird, выхлоп понтиак файрберд, выхлопная система borla cat-back понтиак файрберд, спортивный выхлоп pontiac firebird, выхлопная система borla firebird, выхлопная система понтиак файрберд 1993, тюнинг выхлопа понтиак файрберд, выхлопная система понтиак файрберд алматы, выхлопная система понтиак файрберд астана</keywords>
+<picture>https://raw.githubusercontent.com/udeufounder333/udeu-feed/main/images_udeu/vykhlopnaya-sistema-borla-cat-back-dlya-pontiac-firebird-trans-am-5-7l-v8-1995-1.jpg</picture>
+<vendor>Borla</vendor><param name="Марка автомобиля">Pontiac</param><param name="Модель автомобиля">Firebird IV</param><param name="Годы выпуска">1993–2002</param><param name="Тип детали">Выхлопная система</param><param name="Производитель">Borla</param><param name="Состояние">Новое</param></offer>
+</offers>
+</shop>
+</yml_catalog>
