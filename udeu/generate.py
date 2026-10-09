@@ -969,6 +969,51 @@ def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats,
     return out
 
 
+PACK_MB = 80   # размер одного «пакета» для импорта в Satu (лимит Satu — 180 МБ)
+
+
+def make_packs(out_dir, cap_mb=PACK_MB):
+    """Склеивает все фиды марок в несколько больших файлов udeu-v1-pack-N.yml.
+    Satu ограничивает число запусков импорта, поэтому один пакет = один запуск вместо десятка.
+    offer id и категории те же, что в файлах марок, — дублей не будет."""
+    for old in glob.glob(os.path.join(out_dir, 'udeu-v1-pack-*.yml')):
+        os.remove(old)
+    files = sorted(f for f in glob.glob(os.path.join(out_dir, 'udeu-v*.yml')) if '-pack-' not in f)
+    packs, cur, size = [], [], 0
+    for f in files:
+        sz = os.path.getsize(f)
+        if cur and size + sz > cap_mb * 1024 * 1024:
+            packs.append(cur)
+            cur, size = [], 0
+        cur.append(f)
+        size += sz
+    if cur:
+        packs.append(cur)
+    for n, group in enumerate(packs, 1):
+        cats, seen, offers = [], set(), {}
+        for f in group:
+            t = open(f, encoding='utf-8').read()
+            c0, c1 = t.find('<categories>'), t.find('</categories>')
+            for m in re.finditer(r'<category id="([^"]+)"[^>]*>.*?</category>', t[c0:c1]):
+                if m.group(1) not in seen:
+                    seen.add(m.group(1))
+                    cats.append(m.group(0))
+            o0, o1 = t.find('<offers>'), t.rfind('</offers>')
+            for m in re.finditer(r'<offer id="([^"]+)".*?</offer>', t[o0:o1], re.S):
+                offers.pop(m.group(1), None)      # один товар в нескольких марках: берём последнюю версию
+                offers[m.group(1)] = m.group(0)
+        names = ', '.join(re.sub(r'^udeu-|\.yml$', '', os.path.basename(f)) for f in group)
+        out = os.path.join(out_dir, f'udeu-v1-pack-{n}.yml')
+        with open(out, 'w', encoding='utf-8') as w:
+            w.write("<?xml version='1.0' encoding='UTF-8'?>\n<yml_catalog>\n  <shop>\n")
+            w.write(f'    <name>Údeu · пакет {n}</name>\n    <company>Údeu</company>\n    <categories>\n')
+            w.write('\n'.join('      ' + c for c in cats))
+            w.write('\n    </categories>\n    <offers>\n')
+            w.write('\n'.join('        ' + o for o in offers.values()))
+            w.write('\n    </offers>\n  </shop>\n</yml_catalog>\n')
+        print(f'{os.path.basename(out)}: {names} ({os.path.getsize(out) // 1048576} МБ)', flush=True)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--src', default='.', help='папка с исходными фидами (корень репозитория)')
@@ -998,6 +1043,8 @@ def main():
         w = csv.writer(f)
         w.writerow(['old', 'new'])
         w.writerows(img_rows)
+    if not only:
+        make_packs(args.out)
     print(f'offers: {stats["offers"]}, images: {len(img_rows)}')
     print('types:', dict(stats['types'].most_common()))
 
