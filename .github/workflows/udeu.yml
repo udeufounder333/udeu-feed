@@ -1,0 +1,45 @@
+name: Údeu листинги
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: udeu-listings
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Скачать репозиторий
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Собрать листинги Údeu v1 и v2
+        run: python udeu/generate.py --src . --out .
+
+      - name: Переименовать фото в формат Údeu
+        run: python udeu/rename_images.py udeu/image_map.csv
+
+      - name: Сохранить в репозиторий
+        run: |
+          git config user.name "udeu-bot"
+          git config user.email "udeu-bot@users.noreply.github.com"
+          git add -A udeu-v1-*.yml udeu-v2-*.yml udeu/image_map.csv udeu/image_locations.csv images_udeu
+          git add -u
+          if git diff --cached --quiet; then
+            echo "Изменений нет"
+          else
+            git commit -q -m "Údeu: листинги v1/v2 и фото"
+            git push
+          fi
