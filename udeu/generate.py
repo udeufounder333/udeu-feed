@@ -181,6 +181,94 @@ def clean_title(name):
     return ', '.join(out)
 
 
+NAME_LIMIT = 100   # Satu обрезает название примерно после 105 символов
+
+
+def _brand_case_map():
+    m = {}
+    for lat, _ru in BRANDS.values():
+        if re.search(r'[a-z]', lat):
+            m[lat.upper()] = lat
+            m[lat.upper().replace('-', ' ')] = lat
+    m['LAND ROVER'] = 'Land Rover'
+    m['GREAT WALL'] = 'Great Wall'
+    return m
+
+
+_BRAND_CASE = None
+
+
+def shorten_name(name, limit=NAME_LIMIT):
+    """Название для карточки Satu: бренды «TOYOTA» -> «Toyota», и если длиннее лимита —
+    убираем повторы и дубль по-русски «/ Тойота Ленд Крузер», «подходят для» -> «для», а затем
+    аккуратно сокращаем по запятым (не режем слово посередине и не оставляем висящую запятую)."""
+    global _BRAND_CASE
+    if _BRAND_CASE is None:
+        _BRAND_CASE = _brand_case_map()
+    keys = sorted(_BRAND_CASE, key=len, reverse=True)
+    name = re.sub(r'\b(' + '|'.join(re.escape(k) for k in keys) + r')\b',
+                  lambda m: _BRAND_CASE[m.group(1)], name)
+    name = norm_ws(name).rstrip(' ,.;/')
+    if len(name) <= limit:
+        return name
+    # 1) хвост « / Тойота Ленд крузер прадо» (дубль модели по-русски) — он есть в описании
+    name = re.sub(r'\s+/\s*[А-ЯЁ][а-яё]+(?:\s+[А-ЯЁа-яё0-9-]+)*\s*$', '', name).rstrip(' ,.;/')
+    if len(name) > limit:
+        name = re.sub(r'\s+/\s*[А-ЯЁ][^/]*$', '', name).rstrip(' ,.;/(')
+    name = _balance(name)
+    # 2) канцелярит
+    name = re.sub(r'\s+подход(?:ят|ит)\s+для\s+', ' для ', name, flags=re.I)
+    name = re.sub(r'\s+на\s+а/м\s+', ' на ', name, flags=re.I)
+    name = re.sub(r'(\d)\s*шт\.?', r'\1 шт', name)
+    # 3) сегменты, которые целиком повторяются внутри другого сегмента («2020 мм» и «2020 мм ТСС»)
+    segs = split_top_level(name)
+    keep = []
+    for i, s in enumerate(segs):
+        ls = s.lower()
+        if any(j != i and ls != o.lower() and re.search(r'(^|\s)' + re.escape(ls) + r'(\s|$)', o.lower())
+               for j, o in enumerate(segs)):
+            continue
+        if any(ls == k.lower() for k in keep):
+            continue
+        keep.append(s)
+    name = ', '.join(keep)
+    if len(name) <= limit:
+        return name
+    # 4) убираем сегменты с конца, но короткий последний (бренд детали, «оригинал») сохраняем
+    segs = split_top_level(name)
+    tail = segs[-1] if len(segs) > 1 and len(segs[-1]) <= 14 else None
+    body = segs[:-1] if tail else segs[:]
+    car_rx = re.compile(r'(\b(19|20)\d\d\b|' + '|'.join(re.escape(v[0]) for v in BRANDS.values()) + ')', re.I)
+    has_car = [bool(car_rx.search(s)) for s in body]
+    first_car = has_car.index(True) if True in has_car else 0
+
+    def total():
+        return len(', '.join(body + ([tail] if tail else [])))
+    # сначала убираем лишние перечисления других моделей, потом второстепенные атрибуты с конца
+    for pass_car in (True, False):
+        i = len(body) - 1
+        while i > 0 and total() > limit:
+            if has_car[i] == pass_car and not (pass_car and i == first_car):
+                body.pop(i)
+                has_car.pop(i)
+                if i <= first_car:
+                    first_car = max(0, first_car - 1)
+            i -= 1
+    name = ', '.join(body + ([tail] if tail else []))
+    if len(name) <= limit:
+        return _balance(name)
+    # 5) крайний случай — по словам
+    cut = name[:limit + 1].rsplit(' ', 1)[0]
+    cut = re.sub(r'\s+(годов|года|для|с|и|на|в|под|от|без)$', '', cut.rstrip(' ,.;/-('), flags=re.I)
+    return _balance(cut)
+
+
+def _balance(name):
+    if name.count('(') > name.count(')'):
+        name = name[:name.rfind('(')]
+    return name.rstrip(' ,.;/-(')
+
+
 def translit(s):
     s = s.lower()
     out = []
@@ -851,7 +939,7 @@ def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats,
         cid = o.findtext('categoryId')
         ci = cat_info.get(cid) or parse_category(brand_slug, '')
         L = build(o, brand_slug, ci, groups.get(cid, []), used_slugs, version)
-        o.find('name').text = L.title
+        o.find('name').text = shorten_name(L.title)
         o.find('description').text = L.html
         kw = o.find('keywords')
         if kw is None:
