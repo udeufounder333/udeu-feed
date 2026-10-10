@@ -483,6 +483,15 @@ def strip_leading_codes(core):
     return core
 
 
+V2_PREFIX = {'bmw': 'BMW', 'mercedes': 'Mercedes'}
+V2_BRAND_WORDS = {'bmw': ['bmw'], 'mercedes': ['mercedes', 'мерседес', 'mercedes-benz', 'amg']}
+
+
+def base_brand(slug):
+    """'ags-bmw' -> 'bmw', 'ags-mercedes' -> 'mercedes'."""
+    return slug[4:] if slug.startswith('ags-') else slug
+
+
 def full_phrase(name, brand_slug, cat_info):
     """Начало названия до марки/модели/«для» — так называется сама деталь. Регистр исходный."""
     core = split_top_level(name)[0] if name.strip() else name
@@ -490,7 +499,7 @@ def full_phrase(name, brand_slug, cat_info):
     core = strip_leading_codes(core)
     low = core.lower()
     stops = [' для ', ' подходит', ' подходят', ' на а/м', ' на авто', ' фирменн']
-    b_lat, b_ru = BRANDS['bmw' if brand_slug == 'ags-bmw' else brand_slug]
+    b_lat, b_ru = BRANDS[base_brand(brand_slug)]
     stops += [' ' + b_lat.lower().split()[0], ' ' + b_ru.lower().split()[0]]
     model_words = [w for w in re.findall(r'[a-zа-яё0-9\-]+', cat_info['disp'].lower()) if len(w) > 1][:1]
     stops += [' ' + w for w in model_words]
@@ -585,11 +594,13 @@ class Listing:
 
 
 def build(offer, brand_slug, cat_info, groups_for_cat, used_slugs, version):
-    b_lat, b_ru = BRANDS['bmw' if brand_slug == 'ags-bmw' else brand_slug]
+    b_lat, b_ru = BRANDS[base_brand(brand_slug)]
     src_name = offer.findtext('name') or ''
     title = clean_title(TRANSLATIONS.get(norm_ws(src_name), src_name))
-    if version == 'v2' and 'bmw' not in title.lower():
-        title = 'BMW ' + title
+    if version == 'v2':
+        pref = V2_PREFIX.get(base_brand(brand_slug), b_lat)
+        if not re.search(r'\b(' + '|'.join(re.escape(w) for w in V2_BRAND_WORDS.get(base_brand(brand_slug), [pref.lower()])) + r')\b', title.lower()):
+            title = pref + ' ' + title
     desc_src = offer.findtext('description') or ''
     sents, facts = parse_source_description(desc_src, src_name)
     text_all = f'{title} {src_name} {desc_src}'
@@ -937,7 +948,7 @@ def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats,
     root = tree.getroot()
     shop = root.find('shop')
     nm = shop.find('name')
-    b_lat = BRANDS['bmw' if brand_slug == 'ags-bmw' else brand_slug][0]
+    b_lat = BRANDS[base_brand(brand_slug)][0]
     if nm is not None:
         nm.text = f'Údeu {version} · {b_lat}'
     comp = shop.find('company')
@@ -957,13 +968,18 @@ def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats,
             price = float((o.findtext('price') or '0').replace(',', '.'))
         except ValueError:
             price = 0
-        if price <= 0:
-            offers_el.remove(o)      # Satu не принимает цену 0 и останавливает импорт на подтверждении
-            continue
+        on_request = price <= 0
+        if on_request:
+            # цена 0 Satu не принимает — убираем поле цены совсем: на сайте будет «Цену уточняйте»
+            for pe in o.findall('price'):
+                o.remove(pe)
         cid = o.findtext('categoryId')
         ci = cat_info.get(cid) or parse_category(brand_slug, '')
         L = build(o, brand_slug, ci, groups.get(cid, []), used_slugs, version)
         o.find('name').text = shorten_name(L.title)
+        if on_request:
+            L.html = ('<p><strong>Цена по запросу.</strong> Напишите нам в чат или позвоните — '
+                      'рассчитаем стоимость с доставкой до вашего города и сроки.</p>\n' + L.html)
         o.find('description').text = L.html
         kw = o.find('keywords')
         if kw is None:
@@ -973,6 +989,9 @@ def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats,
             if old_rel:
                 pic.text = RAW_BASE + new_rel
                 img_rows.append((old_rel, new_rel))
+            elif old_url.startswith('http'):          # фото на сайте поставщика — робот скачает его под нашим именем
+                pic.text = RAW_BASE + new_rel
+                img_rows.append((old_url, new_rel))
         for tag in ('vendor', 'vendorCode'):
             for e in o.findall(tag):
                 o.remove(e)
@@ -986,7 +1005,7 @@ def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats,
             ET.SubElement(o, 'param', name=k).text = v if len(v) <= 255 else v[:252].rsplit(' ', 1)[0] + '…'
         stats['types'][L.type] += 1
         stats['offers'] += 1
-    slug_out = 'bmw' if brand_slug == 'ags-bmw' else brand_slug
+    slug_out = base_brand(brand_slug)
     out = os.path.join(out_dir, f'udeu-{version}-{slug_out}.yml')
     if write:
         tree.write(out, encoding='UTF-8', xml_declaration=True)
@@ -1006,11 +1025,11 @@ def make_packs(out_dir, cap_mb=PACK_MB):
                    if '-pack-' not in f and '-extra' not in f)
     # BMW v1 и v2 (AGS) используют одни и те же группы Satu: если они в разных пакетах,
     # Satu создаёт дубли групп. Поэтому v2-bmw всегда идёт в том же пакете сразу после v1-bmw.
-    v2 = [f for f in files if os.path.basename(f) == 'udeu-v2-bmw.yml']
-    if v2:
-        files.remove(v2[0])
-        i = next((k for k, f in enumerate(files) if os.path.basename(f) == 'udeu-v1-bmw.yml'), len(files) - 1)
-        files.insert(i + 1, v2[0])
+    for v2 in [f for f in files if os.path.basename(f).startswith('udeu-v2-')]:
+        twin = os.path.basename(v2).replace('udeu-v2-', 'udeu-v1-')
+        files.remove(v2)
+        i = next((k for k, f in enumerate(files) if os.path.basename(f) == twin), len(files) - 1)
+        files.insert(i + 1, v2)
     packs, cur, size = [], [], 0
     for f in files:
         sz = os.path.getsize(f)
@@ -1087,9 +1106,10 @@ def main():
         slug = os.path.basename(p)[len('feed-starsparts-'):-4]
         if slug in BRANDS:
             jobs.append((p, slug, 'v1'))
-    ags = os.path.join(args.src, 'feed-ags-bmw.yml')
-    if os.path.exists(ags):
-        jobs.append((ags, 'ags-bmw', 'v2'))
+    for ags in sorted(glob.glob(os.path.join(args.src, 'feed-ags-*.yml'))):
+        slug = 'ags-' + os.path.basename(ags)[len('feed-ags-'):-4]
+        if base_brand(slug) in BRANDS:
+            jobs.append((ags, slug, 'v2'))
     # имена фото зависят от всех брендов сразу (уникальность), поэтому обрабатываем всё, а пишем только выбранное
     used_slugs, img_rows = set(), []
     stats = {'types': Counter(), 'offers': 0}

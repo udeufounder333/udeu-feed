@@ -288,12 +288,16 @@ def mercedes_aliases(cat):
     code = codes[0] if codes else ''
     cls = re.match(r'^([a-z]+(?:\s?gt)?)(?:[- ]class)?', low)
     cl = cls.group(1).replace(' ', '') if cls else ''
-    if cl.startswith('g') and cl in ('g',):
+    if cl in ('g',) or (cl == 'w' and code in ('w463', 'w464', 'w465')):
         return [f'гелик {code}'.strip(), f'гелендваген {code}'.strip()], f'mercedes g-class {code}'.strip()
     if 'vito' in low or cl == 'v':
         return [f'мерседес вито {code}'.strip(), f'мерседес v-класс {code}'.strip()], f'mercedes vito {code}'.strip()
     if cl == 'amggt':
-        return ['мерседес amg gt'], 'mercedes amg gt'
+        return [f'мерседес amg gt {code}'.strip(), 'амг gt'], f'mercedes amg gt {code}'.strip()
+    if cl == 'sprinter':
+        return [f'мерседес спринтер {code}'.strip(), f'спринтер {code}'.strip()], f'mercedes sprinter {code}'.strip()
+    if cl == 'w' and code == 'w447':
+        return ['мерседес вито w447', 'мерседес v-класс w447'], 'mercedes vito w447'
     if cl in ('a', 'b', 'c', 'e', 's', 'cl'):
         ru = [f'мерседес {code}'.strip(), f'мерседес {cl}-класс {code}'.strip()]
         if 'coupe' in low and cl == 'e':
@@ -325,13 +329,14 @@ def parse_category(slug, cat):
         disp = re.sub(a, b, disp)
     disp = re.sub(r'\(([^()]*)\)', r'\1', disp)
     disp = re.sub(r'\s+', ' ', disp).strip()
-    b_lat0 = BRANDS.get('bmw' if slug == 'ags-bmw' else slug, ('', ''))[0]
+    slug = slug[4:] if slug.startswith('ags-') else slug
+    b_lat0 = BRANDS.get(slug, ('', ''))[0]
     if b_lat0 and disp.lower().startswith(b_lat0.lower() + ' '):
         disp = disp[len(b_lat0) + 1:]
 
     low = cat.lower()
     ru, lat = [], ''
-    if slug in ('bmw', 'ags-bmw'):
+    if slug == 'bmw':
         ru, lat = bmw_aliases(cat)
     elif slug == 'mercedes':
         ru, lat = mercedes_aliases(cat)
