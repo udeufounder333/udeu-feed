@@ -483,6 +483,7 @@ def strip_leading_codes(core):
     return core
 
 
+HOTLINK_HOSTS = ('agstuning.ru',)
 V2_PREFIX = {'bmw': 'BMW', 'mercedes': 'Mercedes'}
 V2_BRAND_WORDS = {'bmw': ['bmw'], 'mercedes': ['mercedes', 'мерседес', 'mercedes-benz', 'amg']}
 
@@ -989,9 +990,11 @@ def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats,
             if old_rel:
                 pic.text = RAW_BASE + new_rel
                 img_rows.append((old_rel, new_rel))
-            elif old_url.startswith('http'):          # фото на сайте поставщика — робот скачает его под нашим именем
+            elif old_url.startswith('http') and not any(h in old_url for h in HOTLINK_HOSTS):
+                # фото на сайте поставщика — робот скачает его под нашим именем
                 pic.text = RAW_BASE + new_rel
                 img_rows.append((old_url, new_rel))
+            # сайты из HOTLINK_HOSTS не пускают серверы GitHub — ссылку оставляем как есть, Satu скачает сам
         for tag in ('vendor', 'vendorCode'):
             for e in o.findall(tag):
                 o.remove(e)
