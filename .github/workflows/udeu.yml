@@ -25,6 +25,8 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Собрать товары Údeu v2 с сайта поставщика (если ещё нет)
+        run: python udeu/collect_ags.py
       - name: Собрать листинги Údeu v1 и v2
         run: python udeu/generate.py --src . --out .
 
@@ -35,7 +37,7 @@ jobs:
         run: |
           git config user.name "udeu-bot"
           git config user.email "udeu-bot@users.noreply.github.com"
-          git add -A udeu-v1-*.yml udeu-v2-*.yml udeu/image_map.csv udeu/image_locations.csv images_udeu
+          git add -A feed-ags-*.yml udeu-v1-*.yml udeu-v2-*.yml udeu/image_map.csv udeu/image_locations.csv images_udeu
           git add -u
           if git diff --cached --quiet; then
             echo "Изменений нет"
