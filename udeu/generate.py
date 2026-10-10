@@ -921,6 +921,17 @@ def first_pass_groups(root, brand_slug):
     return {cid: [g for g, _ in c.most_common()] for cid, c in by_cat.items()}
 
 
+PRICE_OVERRIDES = {}
+
+
+def load_price_overrides():
+    """udeu/price_overrides.json: {"offer id": цена в тенге} — ручные цены поверх цен поставщика."""
+    p = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'price_overrides.json')
+    if os.path.exists(p):
+        data = json.load(open(p, encoding='utf-8'))
+        PRICE_OVERRIDES.update({k: int(v['price'] if isinstance(v, dict) else v) for k, v in data.items()})
+
+
 def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats, write=True):
     tree = ET.parse(src_path)
     root = tree.getroot()
@@ -935,7 +946,20 @@ def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats,
     cats = {c.get('id'): (c.text or '').strip() for c in root.iter('category')}
     cat_info = {cid: parse_category(brand_slug, n) for cid, n in cats.items()}
     groups = first_pass_groups(root, brand_slug)
-    for o in root.iter('offer'):
+    offers_el = shop.find('offers')
+    for o in list(offers_el.findall('offer')):
+        if o.get('id') in PRICE_OVERRIDES:      # наши цены для товаров, у которых у поставщика 0
+            pe = o.find('price')
+            if pe is None:
+                pe = ET.SubElement(o, 'price')
+            pe.text = str(PRICE_OVERRIDES[o.get('id')])
+        try:
+            price = float((o.findtext('price') or '0').replace(',', '.'))
+        except ValueError:
+            price = 0
+        if price <= 0:
+            offers_el.remove(o)      # Satu не принимает цену 0 и останавливает импорт на подтверждении
+            continue
         cid = o.findtext('categoryId')
         ci = cat_info.get(cid) or parse_category(brand_slug, '')
         L = build(o, brand_slug, ci, groups.get(cid, []), used_slugs, version)
@@ -956,10 +980,10 @@ def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats,
             o.remove(e)
         if L.vendor:
             ET.SubElement(o, 'vendor').text = L.vendor
-        if L.art:
+        if L.art and len(L.art) <= 25:          # у Satu лимит артикула 25 символов
             ET.SubElement(o, 'vendorCode').text = L.art
         for k, v in L.params:
-            ET.SubElement(o, 'param', name=k).text = v
+            ET.SubElement(o, 'param', name=k).text = v if len(v) <= 255 else v[:252].rsplit(' ', 1)[0] + '…'
         stats['types'][L.type] += 1
         stats['offers'] += 1
     slug_out = 'bmw' if brand_slug == 'ags-bmw' else brand_slug
@@ -978,7 +1002,15 @@ def make_packs(out_dir, cap_mb=PACK_MB):
     offer id и категории те же, что в файлах марок, — дублей не будет."""
     for old in glob.glob(os.path.join(out_dir, 'udeu-v1-pack-*.yml')):
         os.remove(old)
-    files = sorted(f for f in glob.glob(os.path.join(out_dir, 'udeu-v*.yml')) if '-pack-' not in f)
+    files = sorted(f for f in glob.glob(os.path.join(out_dir, 'udeu-v*.yml'))
+                   if '-pack-' not in f and '-extra' not in f)
+    # BMW v1 и v2 (AGS) используют одни и те же группы Satu: если они в разных пакетах,
+    # Satu создаёт дубли групп. Поэтому v2-bmw всегда идёт в том же пакете сразу после v1-bmw.
+    v2 = [f for f in files if os.path.basename(f) == 'udeu-v2-bmw.yml']
+    if v2:
+        files.remove(v2[0])
+        i = next((k for k, f in enumerate(files) if os.path.basename(f) == 'udeu-v1-bmw.yml'), len(files) - 1)
+        files.insert(i + 1, v2[0])
     packs, cur, size = [], [], 0
     for f in files:
         sz = os.path.getsize(f)
@@ -1014,6 +1046,33 @@ def make_packs(out_dir, cap_mb=PACK_MB):
         print(f'{os.path.basename(out)}: {names} ({os.path.getsize(out) // 1048576} МБ)', flush=True)
 
 
+def make_extra(out_dir):
+    """udeu-v1-extra.yml — только товары из price_overrides.json (быстрый отдельный импорт)."""
+    out = os.path.join(out_dir, 'udeu-v1-extra.yml')
+    if os.path.exists(out):
+        os.remove(out)
+    if not PRICE_OVERRIDES:
+        return
+    cats, seen, offers = [], set(), {}
+    for f in sorted(glob.glob(os.path.join(out_dir, 'udeu-v1-pack-*.yml'))):
+        t = open(f, encoding='utf-8').read()
+        for m in re.finditer(r'<offer id="([^"]+)".*?</offer>', t, re.S):
+            if m.group(1) in PRICE_OVERRIDES:
+                offers[m.group(1)] = m.group(0)
+                cid = re.search(r'<categoryId>([^<]+)</categoryId>', m.group(0))
+                if cid and cid.group(1) not in seen:
+                    c = re.search(r'<category id="' + re.escape(cid.group(1)) + r'"[^>]*>.*?</category>', t)
+                    if c:
+                        seen.add(cid.group(1))
+                        cats.append(c.group(0))
+    with open(out, 'w', encoding='utf-8') as w:
+        w.write("<?xml version='1.0' encoding='UTF-8'?>\n<yml_catalog>\n  <shop>\n    <name>Údeu · доп. товары</name>\n")
+        w.write('    <company>Údeu</company>\n    <categories>\n' + '\n'.join('      ' + c for c in cats))
+        w.write('\n    </categories>\n    <offers>\n' + '\n'.join('        ' + o for o in offers.values()))
+        w.write('\n    </offers>\n  </shop>\n</yml_catalog>\n')
+    print(f'udeu-v1-extra.yml: {len(offers)} товаров с ручными ценами', flush=True)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--src', default='.', help='папка с исходными фидами (корень репозитория)')
@@ -1021,6 +1080,7 @@ def main():
     ap.add_argument('--only', default='', help='через запятую: toyota,ford,ags-bmw')
     args = ap.parse_args()
     load_translations()
+    load_price_overrides()
     only = set(x.strip() for x in args.only.split(',') if x.strip())
     jobs = []
     for p in sorted(glob.glob(os.path.join(args.src, 'feed-starsparts-*.yml'))):
@@ -1045,6 +1105,7 @@ def main():
         w.writerows(img_rows)
     if not only:
         make_packs(args.out)
+        make_extra(args.out)
     print(f'offers: {stats["offers"]}, images: {len(img_rows)}')
     print('types:', dict(stats['types'].most_common()))
 
