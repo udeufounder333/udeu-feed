@@ -202,8 +202,43 @@ def write_feed(brand, models, items, path):
     print(f'  {os.path.basename(path)}: ' + ', '.join(f'{k}: {v}' for k, v in sorted(stats.items(), key=lambda x: -x[1])))
 
 
+def split_multibrand(path, out_dir='.'):
+    """feed-ags-china.yml (несколько марок в одном файле, у категорий атрибут brand="<slug>")
+    -> feed-ags-<slug>.yml по одной марке: так их обрабатывает generate.py."""
+    import xml.etree.ElementTree as ET
+    root = ET.parse(path).getroot()
+    shop = root.find('shop')
+    cats = list(shop.find('categories'))
+    brand_of = {c.get('id'): c.get('brand') for c in cats}
+    by_brand = {}
+    for o in shop.find('offers'):
+        b = brand_of.get(o.findtext('categoryId'))
+        if b:
+            by_brand.setdefault(b, []).append(o)
+    for b, offers in sorted(by_brand.items()):
+        used = {o.findtext('categoryId') for o in offers}
+        parents = {c.get('parentId') for c in cats if c.get('id') in used and c.get('parentId')}
+        new = ET.Element('yml_catalog', root.attrib)
+        sh = ET.SubElement(new, 'shop')
+        ET.SubElement(sh, 'name').text = f'Údeu v2 · {b}'
+        cs = ET.SubElement(sh, 'categories')
+        for c in cats:
+            if c.get('id') in used or c.get('id') in parents:
+                cc = ET.SubElement(cs, 'category', {k: v for k, v in c.attrib.items() if k != 'brand'})
+                cc.text = c.text
+        ofs = ET.SubElement(sh, 'offers')
+        for o in offers:
+            ofs.append(o)
+        ET.ElementTree(new).write(os.path.join(out_dir, f'feed-ags-{b}.yml'), encoding='UTF-8', xml_declaration=True)
+        print(f'  feed-ags-{b}.yml: {len(offers)} товаров')
+
+
 def main():
     refresh = '--refresh' in sys.argv
+    for multi in ('feed-ags-china.yml',):
+        if os.path.exists(multi):
+            print(f'Разбор {multi} по маркам…')
+            split_multibrand(multi)
     out_dir = '.'
     for brand in CONFIG:
         path = os.path.join(out_dir, f'feed-ags-{brand}.yml')
