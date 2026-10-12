@@ -9,6 +9,7 @@
 import argparse
 import csv
 import glob
+from banned import banned
 import hashlib
 import json
 import os
@@ -944,6 +945,25 @@ def load_price_overrides():
         PRICE_OVERRIDES.update({k: int(v['price'] if isinstance(v, dict) else v) for k, v in data.items()})
 
 
+CHECK_FILES = False          # включается в main(), если рядом лежат фото репозитория
+_LEDGER = {}
+
+
+def load_ledger():
+    p = os.path.join('udeu', 'image_locations.csv')
+    if os.path.exists(p):
+        with open(p, encoding='utf-8') as f:
+            for row in csv.DictReader(f):
+                _LEDGER[row['original']] = row['current']
+
+
+def photo_available(old_rel, new_rel, old_url):
+    """Есть ли у фото реальный файл: внешняя ссылка — считаем, что есть; своя — ищем файл в репозитории."""
+    if not old_rel:
+        return bool(old_url)
+    return any(p and os.path.exists(p) for p in (old_rel, new_rel, _LEDGER.get(old_rel)))
+
+
 def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats, write=True):
     tree = ET.parse(src_path)
     root = tree.getroot()
@@ -965,6 +985,11 @@ def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats,
             offers_el.remove(o)
             stats['no_photo'] = stats.get('no_photo', 0) + 1
             continue
+        if banned(o.findtext('name') or ''):
+            # товары, которые Údeu не продаёт (udeu/banned.py)
+            offers_el.remove(o)
+            stats['banned'] = stats.get('banned', 0) + 1
+            continue
         if o.get('id') in PRICE_OVERRIDES:     # наши цены для товаров, у которых у поставщика 0
             pe = o.find('price')
             if pe is None:
@@ -982,6 +1007,11 @@ def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats,
         cid = o.findtext('categoryId')
         ci = cat_info.get(cid) or parse_category(brand_slug, '')
         L = build(o, brand_slug, ci, groups.get(cid, []), used_slugs, version)
+        if CHECK_FILES and L.pics and not any(photo_available(*p) for p in L.pics):
+            # ссылка на фото есть, но самого файла в репозитории нет — Satu покажет товар без фото
+            offers_el.remove(o)
+            stats['no_photo'] = stats.get('no_photo', 0) + 1
+            continue
         o.find('name').text = shorten_name(L.title)
         if on_request:
             L.html = ('<p><strong>Цена по запросу.</strong> Напишите нам в чат или позвоните — '
@@ -1108,7 +1138,11 @@ def main():
     args = ap.parse_args()
     load_translations()
     load_price_overrides()
-    only = set(x.strip() for x in args.only.split(',') if x.strip())
+    global CHECK_FILES
+    CHECK_FILES = os.path.isdir(IMG_DIR) and os.path.abspath(args.src) == os.path.abspath('.')
+    if CHECK_FILES:
+        load_ledger()
+    only =set(x.strip() for x in args.only.split(',') if x.strip())
     jobs = []
     for p in sorted(glob.glob(os.path.join(args.src, 'feed-starsparts-*.yml'))):
         slug = os.path.basename(p)[len('feed-starsparts-'):-4]
@@ -1134,7 +1168,7 @@ def main():
     if not only:
         make_packs(args.out)
         make_extra(args.out)
-    print(f'offers: {stats["offers"]}, images: {len(img_rows)}, без фото пропущено: {stats.get("no_photo", 0)}')
+    print(f'offers: {stats["offers"]}, images: {len(img_rows)}, без фото пропущено: {stats.get("no_photo", 0)}, запрещённых товаров убрано: {stats.get("banned", 0)}')
     print('types:', dict(stats['types'].most_common()))
 
 

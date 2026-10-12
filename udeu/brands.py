@@ -29,7 +29,7 @@ BRANDS = {
     'denza': ('Denza', 'Денза'), 'bentley': ('Bentley', 'Бентли'), 'jetour': ('Jetour', 'Джетур'),
     'infiniti': ('Infiniti', 'Инфинити'), 'gmc': ('GMC', 'Джи Эм Си'), 'mini': ('MINI', 'Мини'),
     'zeekr': ('Zeekr', 'Зикр'), 'jaguar': ('Jaguar', 'Ягуар'), 'opel': ('Opel', 'Опель'),
-    'hummer': ('Hummer', 'Хаммер'), 'ferrari': ('Ferrari', 'Феррари'), 'lynkco': ('Lynk & Co', 'Линк энд Ко'), 'genesis': ('Genesis', 'Дженезис'),
+    'hummer': ('Hummer', 'Хаммер'), 'ferrari': ('Ferrari', 'Феррари'), 'lotus': ('Lotus', 'Лотус'), 'rollsroyce': ('Rolls-Royce', 'Роллс-Ройс'), 'lynkco': ('Lynk & Co', 'Линк энд Ко'), 'genesis': ('Genesis', 'Дженезис'),
     'peugeot': ('Peugeot', 'Пежо'), 'lamborghini': ('Lamborghini', 'Ламборгини'), 'gac': ('GAC', 'ГАК'),
     'chrysler': ('Chrysler', 'Крайслер'), 'tesla': ('Tesla', 'Тесла'), 'aito': ('AITO', 'Айто'),
     'lixiang': ('Lixiang', 'Лисян'), 'brilliance': ('Brilliance', 'Бриллианс'), 'jaecoo': ('Jaecoo', 'Джейку'),
