@@ -960,7 +960,12 @@ def process(src_path, brand_slug, version, out_dir, used_slugs, img_rows, stats,
     groups = first_pass_groups(root, brand_slug)
     offers_el = shop.find('offers')
     for o in list(offers_el.findall('offer')):
-        if o.get('id') in PRICE_OVERRIDES:      # наши цены для товаров, у которых у поставщика 0
+        if not any((p.text or '').strip() for p in o.findall('picture')):
+            # товары без фото на сайт не выкладываем (решение владельца 12.10.2026)
+            offers_el.remove(o)
+            stats['no_photo'] = stats.get('no_photo', 0) + 1
+            continue
+        if o.get('id') in PRICE_OVERRIDES:     # наши цены для товаров, у которых у поставщика 0
             pe = o.find('price')
             if pe is None:
                 pe = ET.SubElement(o, 'price')
@@ -1129,7 +1134,7 @@ def main():
     if not only:
         make_packs(args.out)
         make_extra(args.out)
-    print(f'offers: {stats["offers"]}, images: {len(img_rows)}')
+    print(f'offers: {stats["offers"]}, images: {len(img_rows)}, без фото пропущено: {stats.get("no_photo", 0)}')
     print('types:', dict(stats['types'].most_common()))
 
 
