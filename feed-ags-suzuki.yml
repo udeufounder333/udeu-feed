@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-12 15:42:59">
+  <shop>
+    <name>Údeu v2 · suzuki</name>
+    <categories>
+      <category id="9723821">Jimny 4-gen (jb74) 2019-2024</category>
+    </categories>
+    <offers>
+        <offer id="ags-0a218b6e8af7" available="true">
+          <name>Jimny 2018- Основной топливный бак увеличенной емкости 65 литров</name>
+          <categoryId>9723821</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/285640/20260819-165043-aed31cd5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-cafa5de3af8e" available="true">
+          <name>Jimny 2018- Пороги электрические с подсветкой</name>
+          <categoryId>9723821</categoryId>
+          <price>356000</price>
+          <picture>https://agstuning.ru/assets/images/products/279181/45365.jpg</picture>
+          <description></description>
+        </offer>
+    </offers>
+  </shop>
+</yml_catalog>

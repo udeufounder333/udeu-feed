@@ -1,0 +1,3124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-12 15:42:59">
+  <shop>
+    <name>Údeu v2 · kia</name>
+    <categories>
+      <category id="9719959">Cerato 4 (2019-н.в.)</category>
+      <category id="9719967">Sorento 4 (2020-н.в.)</category>
+      <category id="9719974">Sportage NQ5 (2022-н.в.)</category>
+      <category id="9719975">Stinger (2017-2023)</category>
+      <category id="99000106">K8 (2021-н.в.)</category>
+      <category id="99000107">Tasman (2025-н.в.)</category>
+    </categories>
+    <offers>
+        <offer id="ags-477d93c962aa" available="true">
+          <name>Cerato 2018- Набор автомобилиста, оригинал</name>
+          <categoryId>9719959</categoryId>
+          <price>12052</price>
+          <picture>https://agstuning.ru/assets/images/products/230930/untitled-23.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-672dba1f1329" available="true">
+          <name>Cerato 2018- Вешалка для одежды, оригинал</name>
+          <categoryId>9719959</categoryId>
+          <price>71600</price>
+          <picture>https://agstuning.ru/assets/images/products/230888/untitled-43.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4859401ffe5f" available="true">
+          <name>Cerato 2018- Крепление планшета на подголовник, оригинал</name>
+          <categoryId>9719959</categoryId>
+          <price>95644</price>
+          <picture>https://agstuning.ru/assets/images/products/230877/untitled-32.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d36b452594a1" available="true">
+          <name>Cerato 2018- Чехол для ключа, силиконовый, черный</name>
+          <categoryId>9719959</categoryId>
+          <price>7776</price>
+          <picture>https://agstuning.ru/assets/images/products/230852/untitled-100.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3e5831fbe853" available="true">
+          <name>Cerato 2018- Чехол для ключа, силиконовый, синий</name>
+          <categoryId>9719959</categoryId>
+          <price>7776</price>
+          <picture>https://agstuning.ru/assets/images/products/230851/untitled-102.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5db9854b1a70" available="true">
+          <name>Cerato 2018- Чехол для ключа, силиконовый, красный</name>
+          <categoryId>9719959</categoryId>
+          <price>7776</price>
+          <picture>https://agstuning.ru/assets/images/products/230850/untitled-101.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-62f42339eb88" available="true">
+          <name>Cerato 2018- Брызговики задние, оригинал</name>
+          <categoryId>9719959</categoryId>
+          <price>5444</price>
+          <picture>https://agstuning.ru/assets/images/products/230873/untitled-28.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-076de39a28c7" available="true">
+          <name>Cerato 2018- Брызговики передние, оригинал</name>
+          <categoryId>9719959</categoryId>
+          <price>5444</price>
+          <picture>https://agstuning.ru/assets/images/products/230872/untitled-28.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-375bb28884f2" available="true">
+          <name>Cerato 2018- Брызговики перед и зад</name>
+          <categoryId>9719959</categoryId>
+          <price>17108</price>
+          <picture>https://agstuning.ru/assets/images/products/230799/untitled-7.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d13b2e7af82d" available="true">
+          <name>Cerato 2018- Дефлекторы наклеивающиеся на окна WELLvisors, дымчатые, 4 штуки</name>
+          <categoryId>9719959</categoryId>
+          <price>44624</price>
+          <picture>https://agstuning.ru/assets/images/products/255559/untitled-68.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ce4d1e874257" available="true">
+          <name>Cerato 2018- Дефлектор капота, черный</name>
+          <categoryId>9719959</categoryId>
+          <price>13220</price>
+          <picture>https://agstuning.ru/assets/images/products/230928/untitled-21.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ea19fa873fa4" available="true">
+          <name>Cerato 2019- Дефлекторы боковых стекол, черные, 6шт</name>
+          <categoryId>9719959</categoryId>
+          <price>23500</price>
+          <picture>https://agstuning.ru/assets/images/products/224612/s-l1600-2019-07-29t143803.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3833b15c81e6" available="true">
+          <name>Cerato 2018- Колпачок колесного диски, черный, логотип KIA</name>
+          <categoryId>9719959</categoryId>
+          <price>6608</price>
+          <picture>https://agstuning.ru/assets/images/products/230925/untitled-17.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4df94d4f2191" available="true">
+          <name>Cerato 2018- Защитные накладки на петли замков дверей, синие</name>
+          <categoryId>9719959</categoryId>
+          <price>14384</price>
+          <picture>https://agstuning.ru/assets/images/products/230949/untitled-57.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8dc8b89ac8cc" available="true">
+          <name>Cerato 2018- Защитные накладки на петли замков дверей, серебрянные</name>
+          <categoryId>9719959</categoryId>
+          <price>14384</price>
+          <picture>https://agstuning.ru/assets/images/products/230948/untitled-55.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-cb97dc54bd9b" available="true">
+          <name>Cerato 2018- Защитные накладки на петли замков дверей, черные</name>
+          <categoryId>9719959</categoryId>
+          <price>14384</price>
+          <picture>https://agstuning.ru/assets/images/products/230947/untitled-53.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5f23662b07e0" available="true">
+          <name>Cerato 2018- Защитные накладки на пороги, 4 штуки</name>
+          <categoryId>9719959</categoryId>
+          <price>13220</price>
+          <picture>https://agstuning.ru/assets/images/products/230927/untitled-20.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-22bfe1348307" available="true">
+          <name>Cerato 2018- Защитные накладки на спинки передних сидений, войлок</name>
+          <categoryId>9719959</categoryId>
+          <price>19828</price>
+          <picture>https://agstuning.ru/assets/images/products/230924/untitled-16.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1bbc4c43b4ac" available="true">
+          <name>Cerato 2018- Защитная накладка на порог багажника, войлок</name>
+          <categoryId>9719959</categoryId>
+          <price>15552</price>
+          <picture>https://agstuning.ru/assets/images/products/230923/untitled-15.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d4c50f73926e" available="true">
+          <name>Cerato 2018- Защитные накладки по бокам на основание сиденья, войлок</name>
+          <categoryId>9719959</categoryId>
+          <price>18272</price>
+          <picture>https://agstuning.ru/assets/images/products/230922/untitled-14.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-eeadf5085508" available="true">
+          <name>Cerato 2018- Защитная накладка на дверцу бардачка пассажира, войлок</name>
+          <categoryId>9719959</categoryId>
+          <price>15552</price>
+          <picture>https://agstuning.ru/assets/images/products/230921/untitled-13.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2d03d38ed4c4" available="true">
+          <name>Cerato 2018- Защитная накладка на центральную консоль сзади, войлок</name>
+          <categoryId>9719959</categoryId>
+          <price>15552</price>
+          <picture>https://agstuning.ru/assets/images/products/230920/untitled-12.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5bb4118b5405" available="true">
+          <name>Cerato 2018- Накладка на торпеду, черная с красной окантовкой, ворсовая</name>
+          <categoryId>9719959</categoryId>
+          <price>17496</price>
+          <picture>https://agstuning.ru/assets/images/products/230898/untitled-61.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e3ed0527e9d3" available="true">
+          <name>Cerato 2018- Накладка на задний бампер, нержавеющая сталь</name>
+          <categoryId>9719959</categoryId>
+          <price>36160</price>
+          <picture>https://agstuning.ru/assets/images/products/230822/untitled-49.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-197ed4032bfe" available="true">
+          <name>Cerato 2018- Накладка на порог багажника, нержавеющая сталь</name>
+          <categoryId>9719959</categoryId>
+          <price>37712</price>
+          <picture>https://agstuning.ru/assets/images/products/230818/untitled-43.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f15db104e66e" available="true">
+          <name>Cerato 2018- Накладки на задний бампер и порог багажника, под карбон, нержавеющая сталь</name>
+          <categoryId>9719959</categoryId>
+          <price>80872</price>
+          <picture>https://agstuning.ru/assets/images/products/230808/untitled-26.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-329ff9eaf261" available="true">
+          <name>Cerato 2018- Накладка на задний бампер (металл)</name>
+          <categoryId>9719959</categoryId>
+          <price>40048</price>
+          <picture>https://agstuning.ru/assets/images/products/221996/2019-02-04-124308.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-aed5d244e5e7" available="true">
+          <name>Cerato 2018- Защита картера, сталь 2 мм</name>
+          <categoryId>9719959</categoryId>
+          <price>10496</price>
+          <picture>https://agstuning.ru/assets/images/products/230929/untitled-22.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2f27a4f87af5" available="true">
+          <name>Cerato 2018- Защита картера и КПП, алюминий</name>
+          <categoryId>9719959</categoryId>
+          <price>28772</price>
+          <picture>https://agstuning.ru/assets/images/products/221999/8164-image1.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4c848d18e426" available="true">
+          <name>Cerato 2018- Накладки на двери, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>15164</price>
+          <picture>https://agstuning.ru/assets/images/products/280708/34565.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-94b66dd74faa" available="true">
+          <name>Cerato 2018- Окантовка центральной консоли, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>13220</price>
+          <picture>https://agstuning.ru/assets/images/products/280705/1-(6).jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ebcd6d4b5924" available="true">
+          <name>Cerato 2018- Накладка на ручку КПП, красная алькантара</name>
+          <categoryId>9719959</categoryId>
+          <price>19200</price>
+          <picture>https://agstuning.ru/assets/images/products/277444/ags-tuning-12.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8224fea1f667" available="true">
+          <name>Cerato 2018- Накладка на ручку КПП, черная алькантара</name>
+          <categoryId>9719959</categoryId>
+          <price>19200</price>
+          <picture>https://agstuning.ru/assets/images/products/277443/ags-tuning-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-63a1295100ad" available="true">
+          <name>Cerato 2018- Накладка на основание рычага АКПП, синий глянцевый</name>
+          <categoryId>9719959</categoryId>
+          <price>18272</price>
+          <picture>https://agstuning.ru/assets/images/products/230955/untitled-66.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-fe7e9b2c0ba0" available="true">
+          <name>Cerato 2018- Накладка на основание рычага АКПП, черный глянцевый</name>
+          <categoryId>9719959</categoryId>
+          <price>18272</price>
+          <picture>https://agstuning.ru/assets/images/products/230954/untitled-65.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-aa4f104be8e1" available="true">
+          <name>Cerato 2018- Защитный чехол на центральный подлокотник, красный с карбон вставкой</name>
+          <categoryId>9719959</categoryId>
+          <price>18272</price>
+          <picture>https://agstuning.ru/assets/images/products/230952/untitled-62.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6d25e9bf1e56" available="true">
+          <name>Cerato 2018- Накладки на рулевое колесо, синий глянец, 2 части</name>
+          <categoryId>9719959</categoryId>
+          <price>20216</price>
+          <picture>https://agstuning.ru/assets/images/products/230950/untitled-59.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-0fc26c819d16" available="true">
+          <name>Cerato 2018- Накладки на кнопки стеклоподъемников, синие глянцевые</name>
+          <categoryId>9719959</categoryId>
+          <price>18272</price>
+          <picture>https://agstuning.ru/assets/images/products/230944/untitled-47.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-562673fdcd40" available="true">
+          <name>Cerato 2018- Накладки на подрулевые лепестки, алюминий</name>
+          <categoryId>9719959</categoryId>
+          <price>28384</price>
+          <picture>https://agstuning.ru/assets/images/products/230938/untitled-34.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3bb74bfd75c5" available="true">
+          <name>Cerato 2018- Накладки на подрулевые лепестки, синие, алюминий</name>
+          <categoryId>9719959</categoryId>
+          <price>28384</price>
+          <picture>https://agstuning.ru/assets/images/products/230937/untitled-32.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2cecb88ce2ee" available="true">
+          <name>Cerato 2018- Чехол на ручку АКПП, красная с карбон вставкой</name>
+          <categoryId>9719959</categoryId>
+          <price>13608</price>
+          <picture>https://agstuning.ru/assets/images/products/230935/untitled-29.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-243471e14f97" available="true">
+          <name>Cerato 2018- Накладка на кнопку старт-стоп, красная</name>
+          <categoryId>9719959</categoryId>
+          <price>14384</price>
+          <picture>https://agstuning.ru/assets/images/products/230934/untitled-28.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f3afb35d56dd" available="true">
+          <name>Cerato 2018- Накладка на кнопку старт-стоп, синяя</name>
+          <categoryId>9719959</categoryId>
+          <price>14384</price>
+          <picture>https://agstuning.ru/assets/images/products/230933/untitled-27.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-797016846a7e" available="true">
+          <name>Cerato 2018- Накладки на подрулевые лепестки, черные</name>
+          <categoryId>9719959</categoryId>
+          <price>20216</price>
+          <picture>https://agstuning.ru/assets/images/products/230932/untitled-26.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-0af3c8fb6d8c" available="true">
+          <name>Cerato 2018- Накладки на подрулевые лепестки, красные</name>
+          <categoryId>9719959</categoryId>
+          <price>19828</price>
+          <picture>https://agstuning.ru/assets/images/products/230931/untitled-24.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-96bc7e7ae5b6" available="true">
+          <name>Cerato 2018- Накладка на кнопку аварийки, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>9332</price>
+          <picture>https://agstuning.ru/assets/images/products/230867/untitled-18.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-80b300eef753" available="true">
+          <name>Cerato 2018- Накладка на кнопку аварийки, глянцевый черный</name>
+          <categoryId>9719959</categoryId>
+          <price>9332</price>
+          <picture>https://agstuning.ru/assets/images/products/230866/untitled-17.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-0efe07f16107" available="true">
+          <name>Cerato 2018- Накладка на основание рычага АКПП, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>21772</price>
+          <picture>https://agstuning.ru/assets/images/products/230863/untitled-15.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-dc066a6c3059" available="true">
+          <name>Cerato 2018- Накладка на ручку АКПП, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>13608</price>
+          <picture>https://agstuning.ru/assets/images/products/230862/untitled-14.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d5f7c6c50871" available="true">
+          <name>Cerato 2018- Накладки на поворотники в зеркалах, черные глянцевые</name>
+          <categoryId>9719959</categoryId>
+          <price>14384</price>
+          <picture>https://agstuning.ru/assets/images/products/230946/untitled-51.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bb2da1f26148" available="true">
+          <name>Cerato 2018- Накладки на зеркала, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>40048</price>
+          <picture>https://agstuning.ru/assets/images/products/230943/untitled-45.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-506cb61f1674" available="true">
+          <name>Cerato 2018- Накладки на рулевое колесо, под карбон, 2 части</name>
+          <categoryId>9719959</categoryId>
+          <price>20216</price>
+          <picture>https://agstuning.ru/assets/images/products/230860/untitled-12.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3d6c2e21ebfe" available="true">
+          <name>Cerato 2018- Накладка на рулевое колесо снизу, красная</name>
+          <categoryId>9719959</categoryId>
+          <price>15552</price>
+          <picture>https://agstuning.ru/assets/images/products/230859/untitled-11.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-dd836e26fab3" available="true">
+          <name>Cerato 2018- Накладка на ручку АКПП, красная</name>
+          <categoryId>9719959</categoryId>
+          <price>13608</price>
+          <picture>https://agstuning.ru/assets/images/products/230858/untitled-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7f337ded3d3b" available="true">
+          <name>Cerato 2018- Накладки на ручку бардачка, глянцевый черный</name>
+          <categoryId>9719959</categoryId>
+          <price>17108</price>
+          <picture>https://agstuning.ru/assets/images/products/230846/untitled-86.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-01c021e333b5" available="true">
+          <name>Cerato 2018- Накладки на ручку бардачка, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>17108</price>
+          <picture>https://agstuning.ru/assets/images/products/230844/untitled-84.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8f71ccdc865c" available="true">
+          <name>Cerato 2018- Окантовки дефлекторов обдува боковых стекол, глянцевый черны</name>
+          <categoryId>9719959</categoryId>
+          <price>15552</price>
+          <picture>https://agstuning.ru/assets/images/products/230840/untitled-75.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f31cee91ff5e" available="true">
+          <name>Cerato 2018- Накладки на кнопки стеклоподъемников, черный глянец</name>
+          <categoryId>9719959</categoryId>
+          <price>13608</price>
+          <picture>https://agstuning.ru/assets/images/products/230836/untitled-69.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b308ac709bdb" available="true">
+          <name>Cerato 2018- Накладка на задние дефлекторы обдува, черный глянец</name>
+          <categoryId>9719959</categoryId>
+          <price>10496</price>
+          <picture>https://agstuning.ru/assets/images/products/230834/untitled-66.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-46490904b2c4" available="true">
+          <name>Cerato 2018- Накладка на центральные дефлекторы обдува, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>14384</price>
+          <picture>https://agstuning.ru/assets/images/products/230825/untitled-53.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-58ebfdb84ebd" available="true">
+          <name>Cerato 2018- Окантовка кнопок регулировки фар, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>11664</price>
+          <picture>https://agstuning.ru/assets/images/products/230824/untitled-52.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4949d2b49906" available="true">
+          <name>Cerato 2018- Накладка на задние дефлекторы обдува, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>20996</price>
+          <picture>https://agstuning.ru/assets/images/products/230817/untitled-42.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8395154bf854" available="true">
+          <name>Cerato 2018- Окантовки боковых дефлекторов обдува, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>14384</price>
+          <picture>https://agstuning.ru/assets/images/products/230809/untitled-27.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ee54a27ae777" available="true">
+          <name>Cerato 2018- Накладки на дефлекторы обдува боковых стекол, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>12052</price>
+          <picture>https://agstuning.ru/assets/images/products/230807/untitled-23.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3de5db49c210" available="true">
+          <name>Cerato 2018- Накладка на задние подстаканники, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>14384</price>
+          <picture>https://agstuning.ru/assets/images/products/230806/untitled-22.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f82b2c0eeed8" available="true">
+          <name>Cerato 2018- Накладки на кнопки стеклоподъемников, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>18664</price>
+          <picture>https://agstuning.ru/assets/images/products/230803/untitled-15.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f9b821a07920" available="true">
+          <name>Cerato 2018- Накладка на руль, красная</name>
+          <categoryId>9719959</categoryId>
+          <price>14776</price>
+          <picture>https://agstuning.ru/assets/images/products/230801/untitled-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-afadf7059a4a" available="true">
+          <name>Cerato 2018- Молдинг на низ крышки багажника, глянцевый черный</name>
+          <categoryId>9719959</categoryId>
+          <price>34216</price>
+          <picture>https://agstuning.ru/assets/images/products/230848/untitled-93.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ab9ae426bb33" available="true">
+          <name>Cerato 2018- Молдинг на низ крышки багажника, алюминиевый</name>
+          <categoryId>9719959</categoryId>
+          <price>37324</price>
+          <picture>https://agstuning.ru/assets/images/products/230827/untitled-55.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bf77cb9b173c" available="true">
+          <name>Cerato 2018- Коврики салона, черные, полиуретан</name>
+          <categoryId>9719959</categoryId>
+          <price>7000</price>
+          <picture>https://agstuning.ru/assets/images/products/230971/untitled-19.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-01287b49b4f5" available="true">
+          <name>Cerato 2018- Коврик в багажник, черный, полиуретан</name>
+          <categoryId>9719959</categoryId>
+          <price>6220</price>
+          <picture>https://agstuning.ru/assets/images/products/230970/untitled-18.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-fd74749ce436" available="true">
+          <name>Cerato 2018- Коврики салона 3D, серые, полиуретан</name>
+          <categoryId>9719959</categoryId>
+          <price>10108</price>
+          <picture>https://agstuning.ru/assets/images/products/230969/untitled-17.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-af3e9c3fc0ce" available="true">
+          <name>Cerato 2018- Коврики салона 3D, черные, полиуретан</name>
+          <categoryId>9719959</categoryId>
+          <price>8164</price>
+          <picture>https://agstuning.ru/assets/images/products/230968/untitled-16.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-89552b077e70" available="true">
+          <name>Cerato 2018- Коврик в багажник, серый, полиуретан</name>
+          <categoryId>9719959</categoryId>
+          <price>9332</price>
+          <picture>https://agstuning.ru/assets/images/products/230967/untitled-15.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-618e1dcc91bd" available="true">
+          <name>Cerato 2018- Коврик в багажник, термопластик</name>
+          <categoryId>9719959</categoryId>
+          <price>10888</price>
+          <picture>https://agstuning.ru/assets/images/products/230959/untitled-7.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c05a09901452" available="true">
+          <name>Cerato 2018- Коврики салона LUX, ворсовые</name>
+          <categoryId>9719959</categoryId>
+          <price>10888</price>
+          <picture>https://agstuning.ru/assets/images/products/230958/untitled-5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d4c5120da569" available="true">
+          <name>Cerato 2018- Ковер багажника WeatherTech, черный</name>
+          <categoryId>9719959</categoryId>
+          <price>92000</price>
+          <picture>https://agstuning.ru/assets/images/products/230870/untitled-25.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-35bc1b796f52" available="true">
+          <name>Cerato 2018- Ковры салона WeatherTech, черные, комплект</name>
+          <categoryId>9719959</categoryId>
+          <price>158000</price>
+          <picture>https://agstuning.ru/assets/images/products/230869/untitled-23.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a752756880d9" available="true">
+          <name>Cerato 2018- Коврики салона, перед и зад комплект, велюровые</name>
+          <categoryId>9719959</categoryId>
+          <price>24104</price>
+          <picture>https://agstuning.ru/assets/images/products/222805/360x270/rrr1.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-cd3a23255630" available="true">
+          <name>Cerato 2018- Накладки на передний бампер по бокам, черные, 2 штуки</name>
+          <categoryId>9719959</categoryId>
+          <price>98280</price>
+          <picture>https://agstuning.ru/assets/images/products/245155/untitled-63.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-fd5a03e0b24a" available="true">
+          <name>Cerato 2018- Накладка на лючок бензобака, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>13608</price>
+          <picture>https://agstuning.ru/assets/images/products/230868/untitled-21.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-704775cd06b1" available="true">
+          <name>Cerato 2018- Накладки на задние форточки, алюминий, комплект</name>
+          <categoryId>9719959</categoryId>
+          <price>34992</price>
+          <picture>https://agstuning.ru/assets/images/products/230847/untitled-92.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-304b54c24820" available="true">
+          <name>Cerato 2018- Накладки на задние форточки, под карбон, комплект</name>
+          <categoryId>9719959</categoryId>
+          <price>27604</price>
+          <picture>https://agstuning.ru/assets/images/products/230830/untitled-61.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9393919a2088" available="true">
+          <name>Cerato 2018- Накладки на радиаторную решетку, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>50544</price>
+          <picture>https://agstuning.ru/assets/images/products/230826/untitled-54.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-568abbdebebd" available="true">
+          <name>Cerato 2018- Накладки на противотуманные фонари, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>14384</price>
+          <picture>https://agstuning.ru/assets/images/products/230823/untitled-51.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-91eff55623db" available="true">
+          <name>Cerato 2018- Накладки на задние форточки, полосы, серебряные, комплект</name>
+          <categoryId>9719959</categoryId>
+          <price>30328</price>
+          <picture>https://agstuning.ru/assets/images/products/230820/untitled-46.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-55b540297400" available="true">
+          <name>Cerato 2018- Накладки под ручки дверей, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>17108</price>
+          <picture>https://agstuning.ru/assets/images/products/230819/untitled-45.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-87786c864024" available="true">
+          <name>Cerato 2018- Накладки на задние форточки, серебряные, комплект</name>
+          <categoryId>9719959</categoryId>
+          <price>30328</price>
+          <picture>https://agstuning.ru/assets/images/products/230814/untitled-36.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-35ff0417284e" available="true">
+          <name>Cerato 2018- Накладки на задние форточки, черные, комплект</name>
+          <categoryId>9719959</categoryId>
+          <price>30328</price>
+          <picture>https://agstuning.ru/assets/images/products/230813/untitled-34.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e12056f0aea1" available="true">
+          <name>Cerato 2018- Накладки на задние противотуманные фары, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>18272</price>
+          <picture>https://agstuning.ru/assets/images/products/230798/untitled-4.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-25ac6b1221f4" available="true">
+          <name>Cerato 2018- Накладки на противотуманные фары, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>29548</price>
+          <picture>https://agstuning.ru/assets/images/products/230796/untitled-67.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7e93954d56d5" available="true">
+          <name>Cerato 2018- Накладка край багажника, под карбон</name>
+          <categoryId>9719959</categoryId>
+          <price>19828</price>
+          <picture>https://agstuning.ru/assets/images/products/222801/2019-05-10-222128.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-697ae249cf1b" available="true">
+          <name>Cerato 2018- Накладки на стойки дверей, серебристые 6 шт.</name>
+          <categoryId>9719959</categoryId>
+          <price>27604</price>
+          <picture>https://agstuning.ru/assets/images/products/222800/768655.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d8360cdf6826" available="true">
+          <name>Cerato 2018- Накладки на стойки дверей, чёрные 6 шт.</name>
+          <categoryId>9719959</categoryId>
+          <price>27604</price>
+          <picture>https://agstuning.ru/assets/images/products/222798/768655.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ca314034c88b" available="true">
+          <name>Cerato 2018- Накладки на задние форточки, комплект</name>
+          <categoryId>9719959</categoryId>
+          <price>33824</price>
+          <picture>https://agstuning.ru/assets/images/products/222792/kia-cerato18-19-03-3.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-af9ec59d7aeb" available="true">
+          <name>Cerato 2018- Накладки на боковые пороги, черные матовые</name>
+          <categoryId>9719959</categoryId>
+          <price>347760</price>
+          <picture>https://agstuning.ru/assets/images/products/245157/untitled-65.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d00bfbeb91bb" available="true">
+          <name>Cerato 2018- Диффузор заднего бампера, черный матовый</name>
+          <categoryId>9719959</categoryId>
+          <price>265680</price>
+          <picture>https://agstuning.ru/assets/images/products/245156/untitled-64.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-968d422c2795" available="true">
+          <name>Cerato 2018- Спойлер переднего бампера, черный</name>
+          <categoryId>9719959</categoryId>
+          <price>246240</price>
+          <picture>https://agstuning.ru/assets/images/products/245154/untitled-62.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-49af4f36f17f" available="true">
+          <name>Cerato 2018- Сплиттера на задний бампер с бортиком, черные, 2 штуки</name>
+          <categoryId>9719959</categoryId>
+          <price>79704</price>
+          <picture>https://agstuning.ru/assets/images/products/230857/untitled-9.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ec625b2bbffc" available="true">
+          <name>Cerato 2018- Сплиттера на задний бампер, черные, 2 штуки</name>
+          <categoryId>9719959</categoryId>
+          <price>65320</price>
+          <picture>https://agstuning.ru/assets/images/products/230855/untitled-3.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-92222679fef5" available="true">
+          <name>Cerato 2018- Юбка переднего бампера, черная, 3 части</name>
+          <categoryId>9719959</categoryId>
+          <price>75040</price>
+          <picture>https://agstuning.ru/assets/images/products/230849/untitled-96.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6f1f75fabaf6" available="true">
+          <name>Cerato 2018- обвес Convoy</name>
+          <categoryId>9719959</categoryId>
+          <price>319984</price>
+          <picture>https://agstuning.ru/assets/images/products/221992/2019-02-01-173855.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e1046a65318f" available="true">
+          <name>Cerato 2018- Боковые накладки, обвес</name>
+          <categoryId>9719959</categoryId>
+          <price>154352</price>
+          <picture>https://agstuning.ru/assets/images/products/221990/kia-ceednew56.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-aa893b1c53ce" available="true">
+          <name>Cerato 2018- Рулевое колесо с подогревом, мультимедийное</name>
+          <categoryId>9719959</categoryId>
+          <price>168740</price>
+          <picture>https://agstuning.ru/assets/images/products/222807/2019-05-10-222128.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-07f6ecff19a2" available="true">
+          <name>Cerato 2018- Дневные ходовые огни с интегрированными поворотниками, комплект</name>
+          <categoryId>9719959</categoryId>
+          <price>71540</price>
+          <picture>https://agstuning.ru/assets/images/products/238918/untitled-37.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6915df922994" available="true">
+          <name>Cerato 2018- Центральная полоска дополнительного света между фонарями</name>
+          <categoryId>9719959</categoryId>
+          <price>65320</price>
+          <picture>https://agstuning.ru/assets/images/products/230800/untitled-8.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-930ecb3fb575" available="true">
+          <name>Cerato 2018- Диодный стоп-сигнал на стекло</name>
+          <categoryId>9719959</categoryId>
+          <price>81120</price>
+          <picture>https://agstuning.ru/assets/images/products/224635/s-l1600-2019-07-30t105655.970.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1e00a3e7aa63" available="true">
+          <name>Cerato 2018- Фонари задние светодиодные</name>
+          <categoryId>9719959</categoryId>
+          <price>277604</price>
+          <picture>https://agstuning.ru/assets/images/products/222808/1554198842-anhnhodenhau.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d0451517a3af" available="true">
+          <name>Cerato 2018- Оптика светодиодная, комплект</name>
+          <categoryId>9719959</categoryId>
+          <price>440120</price>
+          <picture>https://agstuning.ru/assets/images/products/222802/360x270/rrr1.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-588f696b5beb" available="true">
+          <name>Cerato 2018- Задний дополнительный стоп-сигнал (LED)</name>
+          <categoryId>9719959</categoryId>
+          <price>97200</price>
+          <picture>https://agstuning.ru/assets/images/products/221993/2019-02-04-120742.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8c50c1345483" available="true">
+          <name>K8 2021- Дефлекторы на окна, 4 части, черные</name>
+          <categoryId>99000106</categoryId>
+          <price>50400</price>
+          <picture>https://agstuning.ru/assets/images/products/254012/untitled-13.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5a53de834387" available="true">
+          <name>K8 2021- Дефлекторы на окна, 6 частей, черные</name>
+          <categoryId>99000106</categoryId>
+          <price>55200</price>
+          <picture>https://agstuning.ru/assets/images/products/254010/untitled-8.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c6e2f4ee7593" available="true">
+          <name>Cerato 2018- Накладки на педали, алюминий</name>
+          <categoryId>9719959</categoryId>
+          <price>27604</price>
+          <picture>https://agstuning.ru/assets/images/products/222804/2018-04-16-173027.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d81772747c71" available="true">
+          <name>Cerato 2018- Распорка днища одинарная</name>
+          <categoryId>9719959</categoryId>
+          <price>71928</price>
+          <picture>https://agstuning.ru/assets/images/products/222790/360x270/screenshot-(3).jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-976ce805421c" available="true">
+          <name>Cerato 2018- Распорка днища</name>
+          <categoryId>9719959</categoryId>
+          <price>131024</price>
+          <picture>https://agstuning.ru/assets/images/products/222789/360x270/screenshot-(2).jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-37210b7859be" available="true">
+          <name>Cerato 2018- Распорка передних стоек</name>
+          <categoryId>9719959</categoryId>
+          <price>131024</price>
+          <picture>https://agstuning.ru/assets/images/products/222788/360x270/screenshot-(2).jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-41889c209549" available="true">
+          <name>Cerato 2018- Дуги поперечные, алюминиевые</name>
+          <categoryId>9719959</categoryId>
+          <price>45880</price>
+          <picture>https://agstuning.ru/assets/images/products/221997/360x270/bezyimyannyij563yo111.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ead7910cc16d" available="true">
+          <name>Cerato 2018- Защита на радиатор нижняя, хром</name>
+          <categoryId>9719959</categoryId>
+          <price>12440</price>
+          <picture>https://agstuning.ru/assets/images/products/230965/untitled-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f2fbfe527cfc" available="true">
+          <name>Cerato 2018- Защита на радиатор нижняя, черная</name>
+          <categoryId>9719959</categoryId>
+          <price>12440</price>
+          <picture>https://agstuning.ru/assets/images/products/230964/untitled-3.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ff67b13db43b" available="true">
+          <name>Cerato 2018- Заглушка на радиатор, нижняя, зимний пакет</name>
+          <categoryId>9719959</categoryId>
+          <price>3500</price>
+          <picture>https://agstuning.ru/assets/images/products/230963/untitled-12.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-43f0c785431e" available="true">
+          <name>Cerato 2018- Заглушка на радиатор, верхняя, зимний пакет</name>
+          <categoryId>9719959</categoryId>
+          <price>3500</price>
+          <picture>https://agstuning.ru/assets/images/products/230962/untitled-13.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d89bef7e0076" available="true">
+          <name>Cerato 2018- Защита на радиатор верхняя, хром</name>
+          <categoryId>9719959</categoryId>
+          <price>12440</price>
+          <picture>https://agstuning.ru/assets/images/products/230961/untitled-11.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b7167641a6ef" available="true">
+          <name>Cerato 2018- Защита на радиатор верхняя, черная</name>
+          <categoryId>9719959</categoryId>
+          <price>12440</price>
+          <picture>https://agstuning.ru/assets/images/products/230957/untitled-4.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-654eca412e4b" available="true">
+          <name>Cerato 2018- Штатная радиаторная решетка, оригинал</name>
+          <categoryId>9719959</categoryId>
+          <price>79704</price>
+          <picture>https://agstuning.ru/assets/images/products/230926/untitled-18.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-38456e52559a" available="true">
+          <name>Cerato 2018- Решётка радиатора</name>
+          <categoryId>9719959</categoryId>
+          <price>96424</price>
+          <picture>https://agstuning.ru/assets/images/products/222704/s-l1600-(1).jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3f269ac39f34" available="true">
+          <name>Cerato 2018- Спойлер на крышку багажника, черный матовый</name>
+          <categoryId>9719959</categoryId>
+          <price>166860</price>
+          <picture>https://agstuning.ru/assets/images/products/245153/untitled-60.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-21493d470606" available="true">
+          <name>Cerato 2018- Спойлер на крышку багажника, красный</name>
+          <categoryId>9719959</categoryId>
+          <price>59876</price>
+          <picture>https://agstuning.ru/assets/images/products/230941/untitled-40.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-736678a1d275" available="true">
+          <name>Cerato 2018- Спойлер на крышку багажника, регулируемый</name>
+          <categoryId>9719959</categoryId>
+          <price>179624</price>
+          <picture>https://agstuning.ru/assets/images/products/230940/untitled-38.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e84f633a93d8" available="true">
+          <name>Cerato 2018- Спойлер на крышку багажника, синий</name>
+          <categoryId>9719959</categoryId>
+          <price>59876</price>
+          <picture>https://agstuning.ru/assets/images/products/230939/untitled-36.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1ba076fccaec" available="true">
+          <name>Cerato 2019- Спойлер на крышку багажника, черный</name>
+          <categoryId>9719959</categoryId>
+          <price>69208</price>
+          <picture>https://agstuning.ru/assets/images/products/224596/s-l1600-2019-07-29t115514.896.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-af218e92d8a5" available="true">
+          <name>Cerato 2018- Козырек на заднее стекло, чёрный</name>
+          <categoryId>9719959</categoryId>
+          <price>31492</price>
+          <picture>https://agstuning.ru/assets/images/products/222799/2018-04-16-173027.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f901470ae32e" available="true">
+          <name>Ceratо 2018- Спойлер крышки багажника, крашенный</name>
+          <categoryId>9719959</categoryId>
+          <price>46268</price>
+          <picture>https://agstuning.ru/assets/images/products/222785/360x270/rrr112322.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d84f31e8dec8" available="true">
+          <name>Cerato 2018- Спойлер заднего стекла с диодным стоп-сигналом, Convoy</name>
+          <categoryId>9719959</categoryId>
+          <price>114308</price>
+          <picture>https://agstuning.ru/assets/images/products/222000/8164-image1.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-96c858068993" available="true">
+          <name>Cerato 2018- Спойлер заднего стекла MK Works</name>
+          <categoryId>9719959</categoryId>
+          <price>59876</price>
+          <picture>https://agstuning.ru/assets/images/products/221989/360x270/porogi1211111.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f00cff26ba1e" available="true">
+          <name>Cerato 2018- Спойлер крышки багажника MK Works</name>
+          <categoryId>9719959</categoryId>
+          <price>62984</price>
+          <picture>https://agstuning.ru/assets/images/products/221988/360x270/porogi121111.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8226e3395d95" available="true">
+          <name>Cerato 2018- Дневные ходовые огни V2 с интегрированными поворотниками, комплект</name>
+          <categoryId>9719959</categoryId>
+          <price>35100</price>
+          <picture>https://agstuning.ru/assets/images/products/246257/untitled-47.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b929cfae9a56" available="true">
+          <name>Sorento 2020- Колпачок диска, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>6480</price>
+          <picture>https://agstuning.ru/assets/images/products/245829/untitled-14.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bd62bd523fdf" available="true">
+          <name>Sorento 2020- Датчик давления в шине, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>26460</price>
+          <picture>https://agstuning.ru/assets/images/products/245823/untitled-7.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d4086f4628c9" available="true">
+          <name>Sorento 2020- Брызговики передние, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>28800</price>
+          <picture>https://agstuning.ru/assets/images/products/247065/untitled-43.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-dca73e81fefc" available="true">
+          <name>Sorento 2020- Брызговики задние, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>28800</price>
+          <picture>https://agstuning.ru/assets/images/products/247064/untitled-42.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-690b6d31f864" available="true">
+          <name>Sorento 2020- Накладки брызговики на крылья, черные, 2 штуки</name>
+          <categoryId>9719967</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/245808/untitled-34.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-0b97b5069154" available="true">
+          <name>Sorento 2020- Накладки брызговики на крылья, серые, 2 штуки</name>
+          <categoryId>9719967</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/245807/untitled-36.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8c4d010b58eb" available="true">
+          <name>Sorento 2020- Защитная солнцезащитная шторка лобового стекла, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>49500</price>
+          <picture>https://agstuning.ru/assets/images/products/248465/untitled-7.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b5f9ee9ce9f2" available="true">
+          <name>Sorento 2020- Мультимедиа для задних пассажиров, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/248463/untitled-5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bad358625305" available="true">
+          <name>Sorento 2020- Коврики в ниши салона, резиновые, черные с белой окантовкой</name>
+          <categoryId>9719967</categoryId>
+          <price>13000</price>
+          <picture>https://agstuning.ru/assets/images/products/247106/untitled-7.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f38cfd932527" available="true">
+          <name>Sorento 2020- Коврики в ниши салона, резиновые, черные с красной окантовкой</name>
+          <categoryId>9719967</categoryId>
+          <price>13000</price>
+          <picture>https://agstuning.ru/assets/images/products/247105/untitled-4.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9e3c6779b00b" available="true">
+          <name>Sorento 2020- Органайзер в центральный подлокотник</name>
+          <categoryId>9719967</categoryId>
+          <price>11000</price>
+          <picture>https://agstuning.ru/assets/images/products/247104/untitled-2.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e608038239e1" available="true">
+          <name>Sorento 2020- Вешалка на подголовник, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>71600</price>
+          <picture>https://agstuning.ru/assets/images/products/245822/untitled-6.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-959fe7542be8" available="true">
+          <name>Sorento 2020- Дефлекторы наклеивающиеся на окна WELLvisors, черные, 4 штуки</name>
+          <categoryId>9719967</categoryId>
+          <price>44500</price>
+          <picture>https://agstuning.ru/assets/images/products/257637/untitled-59.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-50f8b078dd57" available="true">
+          <name>Sorento 2020- Дефлектор капота, черный, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>100800</price>
+          <picture>https://agstuning.ru/assets/images/products/248460/untitled-2.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-31012fef8584" available="true">
+          <name>Sorento 2020- Ветровики на боковые окна, черные, 6 штук</name>
+          <categoryId>9719967</categoryId>
+          <price>19980</price>
+          <picture>https://agstuning.ru/assets/images/products/243572/untitled-32.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-448e7086195c" available="true">
+          <name>Cerato 2018- Эмблемы на капот и багажник, комплект</name>
+          <categoryId>9719959</categoryId>
+          <price>26828</price>
+          <picture>https://agstuning.ru/assets/images/products/222797/kia-cerato18-19-01-4.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8708d9809154" available="true">
+          <name>Sorento 2020- Защита передняя нижняя, овальная с ДХО 75х42 мм</name>
+          <categoryId>9719967</categoryId>
+          <price>157500</price>
+          <picture>https://agstuning.ru/assets/images/products/247037/untitled-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ff659a6fa046" available="true">
+          <name>Sorento 2020- Защита задняя, уголки овальные 75х42 мм</name>
+          <categoryId>9719967</categoryId>
+          <price>97500</price>
+          <picture>https://agstuning.ru/assets/images/products/247033/untitled-66.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9268ae5560d5" available="true">
+          <name>Sorento 2020- Защита задняя овальная короткая 75х42 мм</name>
+          <categoryId>9719967</categoryId>
+          <price>77500</price>
+          <picture>https://agstuning.ru/assets/images/products/247032/untitled-64.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-61c6c7267ec3" available="true">
+          <name>Sorento 2020- Защита задняя овальная длинная 75х42 мм</name>
+          <categoryId>9719967</categoryId>
+          <price>92500</price>
+          <picture>https://agstuning.ru/assets/images/products/247031/untitled-62.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5672081a7dc3" available="true">
+          <name>Sorento 2020- Защита топливного бака, Rival, сталь</name>
+          <categoryId>9719967</categoryId>
+          <price>13752</price>
+          <picture>https://agstuning.ru/assets/images/products/248531/untitled-44.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-95516dd62e54" available="true">
+          <name>Sorento 2020- Защита топливного бака, Rival, алюминий</name>
+          <categoryId>9719967</categoryId>
+          <price>30624</price>
+          <picture>https://agstuning.ru/assets/images/products/248530/untitled-43.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f8769d5bb72b" available="true">
+          <name>Sorento 2020- Защита редуктора, Rival, сталь</name>
+          <categoryId>9719967</categoryId>
+          <price>11876</price>
+          <picture>https://agstuning.ru/assets/images/products/248529/untitled-42.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5bdcd0b7dd7e" available="true">
+          <name>Sorento 2020- Защита редуктора, Rival, алюминий</name>
+          <categoryId>9719967</categoryId>
+          <price>18124</price>
+          <picture>https://agstuning.ru/assets/images/products/248528/untitled-41.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-71b93881faa0" available="true">
+          <name>Sorento 2020- Защита картера и КПП, Rival, сталь</name>
+          <categoryId>9719967</categoryId>
+          <price>15624</price>
+          <picture>https://agstuning.ru/assets/images/products/248527/untitled-40.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-052dfa37f7f7" available="true">
+          <name>Sorento 2020- Защита картера и КПП, Rival, алюминий</name>
+          <categoryId>9719967</categoryId>
+          <price>34376</price>
+          <picture>https://agstuning.ru/assets/images/products/248526/untitled-39.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-546f51b6e7d0" available="true">
+          <name>Sorento 2020- Защиты комплект, алюминий 4мм (картер и кпп, бак, адсорбер, дифференциал)</name>
+          <categoryId>9719967</categoryId>
+          <price>83400</price>
+          <picture>https://agstuning.ru/assets/images/products/247041/untitled-17.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-31418d3d76b2" available="true">
+          <name>Sorento 2020- Защита картера и КПП, алюминий 4мм</name>
+          <categoryId>9719967</categoryId>
+          <price>31800</price>
+          <picture>https://agstuning.ru/assets/images/products/247035/untitled-6.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-88b53d344764" available="true">
+          <name>Sorento 2020- Защита дифференциала, алюминий 4мм, не устанавливается без защиты бака</name>
+          <categoryId>9719967</categoryId>
+          <price>10200</price>
+          <picture>https://agstuning.ru/assets/images/products/247028/untitled-56.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-708f79df3a56" available="true">
+          <name>Sorento 2020- Доводчики дверей, комплект на 4 двери, 2021 2022 2023 2024</name>
+          <categoryId>9719967</categoryId>
+          <price>194000</price>
+          <picture>https://agstuning.ru/assets/images/products/281641/sdvdv.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-74536e84c14f" available="true">
+          <name>Sorento 2020- Защитные накладки на пороги дверей, черные</name>
+          <categoryId>9719967</categoryId>
+          <price>22500</price>
+          <picture>https://agstuning.ru/assets/images/products/260996/untitled-51.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4b4374095d19" available="true">
+          <name>Sorento 2020- Защитные накладки на пороги дверей, с LED подсветкой, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>149500</price>
+          <picture>https://agstuning.ru/assets/images/products/248475/untitled-18.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e8b58d6bb6b5" available="true">
+          <name>Sorento 2020- Защитная накладка на порог багажника, черная, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>97500</price>
+          <picture>https://agstuning.ru/assets/images/products/247097/untitled-78.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-520a103af371" available="true">
+          <name>Sorento 2020- Защитная накладка на задний бампер, черная, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/247094/untitled-74.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-fe50587a3771" available="true">
+          <name>Sorento 2020- Защитная накладка на задний бампер, матовый хром, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/247093/untitled-73.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-249261b7160a" available="true">
+          <name>Sorento 2020- Защитные пленки под ручки дверей, оригинал, 4 штуки</name>
+          <categoryId>9719967</categoryId>
+          <price>7500</price>
+          <picture>https://agstuning.ru/assets/images/products/247068/untitled-47.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4e277ba590e3" available="true">
+          <name>Sorento 2020- Защитные накладки на пороги дверей внутренние, синяя эко кожа</name>
+          <categoryId>9719967</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/245787/untitled-11.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5f4e4c27950c" available="true">
+          <name>Sorento 2020- Защитные накладки на пороги дверей внутренние, коричневая эко кожа</name>
+          <categoryId>9719967</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/245786/untitled-14.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b7ef520d155c" available="true">
+          <name>Sportage 2022- Защитные накладки на внешние пороги, красная надпись Sport, под карбон, 4 штуки</name>
+          <categoryId>9719974</categoryId>
+          <price>32500</price>
+          <picture>https://agstuning.ru/assets/images/products/264983/bezimeni-17.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4f9ad5425119" available="true">
+          <name>Sorento 2020- Окантовка кнопку открывания багажника, под карбон</name>
+          <categoryId>9719967</categoryId>
+          <price>12000</price>
+          <picture>https://agstuning.ru/assets/images/products/253923/untitled-15.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-185426f9e73f" available="true">
+          <name>Sorento 2020- Комплект шильдиков спереди и сзади, и на рулевое колесо, черные матовые</name>
+          <categoryId>9719967</categoryId>
+          <price>84500</price>
+          <picture>https://agstuning.ru/assets/images/products/248498/untitled-90.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-18d74be56fb6" available="true">
+          <name>Sorento 2020- Накладки на дефлекторы обдува боковых стекол, под карбон, 2 штуки</name>
+          <categoryId>9719967</categoryId>
+          <price>37500</price>
+          <picture>https://agstuning.ru/assets/images/products/248495/untitled-81.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9d63a625b9c6" available="true">
+          <name>Sorento 2020- Накладки на подрулевые лепестки, красные, алюминиевые</name>
+          <categoryId>9719967</categoryId>
+          <price>57500</price>
+          <picture>https://agstuning.ru/assets/images/products/248494/untitled-77.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-446696bbeca1" available="true">
+          <name>Sorento 2020- Окантовки ручек открывания дверей салона, под карбон, 4 штуки</name>
+          <categoryId>9719967</categoryId>
+          <price>72500</price>
+          <picture>https://agstuning.ru/assets/images/products/248493/untitled-73.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a7f3af230f6c" available="true">
+          <name>Sorento 2020- Накладка на центральные дефлекторы обдува, под карбон</name>
+          <categoryId>9719967</categoryId>
+          <price>42500</price>
+          <picture>https://agstuning.ru/assets/images/products/248492/untitled-71.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-cc7182f76ff0" available="true">
+          <name>Sorento 2020- Накладки на боковые дефлекторы обдува, под карбон, 2 штуки</name>
+          <categoryId>9719967</categoryId>
+          <price>37500</price>
+          <picture>https://agstuning.ru/assets/images/products/248491/untitled-67.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a58370f7d2bc" available="true">
+          <name>Sorento 2020- Накладка на задние дефлекторы обдува, под карбон</name>
+          <categoryId>9719967</categoryId>
+          <price>57500</price>
+          <picture>https://agstuning.ru/assets/images/products/248490/untitled-64.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-20c37c68cceb" available="true">
+          <name>Sorento 2020- Накладки на торпеду, под карбон, 2 части</name>
+          <categoryId>9719967</categoryId>
+          <price>64500</price>
+          <picture>https://agstuning.ru/assets/images/products/248487/untitled-54.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d3f92e61db6a" available="true">
+          <name>Sorento 2020- Накладки под ручки дверей салона, алюминиевые, 4 штуки</name>
+          <categoryId>9719967</categoryId>
+          <price>34500</price>
+          <picture>https://agstuning.ru/assets/images/products/248485/untitled-47.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3d0660ed60c8" available="true">
+          <name>Sorento 2020- Накладки на центральную консоль, под карбон, 2 части</name>
+          <categoryId>9719967</categoryId>
+          <price>77500</price>
+          <picture>https://agstuning.ru/assets/images/products/248484/untitled-42.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-86f21d306e87" available="true">
+          <name>Sorento 2020- Накладки на кнопки стеклоподъемников, под карбон</name>
+          <categoryId>9719967</categoryId>
+          <price>57500</price>
+          <picture>https://agstuning.ru/assets/images/products/248479/untitled-25.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-07801159bec4" available="true">
+          <name>Sorento 2020- Накладки на кнопки регулировки сидений, под карбон</name>
+          <categoryId>9719967</categoryId>
+          <price>25500</price>
+          <picture>https://agstuning.ru/assets/images/products/247111/untitled-16.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-535d718fc15b" available="true">
+          <name>Sorento 2020- Накладка на ручку КПП, красный глянец</name>
+          <categoryId>9719967</categoryId>
+          <price>24500</price>
+          <picture>https://agstuning.ru/assets/images/products/247110/untitled-15.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-23c1ac4fb45f" available="true">
+          <name>Sorento 2020- Накладка на ручку КПП, под карбон</name>
+          <categoryId>9719967</categoryId>
+          <price>24500</price>
+          <picture>https://agstuning.ru/assets/images/products/247108/untitled-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8e89021c8be7" available="true">
+          <name>Sorento 2020- Чехол на центральный подлокотник, черный</name>
+          <categoryId>9719967</categoryId>
+          <price>13000</price>
+          <picture>https://agstuning.ru/assets/images/products/247107/untitled-8.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6fbbc7384088" available="true">
+          <name>Sorento 2020- Защитные накладки на низ дверей, коричневая эко кожа</name>
+          <categoryId>9719967</categoryId>
+          <price>50000</price>
+          <picture>https://agstuning.ru/assets/images/products/245785/untitled-5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8008c2d9e070" available="true">
+          <name>Sorento 2020- Защитные накладки на низ дверей, эко кожа</name>
+          <categoryId>9719967</categoryId>
+          <price>34800</price>
+          <picture>https://agstuning.ru/assets/images/products/245784/untitled-8.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b6fccf9ac455" available="true">
+          <name>Sorento 2020- Накладки на зеркала, под карбон</name>
+          <categoryId>9719967</categoryId>
+          <price>52500</price>
+          <picture>https://agstuning.ru/assets/images/products/248482/untitled-36.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9e4ac5cf1826" available="true">
+          <name>Sorento 2020- Корпуса зеркал, черные, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/247099/untitled-80.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ce4fb2cbc00a" available="true">
+          <name>Sorento 2020- Молдинги на низ дверей, под карбон, 4 части</name>
+          <categoryId>9719967</categoryId>
+          <price>51000</price>
+          <picture>https://agstuning.ru/assets/images/products/251611/untitled-131.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-60c64d9ac379" available="true">
+          <name>Sorento 2020- Молдинги на двери, в цвет кузова</name>
+          <categoryId>9719967</categoryId>
+          <price>97500</price>
+          <picture>https://agstuning.ru/assets/images/products/248501/untitled-96.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7fd65251ef65" available="true">
+          <name>Sorento 2020- Молдинг на кромку крышки багажника, черный, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/247096/untitled-77.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d3609466eb0c" available="true">
+          <name>Sorento 2020- Молдинг на кромку задней двери, лист шлифованный</name>
+          <categoryId>9719967</categoryId>
+          <price>7500</price>
+          <picture>https://agstuning.ru/assets/images/products/247044/untitled-20.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b1c4703a8111" available="true">
+          <name>Sorento 2020- Молдинг на кромку задней двери, лист зеркальный</name>
+          <categoryId>9719967</categoryId>
+          <price>31200</price>
+          <picture>https://agstuning.ru/assets/images/products/247043/untitled-18.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b3c586f5c4b0" available="true">
+          <name>Sorento 2020- Коврики с высоким бортом, для 7 мест, SeiNtex, резиновые</name>
+          <categoryId>9719967</categoryId>
+          <price>16000</price>
+          <picture>https://agstuning.ru/assets/images/products/253922/untitled-11.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-0dbcf2338c67" available="true">
+          <name>Sorento 2020- Коврик в багажник, для 7 мест, SeiNtex, полимерный</name>
+          <categoryId>9719967</categoryId>
+          <price>11500</price>
+          <picture>https://agstuning.ru/assets/images/products/253921/untitled-9.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d12735e79067" available="true">
+          <name>Sorento 2020- Коврик в багажник, для 5 мест, SeiNtex, полимерный</name>
+          <categoryId>9719967</categoryId>
+          <price>11500</price>
+          <picture>https://agstuning.ru/assets/images/products/253920/untitled-8.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-34e26bccbf0e" available="true">
+          <name>Sorento 2020- Коврики салона LUX, для 5 мест, ворсовые, SeiNtex, черные</name>
+          <categoryId>9719967</categoryId>
+          <price>14500</price>
+          <picture>https://agstuning.ru/assets/images/products/253919/untitled-6.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d3033729cbf7" available="true">
+          <name>Sorento 2020- 3D коврики салона, комплект для 5 мест, SeiNtex, черные</name>
+          <categoryId>9719967</categoryId>
+          <price>25000</price>
+          <picture>https://agstuning.ru/assets/images/products/253918/untitled-4.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-76903c8b67ca" available="true">
+          <name>Sorento 2020- 3D коврики салона, комплект для 7 мест, SeiNtex, черные</name>
+          <categoryId>9719967</categoryId>
+          <price>22952</price>
+          <picture>https://agstuning.ru/assets/images/products/253917/untitled-3.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bc4c8a4e3463" available="true">
+          <name>Sorento 2020- Ковер багажника, WeatherTech, серый</name>
+          <categoryId>9719967</categoryId>
+          <price>79200</price>
+          <picture>https://agstuning.ru/assets/images/products/251617/untitled-142.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5289fd1fa120" available="true">
+          <name>Sorento 2020- Ковер багажника, WeatherTech, черный</name>
+          <categoryId>9719967</categoryId>
+          <price>79200</price>
+          <picture>https://agstuning.ru/assets/images/products/251616/untitled-141.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c25183f4d2f6" available="true">
+          <name>Sorento 2020- Ковер салона 3го ряда, WeatherTech, серый</name>
+          <categoryId>9719967</categoryId>
+          <price>93000</price>
+          <picture>https://agstuning.ru/assets/images/products/251615/untitled-140.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3bdf25df3031" available="true">
+          <name>Sorento 2020- Ковер салона 3го ряда, WeatherTech, черный</name>
+          <categoryId>9719967</categoryId>
+          <price>93000</price>
+          <picture>https://agstuning.ru/assets/images/products/251614/untitled-136.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e089b00314b9" available="true">
+          <name>Sorento 2020- Ковры салона 1го и 2го ряда, WeatherTech, серые</name>
+          <categoryId>9719967</categoryId>
+          <price>145800</price>
+          <picture>https://agstuning.ru/assets/images/products/251613/untitled-137.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-69012e6e1d40" available="true">
+          <name>Sorento 2020- Ковры салона 1го и 2го ряда, WeatherTech, черные</name>
+          <categoryId>9719967</categoryId>
+          <price>145800</price>
+          <picture>https://agstuning.ru/assets/images/products/251612/untitled-133.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f8368b4a71b2" available="true">
+          <name>Sorento 2020- Складной коврик багажника, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>105500</price>
+          <picture>https://agstuning.ru/assets/images/products/248468/untitled-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-499a9113b409" available="true">
+          <name>Sorento 2020- Всепогодные коврики салона, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>102500</price>
+          <picture>https://agstuning.ru/assets/images/products/248466/untitled-8.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2e66a5ea4154" available="true">
+          <name>Sorento 2020- Коврики салона, 1, 2 и 3 ряд, текстиль, черный, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>42500</price>
+          <picture>https://agstuning.ru/assets/images/products/247090/untitled-70.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5834c309c520" available="true">
+          <name>Sorento 2020- Коврики салона, 1, 2 и 3 ряд, полиуретан с бортом, черный, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>35000</price>
+          <picture>https://agstuning.ru/assets/images/products/247089/untitled-69.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ccd8fb48d8a2" available="true">
+          <name>Sorento 2020- Коврики салона V2, 1 и 2 ряд, резина, черный, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>79200</price>
+          <picture>https://agstuning.ru/assets/images/products/247088/untitled-68.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-40a0615bbd42" available="true">
+          <name>Sorento 2020- Коврики салона, 1 и 2 ряд, резина, черный, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>19000</price>
+          <picture>https://agstuning.ru/assets/images/products/247087/untitled-67.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7a2af78bbf14" available="true">
+          <name>Sorento 2020- Коврики салона, 1 и 2 ряд, полиуретан с бортом, черный, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>18000</price>
+          <picture>https://agstuning.ru/assets/images/products/247086/untitled-66.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7aae7a7994b3" available="true">
+          <name>Sorento 2020- Коврики салона, 1 и 2 ряд, войлок, черный, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>50400</price>
+          <picture>https://agstuning.ru/assets/images/products/247085/untitled-65.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8682eb791ca1" available="true">
+          <name>Sorento 2020- Коврики салона, 1 и 2 ряд, велюр, черный, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>74800</price>
+          <picture>https://agstuning.ru/assets/images/products/247084/untitled-64.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e6cb770bf07d" available="true">
+          <name>Sorento 2020- Коврик в багажник, за 2-м рядом сидений, 7 мест, текстиль, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>20000</price>
+          <picture>https://agstuning.ru/assets/images/products/247077/untitled-57.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7e4d5efbb554" available="true">
+          <name>Sorento 2020- Коврик в багажник, за 2-м рядом сидений, 7 мест, полиуретан, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>12000</price>
+          <picture>https://agstuning.ru/assets/images/products/247076/untitled-56.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-84426d2ee8cb" available="true">
+          <name>Sorento 2020- Коврик в багажник, за 3-им рядом сидений, 7 мест, текстиль, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>9500</price>
+          <picture>https://agstuning.ru/assets/images/products/247075/untitled-55.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8060f3d37968" available="true">
+          <name>Sorento 2020- Коврик в багажник, за 3-им рядом сидений, 7 мест, полиуретан, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>7500</price>
+          <picture>https://agstuning.ru/assets/images/products/247074/untitled-54.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9ace2156c589" available="true">
+          <name>Sorento 2020- Накладки на задние фонари, алюминиевые, 2 штуки</name>
+          <categoryId>9719967</categoryId>
+          <price>52500</price>
+          <picture>https://agstuning.ru/assets/images/products/248477/untitled-22.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d1e17b9dd8b7" available="true">
+          <name>Sportage 2022- Ковер багажника, бежевый, WeatherTech</name>
+          <categoryId>9719974</categoryId>
+          <price>82500</price>
+          <picture>https://agstuning.ru/assets/images/products/258776/untitled-89.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2f5ddd4e1a17" available="true">
+          <name>Sportage 2022- Ковер багажника, серый, WeatherTech</name>
+          <categoryId>9719974</categoryId>
+          <price>82500</price>
+          <picture>https://agstuning.ru/assets/images/products/258775/untitled-90.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ec979f83f8b5" available="true">
+          <name>Sportage 2022- Ковер багажника, коричневый, WeatherTech</name>
+          <categoryId>9719974</categoryId>
+          <price>82500</price>
+          <picture>https://agstuning.ru/assets/images/products/258774/untitled-91.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-068ebf3a39a8" available="true">
+          <name>Sportage 2022- Ковер багажника, черный, WeatherTech</name>
+          <categoryId>9719974</categoryId>
+          <price>82500</price>
+          <picture>https://agstuning.ru/assets/images/products/258773/untitled-87.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-adc482617042" available="true">
+          <name>Sportage 2022- Ковры салона, бежевые, WeatherTech</name>
+          <categoryId>9719974</categoryId>
+          <price>154500</price>
+          <picture>https://agstuning.ru/assets/images/products/258772/untitled-80.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-020ba5d3ec83" available="true">
+          <name>Sportage 2022- Ковры салона, серые, WeatherTech</name>
+          <categoryId>9719974</categoryId>
+          <price>154500</price>
+          <picture>https://agstuning.ru/assets/images/products/258771/untitled-82.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1e8328d0ed7a" available="true">
+          <name>Sportage 2022- Ковры салона, коричневые, WeatherTech</name>
+          <categoryId>9719974</categoryId>
+          <price>154500</price>
+          <picture>https://agstuning.ru/assets/images/products/258770/untitled-78.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d444a91ce250" available="true">
+          <name>Sportage 2022- Ковры салона, черные, WeatherTech</name>
+          <categoryId>9719974</categoryId>
+          <price>154500</price>
+          <picture>https://agstuning.ru/assets/images/products/258769/untitled-75.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-724bebfa8a40" available="true">
+          <name>Sorento 2020- Накладки под ручки дверей, под карбон</name>
+          <categoryId>9719967</categoryId>
+          <price>19800</price>
+          <picture>https://agstuning.ru/assets/images/products/251608/untitled-125.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-05deea5ae3ac" available="true">
+          <name>Sorento 2020- Накладки на ручки дверей, под карбон</name>
+          <categoryId>9719967</categoryId>
+          <price>18600</price>
+          <picture>https://agstuning.ru/assets/images/products/251607/untitled-126.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9761487e74a2" available="true">
+          <name>Sorento 2020- Накладка на лючок бензобака, под карбон</name>
+          <categoryId>9719967</categoryId>
+          <price>37500</price>
+          <picture>https://agstuning.ru/assets/images/products/248496/untitled-82.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bea4b090e712" available="true">
+          <name>Sorento 2020- Накладки на низ заднего бампера по бокам, алюминиевые, 2 штуки</name>
+          <categoryId>9719967</categoryId>
+          <price>52500</price>
+          <picture>https://agstuning.ru/assets/images/products/248489/untitled-63.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-95783b59dbc0" available="true">
+          <name>Sorento 2020- Накладки на стойки задних стекл, алюминиевые, 2 штуки</name>
+          <categoryId>9719967</categoryId>
+          <price>52500</price>
+          <picture>https://agstuning.ru/assets/images/products/248488/untitled-59.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1d3bd5c34f34" available="true">
+          <name>Sorento 2020- Накладки на задний бампер по бокам, алюминиевые, 2 штуки</name>
+          <categoryId>9719967</categoryId>
+          <price>52500</price>
+          <picture>https://agstuning.ru/assets/images/products/248483/untitled-40.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1dd3020fd9df" available="true">
+          <name>Sorento 2020- Накладки на и под ручки открывания дверей, под карбон, 8 частей</name>
+          <categoryId>9719967</categoryId>
+          <price>59500</price>
+          <picture>https://agstuning.ru/assets/images/products/248481/untitled-35.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f9fb2d31d565" available="true">
+          <name>Sorento 2020- Накладка на кромку капота, надпись Sorento, алюминиевая</name>
+          <categoryId>9719967</categoryId>
+          <price>52500</price>
+          <picture>https://agstuning.ru/assets/images/products/248480/untitled-31.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bb7629e21bf5" available="true">
+          <name>Sorento 2020- Накладки на молдинги передних крыльев и дверей, алюминий, 4 штуки</name>
+          <categoryId>9719967</categoryId>
+          <price>55000</price>
+          <picture>https://agstuning.ru/assets/images/products/248478/untitled-23.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5051e9686c12" available="true">
+          <name>Sorento 2020- Защитный чехол в багажник, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>31000</price>
+          <picture>https://agstuning.ru/assets/images/products/247069/untitled-48.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7d96447cfe27" available="true">
+          <name>Sorento 2020- Спойлер переднего бампера VARIO-X</name>
+          <categoryId>9719967</categoryId>
+          <price>82400</price>
+          <picture>https://agstuning.ru/assets/images/products/279433/23263-kia-sorento-mq4-2020-spoyler-perednego-bampera-vario-x-c7f7d6.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-63b2a954b597" available="true">
+          <name>Sorento 2020- Накладки на педали и под левую ногу, алюминиевые, 3 части</name>
+          <categoryId>9719967</categoryId>
+          <price>57500</price>
+          <picture>https://agstuning.ru/assets/images/products/248502/untitled-98.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3678082f7909" available="true">
+          <name>Sorento 2020- Накладка площадки левой ноги, лист алюминий 4мм</name>
+          <categoryId>9719967</categoryId>
+          <price>6600</price>
+          <picture>https://agstuning.ru/assets/images/products/247045/untitled-21.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c6d88d8d2d9e" available="true">
+          <name>Sorento 2020- Комплект освещения пространства в ногах, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>156000</price>
+          <picture>https://agstuning.ru/assets/images/products/248474/untitled-17.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-37afdebc63dc" available="true">
+          <name>Sorento 2020- Подсветка на землю, надпись KIA, передние двери, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>37500</price>
+          <picture>https://agstuning.ru/assets/images/products/247101/untitled-83.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bcd30e4a1fe0" available="true">
+          <name>Sorento 2020- Подсветка на землю, передние двери, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>36000</price>
+          <picture>https://agstuning.ru/assets/images/products/247100/untitled-82.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d46207d6bcb3" available="true">
+          <name>Sorento 2020- LED габариты в передние двери, 2 штуки</name>
+          <categoryId>9719967</categoryId>
+          <price>37600</price>
+          <picture>https://agstuning.ru/assets/images/products/245821/untitled-3.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-69c2474ecf0e" available="true">
+          <name>Sportage 2022- Пороги, комплект</name>
+          <categoryId>9719974</categoryId>
+          <price>79600</price>
+          <picture>https://agstuning.ru/assets/images/products/280357/untitled.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1eea8dbe366a" available="true">
+          <name>Sorento 2020- Пороги электрические с подсветкой, 2023 2024 2025</name>
+          <categoryId>9719967</categoryId>
+          <price>356000</price>
+          <picture>https://agstuning.ru/assets/images/products/281632/45365.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9a22e99b8593" available="true">
+          <name>Sorento 2020- Пороги ступени подножки V2, 2021 2022 2023</name>
+          <categoryId>9719967</categoryId>
+          <price>112000</price>
+          <picture>https://agstuning.ru/assets/images/products/280347/dl-kisr20-sboe-2.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6ccbf6cb6577" available="true">
+          <name>Sorento 2020- Пороги площадки, серая</name>
+          <categoryId>9719967</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/248508/untitled-112.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-0c8e9cbc580c" available="true">
+          <name>Sorento 2020- Пороги площадки, черные Premium</name>
+          <categoryId>9719967</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/248507/untitled-110.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8bf3356d7c36" available="true">
+          <name>Sorento 2020- Пороги площадки, Premium</name>
+          <categoryId>9719967</categoryId>
+          <price>82500</price>
+          <picture>https://agstuning.ru/assets/images/products/248506/untitled-108.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-629d6ed35b13" available="true">
+          <name>Sorento 2020- Пороги площадки, BMW-стиль</name>
+          <categoryId>9719967</categoryId>
+          <price>128000</price>
+          <picture>https://agstuning.ru/assets/images/products/248505/untitled-106.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2fefe601c49a" available="true">
+          <name>Sorento 2020- Пороги площадки, черные</name>
+          <categoryId>9719967</categoryId>
+          <price>74000</price>
+          <picture>https://agstuning.ru/assets/images/products/248504/untitled-104.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-676149b662f4" available="true">
+          <name>Sorento 2020- Пороги с площадкой, нерж. лист 75х42 мм</name>
+          <categoryId>9719967</categoryId>
+          <price>130000</price>
+          <picture>https://agstuning.ru/assets/images/products/247058/untitled-34.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c2cad1b65faa" available="true">
+          <name>Sorento 2020- Пороги с площадкой, нерж. лист 60,3 мм</name>
+          <categoryId>9719967</categoryId>
+          <price>117500</price>
+          <picture>https://agstuning.ru/assets/images/products/247057/untitled-33.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-88e433cfcadf" available="true">
+          <name>Sorento 2020- Пороги с площадкой, нерж. лист 42,4 мм</name>
+          <categoryId>9719967</categoryId>
+          <price>107500</price>
+          <picture>https://agstuning.ru/assets/images/products/247056/untitled-32.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-01b7597026a8" available="true">
+          <name>Sorento 2020- Боковые пороги ступени V2</name>
+          <categoryId>9719967</categoryId>
+          <price>276000</price>
+          <picture>https://agstuning.ru/assets/images/products/245805/untitled-28.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a320e07cf0cc" available="true">
+          <name>Sorento 2020- Боковые пороги ступени</name>
+          <categoryId>9719967</categoryId>
+          <price>276000</price>
+          <picture>https://agstuning.ru/assets/images/products/245804/untitled-24.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-426e63aee1d6" available="true">
+          <name>Sorento 2020- Поперечины багажника на крышу, черные</name>
+          <categoryId>9719967</categoryId>
+          <price>74500</price>
+          <picture>https://agstuning.ru/assets/images/products/248503/untitled-100.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9193502d4591" available="true">
+          <name>Sorento 2020- Поперечины багажника на крышу, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>239200</price>
+          <picture>https://agstuning.ru/assets/images/products/248462/untitled-4.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-33542090e787" available="true">
+          <name>Sorento 2020- Распорка передних стоек под капотом</name>
+          <categoryId>9719967</categoryId>
+          <price>84000</price>
+          <picture>https://agstuning.ru/assets/images/products/264398/untitled-123.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-da850550e386" available="true">
+          <name>Sorento 2020- Распорка переднего подрамника, задняя часть</name>
+          <categoryId>9719967</categoryId>
+          <price>102400</price>
+          <picture>https://agstuning.ru/assets/images/products/245798/untitled-9.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-be52bf6cc068" available="true">
+          <name>Sorento 2020- Распорка заднего подрамника, передняя часть</name>
+          <categoryId>9719967</categoryId>
+          <price>136000</price>
+          <picture>https://agstuning.ru/assets/images/products/245797/untitled-6.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-10cef65ebb2f" available="true">
+          <name>Sorento 2020- Распорка переднего подрамника, передняя часть</name>
+          <categoryId>9719967</categoryId>
+          <price>114400</price>
+          <picture>https://agstuning.ru/assets/images/products/245796/untitled-5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bba0be484442" available="true">
+          <name>Sorento 2020- Распорка заднего подрамника, задняя часть</name>
+          <categoryId>9719967</categoryId>
+          <price>114400</price>
+          <picture>https://agstuning.ru/assets/images/products/245795/untitled-2.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8a1ec8058f57" available="true">
+          <name>Sorento 2020- Распорка передних стоек</name>
+          <categoryId>9719967</categoryId>
+          <price>146000</price>
+          <picture>https://agstuning.ru/assets/images/products/245793/untitled-29.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b6d7d0a250d4" available="true">
+          <name>Эмблема KIA</name>
+          <categoryId>9719974</categoryId>
+          <price>17600</price>
+          <picture>https://agstuning.ru/assets/images/products/279431/kia-emblem-86300-j5000.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4c95837cac91" available="true">
+          <name>Sorento 2020- Решетка без эмблемы, хром молдинги, 2021 2022 2023</name>
+          <categoryId>9719967</categoryId>
+          <price>97500</price>
+          <picture>https://agstuning.ru/assets/images/products/279443/untitled-1.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-abe64663c15a" available="true">
+          <name>Sorento 2020- Решетка без эмблемы, черные вертикальные молдинги, 2021 2022 2023</name>
+          <categoryId>9719967</categoryId>
+          <price>97500</price>
+          <picture>https://agstuning.ru/assets/images/products/265342/untitled-2.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4e2fde94ebc6" available="true">
+          <name>Sorento 2020- Решетка без эмблемы, хром вертикальные молдинги, 2021 2022 2023</name>
+          <categoryId>9719967</categoryId>
+          <price>97500</price>
+          <picture>https://agstuning.ru/assets/images/products/265341/untitled-5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6dfeb0c70331" available="true">
+          <name>Sorento 2020- Радиаторная решетка, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>120500</price>
+          <picture>https://agstuning.ru/assets/images/products/245825/untitled-9.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6ed425efe622" available="true">
+          <name>Sorento 2020- Складная полка в багажник</name>
+          <categoryId>9719967</categoryId>
+          <price>47500</price>
+          <picture>https://agstuning.ru/assets/images/products/258295/3223231.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-720dcb44c859" available="true">
+          <name>Sorento 2020- Складная полка в багажник, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>107500</price>
+          <picture>https://agstuning.ru/assets/images/products/248476/untitled-19.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-22982089898e" available="true">
+          <name>Sorento 2020- Вертикальная сетка в багажник, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>26000</price>
+          <picture>https://agstuning.ru/assets/images/products/248464/untitled-6.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-89839f4525f1" available="true">
+          <name>Sorento 2020- Багажный бокс на крышу 510л</name>
+          <categoryId>9719967</categoryId>
+          <price>197500</price>
+          <picture>https://agstuning.ru/assets/images/products/247114/untitled-21.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5788abff548c" available="true">
+          <name>Sorento 2020- Багажный бокс на крышу 390л</name>
+          <categoryId>9719967</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/247113/untitled-20.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d0152c630b2c" available="true">
+          <name>Sorento 2020- Органайзер в багажник, складной, оригинал</name>
+          <categoryId>9719967</categoryId>
+          <price>15660</price>
+          <picture>https://agstuning.ru/assets/images/products/245826/untitled-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e066a32b14f7" available="true">
+          <name>Sorento 2020- Фаркоп, оцинкованный, шар E нерж.</name>
+          <categoryId>9719967</categoryId>
+          <price>86000</price>
+          <picture>https://agstuning.ru/assets/images/products/247063/untitled-40.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-946d98684570" available="true">
+          <name>Эмблема KIA</name>
+          <categoryId>9719967</categoryId>
+          <price>17600</price>
+          <picture>https://agstuning.ru/assets/images/products/279432/kia-emblem-86300-j5000.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-65801c9c5350" available="true">
+          <name>Sorento 2020- Шильдик на переднюю дверь, надпись MQ4</name>
+          <categoryId>9719967</categoryId>
+          <price>24600</price>
+          <picture>https://agstuning.ru/assets/images/products/251610/untitled-129.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e2fc03be1d81" available="true">
+          <name>Sorento 2020- Эмблемы на боковые крылья, X-treme</name>
+          <categoryId>9719967</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/245792/untitled-25.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a77ea8b256bf" available="true">
+          <name>Stinger Брызговики 4 штуки оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>70400</price>
+          <picture>https://agstuning.ru/assets/images/products/219403/j5f46ac200.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6bef2b8a8711" available="true">
+          <name>Stinger Брелок на ключи, кожаный</name>
+          <categoryId>9719975</categoryId>
+          <price>6608</price>
+          <picture>https://agstuning.ru/assets/images/products/231226/untitled-32.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-41e29d5a50e1" available="true">
+          <name>Stinger Компрессор для колес, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>19828</price>
+          <picture>https://agstuning.ru/assets/images/products/231215/untitled-18.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2290a74ce64b" available="true">
+          <name>Stinger Чехол ключа, кожзам, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>14080</price>
+          <picture>https://agstuning.ru/assets/images/products/231197/untitled-104.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f84591446095" available="true">
+          <name>Stinger Органайзер в багажник, складной, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>50544</price>
+          <picture>https://agstuning.ru/assets/images/products/231187/untitled-89.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ecdca1f16d06" available="true">
+          <name>Stinger Крючок для перевозки пакетов в салоне, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>24884</price>
+          <picture>https://agstuning.ru/assets/images/products/231175/untitled-63.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-90e57136c410" available="true">
+          <name>Stinger Вешалка для одежды, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>71600</price>
+          <picture>https://agstuning.ru/assets/images/products/231152/untitled-32.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a4107f4b7878" available="true">
+          <name>Stinger Брелок</name>
+          <categoryId>9719975</categoryId>
+          <price>5444</price>
+          <picture>https://agstuning.ru/assets/images/products/219409/ck017-ay746.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-51adc3c8c8fd" available="true">
+          <name>Stinger 3.3T Фильтры воздушные Pro DRY S, AFE</name>
+          <categoryId>9719975</categoryId>
+          <price>66000</price>
+          <picture>https://agstuning.ru/assets/images/products/283621/screenshot-2025-05-15-at-16-46-22-magnum-flow-oe-replacement-air-filter-w-pro-dry-s-media.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-89567392e94a" available="true">
+          <name>Stinger 3.3T Холодный впуск aFe Takeda Momentum</name>
+          <categoryId>9719975</categoryId>
+          <price>351472</price>
+          <picture>https://agstuning.ru/assets/images/products/282481/xc.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d7f6eae281b9" available="true">
+          <name>Stinger Дефлекторы на окна, черные, 4 штуки</name>
+          <categoryId>9719975</categoryId>
+          <price>19980</price>
+          <picture>https://agstuning.ru/assets/images/products/245848/untitled-4.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4bb923c1f00c" available="true">
+          <name>Stinger Дефлекторы, комплект</name>
+          <categoryId>9719975</categoryId>
+          <price>10108</price>
+          <picture>https://agstuning.ru/assets/images/products/222114/rtyhjk.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-367751aa6608" available="true">
+          <name>Stinger Карбоновые дефлекторы, комплект</name>
+          <categoryId>9719975</categoryId>
+          <price>135000</price>
+          <picture>https://agstuning.ru/assets/images/products/222113/s-l1600.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-508aaf110f4b" available="true">
+          <name>KIA Tasman 2025- Cтойка на кузов, регулируемая</name>
+          <categoryId>99000107</categoryId>
+          <price>186000</price>
+          <picture>https://agstuning.ru/assets/images/products/285906/20260922-055856-c3b49d15.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d9b699246b37" available="true">
+          <name>KIA Tasman 2025- Дуга стойка на кузов, ящики, подъемная панель, подсветка</name>
+          <categoryId>99000107</categoryId>
+          <price>712800</price>
+          <picture>https://agstuning.ru/assets/images/products/285583/untitled-15.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-fa5df78d2851" available="true">
+          <name>Kia Tasman 2025- Пороги с подсветкой, электрические выдвижные, 2026 2027 2028</name>
+          <categoryId>99000107</categoryId>
+          <price>356000</price>
+          <picture>https://agstuning.ru/assets/images/products/285189/45365.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-cc2ea76b09c7" available="true">
+          <name>Stinger Колпачки на диски алюминиевые, желтые</name>
+          <categoryId>9719975</categoryId>
+          <price>23716</price>
+          <picture>https://agstuning.ru/assets/images/products/231262/untitled-53.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-026a4dc3227f" available="true">
+          <name>Stinger Колпачки на диски алюминиевые, синие</name>
+          <categoryId>9719975</categoryId>
+          <price>23716</price>
+          <picture>https://agstuning.ru/assets/images/products/231261/untitled-52.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7e67c1d700eb" available="true">
+          <name>Stinger Колпачки на диски алюминиевые, черные</name>
+          <categoryId>9719975</categoryId>
+          <price>23716</price>
+          <picture>https://agstuning.ru/assets/images/products/231260/untitled-49.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-688e5c890136" available="true">
+          <name>Stinger Колпачки на диски алюминиевые, серебро</name>
+          <categoryId>9719975</categoryId>
+          <price>23716</price>
+          <picture>https://agstuning.ru/assets/images/products/231259/untitled-48.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c6b71cacd2cf" available="true">
+          <name>Stinger Колпачки на диски алюминиевые, красные</name>
+          <categoryId>9719975</categoryId>
+          <price>23716</price>
+          <picture>https://agstuning.ru/assets/images/products/231258/untitled-46.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d8a73e57441e" available="true">
+          <name>Stinger Колпачок на диск колеса, с Е эмблемой, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>8944</price>
+          <picture>https://agstuning.ru/assets/images/products/231225/untitled-31.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7adb0ee217fb" available="true">
+          <name>Stinger Колпачок на диск, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>2720</price>
+          <picture>https://agstuning.ru/assets/images/products/231223/untitled-29.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-dead7a4a48d2" available="true">
+          <name>Stinger Датчик давления в шинах, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>13608</price>
+          <picture>https://agstuning.ru/assets/images/products/231221/untitled-27.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ea1151153041" available="true">
+          <name>KIA Stinger/Genesis G70 High Pressure Fuel Pump (HPFP) Upgrade for the 2018+ 3.3L Motor</name>
+          <categoryId>9719975</categoryId>
+          <price>592772</price>
+          <picture>https://agstuning.ru/assets/images/products/282681/v.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2198e13cc207" available="true">
+          <name>Stinger Насадки Borla для глушителя Borla</name>
+          <categoryId>9719975</categoryId>
+          <price>494944</price>
+          <picture>https://agstuning.ru/assets/images/products/232194/tip-70.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-78cf08aa73ae" available="true">
+          <name>Stinger Двойной выхлоп KIA Stinger Racing Ver.</name>
+          <categoryId>9719975</categoryId>
+          <price>737760</price>
+          <picture>https://agstuning.ru/assets/images/products/222077/4564.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f9cba3bc3cc8" available="true">
+          <name>Stinger Выхлоп двойной GT Ver.</name>
+          <categoryId>9719975</categoryId>
+          <price>616248</price>
+          <picture>https://agstuning.ru/assets/images/products/222076/4564.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4f62d9348f63" available="true">
+          <name>Stinger Выхлоп двойной EVC Ver.</name>
+          <categoryId>9719975</categoryId>
+          <price>793928</price>
+          <picture>https://agstuning.ru/assets/images/products/222075/4564.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a89a2f8b7063" available="true">
+          <name>Stinger Накладки на пороги с подсветкой V2, белая надпись Stinger GT</name>
+          <categoryId>9719975</categoryId>
+          <price>32500</price>
+          <picture>https://agstuning.ru/assets/images/products/264984/bezimeni-21.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d77ace6a3c93" available="true">
+          <name>Stinger Защитные накладки на стойку дод ремень, коричневый войлок</name>
+          <categoryId>9719975</categoryId>
+          <price>24884</price>
+          <picture>https://agstuning.ru/assets/images/products/231257/untitled-45.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f773d6b666a0" available="true">
+          <name>Stinger Защитные накладки на низа дверей, коричневый войлок</name>
+          <categoryId>9719975</categoryId>
+          <price>25660</price>
+          <picture>https://agstuning.ru/assets/images/products/231256/untitled-41.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-39f79c00e87e" available="true">
+          <name>Stinger Защитная накладка на дверку бардачка, коричневый войлок</name>
+          <categoryId>9719975</categoryId>
+          <price>21772</price>
+          <picture>https://agstuning.ru/assets/images/products/231255/untitled-40.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c2d0e239c461" available="true">
+          <name>Stinger Защитная накладка на дверку бардачка, войлок</name>
+          <categoryId>9719975</categoryId>
+          <price>14384</price>
+          <picture>https://agstuning.ru/assets/images/products/231254/untitled-37.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c7f3f623580c" available="true">
+          <name>Stinger Защитные накладки на низа дверей, войлок</name>
+          <categoryId>9719975</categoryId>
+          <price>20216</price>
+          <picture>https://agstuning.ru/assets/images/products/231245/untitled-17.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7de70116980c" available="true">
+          <name>Stinger Накладки на пороги с LED подсветкой, логотип stinger, 2 штуки</name>
+          <categoryId>9719975</categoryId>
+          <price>94000</price>
+          <picture>https://agstuning.ru/assets/images/products/231232/untitled-41.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-45bd2fdc72bc" available="true">
+          <name>Kia Stinger Накладки на подлокотники дверей, под карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>51600</price>
+          <picture>https://agstuning.ru/assets/images/products/281766/231.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3429ce50c262" available="true">
+          <name>Stinger Накладка на ручку КПП, белый карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>34500</price>
+          <picture>https://agstuning.ru/assets/images/products/264982/bezimeni-12.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8b3857b07c37" available="true">
+          <name>Stinger Накладка на ручку КПП, кованый карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>34500</price>
+          <picture>https://agstuning.ru/assets/images/products/264981/bezimeni-14.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e5f1dde36e47" available="true">
+          <name>Stinger Накладка на ручку КПП, красный карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>34500</price>
+          <picture>https://agstuning.ru/assets/images/products/264980/bezimeni-11.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-eb7344e454d7" available="true">
+          <name>Stinger Накладка на ручку КПП, карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>34500</price>
+          <picture>https://agstuning.ru/assets/images/products/264978/bezimeni-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-18700c6a8d16" available="true">
+          <name>Stinger Накладки на подрулевые лепестки, серые, алюминиевые</name>
+          <categoryId>9719975</categoryId>
+          <price>24500</price>
+          <picture>https://agstuning.ru/assets/images/products/248520/untitled-6.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d812d967370e" available="true">
+          <name>Stinger Накладки на подрулевые лепестки, черные, алюминиевые</name>
+          <categoryId>9719975</categoryId>
+          <price>24500</price>
+          <picture>https://agstuning.ru/assets/images/products/248519/untitled-12.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8075abb31546" available="true">
+          <name>Stinger Накладки на подрулевые лепестки, синие, алюминиевые</name>
+          <categoryId>9719975</categoryId>
+          <price>24500</price>
+          <picture>https://agstuning.ru/assets/images/products/248518/untitled-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3e80ce92ebf0" available="true">
+          <name>Stinger Накладки на подрулевые лепестки, красные, алюминиевые</name>
+          <categoryId>9719975</categoryId>
+          <price>24500</price>
+          <picture>https://agstuning.ru/assets/images/products/248517/untitled-9.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a900e2b5145c" available="true">
+          <name>Stinger Накладка на задние дефлекторы обдува, алюминиевые</name>
+          <categoryId>9719975</categoryId>
+          <price>18272</price>
+          <picture>https://agstuning.ru/assets/images/products/231270/untitled-69.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-0246e6d961cb" available="true">
+          <name>Stinger Наладки в ниши ручек дверей, алюминиевые</name>
+          <categoryId>9719975</categoryId>
+          <price>24884</price>
+          <picture>https://agstuning.ru/assets/images/products/231267/untitled-63.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-28e0260c9008" available="true">
+          <name>Stinger Защитные накладки на дверку бардачка, под карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>19052</price>
+          <picture>https://agstuning.ru/assets/images/products/231264/untitled-58.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a15fb0262f18" available="true">
+          <name>Stinger Защитные накладки на низа дверей, под карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>21384</price>
+          <picture>https://agstuning.ru/assets/images/products/231263/untitled-54.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-460a2ae739ca" available="true">
+          <name>Stinger Рулевое колесо, алькантара, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>167572</price>
+          <picture>https://agstuning.ru/assets/images/products/231252/untitled-33.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-833d7f12be65" available="true">
+          <name>Stinger Центральный подлокотник, черная алькантара, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>70372</price>
+          <picture>https://agstuning.ru/assets/images/products/231246/untitled-19.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8bd05dc60335" available="true">
+          <name>Stinger Подсветка салона, белая, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>45100</price>
+          <picture>https://agstuning.ru/assets/images/products/231190/untitled-93.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-960d0e99d092" available="true">
+          <name>Stinger Накладки на зеркала М-style, черные</name>
+          <categoryId>9719975</categoryId>
+          <price>47500</price>
+          <picture>https://agstuning.ru/assets/images/products/264977/bezimeni-9.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8d43f333373e" available="true">
+          <name>Stinger Корпуса зеркал взамен штатных, красные</name>
+          <categoryId>9719975</categoryId>
+          <price>35000</price>
+          <picture>https://agstuning.ru/assets/images/products/231238/untitled-9.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-74be519d4170" available="true">
+          <name>Stinger Корпуса зеркал, карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>101476</price>
+          <picture>https://agstuning.ru/assets/images/products/231176/untitled-64.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-498eeb6ed55a" available="true">
+          <name>Stinger Капот Duraflex Executive, стеклопластик</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/255467/untitled-96.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-0574b2e190a6" available="true">
+          <name>Stinger Капот под оригинал, с вентиляцией, карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>666792</price>
+          <picture>https://agstuning.ru/assets/images/products/231272/untitled-74.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-72938baed0be" available="true">
+          <name>Stinger Капот карбоновый</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/220636/untitled-6.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-51c354fde4c4" available="true">
+          <name>Stinger Коврик багажника, термопластик</name>
+          <categoryId>9719975</categoryId>
+          <price>8164</price>
+          <picture>https://agstuning.ru/assets/images/products/231243/untitled-15.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5ddfc798e026" available="true">
+          <name>Stinger 3D коврики салона ворсовые, комплект</name>
+          <categoryId>9719975</categoryId>
+          <price>27600</price>
+          <picture>https://agstuning.ru/assets/images/products/231242/untitled-13.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-fecd4afdb5d1" available="true">
+          <name>Stinger Ковер багажника WeatherTech, черный</name>
+          <categoryId>9719975</categoryId>
+          <price>92000</price>
+          <picture>https://agstuning.ru/assets/images/products/231230/untitled-36.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3255df435915" available="true">
+          <name>Stinger Коврики всесезонные, комплект</name>
+          <categoryId>9719975</categoryId>
+          <price>86704</price>
+          <picture>https://agstuning.ru/assets/images/products/222064/uiyzgfoius-(1).jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f8dccfcc0d9c" available="true">
+          <name>Stinger Коврики оригинал 4 штуки, велюровые</name>
+          <categoryId>9719975</categoryId>
+          <price>103124</price>
+          <picture>https://agstuning.ru/assets/images/products/219410/j5f14-ac000-j5f14-ac500-1111.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b3f17dc7febe" available="true">
+          <name>Stinger Коврики оригинал 4 штуки</name>
+          <categoryId>9719975</categoryId>
+          <price>74260</price>
+          <picture>https://agstuning.ru/assets/images/products/219405/j5f13-ac000.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bc0f403dd004" available="true">
+          <name>Stinger Коврики бежевые 3D Weathertech USA</name>
+          <categoryId>9719975</categoryId>
+          <price>115472</price>
+          <picture>https://agstuning.ru/assets/images/products/219399/451581-451463.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-90970f180570" available="true">
+          <name>Stinger Коврики серые 3D Weathertech USA</name>
+          <categoryId>9719975</categoryId>
+          <price>115472</price>
+          <picture>https://agstuning.ru/assets/images/products/219398/461581-461463.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d9653661d819" available="true">
+          <name>Stinger Коврики черные 3D Weathertech USA</name>
+          <categoryId>9719975</categoryId>
+          <price>115472</price>
+          <picture>https://agstuning.ru/assets/images/products/219397/441581-441463.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-beb1e59a8e2f" available="true">
+          <name>Stinger Накладки реснички на фары, карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>57544</price>
+          <picture>https://agstuning.ru/assets/images/products/231273/untitled-78.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-688847f73b22" available="true">
+          <name>Stinger Светоотражатель на фары, желтые, 2 штуки</name>
+          <categoryId>9719975</categoryId>
+          <price>18272</price>
+          <picture>https://agstuning.ru/assets/images/products/231229/untitled-35.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d3c062815cbc" available="true">
+          <name>Stinger 2018- 2020- Накладки с надписью Stinger на пороги дверей, сталь, 4шт</name>
+          <categoryId>9719975</categoryId>
+          <price>24496</price>
+          <picture>https://agstuning.ru/assets/images/products/224589/s-l1600-2019-07-29t111938.200.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-499f35684da6" available="true">
+          <name>Stinger Центральная консоль с держателем для стаканов, алюминий</name>
+          <categoryId>9719975</categoryId>
+          <price>117028</price>
+          <picture>https://agstuning.ru/assets/images/products/222777/360x270/57-5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e7ef73c22b85" available="true">
+          <name>Stinger Рулевое колесо (руль) с кнопками в сборе</name>
+          <categoryId>9719975</categoryId>
+          <price>303000</price>
+          <picture>https://agstuning.ru/assets/images/products/222073/4564.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d4da04418840" available="true">
+          <name>Stinger Приборная панель Super Vision (3300CC, 7-дюймов TFT LCD)</name>
+          <categoryId>9719975</categoryId>
+          <price>308320</price>
+          <picture>https://agstuning.ru/assets/images/products/222072/20171214224052-c338987df5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-0a3005533258" available="true">
+          <name>Stinger Рулевое колесо, алькантара</name>
+          <categoryId>9719975</categoryId>
+          <price>165628</price>
+          <picture>https://agstuning.ru/assets/images/products/222063/2018new-sorento-03ex-w.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b951988f7806" available="true">
+          <name>Stinger Зеркало с автозатемнением</name>
+          <categoryId>9719975</categoryId>
+          <price>133360</price>
+          <picture>https://agstuning.ru/assets/images/products/219404/j5f62-au000-j5f62-au000.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d962bc495c80" available="true">
+          <name>Stinger Обвес Widebody Kit</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/278114/ags-122.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-450131f34285" available="true">
+          <name>Stinger 2020- Карбоновый диффузор заднего бампера</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/278113/ags-119.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6febc7437372" available="true">
+          <name>Stinger Карбоновый спойлер переднего бампера</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/278112/ags-118.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9080133dca68" available="true">
+          <name>Stinger Карбоновый диффузор заднего бампера</name>
+          <categoryId>9719975</categoryId>
+          <price>484356</price>
+          <picture>https://agstuning.ru/assets/images/products/278109/ags-110.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2439df25c46e" available="true">
+          <name>Stinger Карбоновые накладки на пороги</name>
+          <categoryId>9719975</categoryId>
+          <price>378400</price>
+          <picture>https://agstuning.ru/assets/images/products/278108/ags-107.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-0449ef971b87" available="true">
+          <name>Stinger Карбоновые спойлеры переднего бампера, верхний, нижний</name>
+          <categoryId>9719975</categoryId>
+          <price>589600</price>
+          <picture>https://agstuning.ru/assets/images/products/278107/ags-106.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-347cafe674a8" available="true">
+          <name>Stinger Диффузор заднего бампера Duraflex MSR, стеклопластик</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/255448/untitled-75.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-db42894282f4" available="true">
+          <name>Stinger GT Диффузор заднего бампера, черный матовый</name>
+          <categoryId>9719975</categoryId>
+          <price>250560</price>
+          <picture>https://agstuning.ru/assets/images/products/245150/untitled-54.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-31238cc9c455" available="true">
+          <name>Stinger GT Сплиттеры на передний бампер по бокам, черные матовые, 2 штуки</name>
+          <categoryId>9719975</categoryId>
+          <price>186300</price>
+          <picture>https://agstuning.ru/assets/images/products/245148/untitled-52.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9870729d2e61" available="true">
+          <name>Stinger Карбоновый обвес Vega Style</name>
+          <categoryId>9719975</categoryId>
+          <price>228000</price>
+          <picture>https://agstuning.ru/assets/images/products/244206/untitled-16.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-060d260cc69d" available="true">
+          <name>Stinger Накладки на боковые пороги, карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>186624</price>
+          <picture>https://agstuning.ru/assets/images/products/237030/untitled-89.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-08f952ee3b82" available="true">
+          <name>Stinger Накладки на боковые пороги, под покрас</name>
+          <categoryId>9719975</categoryId>
+          <price>110000</price>
+          <picture>https://agstuning.ru/assets/images/products/237028/untitled-83.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ad10d298da83" available="true">
+          <name>Stinger GT Накладки на боковые пороги, черные, 2 штуки</name>
+          <categoryId>9719975</categoryId>
+          <price>103032</price>
+          <picture>https://agstuning.ru/assets/images/products/235938/untitled-26.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8eb044499731" available="true">
+          <name>Stinger GT Сплиттеры на задний бампер по бокам, черные, 2 штуки</name>
+          <categoryId>9719975</categoryId>
+          <price>74000</price>
+          <picture>https://agstuning.ru/assets/images/products/235937/untitled-18.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3e68b3efbbd5" available="true">
+          <name>Stinger GT Спойлер переднего бампера V2, черный</name>
+          <categoryId>9719975</categoryId>
+          <price>103032</price>
+          <picture>https://agstuning.ru/assets/images/products/235936/untitled-17.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-533935bde7f1" available="true">
+          <name>Stinger GT Спойлер переднего бампера, черный</name>
+          <categoryId>9719975</categoryId>
+          <price>103032</price>
+          <picture>https://agstuning.ru/assets/images/products/235935/untitled-9.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4fbc8f1c98fd" available="true">
+          <name>Stinger Юбка переднего бампера Duraflex MSR, стеклопластик</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/231239/untitled-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2a6a87157dda" available="true">
+          <name>Stinger Юбки боковых порогов, карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>321148</price>
+          <picture>https://agstuning.ru/assets/images/products/231201/untitled-112.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-aa5aef65d68d" available="true">
+          <name>Stinger Юбки боковых порогов, M&amp;S</name>
+          <categoryId>9719975</categoryId>
+          <price>186236</price>
+          <picture>https://agstuning.ru/assets/images/products/231200/untitled-110.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-864da9f53fc9" available="true">
+          <name>Stinger Накладки на диффузор заднего бампера, черные</name>
+          <categoryId>9719975</categoryId>
+          <price>104976</price>
+          <picture>https://agstuning.ru/assets/images/products/231142/untitled-9.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-870e54f65423" available="true">
+          <name>Stinger Сплиттера на передний и задний бампер, черные</name>
+          <categoryId>9719975</categoryId>
+          <price>108000</price>
+          <picture>https://agstuning.ru/assets/images/products/231141/untitled-7.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5cf400af13ce" available="true">
+          <name>Stinger Спойлер переднего бампера карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>376748</price>
+          <picture>https://agstuning.ru/assets/images/products/222782/2018-04-16-173027.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7416869a91da" available="true">
+          <name>Stinger Накладки на пороги, карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>410960</price>
+          <picture>https://agstuning.ru/assets/images/products/222781/s-l1600-(1).jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c1c3db6e7114" available="true">
+          <name>Stinger Обвес AIRDESIGN</name>
+          <categoryId>9719975</categoryId>
+          <price>987940</price>
+          <picture>https://agstuning.ru/assets/images/products/222083/kia-stinger-gt-federation01.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f383baca9bd0" available="true">
+          <name>Stinger Накладки на суппорты, алюминий, 4 штуки, разные цвета</name>
+          <categoryId>9719975</categoryId>
+          <price>92000</price>
+          <picture>https://agstuning.ru/assets/images/products/284424/untitled-15.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-cc8047547411" available="true">
+          <name>Stinger Накладки на бампер, черные</name>
+          <categoryId>9719975</categoryId>
+          <price>47200</price>
+          <picture>https://agstuning.ru/assets/images/products/282011/gdffg.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-44359b7d229c" available="true">
+          <name>Stinger Накладки на бампер, под карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>47200</price>
+          <picture>https://agstuning.ru/assets/images/products/282010/56465.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f957de79be2f" available="true">
+          <name>Stinger Карбоновые накладки на воздухозаборник</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/278106/ags-102.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-fe61de529ea6" available="true">
+          <name>Stinger Накладки воздуховодов на капоте, черные матовые, 2 штуки</name>
+          <categoryId>9719975</categoryId>
+          <price>123660</price>
+          <picture>https://agstuning.ru/assets/images/products/245152/untitled-59.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7eeb5bae70f3" available="true">
+          <name>Stinger Накладки на воздуховоды передних крыльев, черные матовые, 2 штуки</name>
+          <categoryId>9719975</categoryId>
+          <price>118800</price>
+          <picture>https://agstuning.ru/assets/images/products/245151/untitled-57.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ba1bd615a4eb" available="true">
+          <name>Stinger GT Накладка на заднее стекло, черная</name>
+          <categoryId>9719975</categoryId>
+          <price>93000</price>
+          <picture>https://agstuning.ru/assets/images/products/235934/untitled-8.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-aef2cfe8ec3b" available="true">
+          <name>Stinger Накладки молдинги на низа дверей, алюминий, 2 штуки</name>
+          <categoryId>9719975</categoryId>
+          <price>24840</price>
+          <picture>https://agstuning.ru/assets/images/products/231268/untitled-65.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-01544fb7e485" available="true">
+          <name>Stinger Воздухозаборники в передний бампер, черные глянцевые, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>50544</price>
+          <picture>https://agstuning.ru/assets/images/products/231228/untitled-33.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7224814e3bbc" available="true">
+          <name>Stinger Накладки на воздуховоды передних крыльев, черные глянцевые, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>43544</price>
+          <picture>https://agstuning.ru/assets/images/products/231149/untitled-26.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c5bb56b66294" available="true">
+          <name>Stinger Накладки жалюзи на задние стекла, под карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>37712</price>
+          <picture>https://agstuning.ru/assets/images/products/231148/untitled-23.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-96b4c1da7199" available="true">
+          <name>Stinger Накладки на воздуховоды капота, черные глянцевые, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>53264</price>
+          <picture>https://agstuning.ru/assets/images/products/231147/untitled-21.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7d542908847a" available="true">
+          <name>Stinger Сплиттера на задний бампер, черные</name>
+          <categoryId>9719975</categoryId>
+          <price>35768</price>
+          <picture>https://agstuning.ru/assets/images/products/231146/untitled-18.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-21b5cd94ee9e" available="true">
+          <name>Stinger Сплиттера на воздуховоды переднего бампера, черные</name>
+          <categoryId>9719975</categoryId>
+          <price>37712</price>
+          <picture>https://agstuning.ru/assets/images/products/231144/untitled-6.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9ad0eb9e3d51" available="true">
+          <name>Stinger Накладки жалюзи на заднее стекло по бокам, под карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>90200</price>
+          <picture>https://agstuning.ru/assets/images/products/231143/untitled-12.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c20984a57156" available="true">
+          <name>Stinger Крышка бензобака, под карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>93920</price>
+          <picture>https://agstuning.ru/assets/images/products/222723/s-l1600-(3).jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-42a67220733e" available="true">
+          <name>Stinger Накладки на двери</name>
+          <categoryId>9719975</categoryId>
+          <price>40048</price>
+          <picture>https://agstuning.ru/assets/images/products/222082/der.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-584eee76763b" available="true">
+          <name>Stinger Воздуховоды передних крыльев, карбон</name>
+          <categoryId>9719975</categoryId>
+          <price>151244</price>
+          <picture>https://agstuning.ru/assets/images/products/222062/2018new-sorento-03ex-w.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-610894c01705" available="true">
+          <name>Stinger Карбоновые воздуховоды капота</name>
+          <categoryId>9719975</categoryId>
+          <price>148520</price>
+          <picture>https://agstuning.ru/assets/images/products/222061/sbfd.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2741425a859f" available="true">
+          <name>Stinger Карбоновые накладки на воздуховоды переднего бампера (комплект)</name>
+          <categoryId>9719975</categoryId>
+          <price>165628</price>
+          <picture>https://agstuning.ru/assets/images/products/222058/2018new-sorento-03ex-w.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7cdfb55a15b2" available="true">
+          <name>Stinger Фонари рестайлинговые</name>
+          <categoryId>9719975</categoryId>
+          <price>445000</price>
+          <picture>https://agstuning.ru/assets/images/products/262307/453435.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-95f6d4072074" available="true">
+          <name>Stinger Дневные ходовые огни с интегрированными поворотниками, в воздуховоды бампера</name>
+          <categoryId>9719975</categoryId>
+          <price>129944</price>
+          <picture>https://agstuning.ru/assets/images/products/232502/untitled-58.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-19d1f2392f04" available="true">
+          <name>Stinger Подсветки в двери с проекцией на землю stinger, оригинал, 2 штуки</name>
+          <categoryId>9719975</categoryId>
+          <price>85148</price>
+          <picture>https://agstuning.ru/assets/images/products/231251/untitled-30.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-cd5d83333e39" available="true">
+          <name>Stinger Подсветки в двери с проекцией на землю KIA, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>50932</price>
+          <picture>https://agstuning.ru/assets/images/products/231193/untitled-96.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-40ac90296a36" available="true">
+          <name>Stinger Подсветки в двери с проекцией на землю GT, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>50932</price>
+          <picture>https://agstuning.ru/assets/images/products/231192/untitled-95.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7a77822053dd" available="true">
+          <name>Stinger Диодный стоп-сигнал на стекло</name>
+          <categoryId>9719975</categoryId>
+          <price>89812</price>
+          <picture>https://agstuning.ru/assets/images/products/224630/s-l1600-2019-07-29t171914.983.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-454f1ba2bb7b" available="true">
+          <name>Stinger Задние светодиодные (LED) фонари</name>
+          <categoryId>9719975</categoryId>
+          <price>299764</price>
+          <picture>https://agstuning.ru/assets/images/products/222078/360x270/imageviewer.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-67a211cd3cdc" available="true">
+          <name>Stinger Диодные фары LED</name>
+          <categoryId>9719975</categoryId>
+          <price>382580</price>
+          <picture>https://agstuning.ru/assets/images/products/222074/b2930328718.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7cdf746f1e98" available="true">
+          <name>Stinger Педали спортивные</name>
+          <categoryId>9719975</categoryId>
+          <price>49376</price>
+          <picture>https://agstuning.ru/assets/images/products/219407/j5f05-ak000.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6d713ccbcfd2" available="true">
+          <name>Stinger Накладка на передний бампер, юбка</name>
+          <categoryId>9719975</categoryId>
+          <price>125192</price>
+          <picture>https://agstuning.ru/assets/images/products/222080/der.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4223d142e37b" available="true">
+          <name>Stinger Накладка на задний бампер, юбка</name>
+          <categoryId>9719975</categoryId>
+          <price>137248</price>
+          <picture>https://agstuning.ru/assets/images/products/222079/20171214224052-c338987df5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-363ebde248e5" available="true">
+          <name>Stinger Задний диффузор</name>
+          <categoryId>9719975</categoryId>
+          <price>65708</price>
+          <picture>https://agstuning.ru/assets/images/products/222071/20171214224052-c338987df5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7fca9cce7cda" available="true">
+          <name>Stinger Накладки на задний бампер</name>
+          <categoryId>9719975</categoryId>
+          <price>62984</price>
+          <picture>https://agstuning.ru/assets/images/products/222069/uiyzgfoius-(1).jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-cf23d4b87145" available="true">
+          <name>Stinger Накладки на передний бампер</name>
+          <categoryId>9719975</categoryId>
+          <price>168352</price>
+          <picture>https://agstuning.ru/assets/images/products/222066/4564.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ec5a2ac09341" available="true">
+          <name>Stinger- Обвес Convoy</name>
+          <categoryId>9719975</categoryId>
+          <price>268272</price>
+          <picture>https://agstuning.ru/assets/images/products/221991/360x270/2018-04-16-103213.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d5e9f3cf8e86" available="true">
+          <name>Stinger Расширители крыльев</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/220639/sfll-0811-2t.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-0f96cd12ba65" available="true">
+          <name>Stinger Боковые накладки на пороги</name>
+          <categoryId>9719975</categoryId>
+          <price>159796</price>
+          <picture>https://agstuning.ru/assets/images/products/222070/uiyzgfoius-(2).jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-13d273e306b9" available="true">
+          <name>Stinger 2017- 2019- Решетка радиатора нижняя на бампер, хром, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>101476</price>
+          <picture>https://agstuning.ru/assets/images/products/224603/s-l1600-2019-07-29t134801.237.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5b30428259ac" available="true">
+          <name>Stinger Решётка радиатора, чёрный хром</name>
+          <categoryId>9719975</categoryId>
+          <price>90980</price>
+          <picture>https://agstuning.ru/assets/images/products/222084/jui89.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ae4805fe98af" available="true">
+          <name>Stinger Карбоновый корпус решетки радиатора</name>
+          <categoryId>9719975</categoryId>
+          <price>216952</price>
+          <picture>https://agstuning.ru/assets/images/products/222060/2018new-sorento-03ex-w.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-fb34c1155e22" available="true">
+          <name>Stinger Подушка Airbag с эмблемой E</name>
+          <categoryId>9719975</categoryId>
+          <price>163828</price>
+          <picture>https://agstuning.ru/assets/images/products/260702/index.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-43ae24f729bb" available="true">
+          <name>Stinger Карбоновый спойлер на багажник</name>
+          <categoryId>9719975</categoryId>
+          <price>382000</price>
+          <picture>https://agstuning.ru/assets/images/products/278110/ags-114.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c04dd14763aa" available="true">
+          <name>Stinger Карбоновый спойлер</name>
+          <categoryId>9719975</categoryId>
+          <price>620000</price>
+          <picture>https://agstuning.ru/assets/images/products/278105/ags-98.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ad03c0465b8d" available="true">
+          <name>Stinger Спойлер на крышку багажника Duraflex SQX, стеклопластик</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/255447/untitled-72.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-22f10abe95fc" available="true">
+          <name>Stinger Спойлер на крышку багажника Carbon Creations SQX, карбон</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/255446/untitled-69.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-085184c17d72" available="true">
+          <name>Stinger Спойлер на крышку багажника Duraflex MSR V2, стеклопластик</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/231241/untitled-12.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ec0fc203d2ac" available="true">
+          <name>Stinger Спойлер на крышку багажника Duraflex MSR, стеклопластик</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/231240/untitled-11.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-986870ced581" available="true">
+          <name>Stinger Спойлер на крышку багажника, в цвет кузова</name>
+          <categoryId>9719975</categoryId>
+          <price>280000</price>
+          <picture>https://agstuning.ru/assets/images/products/222778/2019-05-10-222217.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e63a4ba59d15" available="true">
+          <name>Stinger Спойлер GT JDM карбоновый 145 см</name>
+          <categoryId>9719975</categoryId>
+          <price>113140</price>
+          <picture>https://agstuning.ru/assets/images/products/222115/57-universal-car-wings-3d-carbon-fiber-racing-gt-style-rear-trunk-adjustable-spoiler-wing-car.jpg-640x640.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6da36ef1b2a3" available="true">
+          <name>Stinger Спойлер под покраску</name>
+          <categoryId>9719975</categoryId>
+          <price>92924</price>
+          <picture>https://agstuning.ru/assets/images/products/222086/kia-stinger-gt-federation01.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-0f8e1fcb4d07" available="true">
+          <name>Stinger Спойлер заднего багажника (black carbon type)</name>
+          <categoryId>9719975</categoryId>
+          <price>150076</price>
+          <picture>https://agstuning.ru/assets/images/products/222085/20171214224052-c338987df5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f397b84fefd5" available="true">
+          <name>Stinger Спойлер S type M$S</name>
+          <categoryId>9719975</categoryId>
+          <price>68428</price>
+          <picture>https://agstuning.ru/assets/images/products/222068/4564.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-fab31a57f62f" available="true">
+          <name>Stinger Спойлер G type M$S</name>
+          <categoryId>9719975</categoryId>
+          <price>68428</price>
+          <picture>https://agstuning.ru/assets/images/products/222067/20171214224052-c338987df5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-31154eaf24bd" available="true">
+          <name>Stinger Спойлер пластиковый под покраску</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/220638/untitled-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-22bfee50cf60" available="true">
+          <name>Stinger Спойлер карбоновый</name>
+          <categoryId>9719975</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/220637/untitled-11.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-26bd2aac487f" available="true">
+          <name>Turbo JB4 Performance Tuner + коннекторы + адаптеры</name>
+          <categoryId>9719975</categoryId>
+          <price>444648</price>
+          <picture>https://agstuning.ru/assets/images/products/279644/screenshot-2023-10-10-at-12-41-00-kia-hyundai-genesis-turbo-jb4-performance-tuner.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1e3410421bbe" available="true">
+          <name>Stinger Эмблемы KIA на передний бампер и крышку багажника, 2 штуки</name>
+          <categoryId>9719975</categoryId>
+          <price>21772</price>
+          <picture>https://agstuning.ru/assets/images/products/231269/untitled-67.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c30aa8e60bb1" available="true">
+          <name>Stinger Эмблемы на решетку радиатора и крышку багажника, с LED подсветкой</name>
+          <categoryId>9719975</categoryId>
+          <price>79704</price>
+          <picture>https://agstuning.ru/assets/images/products/231231/untitled-37.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-45e616812d41" available="true">
+          <name>Stinger Эмблема на крышку багажника GT, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>18272</price>
+          <picture>https://agstuning.ru/assets/images/products/231203/untitled-117.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-89af5c11e0b0" available="true">
+          <name>Stinger Эмблема на крышку багажника AWD, оригинал</name>
+          <categoryId>9719975</categoryId>
+          <price>18272</price>
+          <picture>https://agstuning.ru/assets/images/products/231202/untitled-115.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ee8d0019afd8" available="true">
+          <name>Stinger Шильдик с надписью Stinger, на крышку багажника</name>
+          <categoryId>9719975</categoryId>
+          <price>16720</price>
+          <picture>https://agstuning.ru/assets/images/products/224063/imagevkr.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bfea9c0ff85b" available="true">
+          <name>Stinger Эмблема на капот</name>
+          <categoryId>9719975</categoryId>
+          <price>12440</price>
+          <picture>https://agstuning.ru/assets/images/products/224062/s-l1600-(33).jpg</picture>
+          <description></description>
+        </offer>
+    </offers>
+  </shop>
+</yml_catalog>

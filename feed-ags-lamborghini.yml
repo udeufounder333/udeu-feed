@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-12 15:42:59">
+  <shop>
+    <name>Údeu v2 · lamborghini</name>
+    <categories>
+      <category id="9719983">Urus</category>
+    </categories>
+    <offers>
+        <offer id="ags-44ab26aacd5a" available="true">
+          <name>Urus Накладки боковые карбон</name>
+          <categoryId>9719983</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/285807/20260909-164107-5ad792f3.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b318ecbe6e45" available="true">
+          <name>Urus Комплект карбоновых деталей</name>
+          <categoryId>9719983</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/285770/20260902-191224-2ed26955.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bf0f1dca67f2" available="true">
+          <name>Urus Комплект обвеса карбон</name>
+          <categoryId>9719983</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/284901/untitled-3.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1d4a4bb802eb" available="true">
+          <name>Urus Рестайлинг комплект в Performante</name>
+          <categoryId>9719983</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/280794/untitled-2.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4e036dfb6f53" available="true">
+          <name>Urus Пороги электрические с подсветкой</name>
+          <categoryId>9719983</categoryId>
+          <price>356000</price>
+          <picture>https://agstuning.ru/assets/images/products/281527/45365.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-98dd49138c0b" available="true">
+          <name>Urus Накладки крыльев карбон</name>
+          <categoryId>9719983</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/285806/20260909-164046-aaf354f9.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c94fef031483" available="true">
+          <name>Urus Спойлер карбон</name>
+          <categoryId>9719983</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/285808/20260909-164120-7c30ecaa.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-20ddf90f4f42" available="true">
+          <name>Urus Карбон-керамические тормоза передние и задние, Tei Racing</name>
+          <categoryId>9719983</categoryId>
+          <price>2776000</price>
+          <picture>https://agstuning.ru/assets/images/products/283331/untitled-1333.jpg</picture>
+          <description></description>
+        </offer>
+    </offers>
+  </shop>
+</yml_catalog>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-12 15:42:59">
+  <shop>
+    <name>Údeu v2 · lotus</name>
+    <categories>
+      <category id="99000120">Lotus</category>
+      <category id="99000121" parentId="99000120">Eletre (2022-н.в.)</category>
+    </categories>
+    <offers>
+        <offer id="ags-0d92acdd5282" available="true">
+          <name>Lotus Eletre 2022- Накладки интерьера карбон</name>
+          <categoryId>99000121</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/283842/untitled-7.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ebef1626fc70" available="true">
+          <name>Eletre 2022- Накладки на пороги карбон</name>
+          <categoryId>99000121</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/282451/untitled-11.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d563097c95b2" available="true">
+          <name>Lotus Eletre 2022- Передняя нижняя часть бампера карбон, 2023 2024 2025 2026</name>
+          <categoryId>99000121</categoryId>
+          <price>462000</price>
+          <picture>https://agstuning.ru/assets/images/products/285499/screenshot-2026-07-15-at-13-28-49-oem-carbon-parts-for-lotus-eletre-2024.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2a0ac0a7747e" available="true">
+          <name>Lotus Eletre 2022- Комплект обвеса OE, карбон, 2023 2024</name>
+          <categoryId>99000121</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/283841/untitled-5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ce7bbf8dd887" available="true">
+          <name>Lotus Eletre 2022- Комплект обвеса, карбон, 2023 2024</name>
+          <categoryId>99000121</categoryId>
+          <price>2086160</price>
+          <picture>https://agstuning.ru/assets/images/products/283840/untitled-4.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-028481640782" available="true">
+          <name>Eletre 2022- Комплект обвеса карбон, Paktechz</name>
+          <categoryId>99000121</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/281937/untitled-22.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3bc04c41d91b" available="true">
+          <name>Lotus Eletre 2022- Фаркоп со съемным крюком, с проводкой, 2023 2024 2025 2026 2027</name>
+          <categoryId>99000121</categoryId>
+          <price>452000</price>
+          <picture>https://agstuning.ru/assets/images/products/285365/1000435600.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ec2e5cdca329" available="true">
+          <name>Lotus Eletre 2022- Коврик в багажник, оригинал, 2023 2024</name>
+          <categoryId>99000121</categoryId>
+          <price>109600</price>
+          <picture>https://agstuning.ru/assets/images/products/284468/dsvb.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2d11ea90a053" available="true">
+          <name>Lotus Eletre 2022- Ковры салона резиновые с велюровыми вставками, оригинал, 2023 2024</name>
+          <categoryId>99000121</categoryId>
+          <price>184800</price>
+          <picture>https://agstuning.ru/assets/images/products/284467/sp0000055822.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-840da655a13c" available="true">
+          <name>Lotus Eletre 2022- Ковры салона резиновые, оригинал, 2023 2024</name>
+          <categoryId>99000121</categoryId>
+          <price>154000</price>
+          <picture>https://agstuning.ru/assets/images/products/281831/6752.jpg</picture>
+          <description></description>
+        </offer>
+    </offers>
+  </shop>
+</yml_catalog>

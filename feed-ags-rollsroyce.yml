@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-12 15:42:59">
+  <shop>
+    <name>Údeu v2 · rollsroyce</name>
+    <categories>
+      <category id="99000130">Rolls-Royce</category>
+      <category id="99000131" parentId="99000130">Cullinan (2018-н.в.)</category>
+      <category id="99000132" parentId="99000130">Ghost (2020-н.в.)</category>
+    </categories>
+    <offers>
+        <offer id="ags-f2b0f7c27a58" available="true">
+          <name>Cullinan 2018-2024 Комплект черных деталей</name>
+          <categoryId>99000131</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/283843/untitled-8.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2917aacb1a23" available="true">
+          <name>Cullinan 2018- Накладки интерьера, карбон</name>
+          <categoryId>99000131</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/281604/untitled-13.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b47230366cb7" available="true">
+          <name>Cullinan 2018- Пороги электрические</name>
+          <categoryId>99000131</categoryId>
+          <price>508000</price>
+          <picture>https://agstuning.ru/assets/images/products/284422/screenshot-2025-08-06-at-19-19-11.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-478619133d4a" available="true">
+          <name>Rolls-Royce Cullinan 2018- Пороги электрические с подсветкой</name>
+          <categoryId>99000131</categoryId>
+          <price>476000</price>
+          <picture>https://agstuning.ru/assets/images/products/281526/45365.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3ce9d39b8e02" available="true">
+          <name>Cullinan 2018- Комплект рестайлинга в 2025 год</name>
+          <categoryId>99000131</categoryId>
+          <price>1864000</price>
+          <picture>https://agstuning.ru/assets/images/products/283689/untitled-43.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5bd02c9c3cb7" available="true">
+          <name>Rolls-Royce Ghost 2010- Рестайлинг в 2024-</name>
+          <categoryId>99000132</categoryId>
+          <price>3432000</price>
+          <picture>https://agstuning.ru/assets/images/products/285373/untitled-42.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-82acee9daaa2" available="true">
+          <name>Rolls-Royce Ghost 2014-2020 Капот карбоновый</name>
+          <categoryId>99000132</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/283949/untitled-11.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9395b2aa9b6a" available="true">
+          <name>Rolls-Royce Ghost 2020-2024 Решетка</name>
+          <categoryId>99000132</categoryId>
+          <price>472800</price>
+          <picture>https://agstuning.ru/assets/images/products/283699/untitled-60.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-019902730030" available="true">
+          <name>Rolls-Royce Ghost 2010- Рестайлинг в 2014-</name>
+          <categoryId>99000132</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/282480/untitled-39.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d5dd6f9bc5b2" available="true">
+          <name>Rolls-Royce Ghost 2020- Бампер задний</name>
+          <categoryId>99000132</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/279765/untitled-24.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f059c5840c7a" available="true">
+          <name>Rolls-Royce Ghost 2020- Бампер передний</name>
+          <categoryId>99000132</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/279764/photo-2023-09-23-12-55-10.jpg</picture>
+          <description></description>
+        </offer>
+    </offers>
+  </shop>
+</yml_catalog>

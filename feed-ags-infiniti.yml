@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-12 15:42:59">
+  <shop>
+    <name>Údeu v2 · infiniti</name>
+    <categories>
+      <category id="9718494">QX80 2018-</category>
+      <category id="99000105">QX80 3-gen (2024-н.в.)</category>
+    </categories>
+    <offers>
+        <offer id="ags-a0c1511c9ef4" available="true">
+          <name>Шторка на лобовое стелко</name>
+          <categoryId>9718494</categoryId>
+          <price>44820</price>
+          <picture>https://agstuning.ru/assets/images/products/252604/1.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-53d22e37317f" available="true">
+          <name>QX80 2018- Удлинитель ремня безопасности</name>
+          <categoryId>9718494</categoryId>
+          <price>23328</price>
+          <picture>https://agstuning.ru/assets/images/products/225585/untitled-7.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-40c17b966a98" available="true">
+          <name>QX80 2018- Аварийный дорожный комплект, оригинал</name>
+          <categoryId>9718494</categoryId>
+          <price>33824</price>
+          <picture>https://agstuning.ru/assets/images/products/225580/untitled-2.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6804e20d0294" available="true">
+          <name>QX80 2018- Рамка номерного знака комплект</name>
+          <categoryId>9718494</categoryId>
+          <price>27604</price>
+          <picture>https://agstuning.ru/assets/images/products/225539/untitled-27.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1da5a8049748" available="true">
+          <name>QX80 2018- Дефлекторы окон, черные, оригинал</name>
+          <categoryId>9718494</categoryId>
+          <price>60000</price>
+          <picture>https://agstuning.ru/assets/images/products/225522/untitled-9.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b9fc9c28fba6" available="true">
+          <name>QX80 2018- Дефлекторы окон, черные</name>
+          <categoryId>9718494</categoryId>
+          <price>17496</price>
+          <picture>https://agstuning.ru/assets/images/products/225521/untitled-8.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4ecb4ef756c7" available="true">
+          <name>QX80 2018- Дефлектор люка, черный</name>
+          <categoryId>9718494</categoryId>
+          <price>79316</price>
+          <picture>https://agstuning.ru/assets/images/products/225520/untitled-7.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f88309472b0a" available="true">
+          <name>Infinit QX80 2024- Бак топливный 138 литров, 2025 2026 2027 2028</name>
+          <categoryId>99000105</categoryId>
+          <price>932000</price>
+          <picture>https://agstuning.ru/assets/images/products/285736/20260901-083611-11ff6d44.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2f7e9a3cb68a" available="true">
+          <name>QX80 2018- 5.6L Выхлопная система AFE, черный</name>
+          <categoryId>9718494</categoryId>
+          <price>942000</price>
+          <picture>https://agstuning.ru/assets/images/products/279656/1.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4b66c45164dd" available="true">
+          <name>QX80 2024- Коврик третьего ряда черный, Weathertech, 2025 2026 2027</name>
+          <categoryId>99000105</categoryId>
+          <price>68800</price>
+          <picture>https://agstuning.ru/assets/images/products/284973/as.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ba72a3eb4580" available="true">
+          <name>QX80 2024- Коврик третьего ряда бежевый, Weathertech, 2025 2026 2027</name>
+          <categoryId>99000105</categoryId>
+          <price>68800</price>
+          <picture>https://agstuning.ru/assets/images/products/284972/bbf.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-27335d8e3ee3" available="true">
+          <name>QX80 2024- Ковры салона бежевые, Weathertech, 2025 2026 2027</name>
+          <categoryId>99000105</categoryId>
+          <price>159600</price>
+          <picture>https://agstuning.ru/assets/images/products/284971/sdf.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-91e5bba8c54b" available="true">
+          <name>QX80 2024- Ковры салона черные, Weathertech, 2025 2026 2027</name>
+          <categoryId>99000105</categoryId>
+          <price>159600</price>
+          <picture>https://agstuning.ru/assets/images/products/284970/bfff.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5f4ce047c609" available="true">
+          <name>Infiniti QX80 2024- Ковры салона, оригинал</name>
+          <categoryId>99000105</categoryId>
+          <price>307520</price>
+          <picture>https://agstuning.ru/assets/images/products/282751/t99e4-7ja0a-t99e4-7ja1a.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ea16d9324708" available="true">
+          <name>Infiniti QX80 2024- Дефлекторы ветровики окон с молдингом</name>
+          <categoryId>99000105</categoryId>
+          <price>78400</price>
+          <picture>https://agstuning.ru/assets/images/products/284969/bffd.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-275689cc4958" available="true">
+          <name>QX80 2018- Колпачки на нипель</name>
+          <categoryId>9718494</categoryId>
+          <price>13608</price>
+          <picture>https://agstuning.ru/assets/images/products/225584/untitled-6.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-38f68b738486" available="true">
+          <name>QX80 2018- Колпачок для диска</name>
+          <categoryId>9718494</categoryId>
+          <price>24496</price>
+          <picture>https://agstuning.ru/assets/images/products/225525/untitled-12.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b3f4183ffcd8" available="true">
+          <name>Infiniti QX80 2018-2024 Доводчики дверей, комплект на 4 двери</name>
+          <categoryId>9718494</categoryId>
+          <price>194000</price>
+          <picture>https://agstuning.ru/assets/images/products/281281/dovodchiki-dverei-prisoskri-dveri.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-18b7ffcd7df8" available="true">
+          <name>QX80 2018- Накладки на пороги, передние с подсветкой</name>
+          <categoryId>9718494</categoryId>
+          <price>118972</price>
+          <picture>https://agstuning.ru/assets/images/products/225529/untitled-16.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c4d66b0c0083" available="true">
+          <name>QX80 2018- Защитная накладка на задний бампер, нержавеющая сталь</name>
+          <categoryId>9718494</categoryId>
+          <price>174600</price>
+          <picture>https://agstuning.ru/assets/images/products/225527/untitled-14.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b24a27384c7d" available="true">
+          <name>QX80 2018- Защита задняя овальная 75х45 мм</name>
+          <categoryId>9718494</categoryId>
+          <price>124804</price>
+          <picture>https://agstuning.ru/assets/images/products/225546/untitled-36.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f174fe055ce7" available="true">
+          <name>Infiniti QX80 2018- Защита заднего бампера уголки d76 (секции) IQX8Z-003017</name>
+          <categoryId>9718494</categoryId>
+          <price>76984</price>
+          <picture>https://agstuning.ru/assets/images/products/219846/iqx8z-003017.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3e3caf797d89" available="true">
+          <name>Infiniti QX80 2018- Защита заднего бампера d76 секции IQX8Z-003016</name>
+          <categoryId>9718494</categoryId>
+          <price>71928</price>
+          <picture>https://agstuning.ru/assets/images/products/219845/iqx8z-003016.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c195889e167f" available="true">
+          <name>Infiniti QX80 2018- Защита заднего бампера d76 дуга-d42 дуга IQX8Z-003015</name>
+          <categoryId>9718494</categoryId>
+          <price>75040</price>
+          <picture>https://agstuning.ru/assets/images/products/219844/iqx8z-003016.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a57a2e9db966" available="true">
+          <name>Infiniti QX80 2018- Защита заднего бампера d76 дуга IQX8Z-003014</name>
+          <categoryId>9718494</categoryId>
+          <price>70760</price>
+          <picture>https://agstuning.ru/assets/images/products/219843/iqx8z-003014.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8bbdcd326f6f" available="true">
+          <name>Infiniti QX80 2018- Защита заднего бампера d75х42 дуга IQX8Z-003013</name>
+          <categoryId>9718494</categoryId>
+          <price>73484</price>
+          <picture>https://agstuning.ru/assets/images/products/219842/iqx8z-003013.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2a6938b3f076" available="true">
+          <name>Infiniti QX80 2018- Защита переднего бампера d76 секции-d42 секции IQX8Z-003010</name>
+          <categoryId>9718494</categoryId>
+          <price>83980</price>
+          <picture>https://agstuning.ru/assets/images/products/219841/iqx8z-003010.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ccd6ebe4b001" available="true">
+          <name>Infiniti QX80 2018- Защита переднего бампера d63 секции-d42 секции IQX8Z-003009</name>
+          <categoryId>9718494</categoryId>
+          <price>82424</price>
+          <picture>https://agstuning.ru/assets/images/products/219840/iqx8z-003009.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-532c07a3f67f" available="true">
+          <name>Infiniti QX80 2018- Защита переднего бампера d76 секции IQX8Z-003008</name>
+          <categoryId>9718494</categoryId>
+          <price>71928</price>
+          <picture>https://agstuning.ru/assets/images/products/219839/iqx8z-003008.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f235f3ec3e4e" available="true">
+          <name>Infiniti QX80 2018- Защита переднего бампера d63 секции IQX8Z-003007</name>
+          <categoryId>9718494</categoryId>
+          <price>69984</price>
+          <picture>https://agstuning.ru/assets/images/products/219838/iqx8z-003007.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a703582e1e9f" available="true">
+          <name>Infiniti QX80 2018- Защита переднего бампера d75х42 дуга IQX8Z-003006</name>
+          <categoryId>9718494</categoryId>
+          <price>66872</price>
+          <picture>https://agstuning.ru/assets/images/products/219837/iqx8z-003006.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-463a729dab12" available="true">
+          <name>Infiniti QX80 2018- Защита порогов d42 (секции) IQX8T-003012</name>
+          <categoryId>9718494</categoryId>
+          <price>69984</price>
+          <picture>https://agstuning.ru/assets/images/products/219836/iqx8t-003012.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-259b39dc0429" available="true">
+          <name>Infiniti QX80 2018- Защита порогов d42 IQX8T-003011</name>
+          <categoryId>9718494</categoryId>
+          <price>73484</price>
+          <picture>https://agstuning.ru/assets/images/products/219835/iqx8t-003011.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-cb28e8d7dd2c" available="true">
+          <name>Карбон-керамические тормоза передние и задние, Tei Racing</name>
+          <categoryId>99000105</categoryId>
+          <price>2776000</price>
+          <picture>https://agstuning.ru/assets/images/products/283240/untitled-1333.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-2fd6e7003572" available="true">
+          <name>QX80 2018- Защита бака, алюминий 4 мм</name>
+          <categoryId>9718494</categoryId>
+          <price>55600</price>
+          <picture>https://agstuning.ru/assets/images/products/225555/untitled-44.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bd70861aebc1" available="true">
+          <name>QX80 2018- Защита раздатки, алюминий 4 мм</name>
+          <categoryId>9718494</categoryId>
+          <price>26828</price>
+          <picture>https://agstuning.ru/assets/images/products/225553/untitled-43.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4e5d1b3ed94a" available="true">
+          <name>QX80 2018- Защита картера, алюминий 4 мм</name>
+          <categoryId>9718494</categoryId>
+          <price>24496</price>
+          <picture>https://agstuning.ru/assets/images/products/225551/untitled-41.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3e246cf84a72" available="true">
+          <name>QX80 2018- Защита радиатора, алюминий 4 мм</name>
+          <categoryId>9718494</categoryId>
+          <price>33824</price>
+          <picture>https://agstuning.ru/assets/images/products/225550/untitled-40.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-56c62de4abe9" available="true">
+          <name>QX80 2018- Накладки на кнопки стеклоподъемников, черный глянец</name>
+          <categoryId>9718494</categoryId>
+          <price>29700</price>
+          <picture>https://agstuning.ru/assets/images/products/244116/untitled-38.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b826056439e5" available="true">
+          <name>QX80 2018- Органайзер в багажник</name>
+          <categoryId>9718494</categoryId>
+          <price>84368</price>
+          <picture>https://agstuning.ru/assets/images/products/225530/untitled-17.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8bf4af9c7b2b" available="true">
+          <name>QX80 2018- Коврик багажника, резина, бежевый</name>
+          <categoryId>9718494</categoryId>
+          <price>94480</price>
+          <picture>https://agstuning.ru/assets/images/products/235862/untitled-2.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a5a342ad9193" available="true">
+          <name>QX80 2018- Коврик в багажник, с 3-им рядом сидений</name>
+          <categoryId>9718494</categoryId>
+          <price>47432</price>
+          <picture>https://agstuning.ru/assets/images/products/225583/untitled-5.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-989312783814" available="true">
+          <name>QX80 2018- Центральный коврик 3-ого ряда, велюр</name>
+          <categoryId>9718494</categoryId>
+          <price>69596</price>
+          <picture>https://agstuning.ru/assets/images/products/225582/untitled-4.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-84cc7785a17d" available="true">
+          <name>QX80 2018- Коврик 3-ого ряда, велюр, черный</name>
+          <categoryId>9718494</categoryId>
+          <price>91368</price>
+          <picture>https://agstuning.ru/assets/images/products/225581/untitled-3.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f5b46e2d3207" available="true">
+          <name>QX80 2018- Коврики переднего и заднего ряда сидений,  черные</name>
+          <categoryId>9718494</categoryId>
+          <price>156588</price>
+          <picture>https://agstuning.ru/assets/images/products/225575/untitled-66.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-fb6c52921a73" available="true">
+          <name>QX80 2018- Коврики переднего и заднего ряда сидений, серые</name>
+          <categoryId>9718494</categoryId>
+          <price>156588</price>
+          <picture>https://agstuning.ru/assets/images/products/225574/untitled-64.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-72c43516efef" available="true">
+          <name>QX80 2018- Коврики переднего и заднего ряда сидений, какао</name>
+          <categoryId>9718494</categoryId>
+          <price>156588</price>
+          <picture>https://agstuning.ru/assets/images/products/225573/untitled-62.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d1b6305d960a" available="true">
+          <name>QX80 2018- Коврики переднего и заднего ряда сидений, бежевые</name>
+          <categoryId>9718494</categoryId>
+          <price>156588</price>
+          <picture>https://agstuning.ru/assets/images/products/225572/untitled-60.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5fae527fc979" available="true">
+          <name>QX80 2018- Коврик раздельный для третьего ряда сидений, черный</name>
+          <categoryId>9718494</categoryId>
+          <price>59876</price>
+          <picture>https://agstuning.ru/assets/images/products/225571/untitled-59.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4e861e27771d" available="true">
+          <name>QX80 2018- Коврик в багажник, черный, резиновый, c 3-им рядом сидений</name>
+          <categoryId>9718494</categoryId>
+          <price>55988</price>
+          <picture>https://agstuning.ru/assets/images/products/225563/untitled-52.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-fac984d87b47" available="true">
+          <name>QX80 2018- Коврик в багажник, черный, резиновый</name>
+          <categoryId>9718494</categoryId>
+          <price>79316</price>
+          <picture>https://agstuning.ru/assets/images/products/225562/untitled-51.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a182a479cd48" available="true">
+          <name>QX80 2018- Коврик в багажник, серый, резиновый, c 3-им рядом сидений</name>
+          <categoryId>9718494</categoryId>
+          <price>55988</price>
+          <picture>https://agstuning.ru/assets/images/products/225561/untitled-50.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1e3440775d13" available="true">
+          <name>QX80 2018- Коврик в багажник, серый, резиновый</name>
+          <categoryId>9718494</categoryId>
+          <price>79316</price>
+          <picture>https://agstuning.ru/assets/images/products/225560/untitled-49.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5b27a7594a86" available="true">
+          <name>QX80 2018- Коврик в багажник, какао, резиновый, c 3-им рядом сидений</name>
+          <categoryId>9718494</categoryId>
+          <price>55988</price>
+          <picture>https://agstuning.ru/assets/images/products/225559/untitled-48.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e6db5d9da4e7" available="true">
+          <name>QX80 2018- Коврик в багажник, какао, резиновый</name>
+          <categoryId>9718494</categoryId>
+          <price>79316</price>
+          <picture>https://agstuning.ru/assets/images/products/225558/untitled-47.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-cd1344c5dffc" available="true">
+          <name>QX80 2018- Коврик в багажник, бежевый, резиновый, с 3-им рядом сидений</name>
+          <categoryId>9718494</categoryId>
+          <price>55988</price>
+          <picture>https://agstuning.ru/assets/images/products/225557/untitled-46.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b96a99c58820" available="true">
+          <name>QX80 2018- Коврик в багажник, бежевый, резиновый</name>
+          <categoryId>9718494</categoryId>
+          <price>79316</price>
+          <picture>https://agstuning.ru/assets/images/products/225556/untitled-45.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6b640442cc0f" available="true">
+          <name>QX80 2018- Коврик багажника короткий, полиуретан</name>
+          <categoryId>9718494</categoryId>
+          <price>12500</price>
+          <picture>https://agstuning.ru/assets/images/products/225524/untitled-11.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1b9120a7eb99" available="true">
+          <name>QX80 2018- Коврик багажника, резина</name>
+          <categoryId>9718494</categoryId>
+          <price>128000</price>
+          <picture>https://agstuning.ru/assets/images/products/225523/untitled-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7f21c9e352ba" available="true">
+          <name>QX80 2018- Поперечины багажника</name>
+          <categoryId>9718494</categoryId>
+          <price>225892</price>
+          <picture>https://agstuning.ru/assets/images/products/225531/untitled-18.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-965beb84dc3f" available="true">
+          <name>QX80 2018- Решетка радиатора, лист</name>
+          <categoryId>9718494</categoryId>
+          <price>37324</price>
+          <picture>https://agstuning.ru/assets/images/products/225542/untitled-33.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-296e31d26267" available="true">
+          <name>QX80 2018- Решетка радиатора лист, без круиз контроля</name>
+          <categoryId>9718494</categoryId>
+          <price>55988</price>
+          <picture>https://agstuning.ru/assets/images/products/225541/untitled-29.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4d7355be7f35" available="true">
+          <name>QX80 2018- Решетка радиатора 12 мм без круиз контроля</name>
+          <categoryId>9718494</categoryId>
+          <price>68428</price>
+          <picture>https://agstuning.ru/assets/images/products/225537/untitled-32.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-fe76615ef94c" available="true">
+          <name>QX80 2018- Радиаторная решетка штатная</name>
+          <categoryId>9718494</categoryId>
+          <price>111976</price>
+          <picture>https://agstuning.ru/assets/images/products/225532/untitled-19.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6a238c4a3dc7" available="true">
+          <name>QX80 2018 2019 Сетка в решетку, черная, E&amp;G Classics</name>
+          <categoryId>9718494</categoryId>
+          <price>195956</price>
+          <picture>https://agstuning.ru/assets/images/products/221303/1365-b010u-18h.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-65809f8545f7" available="true">
+          <name>QX80 2018 2019 Сетка в решетку, хром, E&amp;G Classics</name>
+          <categoryId>9718494</categoryId>
+          <price>195956</price>
+          <picture>https://agstuning.ru/assets/images/products/221302/1365-010u-18hc.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-092b5d0406ae" available="true">
+          <name>QX80 2018- Сетка багажника</name>
+          <categoryId>9718494</categoryId>
+          <price>13608</price>
+          <picture>https://agstuning.ru/assets/images/products/225534/untitled-21.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3ba8161216a9" available="true">
+          <name>QX80 2018- Фаркоп, крюк быстросъемный</name>
+          <categoryId>9718494</categoryId>
+          <price>125000</price>
+          <picture>https://agstuning.ru/assets/images/products/225535/untitled-22.jpg</picture>
+          <description></description>
+        </offer>
+    </offers>
+  </shop>
+</yml_catalog>
