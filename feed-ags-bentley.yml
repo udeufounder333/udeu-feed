@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-12 05:20:20">
+  <shop>
+    <name>Údeu v2 · bentley</name>
+    <categories>
+      <category id="9716999">Bentayga (2015-2020)</category>
+      <category id="9717001">Continental GT / Flying Spur</category>
+    </categories>
+    <offers>
+        <offer id="ags-60b046126f42" available="true">
+          <name>Рамки номеров карбон</name>
+          <categoryId>9716999</categoryId>
+          <price>98000</price>
+          <picture>https://agstuning.ru/assets/images/products/220561/ramki-carbon-12.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7fe384f65c4f" available="true">
+          <name>Bentayga Колпачки на нипели</name>
+          <categoryId>9716999</categoryId>
+          <price>37712</price>
+          <picture>https://agstuning.ru/assets/images/products/220583/3w0601367.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1a475ddc5be0" available="true">
+          <name>Bentayga Накладки на зеркала карбон</name>
+          <categoryId>9716999</categoryId>
+          <price>283432</price>
+          <picture>https://agstuning.ru/assets/images/products/220557/bentayga-karbon-2.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b4d6a719c23b" available="true">
+          <name>Bentayga Решетки на крылья карбон</name>
+          <categoryId>9716999</categoryId>
+          <price>150464</price>
+          <picture>https://agstuning.ru/assets/images/products/220563/bentayga-karbon-233473.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5509020930be" available="true">
+          <name>Bentayga Накладки на передний бампер карбон</name>
+          <categoryId>9716999</categoryId>
+          <price>491440</price>
+          <picture>https://agstuning.ru/assets/images/products/220558/untitled-14.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9c5171e8373f" available="true">
+          <name>Bentayga Ковры салона бежевые, Weathertech</name>
+          <categoryId>9716999</categoryId>
+          <price>169128</price>
+          <picture>https://agstuning.ru/assets/images/products/221295/44887-1-4.2.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ed0a0ffaf206" available="true">
+          <name>Bentayga Ковры салона коричневые, Weathertech</name>
+          <categoryId>9716999</categoryId>
+          <price>169128</price>
+          <picture>https://agstuning.ru/assets/images/products/221294/44887-1-4.1.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-84c8db40ef96" available="true">
+          <name>Bentayga Ковры салона серые, Weathertech</name>
+          <categoryId>9716999</categoryId>
+          <price>169128</price>
+          <picture>https://agstuning.ru/assets/images/products/221293/463611-462862.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-832de338331d" available="true">
+          <name>Bentayga Ковры салона черные, Weathertech</name>
+          <categoryId>9716999</categoryId>
+          <price>169128</price>
+          <picture>https://agstuning.ru/assets/images/products/221292/44887-1-4.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6ac4cff78180" available="true">
+          <name>Bentayga 2020- Карбоновые детали в стиле Mansory</name>
+          <categoryId>9716999</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/284001/untitled-41.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-04f2e0e5ef2e" available="true">
+          <name>Bentayga 2020- Карбоновый капот</name>
+          <categoryId>9716999</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/283825/untitled-14.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c823ccf33f1b" available="true">
+          <name>Bentayga 2020- Карбоновые детали</name>
+          <categoryId>9716999</categoryId>
+          <price>2314400</price>
+          <picture>https://agstuning.ru/assets/images/products/282559/untitled-15.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6092825447f9" available="true">
+          <name>Bentayga W12 2015-2020 Карбоновые детали</name>
+          <categoryId>9716999</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/282479/untitled-37.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-23c73cf71687" available="true">
+          <name>Bentayga Диффузор задний карбон</name>
+          <categoryId>9716999</categoryId>
+          <price>896184</price>
+          <picture>https://agstuning.ru/assets/images/products/220560/bentayga-karbon-2334.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a0e41eaa72fb" available="true">
+          <name>Bentayga Спойлер под передний бампер карбон</name>
+          <categoryId>9716999</categoryId>
+          <price>786540</price>
+          <picture>https://agstuning.ru/assets/images/products/220559/untitled-15.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-427fd02165e1" available="true">
+          <name>Bentayga Пороги электрические</name>
+          <categoryId>9716999</categoryId>
+          <price>508000</price>
+          <picture>https://agstuning.ru/assets/images/products/282281/screenshot-2025-08-06-at-19-17-41.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d6e6feafbe7c" available="true">
+          <name>Bentayga Пороги электрические с подсветкой</name>
+          <categoryId>9716999</categoryId>
+          <price>356000</price>
+          <picture>https://agstuning.ru/assets/images/products/278584/45365.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-78358e0f6b52" available="true">
+          <name>Continental GT 16-18 Накладки на вентиляцию в передних крыльях по бокам, черные, 2 штуки</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/248329/untitled-23.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-1c1b6fc96ac0" available="true">
+          <name>Bentley Continental GT Окантовка передних отражателей</name>
+          <categoryId>9717001</categoryId>
+          <price>32000</price>
+          <picture>https://agstuning.ru/assets/images/products/15338/15338.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6720a83f7d74" available="true">
+          <name>Continental GT 2015-2017 Карбоновые накладки на передний бампер</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/284625/ds.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-825da3d93a15" available="true">
+          <name>Continental GT 2015-2017 Карбоновые детали</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/282478/untitled-34.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9e80698c881a" available="true">
+          <name>Continental GT 2011-2015 Карбоновые детали</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/282477/untitled-31.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ea3f3c1e93c8" available="true">
+          <name>Continental GT 2018- Спойлер переднего бампер</name>
+          <categoryId>9717001</categoryId>
+          <price>276588</price>
+          <picture>https://agstuning.ru/assets/images/products/274618/ags-tuning-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-31a66b7d2a6e" available="true">
+          <name>Continental GT 2018- Диффузор заднего бампера</name>
+          <categoryId>9717001</categoryId>
+          <price>273780</price>
+          <picture>https://agstuning.ru/assets/images/products/274617/ags-tuning-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-29303014f209" available="true">
+          <name>Continental GT 2018- Карбоновый обвес</name>
+          <categoryId>9717001</categoryId>
+          <price>1029600</price>
+          <picture>https://agstuning.ru/assets/images/products/273602/untitled-1.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-10e1da5d396d" available="true">
+          <name>Continental GT II V8 14-16 Спойлер переднего бампера V3, черный</name>
+          <categoryId>9717001</categoryId>
+          <price>94500</price>
+          <picture>https://agstuning.ru/assets/images/products/262407/untitled-113.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-192a6c4699d2" available="true">
+          <name>Continental GT II V8 14-16 Спойлер переднего бампера V2, черный</name>
+          <categoryId>9717001</categoryId>
+          <price>94500</price>
+          <picture>https://agstuning.ru/assets/images/products/262406/untitled-108.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3bed200a17c0" available="true">
+          <name>Continental GT II V8 14-16 Диффузор заднего бампера V2, черный</name>
+          <categoryId>9717001</categoryId>
+          <price>124500</price>
+          <picture>https://agstuning.ru/assets/images/products/262405/untitled-107.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-79b1cc1df8c6" available="true">
+          <name>Continental GT 2012-2015 Рестайлинг в 2016 год</name>
+          <categoryId>9717001</categoryId>
+          <price>2552000</price>
+          <picture>https://agstuning.ru/assets/images/products/260035/untitled-1.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-a208e6df400b" available="true">
+          <name>Continental GT 12-18 Комплект обвеса, стиль SUPERSPORT, под покрас с карбоном</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/248340/untitled-48.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3521c36e5bc6" available="true">
+          <name>Continental GT 12-15 Передний бампер с черными решетками V2, под покрас</name>
+          <categoryId>9717001</categoryId>
+          <price>384000</price>
+          <picture>https://agstuning.ru/assets/images/products/248333/untitled-30.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-dac297ad20b4" available="true">
+          <name>Continental GT 16-18 Передний бампер под покрас, комплект с черными решетками</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/248330/untitled-27.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-505b281d015f" available="true">
+          <name>Continental GT 12-15 Передний бампер, под покрас</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/248318/untitled-81.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-489bc69cf316" available="true">
+          <name>Continental GT 2018- Передний бампер под оригинал, под покрас</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/248315/untitled-71.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-cbd81082ad43" available="true">
+          <name>Continental GT I 09-12 Спойлер переднего бампера, черный</name>
+          <categoryId>9717001</categoryId>
+          <price>103032</price>
+          <picture>https://agstuning.ru/assets/images/products/235880/untitled-67.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f200f7a3bec6" available="true">
+          <name>Continental GT I 09-12 Сплиттеры на задний бампер по бокам, черные, 2 штуки</name>
+          <categoryId>9717001</categoryId>
+          <price>56764</price>
+          <picture>https://agstuning.ru/assets/images/products/235879/untitled-63.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-e58c67cea728" available="true">
+          <name>Continental GT I 09-12 Диффузор заднего бампера, черный</name>
+          <categoryId>9717001</categoryId>
+          <price>92532</price>
+          <picture>https://agstuning.ru/assets/images/products/235876/untitled-50.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bfa681646b35" available="true">
+          <name>WALD Black Bison Sports Line Aerokit для BENTLEY Continental GT [Реплика]</name>
+          <categoryId>9717001</categoryId>
+          <price>1356800</price>
+          <picture>https://agstuning.ru/assets/images/products/9092/9092.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-558f6b40feef" available="true">
+          <name>Bentley Continental Проставки колесных дисков H&amp;R 2 шт. Толщина 30мм</name>
+          <categoryId>9717001</categoryId>
+          <price>166204</price>
+          <picture>https://agstuning.ru/assets/images/products/28001/28001.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3762124e0487" available="true">
+          <name>Bentley Continental Проставки колесных дисков H&amp;R 2 шт. Толщина 25мм</name>
+          <categoryId>9717001</categoryId>
+          <price>129348</price>
+          <picture>https://agstuning.ru/assets/images/products/28000/28000.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-7c7f88f8b6e0" available="true">
+          <name>Bentley Continental Проставки колесных дисков H&amp;R 2 шт. Толщина 20мм</name>
+          <categoryId>9717001</categoryId>
+          <price>118404</price>
+          <picture>https://agstuning.ru/assets/images/products/27999/27999.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-f13977b9fa96" available="true">
+          <name>Bentley Continental Проставки колесных дисков H&amp;R 2 шт. Толщина 15мм</name>
+          <categoryId>9717001</categoryId>
+          <price>111440</price>
+          <picture>https://agstuning.ru/assets/images/products/27998/27998.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-055521fb0a8e" available="true">
+          <name>Bentley Continental Проставки колесных дисков H&amp;R 2 шт. Толщина 5мм</name>
+          <categoryId>9717001</categoryId>
+          <price>79600</price>
+          <picture>https://agstuning.ru/assets/images/products/27996/27996.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-8298c2ecfa11" available="true">
+          <name>Continental GT 2012-2018 Фонари темные комплект</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/280967/untitled-34.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3b99f13bfb1f" available="true">
+          <name>Continental GT 2012-2018 Оптика черная комплект</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/280965/untitled-32.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-fc290ebf7839" available="true">
+          <name>Bentayga Спойлер карбон в стиле Mansory</name>
+          <categoryId>9716999</categoryId>
+          <price>475000</price>
+          <picture>https://agstuning.ru/assets/images/products/220562/index.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4c940e328413" available="true">
+          <name>Карбон-керамические тормоза передние и задние, Tei Racing</name>
+          <categoryId>9716999</categoryId>
+          <price>2776000</price>
+          <picture>https://agstuning.ru/assets/images/products/283147/untitled-1.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d4a03dfda8ef" available="true">
+          <name>Bentley Bentayga Чехол кузова, оригинал</name>
+          <categoryId>9716999</categoryId>
+          <price>512000</price>
+          <picture>https://agstuning.ru/assets/images/products/283659/sd.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4a7917136761" available="true">
+          <name>Continental GT 2018- Спойлер карбоновый V2</name>
+          <categoryId>9717001</categoryId>
+          <price>258000</price>
+          <picture>https://agstuning.ru/assets/images/products/285198/screenshot-2026-04-17-at-11-54-09-whatsapp.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-842c828f4177" available="true">
+          <name>Continental GT 2018- Спойлер карбоновый</name>
+          <categoryId>9717001</categoryId>
+          <price>154400</price>
+          <picture>https://agstuning.ru/assets/images/products/285197/screenshot-2026-04-17-at-11-54-58-whatsapp.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-4214444fed8e" available="true">
+          <name>Continental GT 2018- Спойлер на крышку багажника черный</name>
+          <categoryId>9717001</categoryId>
+          <price>128700</price>
+          <picture>https://agstuning.ru/assets/images/products/274619/ags-tuning-10.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5db1c72bcc3f" available="true">
+          <name>Continental GT II 14-16 Спойлер на крышку багажника V2, черный</name>
+          <categoryId>9717001</categoryId>
+          <price>114500</price>
+          <picture>https://agstuning.ru/assets/images/products/262408/untitled-118.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b4d3df965e13" available="true">
+          <name>Continental Coupe GT 12-17 Спойлер на крышку багажника, карбон</name>
+          <categoryId>9717001</categoryId>
+          <price>214228</price>
+          <picture>https://agstuning.ru/assets/images/products/240796/untitled-70.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c9eb63252a05" available="true">
+          <name>Continental Coupe 12-17 Спойлер на крышку багажника V2, карбон</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/240789/untitled-46.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b6ac5d6e7194" available="true">
+          <name>Continental GT I 09-12 Спойлер на крышку багажника, черный</name>
+          <categoryId>9717001</categoryId>
+          <price>89032</price>
+          <picture>https://agstuning.ru/assets/images/products/235877/untitled-54.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-bea4c3964aa2" available="true">
+          <name>Bentley Continental GT Спойлер в стиле ASI</name>
+          <categoryId>9717001</categoryId>
+          <price>192000</price>
+          <picture>https://agstuning.ru/assets/images/products/14331/14331.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b54eff032c39" available="true">
+          <name>Bentley Continental GT Спойлер в стиле Wald</name>
+          <categoryId>9717001</categoryId>
+          <price>192000</price>
+          <picture>https://agstuning.ru/assets/images/products/14330/14330.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-9573e52ef6a0" available="true">
+          <name>Continental GT 2018- Решетки в стиле Mulliner</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/279728/photo-2023-09-19-10-57-24.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-c672824d9f5c" available="true">
+          <name>Continental GT 16-18 Радиаторная решетка верхняя, сетка черная, окантовка под покрас, части</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/248327/untitled-38.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-287514e546bf" available="true">
+          <name>Continental GT 2018- Радиаторные решетки, черные, комплект, 7 частей</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/248316/untitled-74.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-94c42b9f91d5" available="true">
+          <name>Bentley Continental Колодки тормозные передние</name>
+          <categoryId>9717001</categoryId>
+          <price>163200</price>
+          <picture>https://agstuning.ru/assets/images/products/27030/27030.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-5d72e85799c3" available="true">
+          <name>Bentley Continental Диск тормозной задний</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/27023/27023.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-305bd76dca60" available="true">
+          <name>Bentley Continental  Диск тормозной передний оригинал</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/27022/27022.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-ebe10348f3ba" available="true">
+          <name>Bentley Continental Фильтры салонные комплект оригинал</name>
+          <categoryId>9717001</categoryId>
+          <price>51200</price>
+          <picture>https://agstuning.ru/assets/images/products/27045/27045.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-577280a0c24a" available="true">
+          <name>Bentley Continental Фильтры воздушные комплект 2шт</name>
+          <categoryId>9717001</categoryId>
+          <price>102400</price>
+          <picture>https://agstuning.ru/assets/images/products/27021/27021.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-b1a15be796e9" available="true">
+          <name>Flying Spur 2019-2023 Карбоновые детали</name>
+          <categoryId>9717001</categoryId>
+          <price>996000</price>
+          <picture>https://agstuning.ru/assets/images/products/282476/untitled-29.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-6deccbf23265" available="true">
+          <name>Flying Spur 10-12 Передний бампер с черными решетками, под покрас</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/248337/untitled-42.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-d203d9d9b65c" available="true">
+          <name>Flying Spur 14-19 Задний бампер с диффузором под оригинал, под покрас</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/248336/untitled-39.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-eb04182854f1" available="true">
+          <name>Continental Flying Spur 10-12 Бампер задний с диффузором, под оригинал, под покрас</name>
+          <categoryId>9717001</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/248320/untitled-84.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-0b6a3f0e551d" available="true">
+          <name>Bentley Continental FLYING SPUR Комплект нижних решеток</name>
+          <categoryId>9717001</categoryId>
+          <price>244100</price>
+          <picture>https://agstuning.ru/assets/images/products/15340/15340.jpg</picture>
+          <description></description>
+        </offer>
+    </offers>
+  </shop>
+</yml_catalog>

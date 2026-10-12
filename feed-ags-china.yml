@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="2026-10-11 09:15"><shop><name>AGS Tuning China</name><company>AGS</company><url>https://agstuning.ru</url><currencies><currency id="KZT" rate="1"/></currencies><categories>
-<category id="98000001" brand="aito">Aito</category>
 <category id="98000007" brand="avatr">Avatr</category>
 <category id="98000011" brand="baic">BAIC</category>
 <category id="98000015" brand="baojun">Baojun</category>
 <category id="98000017" brand="baw">BAW</category>
-<category id="98000019" brand="byd">BYD</category>
-<category id="98000037" brand="changan">Changan</category>
-<category id="98000046" brand="chery">Chery</category>
-<category id="98000049" brand="denza">Denza</category>
 <category id="98000056" brand="dongfeng">Dongfeng</category>
 <category id="98000061" brand="faw">FAW</category>
-<category id="98000064" brand="gac">GAC</category>
-<category id="98000070" brand="geely">Geely</category>
-<category id="98000077" brand="haval">Haval</category>
 <category id="98000083" brand="hiphi">HiPhi</category>
-<category id="98000085" brand="hongqi">Hongqi</category>
 <category id="98000091" brand="icar">iCar</category>
 <category id="98000096" brand="jmc">JMC</category>
 <category id="98000098" brand="leapmotor">Leapmotor</category>
-<category id="98000106" brand="lixiang">Lixiang</category>
 <category id="98000110" brand="luxeed">Luxeed</category>
-<category id="98000114" brand="lynkco">Lynk &amp; Co</category>
 <category id="98000124" brand="maextro">Maextro</category>
 <category id="98000126" brand="maxus">Maxus</category>
 <category id="98000128" brand="mg">MG</category>
@@ -30,16 +19,14 @@
 <category id="98000137" brand="roewe">Roewe</category>
 <category id="98000140" brand="rox">Rox</category>
 <category id="98000142" brand="stelato">Stelato</category>
-<category id="98000145" brand="voyah">Voyah</category>
 <category id="98000151" brand="wey">WEY</category>
 <category id="98000157" brand="xiaomi">Xiaomi</category>
 <category id="98000162" brand="xpeng">Xpeng</category>
-<category id="98000170" brand="zeekr">Zeekr</category>
-<category id="98000002" brand="aito" parentId="98000001">M5 (2022-н.в.)</category>
-<category id="98000003" brand="aito" parentId="98000001">M6 (2026-н.в.)</category>
-<category id="98000004" brand="aito" parentId="98000001">M7 (2022-н.в.)</category>
-<category id="98000005" brand="aito" parentId="98000001">M7 (2025-н.в.)</category>
-<category id="98000006" brand="aito" parentId="98000001">M8 (2025-н.в.)</category>
+<category id="98000002" brand="aito">M5 (2022-н.в.)</category>
+<category id="98000003" brand="aito">M6 (2026-н.в.)</category>
+<category id="98000004" brand="aito">M7 (2022-н.в.)</category>
+<category id="98000005" brand="aito">M7 (2025-н.в.)</category>
+<category id="98000006" brand="aito">M8 (2025-н.в.)</category>
 <category id="9716994" brand="aito">M9 2025-</category>
 <category id="98000008" brand="avatr" parentId="98000007">07 (2024-н.в.)</category>
 <category id="98000009" brand="avatr" parentId="98000007">11 (2022-н.в.)</category>
@@ -49,50 +36,50 @@
 <category id="98000014" brand="baic" parentId="98000011">Changhe Q7 (2017-н.в.)</category>
 <category id="98000016" brand="baojun" parentId="98000015">RS-5 (2019-н.в.)</category>
 <category id="98000018" brand="baw" parentId="98000017">212 T01</category>
-<category id="98000020" brand="byd" parentId="98000019">Datang (2026-н.в.)</category>
-<category id="98000021" brand="byd" parentId="98000019">Han</category>
-<category id="98000022" brand="byd" parentId="98000019">Han L (2025-н.в.)</category>
-<category id="98000023" brand="byd" parentId="98000019">Leopard 5 (2024-н.в.)</category>
-<category id="98000024" brand="byd" parentId="98000019">Leopard 8 (2024-н.в.)</category>
-<category id="98000025" brand="byd" parentId="98000019">Qin (2024-н.в.)</category>
-<category id="98000026" brand="byd" parentId="98000019">Seal 08 (2026-н.в.)</category>
-<category id="98000027" brand="byd" parentId="98000019">Seal (2022-н.в.)</category>
-<category id="98000028" brand="byd" parentId="98000019">Shark (2025-н.в.)</category>
-<category id="98000029" brand="byd" parentId="98000019">Song Plus (2020-н.в.)</category>
-<category id="98000030" brand="byd" parentId="98000019">Song Pro (2019-н.в.)</category>
-<category id="98000031" brand="byd" parentId="98000019">Song Ultra (2026-н.в.)</category>
-<category id="98000032" brand="byd" parentId="98000019">Tang (2018-н.в.)</category>
-<category id="98000033" brand="byd" parentId="98000019">Tang L (2025-н.в.)</category>
-<category id="98000034" brand="byd" parentId="98000019">Titanium 3 (2025-н.в.)</category>
-<category id="98000035" brand="byd" parentId="98000019">Titanium 7 (2025-н.в.)</category>
-<category id="98000036" brand="byd" parentId="98000019">Yuan Plus (2021-н.в.)</category>
+<category id="98000020" brand="byd">Datang (2026-н.в.)</category>
+<category id="98000021" brand="byd">Han</category>
+<category id="98000022" brand="byd">Han L (2025-н.в.)</category>
+<category id="98000023" brand="byd">Leopard 5 (2024-н.в.)</category>
+<category id="98000024" brand="byd">Leopard 8 (2024-н.в.)</category>
+<category id="98000025" brand="byd">Qin (2024-н.в.)</category>
+<category id="98000026" brand="byd">Seal 08 (2026-н.в.)</category>
+<category id="98000027" brand="byd">Seal (2022-н.в.)</category>
+<category id="98000028" brand="byd">Shark (2025-н.в.)</category>
+<category id="98000029" brand="byd">Song Plus (2020-н.в.)</category>
+<category id="98000030" brand="byd">Song Pro (2019-н.в.)</category>
+<category id="98000031" brand="byd">Song Ultra (2026-н.в.)</category>
+<category id="98000032" brand="byd">Tang (2018-н.в.)</category>
+<category id="98000033" brand="byd">Tang L (2025-н.в.)</category>
+<category id="98000034" brand="byd">Titanium 3 (2025-н.в.)</category>
+<category id="98000035" brand="byd">Titanium 7 (2025-н.в.)</category>
+<category id="98000036" brand="byd">Yuan Plus (2021-н.в.)</category>
 <category id="9717092" brand="changan">CS55 Plus (2023-)</category>
-<category id="98000038" brand="changan" parentId="98000037">CS75 Plus (2019-2021)</category>
+<category id="98000038" brand="changan">CS75 Plus (2019-2021)</category>
 <category id="9717094" brand="changan">CS75 Plus (2023-)</category>
-<category id="98000039" brand="changan" parentId="98000037">CS85 (2019-н.в.)</category>
+<category id="98000039" brand="changan">CS85 (2019-н.в.)</category>
 <category id="9717095" brand="changan">CS95 (2019-2023)</category>
-<category id="98000040" brand="changan" parentId="98000037">Deepal G318 (2024-н.в.)</category>
-<category id="98000041" brand="changan" parentId="98000037">Deepal L07 (2024-н.в.)</category>
-<category id="98000042" brand="changan" parentId="98000037">Deepal S05 (2024-н.в.)</category>
-<category id="98000043" brand="changan" parentId="98000037">Deepal S07 (2023-н.в.)</category>
-<category id="98000044" brand="changan" parentId="98000037">Deepal S09 (2025-н.в.)</category>
+<category id="98000040" brand="changan">Deepal G318 (2024-н.в.)</category>
+<category id="98000041" brand="changan">Deepal L07 (2024-н.в.)</category>
+<category id="98000042" brand="changan">Deepal S05 (2024-н.в.)</category>
+<category id="98000043" brand="changan">Deepal S07 (2023-н.в.)</category>
+<category id="98000044" brand="changan">Deepal S09 (2025-н.в.)</category>
 <category id="9717097" brand="changan">UNI-K</category>
-<category id="98000045" brand="changan" parentId="98000037">UNI-S</category>
+<category id="98000045" brand="changan">UNI-S</category>
 <category id="9717098" brand="changan">UNI-T</category>
 <category id="9717099" brand="changan">UNI-V</category>
 <category id="9717102" brand="chery">Arrizo 8 (2022-н.в.)</category>
-<category id="98000047" brand="chery" parentId="98000046">Tiggo 7 Plus (2021-н.в.)</category>
+<category id="98000047" brand="chery">Tiggo 7 Plus (2021-н.в.)</category>
 <category id="9717104" brand="chery">Tiggo 7 Pro (2020-2023)</category>
-<category id="98000048" brand="chery" parentId="98000046">Tiggo 7 Pro Max (2022-н.в.)</category>
+<category id="98000048" brand="chery">Tiggo 7 Pro Max (2022-н.в.)</category>
 <category id="9717105" brand="chery">Tiggo 8 (2020-н.в.)</category>
 <category id="9717106" brand="chery">Tiggo 8 pro (2021-2023)</category>
-<category id="98000050" brand="denza" parentId="98000049">D9 (2022-н.в.)</category>
-<category id="98000051" brand="denza" parentId="98000049">N7 (2023-н.в.)</category>
-<category id="98000052" brand="denza" parentId="98000049">N8 (2023-н.в.)</category>
-<category id="98000053" brand="denza" parentId="98000049">N8L (2025-н.в.)</category>
+<category id="98000050" brand="denza">D9 (2022-н.в.)</category>
+<category id="98000051" brand="denza">N7 (2023-н.в.)</category>
+<category id="98000052" brand="denza">N8 (2023-н.в.)</category>
+<category id="98000053" brand="denza">N8L (2025-н.в.)</category>
 <category id="9717144" brand="denza">N9 (2024-н.в.)</category>
-<category id="98000054" brand="denza" parentId="98000049">X (2020-н.в.)</category>
-<category id="98000055" brand="denza" parentId="98000049">Z9 (2024-н.в.)</category>
+<category id="98000054" brand="denza">X (2020-н.в.)</category>
+<category id="98000055" brand="denza">Z9 (2024-н.в.)</category>
 <category id="98000057" brand="dongfeng" parentId="98000056">DF6 (2022-н.в.)</category>
 <category id="98000059" brand="dongfeng" parentId="98000056">Rich 7 (2022-н.в.)</category>
 <category id="9717166" brand="exeed">LX (2022-н.в.)</category>
@@ -101,46 +88,46 @@
 <category id="9717169" brand="exeed">VX (2022-н.в.)</category>
 <category id="98000062" brand="faw" parentId="98000061">Bestune T77 (2018-н.в.)</category>
 <category id="98000063" brand="faw" parentId="98000061">Bestune T99 (2019-н.в.)</category>
-<category id="98000065" brand="gac" parentId="98000064">Trumpchi E9 (2023-н.в.)</category>
-<category id="98000066" brand="gac" parentId="98000064">Trumpchi GN8 (2020-н.в.)</category>
-<category id="98000067" brand="gac" parentId="98000064">Trumpchi GS5 (2020-н.в.)</category>
+<category id="98000065" brand="gac">Trumpchi E9 (2023-н.в.)</category>
+<category id="98000066" brand="gac">Trumpchi GN8 (2020-н.в.)</category>
+<category id="98000067" brand="gac">Trumpchi GS5 (2020-н.в.)</category>
 <category id="9718228" brand="gac">GS8 2-поколение (2021-2024)</category>
-<category id="98000068" brand="gac" parentId="98000064">Trumpchi M8 (2020-2022)</category>
-<category id="98000069" brand="gac" parentId="98000064">Trumpchi M8 (2023-н.в.)</category>
+<category id="98000068" brand="gac">Trumpchi M8 (2020-2022)</category>
+<category id="98000069" brand="gac">Trumpchi M8 (2023-н.в.)</category>
 <category id="9718234" brand="geely">Atlas 2-gen (2023-н.в.)</category>
 <category id="9718235" brand="geely">Atlas Pro (2021-н.в.)</category>
 <category id="9718236" brand="geely">Coolray (2019-2023)</category>
-<category id="98000071" brand="geely" parentId="98000070">Galaxy A7 (2025-н.в.)</category>
-<category id="98000072" brand="geely" parentId="98000070">Galaxy L7 (2023-н.в.)</category>
-<category id="98000073" brand="geely" parentId="98000070">Galaxy TT (2026-н.в.)</category>
-<category id="98000074" brand="geely" parentId="98000070">Icon (2019-н.в.)</category>
+<category id="98000071" brand="geely">Galaxy A7 (2025-н.в.)</category>
+<category id="98000072" brand="geely">Galaxy L7 (2023-н.в.)</category>
+<category id="98000073" brand="geely">Galaxy TT (2026-н.в.)</category>
+<category id="98000074" brand="geely">Icon (2019-н.в.)</category>
 <category id="9718247" brand="geely">Monjaro (2023-н.в.)</category>
-<category id="98000075" brand="geely" parentId="98000070">Okavango (2020-н.в.)</category>
+<category id="98000075" brand="geely">Okavango (2020-н.в.)</category>
 <category id="9718248" brand="geely">Tugella (2020-н.в.)</category>
 <category id="9718295" brand="greatwall">Poer KING KONG (2023-н.в.)</category>
 <category id="9718294" brand="greatwall">POER (2021-н.в.)</category>
 <category id="9718321" brand="haval">Dargo (2022-2023)</category>
 <category id="9718322" brand="haval">F7 (2019-2023)</category>
-<category id="98000078" brand="haval" parentId="98000077">H10 (2026-н.в.)</category>
+<category id="98000078" brand="haval">H10 (2026-н.в.)</category>
 <category id="9718325" brand="haval">H3 (2024-н.в.)</category>
 <category id="9718327" brand="haval">H5 2-gen (2023-н.в.)</category>
 <category id="9718328" brand="haval">H6 (2014-2020)</category>
-<category id="98000079" brand="haval" parentId="98000077">H6 (2020-н.в.)</category>
+<category id="98000079" brand="haval">H6 (2020-н.в.)</category>
 <category id="9718330" brand="haval">H9 (2014-2023)</category>
 <category id="9718331" brand="haval">H9 (2024-н.в.)</category>
 <category id="9718332" brand="haval">Jolion (2021-н.в.)</category>
-<category id="98000080" brand="haval" parentId="98000077">M6 (2017-2021)</category>
+<category id="98000080" brand="haval">M6 (2017-2021)</category>
 <category id="9718333" brand="haval">M6 (2023-н.в.)</category>
 <category id="9718334" brand="haval">Raptor (2023-2025)</category>
-<category id="98000081" brand="haval" parentId="98000077">Shenshou (2021-н.в.)</category>
-<category id="98000082" brand="haval" parentId="98000077">Xiaolong Max (2023-н.в.)</category>
+<category id="98000081" brand="haval">Shenshou (2021-н.в.)</category>
+<category id="98000082" brand="haval">Xiaolong Max (2023-н.в.)</category>
 <category id="98000084" brand="hiphi" parentId="98000083">X</category>
-<category id="98000086" brand="hongqi" parentId="98000085">E-HS9 (2020-н.в.)</category>
+<category id="98000086" brand="hongqi">E-HS9 (2020-н.в.)</category>
 <category id="9718388" brand="hongqi">H9 (2020-2023)</category>
-<category id="98000087" brand="hongqi" parentId="98000085">HQ9 (2022-н.в.)</category>
-<category id="98000088" brand="hongqi" parentId="98000085">HS3 (2023-н.в.)</category>
-<category id="98000089" brand="hongqi" parentId="98000085">HS5 (2019-н.в.)</category>
-<category id="98000090" brand="hongqi" parentId="98000085">HS7 (2019-н.в.)</category>
+<category id="98000087" brand="hongqi">HQ9 (2022-н.в.)</category>
+<category id="98000088" brand="hongqi">HS3 (2023-н.в.)</category>
+<category id="98000089" brand="hongqi">HS5 (2019-н.в.)</category>
+<category id="98000090" brand="hongqi">HS7 (2019-н.в.)</category>
 <category id="98000092" brand="icar" parentId="98000091">03 (2023-н.в.)</category>
 <category id="9718510" brand="jac">T6 (2021-н.в.)</category>
 <category id="9718511" brand="jac">Т8 Pro (2023-н.в.)</category>
@@ -157,25 +144,25 @@
 <category id="98000103" brand="leapmotor" parentId="98000098">C11 (2021-н.в.)</category>
 <category id="98000104" brand="leapmotor" parentId="98000098">C16 (2024-н.в.)</category>
 <category id="98000105" brand="leapmotor" parentId="98000098">D19 (2026-н.в.)</category>
-<category id="98000107" brand="lixiang" parentId="98000106">i6 (2025-н.в.)</category>
+<category id="98000107" brand="lixiang">i6 (2025-н.в.)</category>
 <category id="9720026" brand="lixiang">L6 2024-</category>
 <category id="9720027" brand="lixiang">L7</category>
 <category id="9720028" brand="lixiang">L8</category>
 <category id="9720029" brand="lixiang">L9</category>
-<category id="98000108" brand="lixiang" parentId="98000106">Mega (2024-н.в.)</category>
-<category id="98000109" brand="lixiang" parentId="98000106">One (2019-н.в.)</category>
+<category id="98000108" brand="lixiang">Mega (2024-н.в.)</category>
+<category id="98000109" brand="lixiang">One (2019-н.в.)</category>
 <category id="98000111" brand="luxeed" parentId="98000110">R7 (2024-н.в.)</category>
 <category id="98000112" brand="luxeed" parentId="98000110">S7 (2023-н.в.)</category>
 <category id="98000113" brand="luxeed" parentId="98000110">V9 (2026-н.в.)</category>
-<category id="98000115" brand="lynkco" parentId="98000114">01</category>
-<category id="98000116" brand="lynkco" parentId="98000114">02</category>
-<category id="98000117" brand="lynkco" parentId="98000114">03</category>
-<category id="98000118" brand="lynkco" parentId="98000114">04</category>
-<category id="98000119" brand="lynkco" parentId="98000114">05</category>
-<category id="98000120" brand="lynkco" parentId="98000114">06</category>
-<category id="98000121" brand="lynkco" parentId="98000114">07</category>
-<category id="98000122" brand="lynkco" parentId="98000114">08</category>
-<category id="98000123" brand="lynkco" parentId="98000114">09</category>
+<category id="98000115" brand="lynkco">01</category>
+<category id="98000116" brand="lynkco">02</category>
+<category id="98000117" brand="lynkco">03</category>
+<category id="98000118" brand="lynkco">04</category>
+<category id="98000119" brand="lynkco">05</category>
+<category id="98000120" brand="lynkco">06</category>
+<category id="98000121" brand="lynkco">07</category>
+<category id="98000122" brand="lynkco">08</category>
+<category id="98000123" brand="lynkco">09</category>
 <category id="9720031" brand="lynkco">900 (2025-н.в.)</category>
 <category id="98000125" brand="maextro" parentId="98000124">V800 (2026-н.в.)</category>
 <category id="98000127" brand="maxus" parentId="98000126">G90 (2022-н.в.)</category>
@@ -193,13 +180,13 @@
 <category id="9723828" brand="tank">TANK 400</category>
 <category id="9723829" brand="tank">TANK 500</category>
 <category id="9723830" brand="tank">TANK 700</category>
-<category id="98000146" brand="voyah" parentId="98000145">Courage (2024-н.в.)</category>
-<category id="98000147" brand="voyah" parentId="98000145">Dream (2021-н.в.)</category>
+<category id="98000146" brand="voyah">Courage (2024-н.в.)</category>
+<category id="98000147" brand="voyah">Dream (2021-н.в.)</category>
 <category id="9724146" brand="voyah">Free (2021-2023)</category>
 <category id="9724147" brand="voyah">FREE (2024-н.в.) рестайлинг</category>
-<category id="98000148" brand="voyah" parentId="98000145">Passion S (2026-н.в.)</category>
-<category id="98000149" brand="voyah" parentId="98000145">Taishan (2025-н.в.)</category>
-<category id="98000150" brand="voyah" parentId="98000145">Taishan X8 (2026-н.в.)</category>
+<category id="98000148" brand="voyah">Passion S (2026-н.в.)</category>
+<category id="98000149" brand="voyah">Taishan (2025-н.в.)</category>
+<category id="98000150" brand="voyah">Taishan X8 (2026-н.в.)</category>
 <category id="98000152" brand="wey" parentId="98000151">07 (2024-н.в.)</category>
 <category id="98000153" brand="wey" parentId="98000151">80 (2024-н.в.)</category>
 <category id="98000154" brand="wey" parentId="98000151">Lanshan (2023-н.в.)</category>
@@ -218,11 +205,11 @@
 <category id="98000169" brand="xpeng" parentId="98000162">P7 (2025-н.в.)</category>
 <category id="9724186" brand="zeekr">001</category>
 <category id="9724187" brand="zeekr">007 2024-</category>
-<category id="98000171" brand="zeekr" parentId="98000170">009 (2022-н.в.)</category>
-<category id="98000172" brand="zeekr" parentId="98000170">7X (2024-н.в.)</category>
-<category id="98000173" brand="zeekr" parentId="98000170">8X (2026-н.в.)</category>
+<category id="98000171" brand="zeekr">009 (2022-н.в.)</category>
+<category id="98000172" brand="zeekr">7X (2024-н.в.)</category>
+<category id="98000173" brand="zeekr">8X (2026-н.в.)</category>
 <category id="9724188" brand="zeekr">9X (2025-н.в.)</category>
-<category id="98000174" brand="zeekr" parentId="98000170">X (2023-н.в.)</category>
+<category id="98000174" brand="zeekr">X (2023-н.в.)</category>
 </categories><offers>
 <offer id="ags-0902516113fa" available="true"><url>https://agstuning.ru/katalog/Aito/284945-Aito-diski-kovanyie,-R22,-komplekt-4-diska.html</url><price>556000</price><currencyId>KZT</currencyId><categoryId>98000002</categoryId><picture>https://agstuning.ru/assets/images/products/284945/photo-2024-10-25-14-32-23.jpg</picture><name>Aito Диски кованые, R22, комплект 4 диска</name><description></description></offer>
 <offer id="ags-c889b51e23c2" available="true"><url>https://agstuning.ru/katalog/Aito/283757-Aito-M5-2022-diski-kovanyie,-razmeryi-R21-R22.html</url><currencyId>KZT</currencyId><categoryId>98000002</categoryId><picture>https://agstuning.ru/assets/images/products/283757/untitled-4.jpg</picture><name>Aito M5 2022- Диски кованые, размеры R21 R22</name><description></description></offer>

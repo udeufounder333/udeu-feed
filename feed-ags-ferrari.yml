@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-10-12 05:20:20">
+  <shop>
+    <name>Údeu v2 · ferrari</name>
+    <categories>
+      <category id="99000015">Ferrari</category>
+      <category id="99000016" parentId="99000015">Purosangue (2022-н.в.)</category>
+    </categories>
+    <offers>
+        <offer id="ags-584c52beb07d" available="true">
+          <name>Purosangue Карбоновые детали крыльев</name>
+          <categoryId>99000016</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/284445/untitled-2.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-687be114195a" available="true">
+          <name>Purosangue Карбоновые детали подкапотного пространства</name>
+          <categoryId>99000016</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/284444/untitled-6.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-13389d194254" available="true">
+          <name>Purosangue Накладка заднего бампера карбон</name>
+          <categoryId>99000016</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/284442/screenshot-2025-08-07-at-18-04-35-purosangue.jpg</picture>
+          <description></description>
+        </offer>
+        <offer id="ags-3061a6c14cfb" available="true">
+          <name>Purosangue Накладка переднего бампера карбон</name>
+          <categoryId>99000016</categoryId>
+          <picture>https://agstuning.ru/assets/images/products/284441/screenshot-2025-08-07-at-18-04-21-purosangue.jpg</picture>
+          <description></description>
+        </offer>
+    </offers>
+  </shop>
+</yml_catalog>
